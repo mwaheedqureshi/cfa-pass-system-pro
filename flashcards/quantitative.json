@@ -1,0 +1,29 @@
+{
+  "lessonId": "quant-01",
+  "cards": [
+    {
+      "front": "Holding-period return",
+      "back": "(Ending value - Beginning value + Income) / Beginning value"
+    },
+    {
+      "front": "Real return",
+      "back": "(1 + nominal) / (1 + inflation) - 1"
+    },
+    {
+      "front": "Arithmetic mean",
+      "back": "Average one-period return"
+    },
+    {
+      "front": "Geometric mean",
+      "back": "Compound growth rate"
+    },
+    {
+      "front": "Money-weighted return",
+      "back": "IRR affected by investor cash-flow timing"
+    },
+    {
+      "front": "Time-weighted return",
+      "back": "Compounded subperiod returns removing external cash-flow timing"
+    }
+  ]
+}

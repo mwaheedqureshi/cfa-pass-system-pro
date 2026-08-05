@@ -1,0 +1,165 @@
+{
+  "lessonId": "quant-01",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "A share is purchased for 80, pays a dividend of 3, and is sold for 85. The holding-period return is closest to:",
+      "choices": [
+        "6.25%",
+        "10.00%",
+        "13.75%"
+      ],
+      "answer": 1,
+      "explanation": "(85 - 80 + 3) / 80 = 10.00%.",
+      "wrongWhy": [
+        "6.25% includes only the price gain.",
+        "",
+        "13.75% uses an incorrect base."
+      ]
+    },
+    {
+      "id": "q2",
+      "question": "Which return measure is most appropriate for evaluating a manager who does not control client contributions and withdrawals?",
+      "choices": [
+        "Money-weighted return",
+        "Time-weighted return",
+        "Gross income return"
+      ],
+      "answer": 1,
+      "explanation": "Time-weighted return removes external cash-flow timing.",
+      "wrongWhy": [
+        "Money-weighted return is affected by contribution timing.",
+        "",
+        "Gross income return is not the relevant measure."
+      ]
+    },
+    {
+      "id": "q3",
+      "question": "An investment earns 20% in year 1 and loses 20% in year 2. The geometric mean annual return is closest to:",
+      "choices": [
+        "-2.02%",
+        "0.00%",
+        "2.02%"
+      ],
+      "answer": 0,
+      "explanation": "[(1.20)(0.80)]^(1/2) - 1 \u2248 -2.02%.",
+      "wrongWhy": [
+        "",
+        "0% is the arithmetic mean.",
+        "Ending wealth is below starting wealth."
+      ]
+    },
+    {
+      "id": "q4",
+      "question": "Nominal return is 8% and inflation is 3%. The exact real return is closest to:",
+      "choices": [
+        "4.85%",
+        "5.00%",
+        "11.00%"
+      ],
+      "answer": 0,
+      "explanation": "1.08 / 1.03 - 1 \u2248 4.85%.",
+      "wrongWhy": [
+        "",
+        "5% is the approximation.",
+        "Adding inflation is incorrect."
+      ]
+    },
+    {
+      "id": "q5",
+      "question": "A foreign asset gains 6% and the foreign currency appreciates 4%. Domestic return is closest to:",
+      "choices": [
+        "2.00%",
+        "10.00%",
+        "10.24%"
+      ],
+      "answer": 2,
+      "explanation": "(1.06)(1.04) - 1 = 10.24%.",
+      "wrongWhy": [
+        "This subtracts currency return.",
+        "This ignores the interaction term.",
+        ""
+      ]
+    },
+    {
+      "id": "q6",
+      "question": "The arithmetic mean is generally most appropriate for:",
+      "choices": [
+        "Compound multi-period growth",
+        "Estimating a one-period expected return",
+        "Removing external cash flows"
+      ],
+      "answer": 1,
+      "explanation": "Arithmetic mean is commonly used for a one-period expected return.",
+      "wrongWhy": [
+        "Geometric mean measures compound growth.",
+        "",
+        "Time-weighted return removes external cash flows."
+      ]
+    },
+    {
+      "id": "q7",
+      "question": "Gross return is 9.0% and fees are 1.2%. Net return is closest to:",
+      "choices": [
+        "7.8%",
+        "8.9%",
+        "10.2%"
+      ],
+      "answer": 0,
+      "explanation": "9.0% - 1.2% = 7.8%.",
+      "wrongWhy": [
+        "",
+        "This deducts only 0.1%.",
+        "Fees reduce return."
+      ]
+    },
+    {
+      "id": "q8",
+      "question": "Which measure is most affected by contribution timing?",
+      "choices": [
+        "Time-weighted return",
+        "Money-weighted return",
+        "Price return"
+      ],
+      "answer": 1,
+      "explanation": "Money-weighted return is an IRR based on actual cash flows.",
+      "wrongWhy": [
+        "Time-weighted removes cash-flow effects.",
+        "",
+        "Price return ignores contributions."
+      ]
+    },
+    {
+      "id": "q9",
+      "question": "The denominator in holding-period return is generally:",
+      "choices": [
+        "Beginning value",
+        "Ending value",
+        "Average value"
+      ],
+      "answer": 0,
+      "explanation": "Return is measured relative to beginning capital.",
+      "wrongWhy": [
+        "",
+        "Ending value is not the invested base.",
+        "Average value is not standard here."
+      ]
+    },
+    {
+      "id": "q10",
+      "question": "Leverage most accurately:",
+      "choices": [
+        "Magnifies gains but not losses",
+        "Magnifies both gains and losses",
+        "Eliminates financing risk"
+      ],
+      "answer": 1,
+      "explanation": "Leverage increases equity sensitivity in both directions.",
+      "wrongWhy": [
+        "Losses are also magnified.",
+        "",
+        "Leverage creates financing risk."
+      ]
+    }
+  ]
+}

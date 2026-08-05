@@ -1,0 +1,65 @@
+{
+  "title": "CFA PASS SYSTEM Professional",
+  "version": "1.0.0",
+  "topics": [
+    {
+      "id": "quantitative",
+      "title": "Quantitative Methods",
+      "lessons": [
+        {
+          "id": "quant-01",
+          "title": "Returns of Financial Assets and Instruments",
+          "path": "content/quantitative/01_returns.md",
+          "quiz": "questions/quantitative.json",
+          "readingMinutes": 28,
+          "difficulty": 2
+        }
+      ]
+    },
+    {
+      "id": "economics",
+      "title": "Economics",
+      "lessons": []
+    },
+    {
+      "id": "fsa",
+      "title": "Financial Statement Analysis",
+      "lessons": []
+    },
+    {
+      "id": "corporate",
+      "title": "Corporate Issuers",
+      "lessons": []
+    },
+    {
+      "id": "equity",
+      "title": "Equity Investments",
+      "lessons": []
+    },
+    {
+      "id": "fixed",
+      "title": "Fixed Income",
+      "lessons": []
+    },
+    {
+      "id": "derivatives",
+      "title": "Derivatives",
+      "lessons": []
+    },
+    {
+      "id": "alternatives",
+      "title": "Alternative Investments",
+      "lessons": []
+    },
+    {
+      "id": "portfolio",
+      "title": "Portfolio Management",
+      "lessons": []
+    },
+    {
+      "id": "ethics",
+      "title": "Ethical and Professional Standards",
+      "lessons": []
+    }
+  ]
+}

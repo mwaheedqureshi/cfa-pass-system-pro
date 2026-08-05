@@ -1,0 +1,20 @@
+[
+  {
+    "id": "hpr",
+    "name": "Holding-period return",
+    "formula": "(Ending value - Beginning value + Income) / Beginning value",
+    "lessonId": "quant-01"
+  },
+  {
+    "id": "real-return",
+    "name": "Exact real return",
+    "formula": "(1 + nominal) / (1 + inflation) - 1",
+    "lessonId": "quant-01"
+  },
+  {
+    "id": "geometric",
+    "name": "Geometric mean",
+    "formula": "[(1 + R1)...(1 + Rn)]^(1/n) - 1",
+    "lessonId": "quant-01"
+  }
+]
