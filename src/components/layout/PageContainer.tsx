@@ -1,0 +1,1 @@
+import type {PropsWithChildren} from 'react'; export function PageContainer({children}:PropsWithChildren){return <main id="main-content" className="min-w-0 flex-1 p-4 pb-24 md:p-8 md:pb-8"><div className="mx-auto max-w-6xl">{children}</div></main>}

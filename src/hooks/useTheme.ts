@@ -1,0 +1,1 @@
+import {useProgress} from './useProgress'; export function useTheme(){const{progress,update}=useProgress();return{theme:progress.theme,toggle:()=>update(p=>({...p,theme:p.theme==='dark'?'light':'dark'}))};}

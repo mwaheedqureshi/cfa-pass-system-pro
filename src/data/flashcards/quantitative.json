@@ -1,0 +1,22 @@
+[
+{"id":"fc01","lessonId":"quant-returns-01","front":"Holding-period return formula?","back":"(Ending value − beginning value + income) / beginning value.","tags":["hpr"]},
+{"id":"fc02","lessonId":"quant-returns-01","front":"Price return measures what?","back":"Price appreciation or depreciation only, relative to beginning value.","tags":["components"]},
+{"id":"fc03","lessonId":"quant-returns-01","front":"Income return formula?","back":"Income received / beginning value.","tags":["components"]},
+{"id":"fc04","lessonId":"quant-returns-01","front":"Total return decomposition?","back":"Price return + income return.","tags":["components"]},
+{"id":"fc05","lessonId":"quant-returns-01","front":"Gross versus net return?","back":"Gross is before specified fees; net is after them.","tags":["fees"]},
+{"id":"fc06","lessonId":"quant-returns-01","front":"Exact Fisher relationship for real return?","back":"(1 + nominal return) / (1 + inflation) − 1.","tags":["real"]},
+{"id":"fc07","lessonId":"quant-returns-01","front":"Approximate real return?","back":"Nominal return − inflation.","tags":["real"]},
+{"id":"fc08","lessonId":"quant-returns-01","front":"What does leverage do to equity return?","back":"Magnifies both gains and losses; financing cost also matters.","tags":["leverage"]},
+{"id":"fc09","lessonId":"quant-returns-01","front":"Arithmetic mean use?","back":"Average one-period return or expected return estimate.","tags":["averages"]},
+{"id":"fc10","lessonId":"quant-returns-01","front":"Geometric mean use?","back":"Compound growth over multiple periods.","tags":["averages"]},
+{"id":"fc11","lessonId":"quant-returns-01","front":"Why is geometric mean usually below arithmetic mean?","back":"Volatility drag; equality holds when all periodic returns are equal.","tags":["averages"]},
+{"id":"fc12","lessonId":"quant-returns-01","front":"Money-weighted return is equivalent to what?","back":"The internal rate of return on the investor's cash flows.","tags":["mwr"]},
+{"id":"fc13","lessonId":"quant-returns-01","front":"What influences money-weighted return?","back":"The amount and timing of external cash flows.","tags":["mwr"]},
+{"id":"fc14","lessonId":"quant-returns-01","front":"Time-weighted return procedure?","back":"Split at external cash flows, calculate subperiod returns, then compound.","tags":["twr"]},
+{"id":"fc15","lessonId":"quant-returns-01","front":"Preferred measure for manager evaluation?","back":"Usually time-weighted return when the manager does not control external flows.","tags":["twr"]},
+{"id":"fc16","lessonId":"quant-returns-01","front":"Foreign investment return formula?","back":"(1 + foreign asset return)(1 + currency return) − 1.","tags":["currency"]},
+{"id":"fc17","lessonId":"quant-returns-01","front":"When does currency help a domestic investor?","back":"When the foreign currency appreciates against the domestic currency.","tags":["currency"]},
+{"id":"fc18","lessonId":"quant-returns-01","front":"Risk premium definition?","back":"Expected return above a benchmark risk-free return as compensation for risk.","tags":["required"]},
+{"id":"fc19","lessonId":"quant-returns-01","front":"BA II Plus sign rule for IRR?","back":"Cash paid and cash received must carry opposite signs.","tags":["calculator"]},
+{"id":"fc20","lessonId":"quant-returns-01","front":"Best denominator for a basic return calculation?","back":"Beginning value—the capital at risk at the start.","tags":["hpr"]}
+]

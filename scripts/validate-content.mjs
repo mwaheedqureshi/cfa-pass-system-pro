@@ -1,0 +1,9 @@
+import {readFile,access} from 'node:fs/promises'; import path from 'node:path';
+const root=process.cwd(); const read=async p=>JSON.parse(await readFile(path.join(root,p),'utf8'));
+const questions=await read('src/data/questions/quantitative.json'); const formulas=await read('src/data/formulas/quantitative.json'); const cards=await read('src/data/flashcards/quantitative.json');
+const lessons=[{id:'quant-returns-01',filePath:'public/content/quantitative/01-returns.md'}]; const fail=[]; const unique=(xs,label)=>{const ids=xs.map(x=>x.id);if(new Set(ids).size!==ids.length)fail.push(`${label} IDs must be unique`)};
+unique(lessons,'Lesson');unique(questions,'Question');unique(formulas,'Formula');unique(cards,'Flashcard'); const lessonIds=new Set(lessons.map(x=>x.id));const formulaIds=new Set(formulas.map(x=>x.id));
+for(const l of lessons){try{await access(path.join(root,l.filePath))}catch{fail.push(`Missing Markdown: ${l.filePath}`)}}
+for(const q of questions){if(!lessonIds.has(q.lessonId))fail.push(`${q.id}: unknown lesson`);if(q.choices.length!==3)fail.push(`${q.id}: must have three choices`);if(!Number.isInteger(q.correctChoiceIndex)||q.correctChoiceIndex<0||q.correctChoiceIndex>2)fail.push(`${q.id}: invalid correct index`);if(q.incorrectChoiceExplanations.length!==3)fail.push(`${q.id}: explanation count`);for(const id of q.relatedFormulaIds)if(!formulaIds.has(id))fail.push(`${q.id}: unknown formula ${id}`)}
+for(const f of formulas)if(!lessonIds.has(f.relatedLessonId))fail.push(`${f.id}: unknown lesson`);for(const c of cards)if(!lessonIds.has(c.lessonId))fail.push(`${c.id}: unknown lesson`);
+if(questions.length<20)fail.push('At least 20 questions required');if(cards.length<20)fail.push('At least 20 flashcards required');if(fail.length){console.error(fail.join('\n'));process.exit(1)}console.log(`Content valid: ${lessons.length} lesson, ${questions.length} questions, ${formulas.length} formulas, ${cards.length} flashcards.`);
