@@ -1,0 +1,1542 @@
+[
+  {
+    "id": "q12-01",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A portfolio team combines prices, filings, and satellite images to improve forecasts. This is best described as:",
+    "choices": [
+      "financial data science integrating quantitative and qualitative data",
+      "a guarantee that the forecast is unbiased",
+      "traditional analysis restricted to tabular accounting data"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Financial data science combines computational, statistical, and domain knowledge across varied financial data.",
+    "incorrectChoiceExplanations": [
+      "Correct. Financial data science combines computational, statistical, and domain knowledge across varied financial data.",
+      "Incorrect. “a guarantee that the forecast is unbiased” conflicts with the data-science role or condition described.",
+      "Incorrect. “traditional analysis restricted to tabular accounting data” conflicts with the data-science role or condition described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "q12-02",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A trading system processes order-book updates measured in microseconds. Which big-data characteristic is most directly illustrated?",
+    "choices": [
+      "veracity",
+      "velocity",
+      "variety"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Velocity concerns the speed at which data arrive and must be processed.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “veracity” conflicts with the data-science role or condition described.",
+      "Correct. Velocity concerns the speed at which data arrive and must be processed.",
+      "Incorrect. “variety” conflicts with the data-science role or condition described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "q12-03",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A manager adds millions of transaction records to a research database. Which characteristic increases most directly?",
+    "choices": [
+      "velocity",
+      "veracity",
+      "volume"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Volume is the quantity of stored data.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “velocity” conflicts with the data-science role or condition described.",
+      "Incorrect. “veracity” conflicts with the data-science role or condition described.",
+      "Correct. Volume is the quantity of stored data."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "q12-04",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "An analyst combines tables, audio, images, and free-form text. Which characteristic is most directly illustrated?",
+    "choices": [
+      "variety",
+      "volume",
+      "stationarity"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Variety concerns differing formats and structures.",
+    "incorrectChoiceExplanations": [
+      "Correct. Variety concerns differing formats and structures.",
+      "Incorrect. “volume” conflicts with the data-science role or condition described.",
+      "Incorrect. “stationarity” conflicts with the data-science role or condition described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "q12-05",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Before using social-media data, a researcher checks source credibility and reliability. The researcher is addressing:",
+    "choices": [
+      "velocity",
+      "veracity",
+      "dimensionality reduction"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Veracity is the credibility and reliability of data and sources.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “velocity” conflicts with the data-science role or condition described.",
+      "Correct. Veracity is the credibility and reliability of data and sources.",
+      "Incorrect. “dimensionality reduction” conflicts with the data-science role or condition described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "q12-06",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Which dataset is most likely structured?",
+    "choices": [
+      "raw earnings-call audio",
+      "a folder of untaged satellite images",
+      "a table of dated security prices with defined columns"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Structured data fit an organized row-and-column schema.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “raw earnings-call audio” conflicts with the data-science role or condition described.",
+      "Incorrect. “a folder of untaged satellite images” conflicts with the data-science role or condition described.",
+      "Correct. Structured data fit an organized row-and-column schema."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "q12-07",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A tagged news document has organizational markers but is not naturally tabular. It is best classified as:",
+    "choices": [
+      "semi-structured data",
+      "structured data only",
+      "unstructured data only"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Tags create some organization without converting narrative text into a conventional table.",
+    "incorrectChoiceExplanations": [
+      "Correct. Tags create some organization without converting narrative text into a conventional table.",
+      "Incorrect. “structured data only” conflicts with the data-science role or condition described.",
+      "Incorrect. “unstructured data only” conflicts with the data-science role or condition described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "q12-08",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Which is the best example of unstructured financial data?",
+    "choices": [
+      "a database table of daily closing prices",
+      "earnings-call audio recordings",
+      "a matrix of portfolio weights"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Audio lacks a predefined tabular schema.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “a database table of daily closing prices” conflicts with the data-science role or condition described.",
+      "Correct. Audio lacks a predefined tabular schema.",
+      "Incorrect. “a matrix of portfolio weights” conflicts with the data-science role or condition described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "q12-09",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Credit-card transactions and satellite images used instead of conventional filings are best described as:",
+    "choices": [
+      "test labels",
+      "model parameters",
+      "alternative data"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Alternative data supplement traditional market and accounting sources.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “test labels” conflicts with the data-science role or condition described.",
+      "Incorrect. “model parameters” conflicts with the data-science role or condition described.",
+      "Correct. Alternative data supplement traditional market and accounting sources."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "q12-10",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A dataset contains missing observations, outliers, and selection bias. The best first step is to:",
+    "choices": [
+      "assess suitability and cleanse the data before modeling",
+      "increase model complexity immediately",
+      "use the test set for training"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Data quality and appropriateness must be addressed before reliable modeling.",
+    "incorrectChoiceExplanations": [
+      "Correct. Data quality and appropriateness must be addressed before reliable modeling.",
+      "Incorrect. “increase model complexity immediately” conflicts with the data-science role or condition described.",
+      "Incorrect. “use the test set for training” conflicts with the data-science role or condition described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "q12-11",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A financial series changes behavior after a regime shift. This illustrates:",
+    "choices": [
+      "perfect veracity",
+      "non-stationarity",
+      "cross-sectional independence"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Non-stationarity means data-generating characteristics change through time.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “perfect veracity” conflicts with the data-science role or condition described.",
+      "Correct. Non-stationarity means data-generating characteristics change through time.",
+      "Incorrect. “cross-sectional independence” conflicts with the data-science role or condition described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "q12-12",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Why is domain knowledge important in financial data science?",
+    "choices": [
+      "It removes the need for model validation",
+      "It guarantees stable market relationships",
+      "It helps judge whether data and model outputs are economically meaningful"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Statistical output requires financial and institutional context.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “It removes the need for model validation” conflicts with the data-science role or condition described.",
+      "Incorrect. “It guarantees stable market relationships” conflicts with the data-science role or condition described.",
+      "Correct. Statistical output requires financial and institutional context."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "q12-13",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A data lake is most appropriately used to:",
+    "choices": [
+      "store large amounts of structured, semi-structured, and unstructured data in original form",
+      "replace every analytical model",
+      "guarantee that stored data are accurate"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "A data lake supports flexible storage; it does not validate the data.",
+    "incorrectChoiceExplanations": [
+      "Correct. A data lake supports flexible storage; it does not validate the data.",
+      "Incorrect. “replace every analytical model” conflicts with the data-science role or condition described.",
+      "Incorrect. “guarantee that stored data are accurate” conflicts with the data-science role or condition described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "q12-14",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Distributed computing is especially useful when an analysis:",
+    "choices": [
+      "contains only a few manually entered observations",
+      "must divide large computational tasks across multiple machines",
+      "requires no processing"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Distributed frameworks make large-scale processing manageable.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “contains only a few manually entered observations” conflicts with the data-science role or condition described.",
+      "Correct. Distributed frameworks make large-scale processing manageable.",
+      "Incorrect. “requires no processing” conflicts with the data-science role or condition described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "q12-15",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "In supervised learning, the training data contain:",
+    "choices": [
+      "inputs with no labels or targets",
+      "only rewards from interaction with an environment",
+      "inputs paired with known target outputs"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Supervised algorithms learn mappings from labeled inputs to outputs.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “inputs with no labels or targets” conflicts with the data-science role or condition described.",
+      "Incorrect. “only rewards from interaction with an environment” conflicts with the data-science role or condition described.",
+      "Correct. Supervised algorithms learn mappings from labeled inputs to outputs."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "q12-16",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Grouping issuers by financial characteristics without predefined sector labels is an example of:",
+    "choices": [
+      "unsupervised learning",
+      "supervised learning",
+      "a test-set evaluation"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Unsupervised methods seek structure in unlabeled data.",
+    "incorrectChoiceExplanations": [
+      "Correct. Unsupervised methods seek structure in unlabeled data.",
+      "Incorrect. “supervised learning” conflicts with the data-science role or condition described.",
+      "Incorrect. “a test-set evaluation” conflicts with the data-science role or condition described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "q12-17",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A trading agent learns actions through rewards and penalties. This is:",
+    "choices": [
+      "unsupervised clustering",
+      "reinforcement learning",
+      "ordinary data cleaning"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Reinforcement learning improves decisions through interaction and feedback.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “unsupervised clustering” conflicts with the data-science role or condition described.",
+      "Correct. Reinforcement learning improves decisions through interaction and feedback.",
+      "Incorrect. “ordinary data cleaning” conflicts with the data-science role or condition described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "q12-18",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Deep learning differs most directly from many simpler ML methods because it:",
+    "choices": [
+      "requires all data to be stored in tables",
+      "cannot be used with supervised learning",
+      "uses multilayer neural networks to learn complex representations"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Deep learning uses many hidden layers and may use supervised or unsupervised approaches.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “requires all data to be stored in tables” conflicts with the data-science role or condition described.",
+      "Incorrect. “cannot be used with supervised learning” conflicts with the data-science role or condition described.",
+      "Correct. Deep learning uses many hidden layers and may use supervised or unsupervised approaches."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "q12-19",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Which dataset should be used to estimate model parameters?",
+    "choices": [
+      "training set",
+      "validation set",
+      "test set"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The training set is used to fit the model.",
+    "incorrectChoiceExplanations": [
+      "Correct. The training set is used to fit the model.",
+      "Incorrect. “validation set” conflicts with the data-science role or condition described.",
+      "Incorrect. “test set” conflicts with the data-science role or condition described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "q12-20",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Which dataset is primarily used to tune model choices?",
+    "choices": [
+      "training set after final reporting",
+      "validation set",
+      "test set repeatedly"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Validation data guide model and hyperparameter selection.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “training set after final reporting” conflicts with the data-science role or condition described.",
+      "Correct. Validation data guide model and hyperparameter selection.",
+      "Incorrect. “test set repeatedly” conflicts with the data-science role or condition described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "q12-21",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Which dataset should remain untouched until final performance assessment?",
+    "choices": [
+      "training set",
+      "feature-engineering source fitted on all dates",
+      "test set"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The test set provides the final out-of-sample check.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “training set” conflicts with the data-science role or condition described.",
+      "Incorrect. “feature-engineering source fitted on all dates” conflicts with the data-science role or condition described.",
+      "Correct. The test set provides the final out-of-sample check."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "q12-22",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A model repeatedly uses the test set to choose hyperparameters. The main concern is:",
+    "choices": [
+      "information leakage and an optimistically biased final estimate",
+      "underfitting caused by too little complexity",
+      "greater data veracity"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Repeated tuning on test results makes the test set part of model selection.",
+    "incorrectChoiceExplanations": [
+      "Correct. Repeated tuning on test results makes the test set part of model selection.",
+      "Incorrect. “underfitting caused by too little complexity” conflicts with the data-science role or condition described.",
+      "Incorrect. “greater data veracity” conflicts with the data-science role or condition described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "q12-23",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "For return forecasting, why can a random split be inappropriate?",
+    "choices": [
+      "It always makes the training set too small",
+      "It can place future observations in training and disrupt temporal order",
+      "It eliminates non-stationarity"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Financial time series generally require chronology-preserving evaluation.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “It always makes the training set too small” conflicts with the data-science role or condition described.",
+      "Correct. Financial time series generally require chronology-preserving evaluation.",
+      "Incorrect. “It eliminates non-stationarity” conflicts with the data-science role or condition described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "q12-24",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A researcher trains on January–August, validates on September–October, and tests on November. This is:",
+    "choices": [
+      "an unsupervised label assignment",
+      "look-ahead use of November data",
+      "a time-based split"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "A time-based split preserves the order in which information becomes available.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “an unsupervised label assignment” conflicts with the data-science role or condition described.",
+      "Incorrect. “look-ahead use of November data” conflicts with the data-science role or condition described.",
+      "Correct. A time-based split preserves the order in which information becomes available."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "q12-25",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A fixed historical training window and following validation window both move forward through time. This is:",
+    "choices": [
+      "rolling-window validation",
+      "random cross-sectional sampling",
+      "test-set leakage by definition"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Rolling windows mimic repeated forward-looking evaluation.",
+    "incorrectChoiceExplanations": [
+      "Correct. Rolling windows mimic repeated forward-looking evaluation.",
+      "Incorrect. “random cross-sectional sampling” conflicts with the data-science role or condition described.",
+      "Incorrect. “test-set leakage by definition” conflicts with the data-science role or condition described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "q12-26",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Training error is extremely low but error on new data is high. The model most likely:",
+    "choices": [
+      "underfits",
+      "overfits",
+      "has perfect generalization"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Overfitting captures training noise and fails to generalize.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “underfits” conflicts with the data-science role or condition described.",
+      "Correct. Overfitting captures training noise and fails to generalize.",
+      "Incorrect. “has perfect generalization” conflicts with the data-science role or condition described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "q12-27",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Both training and validation errors are high because the model misses a clear pattern. The model most likely:",
+    "choices": [
+      "overfits",
+      "has excessive data velocity",
+      "underfits"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Underfitting is insufficient learning of genuine structure.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “overfits” conflicts with the data-science role or condition described.",
+      "Incorrect. “has excessive data velocity” conflicts with the data-science role or condition described.",
+      "Correct. Underfitting is insufficient learning of genuine structure."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "q12-28",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Which action most directly reduces look-ahead leakage in a financial forecast?",
+    "choices": [
+      "construct every feature using only information available at the prediction date",
+      "randomize observations across all dates",
+      "normalize using the full sample before splitting"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Point-in-time feature construction preserves the information boundary.",
+    "incorrectChoiceExplanations": [
+      "Correct. Point-in-time feature construction preserves the information boundary.",
+      "Incorrect. “randomize observations across all dates” conflicts with the data-science role or condition described.",
+      "Incorrect. “normalize using the full sample before splitting” conflicts with the data-science role or condition described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "q12-29",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A black-box concern arises when:",
+    "choices": [
+      "data arrive at high velocity",
+      "users cannot adequately explain how a model reached its output",
+      "a dataset contains defined columns"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Opacity limits interpretation, challenge, and governance.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “data arrive at high velocity” conflicts with the data-science role or condition described.",
+      "Correct. Opacity limits interpretation, challenge, and governance.",
+      "Incorrect. “a dataset contains defined columns” conflicts with the data-science role or condition described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "q12-30",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A neural network compares predictions with actual outcomes and propagates loss information backward. This process is:",
+    "choices": [
+      "clustering",
+      "data visualization",
+      "backpropagation"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Backpropagation calculates how weights contribute to error so they can be adjusted.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “clustering” conflicts with the data-science role or condition described.",
+      "Incorrect. “data visualization” conflicts with the data-science role or condition described.",
+      "Correct. Backpropagation calculates how weights contribute to error so they can be adjusted."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "q12-31",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Gradient descent updates a neural network by moving parameters:",
+    "choices": [
+      "in the direction that reduces the loss function",
+      "toward the largest possible loss",
+      "without reference to model error"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The negative gradient indicates a local direction of lower loss.",
+    "incorrectChoiceExplanations": [
+      "Correct. The negative gradient indicates a local direction of lower loss.",
+      "Incorrect. “toward the largest possible loss” conflicts with the data-science role or condition described.",
+      "Incorrect. “without reference to model error” conflicts with the data-science role or condition described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q12-32",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A generative adversarial network contains:",
+    "choices": [
+      "one table and no model",
+      "a generator and a discriminator trained in opposition",
+      "only a validation and test set"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "GANs pair a generator with a discriminator.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “one table and no model” conflicts with the data-science role or condition described.",
+      "Correct. GANs pair a generator with a discriminator.",
+      "Incorrect. “only a validation and test set” conflicts with the data-science role or condition described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q12-33",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A variational autoencoder is most closely associated with:",
+    "choices": [
+      "assigning human-defined sector labels",
+      "verifying source credibility",
+      "learning compact latent representations and reconstructing data"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "VAEs encode data into a latent representation and reconstruct it.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “assigning human-defined sector labels” conflicts with the data-science role or condition described.",
+      "Incorrect. “verifying source credibility” conflicts with the data-science role or condition described.",
+      "Correct. VAEs encode data into a latent representation and reconstruct it."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q12-34",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Extracting sentiment from earnings-call transcripts is a financial application of:",
+    "choices": [
+      "natural language processing",
+      "distributed storage alone",
+      "reinforcement rewards"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "NLP converts language into analyzable information.",
+    "incorrectChoiceExplanations": [
+      "Correct. NLP converts language into analyzable information.",
+      "Incorrect. “distributed storage alone” conflicts with the data-science role or condition described.",
+      "Incorrect. “reinforcement rewards” conflicts with the data-science role or condition described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q12-35",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Compared with a search engine, a large language model primarily:",
+    "choices": [
+      "guarantees retrieval of a verified current source",
+      "generates responses from learned language patterns and may produce unsupported content",
+      "stores all financial data in relational tables"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "LLMs generate language and require verification.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “guarantees retrieval of a verified current source” conflicts with the data-science role or condition described.",
+      "Correct. LLMs generate language and require verification.",
+      "Incorrect. “stores all financial data in relational tables” conflicts with the data-science role or condition described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q12-36",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "An LLM creates a plausible but nonexistent accounting disclosure. This is best described as:",
+    "choices": [
+      "data velocity",
+      "supervised labeling",
+      "hallucination"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Hallucination is fluent output unsupported by valid facts or sources.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “data velocity” conflicts with the data-science role or condition described.",
+      "Incorrect. “supervised labeling” conflicts with the data-science role or condition described.",
+      "Correct. Hallucination is fluent output unsupported by valid facts or sources."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q12-37",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "The strongest control over an AI-generated investment memo is to:",
+    "choices": [
+      "require source verification and accountable human review",
+      "publish automatically when the prose is fluent",
+      "treat model confidence as proof"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Human accountability and source checking mitigate model limitations.",
+    "incorrectChoiceExplanations": [
+      "Correct. Human accountability and source checking mitigate model limitations.",
+      "Incorrect. “publish automatically when the prose is fluent” conflicts with the data-science role or condition described.",
+      "Incorrect. “treat model confidence as proof” conflicts with the data-science role or condition described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q12-38",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A robo-adviser maps client goals and risk tolerance into a portfolio and rebalances it. This illustrates AI/ML use in:",
+    "choices": [
+      "eliminating fiduciary oversight",
+      "personalized investment management",
+      "guaranteeing positive returns"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Automation can support portfolio construction but does not remove oversight or risk.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “eliminating fiduciary oversight” conflicts with the data-science role or condition described.",
+      "Correct. Automation can support portfolio construction but does not remove oversight or risk.",
+      "Incorrect. “guaranteeing positive returns” conflicts with the data-science role or condition described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q12-39",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A tag cloud is most useful for:",
+    "choices": [
+      "proving a causal relationship",
+      "measuring portfolio variance",
+      "summarizing the relative frequency of terms in text"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "A tag cloud is a visualization of term prominence, not inference.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “proving a causal relationship” conflicts with the data-science role or condition described.",
+      "Incorrect. “measuring portfolio variance” conflicts with the data-science role or condition described.",
+      "Correct. A tag cloud is a visualization of term prominence, not inference."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q12-40",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "scopeStatement": "DAI-01: Describe how big data, machine learning, and artificial intelligence are used in financial data science, fintech, and investment management.",
+    "lessonSectionId": "official-scope",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Which statement best describes data visualization in the workflow?",
+    "choices": [
+      "It communicates patterns and supports interpretation but can mislead if poorly designed",
+      "It replaces data cleansing",
+      "It guarantees an optimal decision"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Visualization aids communication and exploration; design and context still matter.",
+    "incorrectChoiceExplanations": [
+      "Correct. Visualization aids communication and exploration; design and context still matter.",
+      "Incorrect. “It replaces data cleansing” conflicts with the data-science role or condition described.",
+      "Incorrect. “It guarantees an optimal decision” conflicts with the data-science role or condition described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q12-41",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": true,
+    "scopeStatement": "DAI-18: Supplementary model-evaluation metrics beyond verified official scope.",
+    "lessonSectionId": "supplementary-model-evaluation",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "SUPPLEMENTARY: For TP=40, FP=10, TN=30, FN=20, accuracy is:",
+    "choices": [
+      "80%",
+      "70%",
+      "66.7%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Accuracy=(TP+TN)/N=70/100=70%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “80%” conflicts with the data-science role or condition described.",
+      "Correct. Accuracy=(TP+TN)/N=70/100=70%.",
+      "Incorrect. “66.7%” conflicts with the data-science role or condition described."
+    ],
+    "relatedFormulaIds": [
+      "accuracy-12"
+    ],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified",
+      "supplementary"
+    ]
+  },
+  {
+    "id": "q12-42",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": true,
+    "scopeStatement": "DAI-18: Supplementary model-evaluation metrics beyond verified official scope.",
+    "lessonSectionId": "supplementary-model-evaluation",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "SUPPLEMENTARY: For TP=40 and FP=10, precision is:",
+    "choices": [
+      "66.7%",
+      "75%",
+      "80%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Precision=TP/(TP+FP)=40/50=80%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “66.7%” conflicts with the data-science role or condition described.",
+      "Incorrect. “75%” conflicts with the data-science role or condition described.",
+      "Correct. Precision=TP/(TP+FP)=40/50=80%."
+    ],
+    "relatedFormulaIds": [
+      "precision-12"
+    ],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified",
+      "supplementary"
+    ]
+  },
+  {
+    "id": "q12-43",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": true,
+    "scopeStatement": "DAI-18: Supplementary model-evaluation metrics beyond verified official scope.",
+    "lessonSectionId": "supplementary-model-evaluation",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "SUPPLEMENTARY: For TP=40 and FN=20, recall is:",
+    "choices": [
+      "66.7%",
+      "80%",
+      "60%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Recall=TP/(TP+FN)=40/60=66.7%.",
+    "incorrectChoiceExplanations": [
+      "Correct. Recall=TP/(TP+FN)=40/60=66.7%.",
+      "Incorrect. “80%” conflicts with the data-science role or condition described.",
+      "Incorrect. “60%” conflicts with the data-science role or condition described."
+    ],
+    "relatedFormulaIds": [
+      "recall-12"
+    ],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified",
+      "supplementary"
+    ]
+  },
+  {
+    "id": "q12-44",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": true,
+    "scopeStatement": "DAI-18: Supplementary model-evaluation metrics beyond verified official scope.",
+    "lessonSectionId": "supplementary-model-evaluation",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "SUPPLEMENTARY: For TN=30 and FP=10, specificity is:",
+    "choices": [
+      "70%",
+      "75%",
+      "25%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Specificity=TN/(TN+FP)=30/40=75%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “70%” conflicts with the data-science role or condition described.",
+      "Correct. Specificity=TN/(TN+FP)=30/40=75%.",
+      "Incorrect. “25%” conflicts with the data-science role or condition described."
+    ],
+    "relatedFormulaIds": [
+      "specificity-12"
+    ],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified",
+      "supplementary"
+    ]
+  },
+  {
+    "id": "q12-45",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": true,
+    "scopeStatement": "DAI-18: Supplementary model-evaluation metrics beyond verified official scope.",
+    "lessonSectionId": "supplementary-model-evaluation",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "SUPPLEMENTARY: Precision=.80 and recall=.667 imply F1 closest to:",
+    "choices": [
+      "0.733",
+      "0.467",
+      "0.727"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "F1=2PR/(P+R), approximately 0.727.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “0.733” conflicts with the data-science role or condition described.",
+      "Incorrect. “0.467” conflicts with the data-science role or condition described.",
+      "Correct. F1=2PR/(P+R), approximately 0.727."
+    ],
+    "relatedFormulaIds": [
+      "f1-12"
+    ],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified",
+      "supplementary"
+    ]
+  },
+  {
+    "id": "q12-46",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": true,
+    "scopeStatement": "DAI-18: Supplementary model-evaluation metrics beyond verified official scope.",
+    "lessonSectionId": "supplementary-model-evaluation",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "SUPPLEMENTARY: The ROC curve plots:",
+    "choices": [
+      "true-positive rate against false-positive rate",
+      "precision against accuracy",
+      "loss against sample size"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "ROC traces sensitivity against false-positive rate across thresholds.",
+    "incorrectChoiceExplanations": [
+      "Correct. ROC traces sensitivity against false-positive rate across thresholds.",
+      "Incorrect. “precision against accuracy” conflicts with the data-science role or condition described.",
+      "Incorrect. “loss against sample size” conflicts with the data-science role or condition described."
+    ],
+    "relatedFormulaIds": [
+      "true-positive-rate-12"
+    ],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified",
+      "supplementary"
+    ]
+  },
+  {
+    "id": "q12-47",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": true,
+    "scopeStatement": "DAI-18: Supplementary model-evaluation metrics beyond verified official scope.",
+    "lessonSectionId": "supplementary-model-evaluation",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "SUPPLEMENTARY: An AUC of 0.50 most nearly indicates:",
+    "choices": [
+      "perfect calibration",
+      "ranking no better than random",
+      "perfect classification"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "An AUC of 0.50 represents random ranking performance.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “perfect calibration” conflicts with the data-science role or condition described.",
+      "Correct. An AUC of 0.50 represents random ranking performance.",
+      "Incorrect. “perfect classification” conflicts with the data-science role or condition described."
+    ],
+    "relatedFormulaIds": [
+      "false-positive-rate-12"
+    ],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified",
+      "supplementary"
+    ]
+  },
+  {
+    "id": "q12-48",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": true,
+    "scopeStatement": "DAI-18: Supplementary model-evaluation metrics beyond verified official scope.",
+    "lessonSectionId": "supplementary-model-evaluation",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "SUPPLEMENTARY: With a rare positive class, accuracy can be misleading because:",
+    "choices": [
+      "accuracy always equals recall",
+      "false positives cannot occur",
+      "predicting the majority class can appear accurate while missing positives"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Class imbalance can hide poor minority-class detection.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “accuracy always equals recall” conflicts with the data-science role or condition described.",
+      "Incorrect. “false positives cannot occur” conflicts with the data-science role or condition described.",
+      "Correct. Class imbalance can hide poor minority-class detection."
+    ],
+    "relatedFormulaIds": [
+      "prevalence-12"
+    ],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified",
+      "supplementary"
+    ]
+  },
+  {
+    "id": "q12-49",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": true,
+    "scopeStatement": "DAI-18: Supplementary model-evaluation metrics beyond verified official scope.",
+    "lessonSectionId": "supplementary-model-evaluation",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "SUPPLEMENTARY: Feature engineering should be fitted using:",
+    "choices": [
+      "training data only, then applied unchanged to validation and test data",
+      "the full dataset before splitting",
+      "the test set only"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Fitting transformations outside training leaks evaluation information.",
+    "incorrectChoiceExplanations": [
+      "Correct. Fitting transformations outside training leaks evaluation information.",
+      "Incorrect. “the full dataset before splitting” conflicts with the data-science role or condition described.",
+      "Incorrect. “the test set only” conflicts with the data-science role or condition described."
+    ],
+    "relatedFormulaIds": [
+      "cv-average-12"
+    ],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified",
+      "supplementary"
+    ]
+  },
+  {
+    "id": "q12-50",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM11",
+    "supplementary": true,
+    "scopeStatement": "DAI-18: Supplementary model-evaluation metrics beyond verified official scope.",
+    "lessonSectionId": "supplementary-model-evaluation",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "SUPPLEMENTARY: If false negatives are especially costly, the analyst should emphasize:",
+    "choices": [
+      "specificity alone",
+      "recall",
+      "overall sample size alone"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Recall measures the share of actual positives detected.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “specificity alone” conflicts with the data-science role or condition described.",
+      "Correct. Recall measures the share of actual positives detected.",
+      "Incorrect. “overall sample size alone” conflicts with the data-science role or condition described."
+    ],
+    "relatedFormulaIds": [
+      "recall-12"
+    ],
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified",
+      "supplementary"
+    ]
+  }
+]

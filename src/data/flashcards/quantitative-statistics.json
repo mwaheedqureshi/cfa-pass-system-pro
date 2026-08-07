@@ -1,0 +1,611 @@
+[
+  {
+    "id": "fc05-01",
+    "lessonId": "quant-statistics-05",
+    "front": "Population in descriptive statistics",
+    "back": "Every item in the group of analytical interest.",
+    "tags": [
+      "definitions"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion"
+  },
+  {
+    "id": "fc05-02",
+    "lessonId": "quant-statistics-05",
+    "front": "Sample in descriptive statistics",
+    "back": "A subset selected from a population.",
+    "tags": [
+      "definitions"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion"
+  },
+  {
+    "id": "fc05-03",
+    "lessonId": "quant-statistics-05",
+    "front": "Parameter versus statistic?",
+    "back": "A parameter describes a population; a statistic describes a sample.",
+    "tags": [
+      "definitions"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion"
+  },
+  {
+    "id": "fc05-04",
+    "lessonId": "quant-statistics-05",
+    "front": "Absolute frequency?",
+    "back": "The count of observations in a value or class.",
+    "tags": [
+      "frequency"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion"
+  },
+  {
+    "id": "fc05-05",
+    "lessonId": "quant-statistics-05",
+    "front": "Relative frequency?",
+    "back": "Class count divided by total observations.",
+    "tags": [
+      "frequency"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion"
+  },
+  {
+    "id": "fc05-06",
+    "lessonId": "quant-statistics-05",
+    "front": "Cumulative frequency?",
+    "back": "Running total through an ordered value or class.",
+    "tags": [
+      "frequency"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion"
+  },
+  {
+    "id": "fc05-07",
+    "lessonId": "quant-statistics-05",
+    "front": "Histogram caution?",
+    "back": "Bin width can alter visual impression without altering observations.",
+    "tags": [
+      "histogram"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion"
+  },
+  {
+    "id": "fc05-08",
+    "lessonId": "quant-statistics-05",
+    "front": "Arithmetic mean?",
+    "back": "Î£xi/n; the simple average and balance point.",
+    "tags": [
+      "mean"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion"
+  },
+  {
+    "id": "fc05-09",
+    "lessonId": "quant-statistics-05",
+    "front": "Weighted mean?",
+    "back": "Î£wixi with weights summing to one.",
+    "tags": [
+      "weighted-mean"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion"
+  },
+  {
+    "id": "fc05-10",
+    "lessonId": "quant-statistics-05",
+    "front": "Geometric mean?",
+    "back": "[Î (1+Ri)]^(1/n)âˆ’1; compound growth rate.",
+    "tags": [
+      "geometric-mean"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion"
+  },
+  {
+    "id": "fc05-11",
+    "lessonId": "quant-statistics-05",
+    "front": "Harmonic mean?",
+    "back": "n/Î£(1/xi); useful for certain fixed-numerator rates.",
+    "tags": [
+      "harmonic-mean"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion"
+  },
+  {
+    "id": "fc05-12",
+    "lessonId": "quant-statistics-05",
+    "front": "Median?",
+    "back": "Middle ordered value; average the two middle values for even n.",
+    "tags": [
+      "median"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion"
+  },
+  {
+    "id": "fc05-13",
+    "lessonId": "quant-statistics-05",
+    "front": "Mode?",
+    "back": "Most frequent observation; may be multiple or absent.",
+    "tags": [
+      "mode"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion"
+  },
+  {
+    "id": "fc05-14",
+    "lessonId": "quant-statistics-05",
+    "front": "Quartiles?",
+    "back": "Boundaries dividing ordered data into four groups.",
+    "tags": [
+      "quantiles"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion"
+  },
+  {
+    "id": "fc05-15",
+    "lessonId": "quant-statistics-05",
+    "front": "Quintiles?",
+    "back": "Boundaries dividing ordered data into five groups.",
+    "tags": [
+      "quantiles"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion"
+  },
+  {
+    "id": "fc05-16",
+    "lessonId": "quant-statistics-05",
+    "front": "Deciles?",
+    "back": "Boundaries dividing ordered data into ten groups.",
+    "tags": [
+      "quantiles"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion"
+  },
+  {
+    "id": "fc05-17",
+    "lessonId": "quant-statistics-05",
+    "front": "Percentile interpretation?",
+    "back": "The pth percentile has approximately p% of observations at or below it, subject to convention.",
+    "tags": [
+      "percentile"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion"
+  },
+  {
+    "id": "fc05-18",
+    "lessonId": "quant-statistics-05",
+    "front": "Range?",
+    "back": "Maximum minus minimum.",
+    "tags": [
+      "dispersion"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion"
+  },
+  {
+    "id": "fc05-19",
+    "lessonId": "quant-statistics-05",
+    "front": "Mean absolute deviation?",
+    "back": "Average absolute distance from a stated center.",
+    "tags": [
+      "dispersion"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion"
+  },
+  {
+    "id": "fc05-20",
+    "lessonId": "quant-statistics-05",
+    "front": "Population variance?",
+    "back": "Î£(xiâˆ’Î¼)Â²/N.",
+    "tags": [
+      "variance",
+      "population"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion"
+  },
+  {
+    "id": "fc05-21",
+    "lessonId": "quant-statistics-05",
+    "front": "Sample variance?",
+    "back": "Î£(xiâˆ’xÌ„)Â²/(nâˆ’1).",
+    "tags": [
+      "variance",
+      "sample"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion"
+  },
+  {
+    "id": "fc05-22",
+    "lessonId": "quant-statistics-05",
+    "front": "Why nâˆ’1??",
+    "back": "Estimating the mean consumes one degree of freedom.",
+    "tags": [
+      "variance",
+      "sample"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion"
+  },
+  {
+    "id": "fc05-23",
+    "lessonId": "quant-statistics-05",
+    "front": "Population standard deviation?",
+    "back": "Square root of population variance.",
+    "tags": [
+      "standard-deviation"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion"
+  },
+  {
+    "id": "fc05-24",
+    "lessonId": "quant-statistics-05",
+    "front": "Sample standard deviation?",
+    "back": "Square root of sample variance.",
+    "tags": [
+      "standard-deviation"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion"
+  },
+  {
+    "id": "fc05-25",
+    "lessonId": "quant-statistics-05",
+    "front": "Coefficient of variation?",
+    "back": "Standard deviation divided by mean; relative dispersion.",
+    "tags": [
+      "cv"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion"
+  },
+  {
+    "id": "fc05-26",
+    "lessonId": "quant-statistics-05",
+    "front": "CV warning?",
+    "back": "It is unstable or misleading when the mean is zero or near zero.",
+    "tags": [
+      "cv",
+      "trap"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion"
+  },
+  {
+    "id": "fc05-27",
+    "lessonId": "quant-statistics-05",
+    "front": "Sharpe ratio?",
+    "back": "(Portfolio returnâˆ’risk-free return)/portfolio standard deviation.",
+    "tags": [
+      "sharpe"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion"
+  },
+  {
+    "id": "fc05-28",
+    "lessonId": "quant-statistics-05",
+    "front": "Positive skew ordering?",
+    "back": "Typically mean > median > mode; the right tail pulls the mean.",
+    "tags": [
+      "skewness"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion"
+  },
+  {
+    "id": "fc05-29",
+    "lessonId": "quant-statistics-05",
+    "front": "Negative skew ordering?",
+    "back": "Typically mean < median < mode; the left tail pulls the mean.",
+    "tags": [
+      "skewness"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion"
+  },
+  {
+    "id": "fc05-30",
+    "lessonId": "quant-statistics-05",
+    "front": "Mesokurtic?",
+    "back": "Kurtosis like the normal-reference distribution; excess near zero.",
+    "tags": [
+      "kurtosis"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion"
+  },
+  {
+    "id": "fc05-31",
+    "lessonId": "quant-statistics-05",
+    "front": "Leptokurtic?",
+    "back": "Heavier tails relative to normal; positive excess kurtosis.",
+    "tags": [
+      "kurtosis"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion"
+  },
+  {
+    "id": "fc05-32",
+    "lessonId": "quant-statistics-05",
+    "front": "Platykurtic?",
+    "back": "Lighter tails and flatter shape relative to normal; negative excess.",
+    "tags": [
+      "kurtosis"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion"
+  },
+  {
+    "id": "fc05-33",
+    "lessonId": "quant-statistics-05",
+    "front": "Excess kurtosis?",
+    "back": "Pearson kurtosis minus 3.",
+    "tags": [
+      "kurtosis"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion"
+  },
+  {
+    "id": "fc05-34",
+    "lessonId": "quant-statistics-05",
+    "front": "Outlier treatment caution?",
+    "back": "Investigate first; trimming removes and winsorization caps extremes.",
+    "tags": [
+      "outliers"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion"
+  },
+  {
+    "id": "fc05-35",
+    "lessonId": "quant-statistics-05",
+    "front": "Statistic-selection rule?",
+    "back": "Choose location, dispersion, and shape measures to answer the analytical question.",
+    "tags": [
+      "selection"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion"
+  },
+  {
+    "id": "fc-lm5r-01",
+    "lessonId": "quant-statistics-05",
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "supplementary": false,
+    "front": "Returns are 4%, −2%, 7%, and 3%. Their arithmetic mean is:",
+    "back": "Arithmetic mean is the sum of observations divided by n; it describes a typical observation, not compound growth.",
+    "tags": [
+      "qm-lm5",
+      "arithmetic-mean",
+      "checkpoint-2-verified"
+    ]
+  },
+  {
+    "id": "fc-lm5r-02",
+    "lessonId": "quant-statistics-05",
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "supplementary": false,
+    "front": "A portfolio is 25% in an asset returning 12% and 75% in an asset returning 4%. Portfolio return is:",
+    "back": "Weighted mean is Σw_ix_i with weights summing to one; verify both weights and units before interpreting.",
+    "tags": [
+      "qm-lm5",
+      "weighted-mean",
+      "checkpoint-2-verified"
+    ]
+  },
+  {
+    "id": "fc-lm5r-03",
+    "lessonId": "quant-statistics-05",
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "supplementary": false,
+    "front": "Returns are 2%, 3%, 4%, and 30%. Which statistic is least affected by the outlier?",
+    "back": "The median depends on rank, so an extreme observation affects it less than the mean.",
+    "tags": [
+      "qm-lm5",
+      "median-and-outliers",
+      "checkpoint-2-verified"
+    ]
+  },
+  {
+    "id": "fc-lm5r-04",
+    "lessonId": "quant-statistics-05",
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "supplementary": false,
+    "front": "For the population 1, 3, and 5, variance is closest to:",
+    "back": "Population variance divides squared deviations from μ by N and is expressed in squared units.",
+    "tags": [
+      "qm-lm5",
+      "population-variance",
+      "checkpoint-2-verified"
+    ]
+  },
+  {
+    "id": "fc-lm5r-05",
+    "lessonId": "quant-statistics-05",
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "supplementary": false,
+    "front": "For the sample 1, 3, and 5, sample variance is:",
+    "back": "Sample variance divides squared deviations from the sample mean by n−1 because estimating the mean consumes one degree of freedom.",
+    "tags": [
+      "qm-lm5",
+      "sample-variance",
+      "checkpoint-2-verified"
+    ]
+  },
+  {
+    "id": "fc-lm5r-06",
+    "lessonId": "quant-statistics-05",
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "supplementary": false,
+    "front": "A return sample has variance 0.0025. Its standard deviation is:",
+    "back": "Standard deviation is the positive square root of variance and returns dispersion to the observations’ original units.",
+    "tags": [
+      "qm-lm5",
+      "standard-deviation",
+      "checkpoint-2-verified"
+    ]
+  },
+  {
+    "id": "fc-lm5r-07",
+    "lessonId": "quant-statistics-05",
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "supplementary": false,
+    "front": "Paired return deviations have cross-products 0.0006, −0.0001, and 0.0003. Sample covariance is:",
+    "back": "Sample covariance is the sum of paired deviation products divided by n−1; its sign shows direction of linear co-movement.",
+    "tags": [
+      "qm-lm5",
+      "covariance",
+      "checkpoint-2-verified"
+    ]
+  },
+  {
+    "id": "fc-lm5r-08",
+    "lessonId": "quant-statistics-05",
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "supplementary": false,
+    "front": "Covariance is 0.0012 and standard deviations are 10% and 20%. Correlation is:",
+    "back": "Correlation standardizes covariance by the product of standard deviations, producing a dimensionless value from −1 to +1.",
+    "tags": [
+      "qm-lm5",
+      "correlation",
+      "checkpoint-2-verified"
+    ]
+  },
+  {
+    "id": "fc-lm5r-09",
+    "lessonId": "quant-statistics-05",
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "supplementary": false,
+    "front": "Against a 3% target, return shortfalls are 4%, 2%, and 0% across four observations. Using the sample target-semideviation convention, the result is closest to:",
+    "back": "Target semideviation includes squared deviations below the stated target and ignores observations at or above it; use the stated population or sample denominator.",
+    "tags": [
+      "qm-lm5",
+      "semi-deviation",
+      "checkpoint-2-verified"
+    ]
+  },
+  {
+    "id": "fc-lm5r-10",
+    "lessonId": "quant-statistics-05",
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "supplementary": false,
+    "front": "Fund A has mean 8% and standard deviation 12%; Fund B has mean 5% and standard deviation 6%. Which has lower relative dispersion?",
+    "back": "Coefficient of variation is standard deviation divided by mean; lower positive CV means less dispersion per unit of mean, but near-zero or negative means impair interpretation.",
+    "tags": [
+      "qm-lm5",
+      "coefficient-of-variation",
+      "checkpoint-2-verified"
+    ]
+  }
+]

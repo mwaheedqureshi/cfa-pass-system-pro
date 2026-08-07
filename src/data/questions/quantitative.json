@@ -1,22 +1,2567 @@
 [
-{"id":"q01","lessonId":"quant-returns-01","topicId":"quantitative-methods","officialLearningOutcome":"Calculate holding-period return.","difficulty":"easy","estimatedSeconds":60,"stem":"A share is bought for 80, pays a 3 dividend, and is sold for 85. Its holding-period return is closest to:","choices":["6.25%","10.00%","13.75%"],"correctChoiceIndex":1,"explanation":"(85 − 80 + 3) / 80 = 10.00%.","incorrectChoiceExplanations":["6.25% omits the dividend.","Correct.","13.75% does not use the correct cash flows and beginning-value base."],"relatedFormulaIds":["holding-period-return"],"tags":["hpr"]},
-{"id":"q02","lessonId":"quant-returns-01","topicId":"quantitative-methods","officialLearningOutcome":"Distinguish return components.","difficulty":"easy","estimatedSeconds":45,"stem":"An asset rises from 50 to 54 and pays income of 2. The price return is:","choices":["4%","8%","12%"],"correctChoiceIndex":1,"explanation":"Price return is (54 − 50) / 50 = 8% and excludes income.","incorrectChoiceExplanations":["4% is the income return.","Correct.","12% is total return, not price return."],"relatedFormulaIds":["price-return"],"tags":["components"]},
-{"id":"q03","lessonId":"quant-returns-01","topicId":"quantitative-methods","officialLearningOutcome":"Distinguish return components.","difficulty":"easy","estimatedSeconds":45,"stem":"A 2 coupon on a bond worth 50 at the start of the period produces an income return of:","choices":["2%","4%","8%"],"correctChoiceIndex":1,"explanation":"Income return = 2 / 50 = 4%.","incorrectChoiceExplanations":["This divides by 100, not the beginning value.","Correct.","8% confuses the coupon with another return component."],"relatedFormulaIds":["income-return"],"tags":["components"]},
-{"id":"q04","lessonId":"quant-returns-01","topicId":"quantitative-methods","officialLearningOutcome":"Distinguish gross and net returns.","difficulty":"easy","estimatedSeconds":45,"stem":"A portfolio earns 9.0% gross and fees equal 1.2% of beginning assets. Net return is closest to:","choices":["7.8%","8.9%","10.2%"],"correctChoiceIndex":0,"explanation":"9.0% − 1.2% = 7.8%.","incorrectChoiceExplanations":["Correct.","This deducts only 0.1 percentage point.","Fees reduce rather than increase return."],"relatedFormulaIds":[],"tags":["fees"]},
-{"id":"q05","lessonId":"quant-returns-01","topicId":"quantitative-methods","officialLearningOutcome":"Calculate after-tax return.","difficulty":"easy","estimatedSeconds":60,"stem":"If an entire 10% pre-tax return is taxed at 25%, the simplified after-tax return is:","choices":["2.5%","7.5%","12.5%"],"correctChoiceIndex":1,"explanation":"10% × (1 − 0.25) = 7.5%.","incorrectChoiceExplanations":["2.5% is the tax amount, not the remaining return.","Correct.","Tax does not increase return."],"relatedFormulaIds":[],"tags":["tax"]},
-{"id":"q06","lessonId":"quant-returns-01","topicId":"quantitative-methods","officialLearningOutcome":"Calculate real return.","difficulty":"medium","estimatedSeconds":75,"stem":"Nominal return is 8% and inflation is 3%. Exact real return is closest to:","choices":["4.85%","5.00%","11.00%"],"correctChoiceIndex":0,"explanation":"1.08 / 1.03 − 1 = 4.85%.","incorrectChoiceExplanations":["Correct.","5% is only the approximation.","Adding inflation does not remove purchasing-power erosion."],"relatedFormulaIds":["exact-real-return"],"tags":["real"]},
-{"id":"q07","lessonId":"quant-returns-01","topicId":"quantitative-methods","officialLearningOutcome":"Interpret leverage.","difficulty":"medium","estimatedSeconds":75,"stem":"An investor contributes 60 and borrows 40 to buy an asset for 100. The asset rises to 110. Ignoring interest, the equity return is:","choices":["10.0%","16.7%","25.0%"],"correctChoiceIndex":1,"explanation":"Ending equity is 110 − 40 = 70; return is (70 − 60) / 60 = 16.7%.","incorrectChoiceExplanations":["10% is the unleveraged asset return.","Correct.","25% uses debt as the denominator."],"relatedFormulaIds":["holding-period-return"],"tags":["leverage"]},
-{"id":"q08","lessonId":"quant-returns-01","topicId":"quantitative-methods","officialLearningOutcome":"Calculate arithmetic mean.","difficulty":"easy","estimatedSeconds":45,"stem":"Returns of 10%, 5%, and −3% have an arithmetic mean of:","choices":["3%","4%","6%"],"correctChoiceIndex":1,"explanation":"(10 + 5 − 3) / 3 = 4%.","incorrectChoiceExplanations":["This is not the simple average.","Correct.","This omits the negative return."],"relatedFormulaIds":["arithmetic-mean"],"tags":["averages"]},
-{"id":"q09","lessonId":"quant-returns-01","topicId":"quantitative-methods","officialLearningOutcome":"Calculate geometric mean.","difficulty":"medium","estimatedSeconds":90,"stem":"An investment earns 20% then loses 20%. Its annual geometric mean is closest to:","choices":["−2.02%","0.00%","2.02%"],"correctChoiceIndex":0,"explanation":"√(1.20 × 0.80) − 1 = −2.02%.","incorrectChoiceExplanations":["Correct.","0% is the arithmetic mean and ignores compounding.","Wealth ends below its starting level, so growth cannot be positive."],"relatedFormulaIds":["geometric-mean"],"tags":["averages"]},
-{"id":"q10","lessonId":"quant-returns-01","topicId":"quantitative-methods","officialLearningOutcome":"Select an average return.","difficulty":"easy","estimatedSeconds":45,"stem":"The most appropriate measure of compound multi-period growth is the:","choices":["Arithmetic mean","Geometric mean","Income return"],"correctChoiceIndex":1,"explanation":"The geometric mean matches compounded wealth growth.","incorrectChoiceExplanations":["Arithmetic mean estimates an average one-period result.","Correct.","Income return is only one component of return."],"relatedFormulaIds":["geometric-mean"],"tags":["averages"]},
-{"id":"q11","lessonId":"quant-returns-01","topicId":"quantitative-methods","officialLearningOutcome":"Compare money- and time-weighted returns.","difficulty":"easy","estimatedSeconds":45,"stem":"Which return is most affected by the timing and size of investor contributions?","choices":["Money-weighted return","Time-weighted return","Price return"],"correctChoiceIndex":0,"explanation":"Money-weighted return is an IRR using the investor's actual cash flows.","incorrectChoiceExplanations":["Correct.","Time-weighting neutralizes external cash-flow timing.","Price return measures market-price change."],"relatedFormulaIds":[],"tags":["mwr"]},
-{"id":"q12","lessonId":"quant-returns-01","topicId":"quantitative-methods","officialLearningOutcome":"Compare money- and time-weighted returns.","difficulty":"easy","estimatedSeconds":45,"stem":"For a manager who cannot control client deposits and withdrawals, the preferred performance measure is generally:","choices":["Money-weighted return","Time-weighted return","After-tax return"],"correctChoiceIndex":1,"explanation":"Time-weighted return removes the impact of external cash-flow timing.","incorrectChoiceExplanations":["Money-weighted return reflects client cash-flow decisions.","Correct.","Tax status does not solve the cash-flow-control issue."],"relatedFormulaIds":["time-weighted-return"],"tags":["twr"]},
-{"id":"q13","lessonId":"quant-returns-01","topicId":"quantitative-methods","officialLearningOutcome":"Calculate time-weighted return.","difficulty":"medium","estimatedSeconds":60,"stem":"Subperiod returns are +10% and −5%. The time-weighted return is:","choices":["4.5%","5.0%","5.5%"],"correctChoiceIndex":0,"explanation":"1.10 × 0.95 − 1 = 4.5%.","incorrectChoiceExplanations":["Correct.","5% is the arithmetic sum and omits compounding.","This uses the wrong interaction sign."],"relatedFormulaIds":["time-weighted-return"],"tags":["twr"]},
-{"id":"q14","lessonId":"quant-returns-01","topicId":"quantitative-methods","officialLearningOutcome":"Calculate foreign-currency return.","difficulty":"medium","estimatedSeconds":60,"stem":"A foreign asset gains 6% and its currency appreciates 4% versus the investor's currency. Domestic return is:","choices":["2.00%","10.00%","10.24%"],"correctChoiceIndex":2,"explanation":"1.06 × 1.04 − 1 = 10.24%.","incorrectChoiceExplanations":["This incorrectly subtracts currency appreciation.","This simple sum omits the interaction term.","Correct."],"relatedFormulaIds":["foreign-currency-return"],"tags":["currency"]},
-{"id":"q15","lessonId":"quant-returns-01","topicId":"quantitative-methods","officialLearningOutcome":"Calculate foreign-currency return.","difficulty":"hard","estimatedSeconds":75,"stem":"A foreign asset gains 8% while its currency depreciates 5% versus the investor's currency. Domestic return is closest to:","choices":["2.6%","3.0%","13.4%"],"correctChoiceIndex":0,"explanation":"1.08 × 0.95 − 1 = 2.6%.","incorrectChoiceExplanations":["Correct.","3% is an approximation that omits the interaction term.","Currency depreciation should not be added as a gain."],"relatedFormulaIds":["foreign-currency-return"],"tags":["currency"]},
-{"id":"q16","lessonId":"quant-returns-01","topicId":"quantitative-methods","officialLearningOutcome":"Interpret required return.","difficulty":"easy","estimatedSeconds":45,"stem":"A risk premium is best described as:","choices":["Return above a benchmark risk-free return for bearing risk","Inflation deducted from nominal return","A fee charged on investment gains"],"correctChoiceIndex":0,"explanation":"A risk premium compensates investors for accepting specified risk.","incorrectChoiceExplanations":["Correct.","That describes part of converting nominal to real return.","A premium is not an investment-management fee."],"relatedFormulaIds":[],"tags":["required"]},
-{"id":"q17","lessonId":"quant-returns-01","topicId":"quantitative-methods","officialLearningOutcome":"Use return formulas correctly.","difficulty":"easy","estimatedSeconds":45,"stem":"The standard denominator for a holding-period return is the:","choices":["Beginning value","Ending value","Average of beginning and ending values"],"correctChoiceIndex":0,"explanation":"Return is measured relative to capital invested at the beginning.","incorrectChoiceExplanations":["Correct.","Ending value is not the initial capital base.","A simple HPR does not use an average value."],"relatedFormulaIds":["holding-period-return"],"tags":["hpr"]},
-{"id":"q18","lessonId":"quant-returns-01","topicId":"quantitative-methods","officialLearningOutcome":"Interpret leverage.","difficulty":"easy","estimatedSeconds":45,"stem":"Leverage most accurately:","choices":["Magnifies gains only","Magnifies both gains and losses","Eliminates financing risk"],"correctChoiceIndex":1,"explanation":"Debt increases the sensitivity of equity return in both directions.","incorrectChoiceExplanations":["Losses are magnified too.","Correct.","Borrowing introduces financing cost and risk."],"relatedFormulaIds":[],"tags":["leverage"]},
-{"id":"q19","lessonId":"quant-returns-01","topicId":"quantitative-methods","officialLearningOutcome":"Calculate money-weighted return.","difficulty":"medium","estimatedSeconds":60,"stem":"When entering cash flows for an IRR calculation, the initial investment and later proceeds should normally have:","choices":["The same sign","Opposite signs","No signs"],"correctChoiceIndex":1,"explanation":"At least one sign change is needed: cash paid is negative and cash received is positive from the investor perspective.","incorrectChoiceExplanations":["Same-sign cash flows do not represent an investment followed by proceeds.","Correct.","Calculator entries require signs to indicate direction."],"relatedFormulaIds":[],"tags":["calculator"]},
-{"id":"q20","lessonId":"quant-returns-01","topicId":"quantitative-methods","officialLearningOutcome":"Compare average returns.","difficulty":"medium","estimatedSeconds":60,"stem":"If periodic returns vary, the geometric mean is generally:","choices":["Greater than the arithmetic mean","Equal to or below the arithmetic mean","Unrelated to the arithmetic mean"],"correctChoiceIndex":1,"explanation":"For valid return series, volatility drag makes the geometric mean no greater than the arithmetic mean; they are equal when returns are constant.","incorrectChoiceExplanations":["Compounding variability does not raise the geometric mean above the arithmetic mean.","Correct.","The two measures have a known ordering."],"relatedFormulaIds":["arithmetic-mean","geometric-mean"],"tags":["averages"]}
+  {
+    "id": "q01",
+    "lessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A share is bought for 80, pays a 3 dividend, and is sold for 85. Its holding-period return is closest to:",
+    "choices": [
+      "6.25%",
+      "10.00%",
+      "13.75%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "(85 − 80 + 3) / 80 = 10.00%.",
+    "incorrectChoiceExplanations": [
+      "6.25% omits the dividend.",
+      "Correct.",
+      "13.75% does not use the correct cash flows and beginning-value base."
+    ],
+    "relatedFormulaIds": [
+      "holding-period-return"
+    ],
+    "tags": [
+      "hpr"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q02",
+    "lessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "An asset rises from 50 to 54 and pays income of 2. The price return is:",
+    "choices": [
+      "4%",
+      "8%",
+      "12%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Price return is (54 − 50) / 50 = 8% and excludes income.",
+    "incorrectChoiceExplanations": [
+      "4% is the income return.",
+      "Correct.",
+      "12% is total return, not price return."
+    ],
+    "relatedFormulaIds": [
+      "price-return"
+    ],
+    "tags": [
+      "components"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q03",
+    "lessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "A 2 coupon on a bond worth 50 at the start of the period produces an income return of:",
+    "choices": [
+      "2%",
+      "4%",
+      "8%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Income return = 2 / 50 = 4%.",
+    "incorrectChoiceExplanations": [
+      "This divides by 100, not the beginning value.",
+      "Correct.",
+      "8% confuses the coupon with another return component."
+    ],
+    "relatedFormulaIds": [
+      "income-return"
+    ],
+    "tags": [
+      "components"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q04",
+    "lessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "A portfolio earns 9.0% gross and fees equal 1.2% of beginning assets. Net return is closest to:",
+    "choices": [
+      "8.9%",
+      "10.2%",
+      "7.8%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "9.0% − 1.2% = 7.8%.",
+    "incorrectChoiceExplanations": [
+      "This deducts only 0.1 percentage point.",
+      "Fees reduce rather than increase return.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "fees"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q05",
+    "lessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "If an entire 10% pre-tax return is taxed at 25%, the simplified after-tax return is:",
+    "choices": [
+      "12.5%",
+      "2.5%",
+      "7.5%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "10% × (1 − 0.25) = 7.5%.",
+    "incorrectChoiceExplanations": [
+      "Tax does not increase return.",
+      "2.5% is the tax amount, not the remaining return.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "tax"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06",
+    "lessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Nominal return is 8% and inflation is 3%. Exact real return is closest to:",
+    "choices": [
+      "4.85%",
+      "5.00%",
+      "11.00%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "1.08 / 1.03 − 1 = 4.85%.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "5% is only the approximation.",
+      "Adding inflation does not remove purchasing-power erosion."
+    ],
+    "relatedFormulaIds": [
+      "exact-real-return"
+    ],
+    "tags": [
+      "real"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q07",
+    "lessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "An investor contributes 60 and borrows 40 to buy an asset for 100. The asset rises to 110. Ignoring interest, the equity return is:",
+    "choices": [
+      "10.0%",
+      "16.7%",
+      "25.0%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Ending equity is 110 − 40 = 70; return is (70 − 60) / 60 = 16.7%.",
+    "incorrectChoiceExplanations": [
+      "10% is the unleveraged asset return.",
+      "Correct.",
+      "25% uses debt as the denominator."
+    ],
+    "relatedFormulaIds": [
+      "holding-period-return"
+    ],
+    "tags": [
+      "leverage"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08",
+    "lessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Returns of 10%, 5%, and −3% have an arithmetic mean of:",
+    "choices": [
+      "6%",
+      "3%",
+      "4%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "(10 + 5 − 3) / 3 = 4%.",
+    "incorrectChoiceExplanations": [
+      "This omits the negative return.",
+      "This is not the simple average.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [
+      "arithmetic-mean"
+    ],
+    "tags": [
+      "averages"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09",
+    "lessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "An investment earns 20% then loses 20%. Its annual geometric mean is closest to:",
+    "choices": [
+      "−2.02%",
+      "0.00%",
+      "2.02%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "√(1.20 × 0.80) − 1 = −2.02%.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "0% is the arithmetic mean and ignores compounding.",
+      "Wealth ends below its starting level, so growth cannot be positive."
+    ],
+    "relatedFormulaIds": [
+      "geometric-mean"
+    ],
+    "tags": [
+      "averages"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q10",
+    "lessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "The most appropriate measure of compound multi-period growth is the:",
+    "choices": [
+      "Income return",
+      "Arithmetic mean",
+      "Geometric mean"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The geometric mean matches compounded wealth growth.",
+    "incorrectChoiceExplanations": [
+      "Income return is only one component of return.",
+      "Arithmetic mean estimates an average one-period result.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [
+      "geometric-mean"
+    ],
+    "tags": [
+      "averages"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11",
+    "lessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Which return is most affected by the timing and size of investor contributions?",
+    "choices": [
+      "Money-weighted return",
+      "Time-weighted return",
+      "Price return"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Money-weighted return is an IRR using the investor's actual cash flows.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "Time-weighting neutralizes external cash-flow timing.",
+      "Price return measures market-price change."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "mwr"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q12",
+    "lessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "For a manager who cannot control client deposits and withdrawals, the preferred performance measure is generally:",
+    "choices": [
+      "After-tax return",
+      "Money-weighted return",
+      "Time-weighted return"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Time-weighted return removes the impact of external cash-flow timing.",
+    "incorrectChoiceExplanations": [
+      "Tax status does not solve the cash-flow-control issue.",
+      "Money-weighted return reflects client cash-flow decisions.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [
+      "time-weighted-return"
+    ],
+    "tags": [
+      "twr"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q13",
+    "lessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Subperiod returns are +10% and −5%. The time-weighted return is:",
+    "choices": [
+      "4.5%",
+      "5.0%",
+      "5.5%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "1.10 × 0.95 − 1 = 4.5%.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "5% is the arithmetic sum and omits compounding.",
+      "This uses the wrong interaction sign."
+    ],
+    "relatedFormulaIds": [
+      "time-weighted-return"
+    ],
+    "tags": [
+      "twr"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q14",
+    "lessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "A foreign asset gains 6% and its currency appreciates 4% versus the investor's currency. Domestic return is:",
+    "choices": [
+      "2.00%",
+      "10.00%",
+      "10.24%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "1.06 × 1.04 − 1 = 10.24%.",
+    "incorrectChoiceExplanations": [
+      "This incorrectly subtracts currency appreciation.",
+      "This simple sum omits the interaction term.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [
+      "foreign-currency-return"
+    ],
+    "tags": [
+      "currency"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q15",
+    "lessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A foreign asset gains 8% while its currency depreciates 5% versus the investor's currency. Domestic return is closest to:",
+    "choices": [
+      "2.6%",
+      "3.0%",
+      "13.4%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "1.08 × 0.95 − 1 = 2.6%.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "3% is an approximation that omits the interaction term.",
+      "Currency depreciation should not be added as a gain."
+    ],
+    "relatedFormulaIds": [
+      "foreign-currency-return"
+    ],
+    "tags": [
+      "currency"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q16",
+    "lessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "A risk premium is best described as:",
+    "choices": [
+      "Inflation deducted from nominal return",
+      "A fee charged on investment gains",
+      "Return above a benchmark risk-free return for bearing risk"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "A risk premium compensates investors for accepting specified risk.",
+    "incorrectChoiceExplanations": [
+      "That describes part of converting nominal to real return.",
+      "A premium is not an investment-management fee.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "required"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q17",
+    "lessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "The standard denominator for a holding-period return is the:",
+    "choices": [
+      "Beginning value",
+      "Ending value",
+      "Average of beginning and ending values"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Return is measured relative to capital invested at the beginning.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "Ending value is not the initial capital base.",
+      "A simple HPR does not use an average value."
+    ],
+    "relatedFormulaIds": [
+      "holding-period-return"
+    ],
+    "tags": [
+      "hpr"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q18",
+    "lessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Leverage most accurately:",
+    "choices": [
+      "Magnifies gains only",
+      "Magnifies both gains and losses",
+      "Eliminates financing risk"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Debt increases the sensitivity of equity return in both directions.",
+    "incorrectChoiceExplanations": [
+      "Losses are magnified too.",
+      "Correct.",
+      "Borrowing introduces financing cost and risk."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "leverage"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q19",
+    "lessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "When entering cash flows for an IRR calculation, the initial investment and later proceeds should normally have:",
+    "choices": [
+      "The same sign",
+      "Opposite signs",
+      "No signs"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "At least one sign change is needed: cash paid is negative and cash received is positive from the investor perspective.",
+    "incorrectChoiceExplanations": [
+      "Same-sign cash flows do not represent an investment followed by proceeds.",
+      "Correct.",
+      "Calculator entries require signs to indicate direction."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "calculator"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q20",
+    "lessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "If periodic returns vary, the geometric mean is generally:",
+    "choices": [
+      "Greater than the arithmetic mean",
+      "Equal to or below the arithmetic mean",
+      "Unrelated to the arithmetic mean"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "For valid return series, volatility drag makes the geometric mean no greater than the arithmetic mean; they are equal when returns are constant.",
+    "incorrectChoiceExplanations": [
+      "Compounding variability does not raise the geometric mean above the arithmetic mean.",
+      "Correct.",
+      "The two measures have a known ordering."
+    ],
+    "relatedFormulaIds": [
+      "arithmetic-mean",
+      "geometric-mean"
+    ],
+    "tags": [
+      "averages"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q21",
+    "lessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A bond is bought for 980, pays 35, and is sold for 1,010. Its holding-period return is closest to:",
+    "choices": [
+      "6.63%",
+      "10.20%",
+      "3.06%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "(1,010 − 980 + 35) / 980 = 6.63%.",
+    "incorrectChoiceExplanations": [
+      "Correct; both price change and coupon are included.",
+      "10.20% uses neither the correct numerator nor beginning-value base.",
+      "3.06% includes only the price change."
+    ],
+    "relatedFormulaIds": [
+      "total-return-02"
+    ],
+    "tags": [
+      "hpr"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q22",
+    "lessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "A share rises from 64 to 68. Its price return is:",
+    "choices": [
+      "8.75%",
+      "10.63%",
+      "6.25%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "(68 − 64) / 64 = 6.25%.",
+    "incorrectChoiceExplanations": [
+      "8.75% would include the 1.60 dividend from the lesson example.",
+      "10.63% does not use the correct beginning-price denominator.",
+      "Correct; price return excludes distributions."
+    ],
+    "relatedFormulaIds": [
+      "price-return-02"
+    ],
+    "tags": [
+      "components"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q23",
+    "lessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "A 1.60 dividend on a beginning share price of 64 produces an income return of:",
+    "choices": [
+      "2.50%",
+      "4.00%",
+      "1.60%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Income return = 1.60 / 64 = 2.50%.",
+    "incorrectChoiceExplanations": [
+      "Correct; income is divided by beginning value.",
+      "4% confuses the dividend with the price change.",
+      "This treats the currency amount as a percentage."
+    ],
+    "relatedFormulaIds": [
+      "income-return-02"
+    ],
+    "tags": [
+      "components"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q24",
+    "lessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "A share begins at 64, ends at 68, and pays 1.60. Total return is:",
+    "choices": [
+      "8.75%",
+      "11.25%",
+      "6.25%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "(68 − 64 + 1.60) / 64 = 8.75%.",
+    "incorrectChoiceExplanations": [
+      "Correct; it combines the 6.25% price and 2.50% income returns.",
+      "11.25% double-counts part of the gain.",
+      "6.25% is price return only."
+    ],
+    "relatedFormulaIds": [
+      "total-return-02"
+    ],
+    "tags": [
+      "total"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q25",
+    "lessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A portfolio starts at 200,000, ends at 218,000 before fees, and pays a 2,000 ending fee. Net return is:",
+    "choices": [
+      "9%",
+      "10%",
+      "8%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Net ending wealth is 216,000, so net return is 216,000 / 200,000 − 1 = 8%.",
+    "incorrectChoiceExplanations": [
+      "9% is gross return before the fee.",
+      "10% incorrectly adds the fee to performance.",
+      "Correct; the ending fee is removed before calculating return."
+    ],
+    "relatedFormulaIds": [
+      "net-return-02"
+    ],
+    "tags": [
+      "fees"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q26",
+    "lessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Nominal return is 4% and inflation is 6%. Exact real return is closest to:",
+    "choices": [
+      "−1.89%",
+      "10.00%",
+      "−2.00%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "1.04 / 1.06 − 1 = −1.89%.",
+    "incorrectChoiceExplanations": [
+      "Correct; exact real return uses wealth relatives.",
+      "10% incorrectly adds return and inflation.",
+      "−2% is the approximation, not the exact result."
+    ],
+    "relatedFormulaIds": [
+      "exact-real-return-02"
+    ],
+    "tags": [
+      "real"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q27",
+    "lessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Real return most directly measures growth in:",
+    "choices": [
+      "Purchasing power",
+      "Currency units before inflation",
+      "Gross assets before fees"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Real return removes inflation and measures purchasing-power growth.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "That describes nominal return.",
+      "Gross assets concern fees, not inflation."
+    ],
+    "relatedFormulaIds": [
+      "exact-real-return-02"
+    ],
+    "tags": [
+      "real"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q28",
+    "lessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "An investor contributes 75 and borrows 25 to buy an asset for 100. It ends at 108 and debt repayment is 26. Equity return is closest to:",
+    "choices": [
+      "10.67%",
+      "8.00%",
+      "9.33%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Ending equity is 108 − 26 = 82; (82 − 75) / 75 = 9.33%.",
+    "incorrectChoiceExplanations": [
+      "10.67% ignores part of the financing cost.",
+      "8% is the asset return and ignores leverage.",
+      "Correct; financing cost is included in debt repayment."
+    ],
+    "relatedFormulaIds": [
+      "leveraged-return-02"
+    ],
+    "tags": [
+      "leverage"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q29",
+    "lessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Leverage increases equity sensitivity to:",
+    "choices": [
+      "Gains only",
+      "Losses only",
+      "Both gains and losses"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "A smaller equity base magnifies favorable and adverse asset movements.",
+    "incorrectChoiceExplanations": [
+      "Leverage also magnifies losses.",
+      "Leverage can magnify gains as well.",
+      "Correct; leverage is not an upside-only effect."
+    ],
+    "relatedFormulaIds": [
+      "leveraged-return-02"
+    ],
+    "tags": [
+      "leverage"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q30",
+    "lessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "The arithmetic mean of +30%, −10%, and +5% is:",
+    "choices": [
+      "7.11%",
+      "8.00%",
+      "8.33%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "(30 − 10 + 5) / 3 = 8.33%.",
+    "incorrectChoiceExplanations": [
+      "7.11% is approximately the geometric mean.",
+      "8% is not the sum divided by three.",
+      "Correct; arithmetic mean is the simple average."
+    ],
+    "relatedFormulaIds": [
+      "arithmetic-return-02"
+    ],
+    "tags": [
+      "averages"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q31",
+    "lessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "The return that describes a constant compound growth rate is the:",
+    "choices": [
+      "Arithmetic mean",
+      "Geometric mean",
+      "Income return"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Geometric mean reproduces terminal wealth through compounding.",
+    "incorrectChoiceExplanations": [
+      "Arithmetic mean describes an average one-period observation.",
+      "Correct.",
+      "Income return measures distributions only."
+    ],
+    "relatedFormulaIds": [
+      "geometric-return-02"
+    ],
+    "tags": [
+      "averages"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q32",
+    "lessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "For a varying valid return series, arithmetic mean is generally:",
+    "choices": [
+      "Below geometric mean",
+      "Equal to or above geometric mean",
+      "Always equal to geometric mean"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Volatility drag makes geometric mean no greater than arithmetic mean; equality occurs for constant returns.",
+    "incorrectChoiceExplanations": [
+      "The ordering is reversed.",
+      "Correct.",
+      "They are equal only when periodic returns do not vary."
+    ],
+    "relatedFormulaIds": [
+      "arithmetic-return-02",
+      "geometric-return-02"
+    ],
+    "tags": [
+      "averages"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q33",
+    "lessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Returns of +12%, −7%, and +4% produce a cumulative return closest to:",
+    "choices": [
+      "9.00%",
+      "9.36%",
+      "8.33%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "1.12 × 0.93 × 1.04 − 1 = 8.3264%.",
+    "incorrectChoiceExplanations": [
+      "9% simply adds the three rates.",
+      "9.36% uses an incorrect interaction calculation.",
+      "Correct; period wealth relatives are compounded."
+    ],
+    "relatedFormulaIds": [
+      "multi-period-return-02"
+    ],
+    "tags": [
+      "multi-period"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q34",
+    "lessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "A 21% cumulative return over two years is equivalent to an annual compound return of:",
+    "choices": [
+      "10.00%",
+      "10.50%",
+      "21.00%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "1.21^(1/2) − 1 = 10%.",
+    "incorrectChoiceExplanations": [
+      "Correct; 1.10 squared equals 1.21.",
+      "10.5% divides by two and ignores compounding.",
+      "21% is the entire two-year return."
+    ],
+    "relatedFormulaIds": [
+      "annualized-return-02"
+    ],
+    "tags": [
+      "annualized"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q35",
+    "lessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Annualizing a short-period return primarily provides:",
+    "choices": [
+      "A guaranteed next-year return",
+      "An equivalent yearly rate under the stated compounding convention",
+      "A measure with no assumptions"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Annualization scales a return to a yearly convention; it does not guarantee repetition.",
+    "incorrectChoiceExplanations": [
+      "Annualization is not a forecast guarantee.",
+      "Correct.",
+      "The calculation assumes a scaling or compounding convention."
+    ],
+    "relatedFormulaIds": [
+      "annualized-return-02"
+    ],
+    "tags": [
+      "annualized"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q36",
+    "lessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Which measure is an internal rate of return on actual investor cash flows?",
+    "choices": [
+      "Arithmetic return",
+      "Money-weighted return",
+      "Time-weighted return"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Money-weighted return solves for the IRR of dated investor cash flows.",
+    "incorrectChoiceExplanations": [
+      "Arithmetic return is a simple average.",
+      "Correct.",
+      "Time-weighted return links subperiod performance."
+    ],
+    "relatedFormulaIds": [
+      "money-weighted-return-02"
+    ],
+    "tags": [
+      "mwr"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q37",
+    "lessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "A manager does not control client contributions. The generally more appropriate performance measure is:",
+    "choices": [
+      "Nominal income return",
+      "Money-weighted return",
+      "Time-weighted return"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "TWR reduces the impact of external cash-flow timing outside the manager's control.",
+    "incorrectChoiceExplanations": [
+      "Nominal income return does not measure full manager performance.",
+      "MWR is sensitive to contribution amount and timing.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [
+      "time-weighted-return-02"
+    ],
+    "tags": [
+      "twr"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q38",
+    "lessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Subperiod returns are +8% and −3%. TWR for the full period is:",
+    "choices": [
+      "2.50%",
+      "4.76%",
+      "5.00%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "1.08 × 0.97 − 1 = 4.76%.",
+    "incorrectChoiceExplanations": [
+      "2.5% is the arithmetic mean, not full-period TWR.",
+      "Correct; subperiod wealth relatives are linked.",
+      "5% adds returns and omits interaction."
+    ],
+    "relatedFormulaIds": [
+      "time-weighted-return-02"
+    ],
+    "tags": [
+      "twr"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q39",
+    "lessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Cash flows are −100 now, −50 in one year, and +176 in two years. The annual money-weighted return is:",
+    "choices": [
+      "8%",
+      "10%",
+      "12%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "At 10%, −100 − 50/1.10 + 176/1.10² = 0.",
+    "incorrectChoiceExplanations": [
+      "At 8%, the discounted cash flows do not net to zero.",
+      "Correct; 10% is the IRR.",
+      "At 12%, the discounted terminal proceeds are too small to offset contributions."
+    ],
+    "relatedFormulaIds": [
+      "money-weighted-return-02"
+    ],
+    "tags": [
+      "mwr"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q40",
+    "lessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A foreign asset earns 9% while its currency depreciates 6%. Domestic return is closest to:",
+    "choices": [
+      "2.46%",
+      "3.00%",
+      "15.54%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "1.09 × 0.94 − 1 = 2.46%.",
+    "incorrectChoiceExplanations": [
+      "Correct; currency depreciation is entered as −6%.",
+      "3% is only the additive approximation.",
+      "15.54% incorrectly treats depreciation as appreciation."
+    ],
+    "relatedFormulaIds": [
+      "foreign-currency-return-02"
+    ],
+    "tags": [
+      "currency"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q41",
+    "lessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Foreign-currency depreciation, all else equal, has what effect on a domestic investor's return?",
+    "choices": [
+      "Reduces it",
+      "Leaves it unchanged",
+      "Always makes it negative"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Depreciation lowers the domestic value of foreign proceeds, although a strong asset gain may keep total return positive.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "Exchange-rate translation changes domestic wealth.",
+      "It reduces return but need not make the combined result negative."
+    ],
+    "relatedFormulaIds": [
+      "foreign-currency-return-02"
+    ],
+    "tags": [
+      "currency"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q42",
+    "lessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Required return is 8.5% and the reference risk-free rate is 3.0%. Risk premium is:",
+    "choices": [
+      "3.0%",
+      "5.5%",
+      "11.5%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "8.5% − 3.0% = 5.5%.",
+    "incorrectChoiceExplanations": [
+      "3% is the reference risk-free rate itself.",
+      "Correct; the premium is the spread.",
+      "11.5% incorrectly adds the rates."
+    ],
+    "relatedFormulaIds": [
+      "risk-premium-02"
+    ],
+    "tags": [
+      "required"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q43",
+    "lessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Required return is best described as the:",
+    "choices": [
+      "Guaranteed realized return",
+      "Minimum expected return demanded for the stated risk",
+      "Return after every possible tax"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Required return is an investor's minimum expected compensation for time and risk.",
+    "incorrectChoiceExplanations": [
+      "A required return is not guaranteed or already realized.",
+      "Correct.",
+      "Its definition is not an after-tax calculation."
+    ],
+    "relatedFormulaIds": [
+      "required-return-02"
+    ],
+    "tags": [
+      "required"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q44",
+    "lessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "An analyst wants the investor's growth after inflation and stated fees. The most relevant combination is:",
+    "choices": [
+      "Price return",
+      "Gross nominal return",
+      "Net real return"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Net addresses fees and real addresses purchasing power.",
+    "incorrectChoiceExplanations": [
+      "Price return also omits income and does not adjust fees or inflation.",
+      "Gross nominal return ignores both fee drag and inflation.",
+      "Correct; both requested adjustments are reflected."
+    ],
+    "relatedFormulaIds": [
+      "net-return-02",
+      "exact-real-return-02"
+    ],
+    "tags": [
+      "selection"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q45",
+    "lessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Which calculation correctly handles three consecutive period returns?",
+    "choices": [
+      "Add the returns",
+      "Multiply their wealth relatives and subtract one",
+      "Average ending values"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Multi-period performance compounds: Π(1 + Rt) − 1.",
+    "incorrectChoiceExplanations": [
+      "Addition omits interaction among periods.",
+      "Correct; wealth relatives preserve compounding.",
+      "Average ending values do not produce a cumulative return."
+    ],
+    "relatedFormulaIds": [
+      "multi-period-return-02"
+    ],
+    "tags": [
+      "multi-period"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q-lm1r-01",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "lessonSectionId": "introduction",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A share begins at 80, ends at 86, and pays a distribution of 2. What is its holding-period return?",
+    "choices": [
+      "10.00%",
+      "7.50%",
+      "9.30%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "HPR=(86−80+2)/80=10.00%. The beginning value is the denominator.",
+    "incorrectChoiceExplanations": [
+      "Correct. HPR=(86−80+2)/80=10.00%. The beginning value is the denominator.",
+      "Incorrect. 7.50% does not follow the required calculation, classification, or interpretation. HPR=(86−80+2)/80=10.00%. The beginning value is the denominator.",
+      "Incorrect. 9.30% does not follow the required calculation, classification, or interpretation. HPR=(86−80+2)/80=10.00%. The beginning value is the denominator."
+    ],
+    "relatedFormulaIds": [
+      "holding-period-return"
+    ],
+    "tags": [
+      "qm-lm1",
+      "holding-period-return",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm1r-02",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "lessonSectionId": "introduction",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A security rises from 125 to 132 with no cash distribution. Its price return is closest to:",
+    "choices": [
+      "5.30%",
+      "7.20%",
+      "5.60%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Price return=(132−125)/125=5.60%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 5.30% does not follow the required calculation, classification, or interpretation. Price return=(132−125)/125=5.60%.",
+      "Incorrect. 7.20% does not follow the required calculation, classification, or interpretation. Price return=(132−125)/125=5.60%.",
+      "Correct. Price return=(132−125)/125=5.60%."
+    ],
+    "relatedFormulaIds": [
+      "price-return"
+    ],
+    "tags": [
+      "qm-lm1",
+      "price-return",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm1r-03",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "lessonSectionId": "introduction",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "An investment begins at 50 and distributes 1.50 during the period. Its income return is:",
+    "choices": [
+      "4.50%",
+      "3.00%",
+      "2.91%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Income return=1.50/50=3.00%; ending value is irrelevant to this component.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 4.50% does not follow the required calculation, classification, or interpretation. Income return=1.50/50=3.00%; ending value is irrelevant to this component.",
+      "Correct. Income return=1.50/50=3.00%; ending value is irrelevant to this component.",
+      "Incorrect. 2.91% does not follow the required calculation, classification, or interpretation. Income return=1.50/50=3.00%; ending value is irrelevant to this component."
+    ],
+    "relatedFormulaIds": [
+      "income-return"
+    ],
+    "tags": [
+      "qm-lm1",
+      "income-return",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm1r-04",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A bond begins at 102, ends at 98, and pays a coupon of 3. Its total holding-period return is closest to:",
+    "choices": [
+      "−0.98%",
+      "−3.92%",
+      "3.06%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "HPR=(98−102+3)/102=−1/102=−0.98%. The coupon offsets most, but not all, of the price loss.",
+    "incorrectChoiceExplanations": [
+      "Correct. HPR=(98−102+3)/102=−1/102=−0.98%. The coupon offsets most, but not all, of the price loss.",
+      "Incorrect. −3.92% does not follow the required calculation, classification, or interpretation. HPR=(98−102+3)/102=−1/102=−0.98%. The coupon offsets most, but not all, of the price loss.",
+      "Incorrect. 3.06% does not follow the required calculation, classification, or interpretation. HPR=(98−102+3)/102=−1/102=−0.98%. The coupon offsets most, but not all, of the price loss."
+    ],
+    "relatedFormulaIds": [
+      "holding-period-return"
+    ],
+    "tags": [
+      "qm-lm1",
+      "sign-trap",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm1r-05",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "lessonSectionId": "introduction",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A stock has a −4% price return and a 2.5% income return. Its total return is:",
+    "choices": [
+      "−6.5%",
+      "1.5%",
+      "−1.5%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "For components measured on the same beginning-value base, total return is −4%+2.5%=−1.5%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. −6.5% does not follow the required calculation, classification, or interpretation. For components measured on the same beginning-value base, total return is −4%+2.5%=−1.5%.",
+      "Incorrect. 1.5% does not follow the required calculation, classification, or interpretation. For components measured on the same beginning-value base, total return is −4%+2.5%=−1.5%.",
+      "Correct. For components measured on the same beginning-value base, total return is −4%+2.5%=−1.5%."
+    ],
+    "relatedFormulaIds": [
+      "price-return",
+      "income-return"
+    ],
+    "tags": [
+      "qm-lm1",
+      "return-decomposition",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm1r-06",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A nominal return is 9% and inflation is 4%. The exact real return is closest to:",
+    "choices": [
+      "13.36%",
+      "4.81%",
+      "5.00%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Exact real return=1.09/1.04−1=4.81%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 13.36% does not follow the required calculation, classification, or interpretation. Exact real return=1.09/1.04−1=4.81%.",
+      "Correct. Exact real return=1.09/1.04−1=4.81%.",
+      "Incorrect. 5.00% does not follow the required calculation, classification, or interpretation. Exact real return=1.09/1.04−1=4.81%."
+    ],
+    "relatedFormulaIds": [
+      "exact-real-return"
+    ],
+    "tags": [
+      "qm-lm1",
+      "real-return",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm1r-07",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "lessonSectionId": "introduction",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "When nominal return is 6.2% and inflation is 2.0%, the approximate real return is:",
+    "choices": [
+      "4.2%",
+      "4.12%",
+      "8.2%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The approximation subtracts inflation: 6.2%−2.0%=4.2%.",
+    "incorrectChoiceExplanations": [
+      "Correct. The approximation subtracts inflation: 6.2%−2.0%=4.2%.",
+      "Incorrect. 4.12% does not follow the required calculation, classification, or interpretation. The approximation subtracts inflation: 6.2%−2.0%=4.2%.",
+      "Incorrect. 8.2% does not follow the required calculation, classification, or interpretation. The approximation subtracts inflation: 6.2%−2.0%=4.2%."
+    ],
+    "relatedFormulaIds": [
+      "approximate-real-return"
+    ],
+    "tags": [
+      "qm-lm1",
+      "real-return",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm1r-08",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "lessonSectionId": "introduction",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Annual returns are 12%, −6%, and 9%. The arithmetic mean return is:",
+    "choices": [
+      "4.72%",
+      "15.00%",
+      "5.00%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Arithmetic mean=(12−6+9)/3=5.00%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 4.72% does not follow the required calculation, classification, or interpretation. Arithmetic mean=(12−6+9)/3=5.00%.",
+      "Incorrect. 15.00% does not follow the required calculation, classification, or interpretation. Arithmetic mean=(12−6+9)/3=5.00%.",
+      "Correct. Arithmetic mean=(12−6+9)/3=5.00%."
+    ],
+    "relatedFormulaIds": [
+      "arithmetic-mean"
+    ],
+    "tags": [
+      "qm-lm1",
+      "arithmetic-mean",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm1r-09",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Two annual returns are 20% and −10%. The geometric mean return is closest to:",
+    "choices": [
+      "8.00%",
+      "3.92%",
+      "5.00%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Geometric mean=sqrt(1.20×0.90)−1=sqrt(1.08)−1=3.92%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 8.00% does not follow the required calculation, classification, or interpretation. Geometric mean=sqrt(1.20×0.90)−1=sqrt(1.08)−1=3.92%.",
+      "Correct. Geometric mean=sqrt(1.20×0.90)−1=sqrt(1.08)−1=3.92%.",
+      "Incorrect. 5.00% does not follow the required calculation, classification, or interpretation. Geometric mean=sqrt(1.20×0.90)−1=sqrt(1.08)−1=3.92%."
+    ],
+    "relatedFormulaIds": [
+      "geometric-mean"
+    ],
+    "tags": [
+      "qm-lm1",
+      "geometric-mean",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm1r-10",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "An investment earns 8%, −3%, and 5% over three consecutive periods. Its cumulative return is closest to:",
+    "choices": [
+      "10.00%",
+      "10.33%",
+      "3.33%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Cumulative return=1.08×0.97×1.05−1=10.00% after rounding.",
+    "incorrectChoiceExplanations": [
+      "Correct. Cumulative return=1.08×0.97×1.05−1=10.00% after rounding.",
+      "Incorrect. 10.33% does not follow the required calculation, classification, or interpretation. Cumulative return=1.08×0.97×1.05−1=10.00% after rounding.",
+      "Incorrect. 3.33% does not follow the required calculation, classification, or interpretation. Cumulative return=1.08×0.97×1.05−1=10.00% after rounding."
+    ],
+    "relatedFormulaIds": [
+      "geometric-mean"
+    ],
+    "tags": [
+      "qm-lm1",
+      "multi-period-return",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm1r-11",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A six-month holding-period return is 4%. Assuming reinvestment at the same rate, the effective annualized return is:",
+    "choices": [
+      "8.00%",
+      "4.04%",
+      "8.16%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Annualized return=(1.04)^2−1=8.16%; simple doubling ignores compounding.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 8.00% does not follow the required calculation, classification, or interpretation. Annualized return=(1.04)^2−1=8.16%; simple doubling ignores compounding.",
+      "Incorrect. 4.04% does not follow the required calculation, classification, or interpretation. Annualized return=(1.04)^2−1=8.16%; simple doubling ignores compounding.",
+      "Correct. Annualized return=(1.04)^2−1=8.16%; simple doubling ignores compounding."
+    ],
+    "relatedFormulaIds": [
+      "geometric-mean"
+    ],
+    "tags": [
+      "qm-lm1",
+      "annualization",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm1r-12",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A value rises from 100 to 108. The continuously compounded return is closest to:",
+    "choices": [
+      "8.33%",
+      "7.70%",
+      "8.00%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Log return=ln(108/100)=7.70%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 8.33% does not follow the required calculation, classification, or interpretation. Log return=ln(108/100)=7.70%.",
+      "Correct. Log return=ln(108/100)=7.70%.",
+      "Incorrect. 8.00% does not follow the required calculation, classification, or interpretation. Log return=ln(108/100)=7.70%."
+    ],
+    "relatedFormulaIds": [
+      "continuous-return-01"
+    ],
+    "tags": [
+      "qm-lm1",
+      "log-return",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm1r-13",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "lessonSectionId": "introduction",
+    "difficulty": "hard",
+    "estimatedSeconds": 120,
+    "stem": "Assets of 150 are financed with 90 of equity and 60 of debt. Asset return is 8% and debt cost is 3%. Equity return is:",
+    "choices": [
+      "11.33%",
+      "8.00%",
+      "6.80%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Equity profit=0.08(150)−0.03(60)=10.2; 10.2/90=11.33%.",
+    "incorrectChoiceExplanations": [
+      "Correct. Equity profit=0.08(150)−0.03(60)=10.2; 10.2/90=11.33%.",
+      "Incorrect. 8.00% does not follow the required calculation, classification, or interpretation. Equity profit=0.08(150)−0.03(60)=10.2; 10.2/90=11.33%.",
+      "Incorrect. 6.80% does not follow the required calculation, classification, or interpretation. Equity profit=0.08(150)−0.03(60)=10.2; 10.2/90=11.33%."
+    ],
+    "relatedFormulaIds": [
+      "leveraged-equity-return-01"
+    ],
+    "tags": [
+      "qm-lm1",
+      "leverage",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm1r-14",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "lessonSectionId": "introduction",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Real risk-free rate is 1.5%, expected inflation is 2.5%, and combined risk premia are 3.0%. The additive required return estimate is:",
+    "choices": [
+      "5.5%",
+      "4.0%",
+      "7.0%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Required return estimate=1.5%+2.5%+3.0%=7.0%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 5.5% does not follow the required calculation, classification, or interpretation. Required return estimate=1.5%+2.5%+3.0%=7.0%.",
+      "Incorrect. 4.0% does not follow the required calculation, classification, or interpretation. Required return estimate=1.5%+2.5%+3.0%=7.0%.",
+      "Correct. Required return estimate=1.5%+2.5%+3.0%=7.0%."
+    ],
+    "relatedFormulaIds": [
+      "required-return-components-01"
+    ],
+    "tags": [
+      "qm-lm1",
+      "required-return",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm1r-15",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "lessonSectionId": "introduction",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "A risky asset requires 8.5% while the comparable risk-free return is 3.0%. Its risk premium is:",
+    "choices": [
+      "3.0%",
+      "5.5%",
+      "11.5%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Risk premium=required return−risk-free return=5.5%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 3.0% does not follow the required calculation, classification, or interpretation. Risk premium=required return−risk-free return=5.5%.",
+      "Correct. Risk premium=required return−risk-free return=5.5%.",
+      "Incorrect. 11.5% does not follow the required calculation, classification, or interpretation. Risk premium=required return−risk-free return=5.5%."
+    ],
+    "relatedFormulaIds": [
+      "risk-premium-02"
+    ],
+    "tags": [
+      "qm-lm1",
+      "risk-premium",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm1r-16",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A foreign asset gains 6% in local currency while the foreign currency gains 3% against the investor’s currency. Domestic-currency return is closest to:",
+    "choices": [
+      "9.18%",
+      "9.00%",
+      "3.00%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Domestic return=(1.06)(1.03)−1=9.18%.",
+    "incorrectChoiceExplanations": [
+      "Correct. Domestic return=(1.06)(1.03)−1=9.18%.",
+      "Incorrect. 9.00% does not follow the required calculation, classification, or interpretation. Domestic return=(1.06)(1.03)−1=9.18%.",
+      "Incorrect. 3.00% does not follow the required calculation, classification, or interpretation. Domestic return=(1.06)(1.03)−1=9.18%."
+    ],
+    "relatedFormulaIds": [
+      "foreign-currency-return"
+    ],
+    "tags": [
+      "qm-lm1",
+      "currency-return",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm1r-17",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "An analyst divides a period’s gain by ending value instead of beginning value. The resulting return is most likely:",
+    "choices": [
+      "a valid continuously compounded return",
+      "necessarily equal to income return",
+      "based on the wrong investment base"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "A simple holding-period return measures gain relative to capital committed at the beginning, not ending value.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. a valid continuously compounded return does not follow the required calculation, classification, or interpretation. A simple holding-period return measures gain relative to capital committed at the beginning, not ending value.",
+      "Incorrect. necessarily equal to income return does not follow the required calculation, classification, or interpretation. A simple holding-period return measures gain relative to capital committed at the beginning, not ending value.",
+      "Correct. A simple holding-period return measures gain relative to capital committed at the beginning, not ending value."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm1",
+      "denominator-trap",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm1r-18",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "lessonSectionId": "introduction",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A preferred share’s price is unchanged at 40 and it pays 2 during the year. Total return is:",
+    "choices": [
+      "2.0%",
+      "5.0%",
+      "0.0%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Price return is zero and income return=2/40=5%, so total return is 5%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 2.0% does not follow the required calculation, classification, or interpretation. Price return is zero and income return=2/40=5%, so total return is 5%.",
+      "Correct. Price return is zero and income return=2/40=5%, so total return is 5%.",
+      "Incorrect. 0.0% does not follow the required calculation, classification, or interpretation. Price return is zero and income return=2/40=5%, so total return is 5%."
+    ],
+    "relatedFormulaIds": [
+      "holding-period-return"
+    ],
+    "tags": [
+      "qm-lm1",
+      "income-return",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm1r-19",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "After a 25% loss, the gain required to restore the initial value is:",
+    "choices": [
+      "33.33%",
+      "25.00%",
+      "20.00%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "A value of 100 falls to 75; recovery requires 25/75=33.33%.",
+    "incorrectChoiceExplanations": [
+      "Correct. A value of 100 falls to 75; recovery requires 25/75=33.33%.",
+      "Incorrect. 25.00% does not follow the required calculation, classification, or interpretation. A value of 100 falls to 75; recovery requires 25/75=33.33%.",
+      "Incorrect. 20.00% does not follow the required calculation, classification, or interpretation. A value of 100 falls to 75; recovery requires 25/75=33.33%."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm1",
+      "asymmetry",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm1r-20",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "For a volatile multi-period return series with no external cash flows, which average best describes the constant compound growth rate?",
+    "choices": [
+      "Arithmetic mean",
+      "Income return",
+      "Geometric mean"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The geometric mean links wealth relatives and therefore represents constant compound growth.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. Arithmetic mean does not follow the required calculation, classification, or interpretation. The geometric mean links wealth relatives and therefore represents constant compound growth.",
+      "Incorrect. Income return does not follow the required calculation, classification, or interpretation. The geometric mean links wealth relatives and therefore represents constant compound growth.",
+      "Correct. The geometric mean links wealth relatives and therefore represents constant compound growth."
+    ],
+    "relatedFormulaIds": [
+      "geometric-mean"
+    ],
+    "tags": [
+      "qm-lm1",
+      "mean-selection",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm2r-01",
+    "lessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "lessonSectionId": "introduction",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "An equity begins at 60, ends at 64, and pays a dividend of 1.20. Its total return is closest to:",
+    "choices": [
+      "8.67%",
+      "6.67%",
+      "8.13%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Total return=(64−60+1.20)/60=8.67%.",
+    "incorrectChoiceExplanations": [
+      "Correct. Total return=(64−60+1.20)/60=8.67%.",
+      "Incorrect. 6.67% does not follow the required calculation, classification, or interpretation. Total return=(64−60+1.20)/60=8.67%.",
+      "Incorrect. 8.13% does not follow the required calculation, classification, or interpretation. Total return=(64−60+1.20)/60=8.67%."
+    ],
+    "relatedFormulaIds": [
+      "total-return-02"
+    ],
+    "tags": [
+      "qm-lm2",
+      "equity-return",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm2r-02",
+    "lessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A bond priced at 98 rises to 99 and pays a coupon of 4. Its holding-period total return is closest to:",
+    "choices": [
+      "4.08%",
+      "5.05%",
+      "5.10%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Total return=(99−98+4)/98=5.10%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 4.08% does not follow the required calculation, classification, or interpretation. Total return=(99−98+4)/98=5.10%.",
+      "Incorrect. 5.05% does not follow the required calculation, classification, or interpretation. Total return=(99−98+4)/98=5.10%.",
+      "Correct. Total return=(99−98+4)/98=5.10%."
+    ],
+    "relatedFormulaIds": [
+      "total-return-02"
+    ],
+    "tags": [
+      "qm-lm2",
+      "bond-return",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm2r-03",
+    "lessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "lessonSectionId": "introduction",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A price-return index rises from 1,250 to 1,300. Its reported index return is:",
+    "choices": [
+      "50.00%",
+      "4.00%",
+      "3.85%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Index price return=(1,300−1,250)/1,250=4.00%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 50.00% does not follow the required calculation, classification, or interpretation. Index price return=(1,300−1,250)/1,250=4.00%.",
+      "Correct. Index price return=(1,300−1,250)/1,250=4.00%.",
+      "Incorrect. 3.85% does not follow the required calculation, classification, or interpretation. Index price return=(1,300−1,250)/1,250=4.00%."
+    ],
+    "relatedFormulaIds": [
+      "price-return-02"
+    ],
+    "tags": [
+      "qm-lm2",
+      "indicator-return",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm2r-04",
+    "lessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "A total-return index exceeds its corresponding price-return index over the same period primarily because it:",
+    "choices": [
+      "includes constituent cash distributions",
+      "uses ending index level as the denominator",
+      "excludes reinvested distributions"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "A total-return index incorporates distributions, commonly assuming reinvestment; a price index captures price changes only.",
+    "incorrectChoiceExplanations": [
+      "Correct. A total-return index incorporates distributions, commonly assuming reinvestment; a price index captures price changes only.",
+      "Incorrect. uses ending index level as the denominator does not follow the required calculation, classification, or interpretation. A total-return index incorporates distributions, commonly assuming reinvestment; a price index captures price changes only.",
+      "Incorrect. excludes reinvested distributions does not follow the required calculation, classification, or interpretation. A total-return index incorporates distributions, commonly assuming reinvestment; a price index captures price changes only."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm2",
+      "index-return",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm2r-05",
+    "lessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "lessonSectionId": "introduction",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A fund earns 9% before a 1.2% fee charged on beginning assets. Its net return is:",
+    "choices": [
+      "10.2%",
+      "8.89%",
+      "7.8%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "On the same beginning-value base, net return=9.0%−1.2%=7.8%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 10.2% does not follow the required calculation, classification, or interpretation. On the same beginning-value base, net return=9.0%−1.2%=7.8%.",
+      "Incorrect. 8.89% does not follow the required calculation, classification, or interpretation. On the same beginning-value base, net return=9.0%−1.2%=7.8%.",
+      "Correct. On the same beginning-value base, net return=9.0%−1.2%=7.8%."
+    ],
+    "relatedFormulaIds": [
+      "net-return-02"
+    ],
+    "tags": [
+      "qm-lm2",
+      "gross-net",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm2r-06",
+    "lessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "lessonSectionId": "introduction",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "A pre-tax return is 10% and tax is 25% of investment income. The after-tax return is:",
+    "choices": [
+      "13.3%",
+      "7.5%",
+      "2.5%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "After-tax return=10%(1−0.25)=7.5%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 13.3% does not follow the required calculation, classification, or interpretation. After-tax return=10%(1−0.25)=7.5%.",
+      "Correct. After-tax return=10%(1−0.25)=7.5%.",
+      "Incorrect. 2.5% does not follow the required calculation, classification, or interpretation. After-tax return=10%(1−0.25)=7.5%."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm2",
+      "after-tax",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm2r-07",
+    "lessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "lessonSectionId": "introduction",
+    "difficulty": "hard",
+    "estimatedSeconds": 120,
+    "stem": "An unleveraged asset return is 7%. Debt equals 40% of asset value and costs 2%; equity is 60%. Equity return is closest to:",
+    "choices": [
+      "10.33%",
+      "7.00%",
+      "5.00%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "For assets of 100, profit after debt cost=7−0.8=6.2; 6.2/60=10.33%.",
+    "incorrectChoiceExplanations": [
+      "Correct. For assets of 100, profit after debt cost=7−0.8=6.2; 6.2/60=10.33%.",
+      "Incorrect. 7.00% does not follow the required calculation, classification, or interpretation. For assets of 100, profit after debt cost=7−0.8=6.2; 6.2/60=10.33%.",
+      "Incorrect. 5.00% does not follow the required calculation, classification, or interpretation. For assets of 100, profit after debt cost=7−0.8=6.2; 6.2/60=10.33%."
+    ],
+    "relatedFormulaIds": [
+      "leveraged-return-02"
+    ],
+    "tags": [
+      "qm-lm2",
+      "leveraged-return",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm2r-08",
+    "lessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Nominal return is 5% while inflation is 7%. Exact real return is closest to:",
+    "choices": [
+      "−2.00%",
+      "12.35%",
+      "−1.87%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Exact real return=1.05/1.07−1=−1.87%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. −2.00% does not follow the required calculation, classification, or interpretation. Exact real return=1.05/1.07−1=−1.87%.",
+      "Incorrect. 12.35% does not follow the required calculation, classification, or interpretation. Exact real return=1.05/1.07−1=−1.87%.",
+      "Correct. Exact real return=1.05/1.07−1=−1.87%."
+    ],
+    "relatedFormulaIds": [
+      "exact-real-return-02"
+    ],
+    "tags": [
+      "qm-lm2",
+      "nominal-real",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm2r-09",
+    "lessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A foreign bond earns 4% locally while its currency depreciates 6% against the investor’s currency. Domestic return is closest to:",
+    "choices": [
+      "10.24%",
+      "−2.24%",
+      "−2.00%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Domestic return=(1.04)(0.94)−1=−2.24%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 10.24% does not follow the required calculation, classification, or interpretation. Domestic return=(1.04)(0.94)−1=−2.24%.",
+      "Correct. Domestic return=(1.04)(0.94)−1=−2.24%.",
+      "Incorrect. −2.00% does not follow the required calculation, classification, or interpretation. Domestic return=(1.04)(0.94)−1=−2.24%."
+    ],
+    "relatedFormulaIds": [
+      "foreign-currency-return-02"
+    ],
+    "tags": [
+      "qm-lm2",
+      "currency-return",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm2r-10",
+    "lessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "lessonSectionId": "introduction",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "A bank deposit credits 3% interest and its principal value does not change. The return is best classified as:",
+    "choices": [
+      "income return",
+      "price return",
+      "leveraged return"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "With unchanged principal, the return comes from credited income rather than price appreciation.",
+    "incorrectChoiceExplanations": [
+      "Correct. With unchanged principal, the return comes from credited income rather than price appreciation.",
+      "Incorrect. price return does not follow the required calculation, classification, or interpretation. With unchanged principal, the return comes from credited income rather than price appreciation.",
+      "Incorrect. leveraged return does not follow the required calculation, classification, or interpretation. With unchanged principal, the return comes from credited income rather than price appreciation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm2",
+      "deposit-return",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm2r-11",
+    "lessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "lessonSectionId": "introduction",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A commodity position earns 6% from the spot-price change and 1% from collateral income, on the same initial base. Total return is:",
+    "choices": [
+      "6%",
+      "5%",
+      "7%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Total return combines price and income components measured on the same base: 6%+1%=7%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 6% does not follow the required calculation, classification, or interpretation. Total return combines price and income components measured on the same base: 6%+1%=7%.",
+      "Incorrect. 5% does not follow the required calculation, classification, or interpretation. Total return combines price and income components measured on the same base: 6%+1%=7%.",
+      "Correct. Total return combines price and income components measured on the same base: 6%+1%=7%."
+    ],
+    "relatedFormulaIds": [
+      "total-return-02"
+    ],
+    "tags": [
+      "qm-lm2",
+      "commodity-return",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm2r-12",
+    "lessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Which measure is most appropriate for comparing purchasing-power growth across countries with different inflation rates?",
+    "choices": [
+      "Gross return",
+      "Real return",
+      "Nominal return"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Real return removes inflation’s effect and therefore supports purchasing-power comparisons.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. Gross return does not follow the required calculation, classification, or interpretation. Real return removes inflation’s effect and therefore supports purchasing-power comparisons.",
+      "Correct. Real return removes inflation’s effect and therefore supports purchasing-power comparisons.",
+      "Incorrect. Nominal return does not follow the required calculation, classification, or interpretation. Real return removes inflation’s effect and therefore supports purchasing-power comparisons."
+    ],
+    "relatedFormulaIds": [
+      "exact-real-return-02"
+    ],
+    "tags": [
+      "qm-lm2",
+      "measure-selection",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm2r-13",
+    "lessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "lessonSectionId": "introduction",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Two portfolios hold the same assets, but one reports before management fees and one after fees. The first reports:",
+    "choices": [
+      "gross return",
+      "real return",
+      "after-tax return"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Gross return is measured before the specified fees; net return is after them.",
+    "incorrectChoiceExplanations": [
+      "Correct. Gross return is measured before the specified fees; net return is after them.",
+      "Incorrect. real return does not follow the required calculation, classification, or interpretation. Gross return is measured before the specified fees; net return is after them.",
+      "Incorrect. after-tax return does not follow the required calculation, classification, or interpretation. Gross return is measured before the specified fees; net return is after them."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm2",
+      "gross-net",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm2r-14",
+    "lessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "A return series includes an investor-controlled contribution immediately before a strong period. Which measure is most sensitive to that contribution?",
+    "choices": [
+      "Time-weighted return",
+      "Price return",
+      "Money-weighted return"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Money-weighted return reflects the size and timing of external cash flows; time weighting neutralizes them.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. Time-weighted return does not follow the required calculation, classification, or interpretation. Money-weighted return reflects the size and timing of external cash flows; time weighting neutralizes them.",
+      "Incorrect. Price return does not follow the required calculation, classification, or interpretation. Money-weighted return reflects the size and timing of external cash flows; time weighting neutralizes them.",
+      "Correct. Money-weighted return reflects the size and timing of external cash flows; time weighting neutralizes them."
+    ],
+    "relatedFormulaIds": [
+      "money-weighted-return-02"
+    ],
+    "tags": [
+      "qm-lm2",
+      "measure-selection",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm2r-15",
+    "lessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "A portfolio gains 12% over 18 months. Which additional information is necessary to report a compound annualized return?",
+    "choices": [
+      "The risk-free rate",
+      "The measurement period in years",
+      "The amount of income return only"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Annualization requires the cumulative return and elapsed time: (1+R)^(1/T)−1.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. The risk-free rate does not follow the required calculation, classification, or interpretation. Annualization requires the cumulative return and elapsed time: (1+R)^(1/T)−1.",
+      "Correct. Annualization requires the cumulative return and elapsed time: (1+R)^(1/T)−1.",
+      "Incorrect. The amount of income return only does not follow the required calculation, classification, or interpretation. Annualization requires the cumulative return and elapsed time: (1+R)^(1/T)−1."
+    ],
+    "relatedFormulaIds": [
+      "annualized-return-02"
+    ],
+    "tags": [
+      "qm-lm2",
+      "annualization",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  }
 ]

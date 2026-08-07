@@ -1,16 +1,30 @@
-# CFA PASS SYSTEM — Professional Edition
+
+
+
+
+
+# CFA PASS SYSTEM ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Professional Edition
 
 An independent, offline-first CFA Level I study platform built with React, TypeScript, Vite, and Tailwind CSS. It provides a scalable content engine for Markdown lessons, original practice questions, formula references, flashcards, search, and local progress tracking.
 
-> CFA PASS SYSTEM is not affiliated with or endorsed by CFA Institute. CFA® is a registered trademark owned by CFA Institute. Curriculum outcome references are clearly separated from independently written explanations and questions.
+> CFA PASS SYSTEM is not affiliated with or endorsed by CFA Institute. CFAÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â® is a registered trademark owned by CFA Institute. Curriculum outcome references are clearly separated from independently written explanations and questions.
 
 ## Current content status
 
-The application models all ten Level I topic groups. This milestone publishes one complete, independently written Quantitative Methods lesson: **Returns of Financial Assets and Instruments**, with 20 original questions, 20 flashcards, and nine formula records. All other topics are labeled **Content pending**; the application does not claim that 99 lessons are complete.
+The application models all ten Level I topic groups. Quantitative Methods v1.6.6 is verified and content-frozen across 11 official modules presented through 12 study lessons. Its public banks contain 545 official and 10 supplementary questions, 545 official and 10 supplementary flashcards, and 155 official and 10 supplementary formulas. Other topics remain pending or in progress.
 
 The original plain-HTML application is preserved under `legacy/html-prototype/`.
 
 The requested official 2027 topic-outline PDF was not present in the source repository or supplied attachment. If it is available lawfully, place the unmodified file at `public/docs/OFFICIAL_2027_LEVEL_I_TOPIC_OUTLINE.pdf`.
+
+## Documentation
+
+- [Architecture](docs/ARCHITECTURE.md)
+- [Developer guide](docs/DEVELOPER_GUIDE.md)
+- [Authoring guide](docs/AUTHORING_GUIDE.md)
+- [v1.5.1 release notes](docs/RELEASE_NOTES_v1.5.1.md)
+- [v1.6.0 release notes](docs/RELEASE_NOTES_v1.6.0.md)
+- [v1.6.0 release notes](docs/RELEASE_NOTES_v1.6.0.md)
 
 ## Technology
 
@@ -39,10 +53,11 @@ npm run preview
 npm run lint
 npm run test
 npm run validate-content
+npm run validate-quant-verification
 npm run check
 ```
 
-`npm run check` validates content, lints source, runs unit tests, and creates a production build.
+`npm run check` validates mocks, content, curriculum mapping, and Quantitative verification evidence; then it lints source, runs unit tests, and creates a production build.
 
 ## GitHub Pages deployment
 
@@ -105,7 +120,9 @@ Do not place untrusted HTML in Markdown. Rendering does not use `dangerouslySetI
 
 ### Question schema
 
-Each question has `id`, `lessonId`, `topicId`, `officialLearningOutcome`, `difficulty`, `estimatedSeconds`, `stem`, exactly three `choices`, `correctChoiceIndex`, `explanation`, three `incorrectChoiceExplanations`, `relatedFormulaIds`, and `tags`.
+Each question has `id`, `lessonId`, `topicId`, either `officialLearningOutcome` or `scopeStatement`, `difficulty`, `estimatedSeconds`, `stem`, exactly three `choices`, `correctChoiceIndex`, `explanation`, three `incorrectChoiceExplanations`, `relatedFormulaIds`, and `tags`.
+
+Modules 9ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“10 use independently authored `scopeStatement` curriculum mappings because authorized official outcome wording was unavailable. These statements are not official CFA Institute Learning Outcomes.
 
 ### Formula schema
 

@@ -1,0 +1,1247 @@
+[
+  {
+    "id": "fc11-01",
+    "lessonId": "quant-simulation-11",
+    "front": "Simulation",
+    "back": "Models uncertain inputs to produce a conditional outcome distribution.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-02",
+    "lessonId": "quant-simulation-11",
+    "front": "Deterministic model",
+    "back": "Uses one fixed input set and produces one outcome.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-03",
+    "lessonId": "quant-simulation-11",
+    "front": "Stochastic model",
+    "back": "Uses random variables and produces a distribution of outcomes.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-04",
+    "lessonId": "quant-simulation-11",
+    "front": "Pseudorandom number",
+    "back": "Algorithmic draw that mimics randomness and can be reproduced.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-05",
+    "lessonId": "quant-simulation-11",
+    "front": "Random seed",
+    "back": "Starting state that reproduces a pseudorandom sequence.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-06",
+    "lessonId": "quant-simulation-11",
+    "front": "Uniform draw",
+    "back": "Base draw on [0,1] used directly or transformed.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-07",
+    "lessonId": "quant-simulation-11",
+    "front": "Distribution transformation",
+    "back": "Maps base random draws into a chosen target distribution.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-08",
+    "lessonId": "quant-simulation-11",
+    "front": "Monte Carlo workflow",
+    "back": "Define objective and inputs, generate trials, summarize, validate, and interpret.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-09",
+    "lessonId": "quant-simulation-11",
+    "front": "Model input",
+    "back": "An assumption such as return, volatility, cash flow, or dependence.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-10",
+    "lessonId": "quant-simulation-11",
+    "front": "Distribution choice",
+    "back": "Should reflect support, tails, skewness, evidence, and decision purpose.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-11",
+    "lessonId": "quant-simulation-11",
+    "front": "Repeated trial",
+    "back": "One complete modeled outcome or path.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-12",
+    "lessonId": "quant-simulation-11",
+    "front": "Convergence",
+    "back": "Stabilization of estimates as valid trials increase.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-13",
+    "lessonId": "quant-simulation-11",
+    "front": "Law of large numbers",
+    "back": "Valid repeated averages tend toward the model-implied expectation.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-14",
+    "lessonId": "quant-simulation-11",
+    "front": "Simulation iterations",
+    "back": "More runs reduce Monte Carlo noise at a square-root rate.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-15",
+    "lessonId": "quant-simulation-11",
+    "front": "Monte Carlo sampling error",
+    "back": "Variation in output estimates caused by finitely many trials.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-16",
+    "lessonId": "quant-simulation-11",
+    "front": "Scenario generation",
+    "back": "Construct internally consistent values for multiple risk factors.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-17",
+    "lessonId": "quant-simulation-11",
+    "front": "Sensitivity analysis",
+    "back": "Changes one input at a time to isolate its effect.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-18",
+    "lessonId": "quant-simulation-11",
+    "front": "Scenario analysis",
+    "back": "Changes a coherent collection of assumptions together.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-19",
+    "lessonId": "quant-simulation-11",
+    "front": "Stress testing",
+    "back": "Applies an extreme adverse configuration to reveal vulnerability.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-20",
+    "lessonId": "quant-simulation-11",
+    "front": "Historical simulation",
+    "back": "Replays observed historical risk-factor vectors.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-21",
+    "lessonId": "quant-simulation-11",
+    "front": "Parametric simulation",
+    "back": "Draws from specified fitted probability distributions.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-22",
+    "lessonId": "quant-simulation-11",
+    "front": "Bootstrap",
+    "back": "Repeatedly resamples observed data with replacement.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-23",
+    "lessonId": "quant-simulation-11",
+    "front": "Resampling with replacement",
+    "back": "A sampled observation can appear multiple times or not at all.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-24",
+    "lessonId": "quant-simulation-11",
+    "front": "Bootstrap limitation",
+    "back": "Cannot repair bias or create information absent from the original sample.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-25",
+    "lessonId": "quant-simulation-11",
+    "front": "Correlation modeling",
+    "back": "Joint draws should reflect relevant co-movement assumptions.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-26",
+    "lessonId": "quant-simulation-11",
+    "front": "Dependence risk",
+    "back": "Wrong dependence can materially distort diversification and tails.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-27",
+    "lessonId": "quant-simulation-11",
+    "front": "Cholesky intuition",
+    "back": "A matrix transformation can impose correlations on independent draws.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-28",
+    "lessonId": "quant-simulation-11",
+    "front": "Simulated mean",
+    "back": "Arithmetic average across simulated outcomes.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-29",
+    "lessonId": "quant-simulation-11",
+    "front": "Simulated variance",
+    "back": "Sample dispersion across simulated outcomes.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-30",
+    "lessonId": "quant-simulation-11",
+    "front": "Simulation percentile",
+    "back": "Empirical quantile obtained by ordering trial results.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-31",
+    "lessonId": "quant-simulation-11",
+    "front": "Shortfall probability",
+    "back": "Fraction of trials falling below a defined target.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-32",
+    "lessonId": "quant-simulation-11",
+    "front": "Terminal value",
+    "back": "Ending value after all modeled returns and cash flows.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-33",
+    "lessonId": "quant-simulation-11",
+    "front": "Portfolio simulation",
+    "back": "Produces a modeled distribution of portfolio wealth or return.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-34",
+    "lessonId": "quant-simulation-11",
+    "front": "Option simulation",
+    "back": "Generates risk-factor paths, payoffs, discounting, and an average model value.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-35",
+    "lessonId": "quant-simulation-11",
+    "front": "Retirement simulation",
+    "back": "Estimates outcome ranges and probability of failing a planning target.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-36",
+    "lessonId": "quant-simulation-11",
+    "front": "Project valuation simulation",
+    "back": "Maps uncertain project inputs into a distribution of project value.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-37",
+    "lessonId": "quant-simulation-11",
+    "front": "Model risk",
+    "back": "Risk that the model omits or misrepresents important mechanisms.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-38",
+    "lessonId": "quant-simulation-11",
+    "front": "Input risk",
+    "back": "Risk that parameter estimates or assumptions are wrong.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-39",
+    "lessonId": "quant-simulation-11",
+    "front": "Distribution risk",
+    "back": "Risk from choosing an unsuitable probability family or tails.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-40",
+    "lessonId": "quant-simulation-11",
+    "front": "Correlation risk",
+    "back": "Risk from unstable or misspecified dependence assumptions.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-41",
+    "lessonId": "quant-simulation-11",
+    "front": "Implementation risk",
+    "back": "Risk from coding, units, timing, or data-processing errors.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-42",
+    "lessonId": "quant-simulation-11",
+    "front": "Garbage in, garbage out",
+    "back": "Invalid inputs and assumptions produce misleading output regardless of run count.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-43",
+    "lessonId": "quant-simulation-11",
+    "front": "Reproducibility",
+    "back": "Seeds, versioned inputs, and documented algorithms allow results to be recreated.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-44",
+    "lessonId": "quant-simulation-11",
+    "front": "Validation benchmark",
+    "back": "Special cases and independent checks help detect implementation errors.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc11-45",
+    "lessonId": "quant-simulation-11",
+    "front": "Simulation limitation",
+    "back": "Simulation is conditional on assumptions and does not predict the future with certainty.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "fc12-01",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "Financial data science",
+    "back": "Application of statistics, computing, and financial-domain knowledge to extract actionable insight from financial data.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-02",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "Fintech",
+    "back": "The convergence of finance and technology.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-03",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "Big data: volume",
+    "back": "The amount of data generated, captured, and stored.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-04",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "Big data: velocity",
+    "back": "The speed at which data arrive and must be processed.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-05",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "Big data: variety",
+    "back": "The diversity of data formats and sources.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-06",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "Big data: veracity",
+    "back": "The credibility and reliability of data and sources.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-07",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "Structured data",
+    "back": "Data organized into defined rows, columns, and fields.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-08",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "Semi-structured data",
+    "back": "Data with organizational markers that do not fit a conventional table.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-09",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "Unstructured data",
+    "back": "Data such as text, images, video, or audio without a predefined tabular schema.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-10",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "Alternative data",
+    "back": "Nontraditional information used to supplement market, economic, or accounting data.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-11",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "High-frequency data",
+    "back": "Granular observations recorded at extremely short intervals.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-12",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "Data quality review",
+    "back": "Check missing values, outliers, bias, volume, relevance, and suitability before modeling.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-13",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "Non-stationarity",
+    "back": "The data-generating behavior changes through time.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-14",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "Data lake",
+    "back": "A repository that can retain structured, semi-structured, and unstructured data in original form.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-15",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "Distributed computing",
+    "back": "Processing large tasks across multiple machines.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-16",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "Machine learning",
+    "back": "Algorithms learn patterns from data to generate structure, decisions, or predictions.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-17",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "Supervised learning",
+    "back": "Learning from labeled inputs and target outputs.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-18",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "Unsupervised learning",
+    "back": "Finding structure in data without predefined target labels.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-19",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "Reinforcement learning",
+    "back": "Learning actions through rewards and penalties from an environment.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-20",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "Deep learning",
+    "back": "Machine learning using multilayer neural networks.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-21",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "Training set",
+    "back": "Fits model parameters and is usually the largest split.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-22",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "Validation set",
+    "back": "Tunes model choices and hyperparameters.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-23",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "Test set",
+    "back": "Provides the final evaluation on untouched observations.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-24",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "Financial time-series split",
+    "back": "Preserve chronology; do not randomly place future data in training.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-25",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "Time-based validation",
+    "back": "Train on earlier observations and evaluate on later ones.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-26",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "Rolling-window validation",
+    "back": "Move fixed training and validation windows forward through time.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-27",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "Data leakage",
+    "back": "Information unavailable at prediction time improperly influences training or model selection.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-28",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "Overfitting",
+    "back": "Learning training noise so precisely that performance deteriorates on new data.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-29",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "Underfitting",
+    "back": "Failing to learn genuine structure in the training data.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-30",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "Black-box limitation",
+    "back": "The path from inputs to outputs is difficult to explain or challenge.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-31",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "Neural-network forward pass",
+    "back": "Inputs move through layers to generate a prediction.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-32",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "Backpropagation",
+    "back": "Loss information moves backward to determine weight adjustments.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-33",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "Gradient descent",
+    "back": "Parameters move iteratively in a direction that reduces loss.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-34",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "GAN",
+    "back": "A generator and discriminator compete to produce realistic synthetic data.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-35",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "Variational autoencoder",
+    "back": "Encodes data into a compact latent representation and reconstructs them.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-36",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "NLP",
+    "back": "Computational analysis of human language, including financial text and speech.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-37",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "LLM",
+    "back": "A language model trained on large text corpora to generate and interpret language.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-38",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "LLM hallucination",
+    "back": "Plausible output that lacks factual or source support.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-39",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "LLM control",
+    "back": "Verify claims against authoritative sources and require accountable human approval.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-40",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": false,
+    "front": "Financial application",
+    "back": "AI and ML can support trading, risk, fraud detection, research, and personalized portfolio management.",
+    "tags": [
+      "data-ai",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-41",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": true,
+    "front": "SUPPLEMENTARY — Accuracy",
+    "back": "(TP+TN)/(TP+FP+TN+FN).",
+    "tags": [
+      "data-ai",
+      "supplementary",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-42",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": true,
+    "front": "SUPPLEMENTARY — Precision",
+    "back": "TP/(TP+FP): purity of positive predictions.",
+    "tags": [
+      "data-ai",
+      "supplementary",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-43",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": true,
+    "front": "SUPPLEMENTARY — Recall",
+    "back": "TP/(TP+FN): share of actual positives detected.",
+    "tags": [
+      "data-ai",
+      "supplementary",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-44",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": true,
+    "front": "SUPPLEMENTARY — Specificity",
+    "back": "TN/(TN+FP): share of actual negatives correctly rejected.",
+    "tags": [
+      "data-ai",
+      "supplementary",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-45",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": true,
+    "front": "SUPPLEMENTARY — F1",
+    "back": "Harmonic mean of precision and recall.",
+    "tags": [
+      "data-ai",
+      "supplementary",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-46",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": true,
+    "front": "SUPPLEMENTARY — False-positive rate",
+    "back": "FP/(FP+TN), equal to 1−specificity.",
+    "tags": [
+      "data-ai",
+      "supplementary",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-47",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": true,
+    "front": "SUPPLEMENTARY — ROC curve",
+    "back": "True-positive rate plotted against false-positive rate across thresholds.",
+    "tags": [
+      "data-ai",
+      "supplementary",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-48",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": true,
+    "front": "SUPPLEMENTARY — AUC",
+    "back": "Threshold-independent ranking summary; 0.5 corresponds to random ranking.",
+    "tags": [
+      "data-ai",
+      "supplementary",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-49",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": true,
+    "front": "SUPPLEMENTARY — Class imbalance",
+    "back": "A dominant class can make accuracy look strong despite poor minority detection.",
+    "tags": [
+      "data-ai",
+      "supplementary",
+      "checkpoint-5-verified"
+    ]
+  },
+  {
+    "id": "fc12-50",
+    "lessonId": "quant-data-ai-12",
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": true,
+    "front": "SUPPLEMENTARY — Feature engineering control",
+    "back": "Fit transformations on training data only, then apply unchanged to held-out data.",
+    "tags": [
+      "data-ai",
+      "supplementary",
+      "checkpoint-5-verified"
+    ]
+  }
+]

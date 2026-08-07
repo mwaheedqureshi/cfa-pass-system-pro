@@ -5,3 +5,9 @@ coverage/
 *.local
 *.tsbuildinfo
 .DS_Store
+.local-research/
+src/private-data/mocks/
+public/private-mocks/
+CFA_PROCESSED/
+reference-material/
+*.ocr.pdf

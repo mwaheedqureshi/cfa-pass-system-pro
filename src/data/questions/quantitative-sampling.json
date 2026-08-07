@@ -1,0 +1,1453 @@
+[
+  {
+    "id": "q08-01",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Compare probability and non-probability sampling methods and sources of sampling error.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Which item is a population parameter?",
+    "choices": [
+      "The mean of a selected 100 accounts",
+      "The mean of all 2,000 eligible accounts",
+      "The formula used to compute a sample mean"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "A parameter describes the complete population.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “The mean of a selected 100 accounts” conflicts with the defining rule or calculation: A parameter describes the complete population.",
+      "Correct. A parameter describes the complete population.",
+      "Incorrect. “The formula used to compute a sample mean” conflicts with the defining rule or calculation: A parameter describes the complete population."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "sampling-estimation",
+      "concept",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-02",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Explain sampling distributions, the Central Limit Theorem, standard error, and estimator properties.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "An estimator is:",
+    "choices": [
+      "The unknown population value",
+      "A rule for using sample data to estimate a parameter",
+      "Only the realized numerical result"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "An estimator is the procedure; its output is the estimate.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “The unknown population value” conflicts with the defining rule or calculation: An estimator is the procedure; its output is the estimate.",
+      "Correct. An estimator is the procedure; its output is the estimate.",
+      "Incorrect. “Only the realized numerical result” conflicts with the defining rule or calculation: An estimator is the procedure; its output is the estimate."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "sampling-estimation",
+      "concept",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-03",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Compare probability and non-probability sampling methods and sources of sampling error.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Selecting 50 securities using random numbers from a complete list is:",
+    "choices": [
+      "Systematic sampling",
+      "Convenience sampling",
+      "Simple random sampling"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "A direct random mechanism over the full frame is simple random sampling.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “Systematic sampling” conflicts with the defining rule or calculation: A direct random mechanism over the full frame is simple random sampling.",
+      "Incorrect. “Convenience sampling” conflicts with the defining rule or calculation: A direct random mechanism over the full frame is simple random sampling.",
+      "Correct. A direct random mechanism over the full frame is simple random sampling."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "sampling-estimation",
+      "concept",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-04",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Compare probability and non-probability sampling methods and sources of sampling error.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "A random start followed by every 20th record describes:",
+    "choices": [
+      "Systematic sampling",
+      "Cluster sampling",
+      "Judgmental sampling"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Systematic sampling uses a random start and fixed interval.",
+    "incorrectChoiceExplanations": [
+      "Correct. Systematic sampling uses a random start and fixed interval.",
+      "Incorrect. “Cluster sampling” conflicts with the defining rule or calculation: Systematic sampling uses a random start and fixed interval.",
+      "Incorrect. “Judgmental sampling” conflicts with the defining rule or calculation: Systematic sampling uses a random start and fixed interval."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "sampling-estimation",
+      "concept",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-05",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Compare probability and non-probability sampling methods and sources of sampling error.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Randomly selecting observations within every industry group is:",
+    "choices": [
+      "Cluster sampling",
+      "Stratified random sampling",
+      "Convenience sampling"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Stratification divides the population and samples within each stratum.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “Cluster sampling” conflicts with the defining rule or calculation: Stratification divides the population and samples within each stratum.",
+      "Correct. Stratification divides the population and samples within each stratum.",
+      "Incorrect. “Convenience sampling” conflicts with the defining rule or calculation: Stratification divides the population and samples within each stratum."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "sampling-estimation",
+      "concept"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-06",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Compare probability and non-probability sampling methods and sources of sampling error.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Randomly selecting 5 branches and surveying every employee in them is:",
+    "choices": [
+      "Stratified sampling",
+      "Simple random sampling",
+      "Cluster sampling"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Whole naturally occurring groups are selected.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “Stratified sampling” conflicts with the defining rule or calculation: Whole naturally occurring groups are selected.",
+      "Incorrect. “Simple random sampling” conflicts with the defining rule or calculation: Whole naturally occurring groups are selected.",
+      "Correct. Whole naturally occurring groups are selected."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "sampling-estimation",
+      "concept"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-07",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Compare probability and non-probability sampling methods and sources of sampling error.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Surveying only investors who walk past a booth is:",
+    "choices": [
+      "Convenience sampling",
+      "Systematic sampling",
+      "Simple random sampling"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Availability rather than a known random mechanism drives convenience sampling.",
+    "incorrectChoiceExplanations": [
+      "Correct. Availability rather than a known random mechanism drives convenience sampling.",
+      "Incorrect. “Systematic sampling” conflicts with the defining rule or calculation: Availability rather than a known random mechanism drives convenience sampling.",
+      "Incorrect. “Simple random sampling” conflicts with the defining rule or calculation: Availability rather than a known random mechanism drives convenience sampling."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "sampling-estimation",
+      "concept"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-08",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Compare probability and non-probability sampling methods and sources of sampling error.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "An expert deliberately selects representative merger cases. This is:",
+    "choices": [
+      "Cluster sampling",
+      "Judgmental sampling",
+      "Systematic sampling"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Researcher expertise determines a judgmental sample.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “Cluster sampling” conflicts with the defining rule or calculation: Researcher expertise determines a judgmental sample.",
+      "Correct. Researcher expertise determines a judgmental sample.",
+      "Incorrect. “Systematic sampling” conflicts with the defining rule or calculation: Researcher expertise determines a judgmental sample."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "sampling-estimation",
+      "concept"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-09",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Compare probability and non-probability sampling methods and sources of sampling error.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Which risk is distinctive for systematic sampling?",
+    "choices": [
+      "No sampling frame is ever needed",
+      "Every unit must be surveyed",
+      "Periodicity matching the selection interval"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "A repeating ordering pattern can align with k and bias selection.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “No sampling frame is ever needed” conflicts with the defining rule or calculation: A repeating ordering pattern can align with k and bias selection.",
+      "Incorrect. “Every unit must be surveyed” conflicts with the defining rule or calculation: A repeating ordering pattern can align with k and bias selection.",
+      "Correct. A repeating ordering pattern can align with k and bias selection."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "sampling-estimation",
+      "concept"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-10",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Compare probability and non-probability sampling methods and sources of sampling error.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Which statement distinguishes stratified from cluster sampling?",
+    "choices": [
+      "Stratified samples within groups; cluster selects groups",
+      "Both always survey every population unit",
+      "Cluster sampling requires homogeneous strata"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Stratification draws within each stratum, while cluster designs select whole groups or stages.",
+    "incorrectChoiceExplanations": [
+      "Correct. Stratification draws within each stratum, while cluster designs select whole groups or stages.",
+      "Incorrect. “Both always survey every population unit” conflicts with the defining rule or calculation: Stratification draws within each stratum, while cluster designs select whole groups or stages.",
+      "Incorrect. “Cluster sampling requires homogeneous strata” conflicts with the defining rule or calculation: Stratification draws within each stratum, while cluster designs select whole groups or stages."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "sampling-estimation",
+      "concept"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-11",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Compare probability and non-probability sampling methods and sources of sampling error.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "The chance difference between a sample statistic and its population parameter is:",
+    "choices": [
+      "Measurement error",
+      "Sampling error",
+      "Coverage error"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Sampling error arises because only one of many possible samples is observed.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “Measurement error” conflicts with the defining rule or calculation: Sampling error arises because only one of many possible samples is observed.",
+      "Correct. Sampling error arises because only one of many possible samples is observed.",
+      "Incorrect. “Coverage error” conflicts with the defining rule or calculation: Sampling error arises because only one of many possible samples is observed."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "sampling-estimation",
+      "concept"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-12",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Compare probability and non-probability sampling methods and sources of sampling error.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "A database omits delisted funds from the target population. This is:",
+    "choices": [
+      "Sampling variability only",
+      "Randomization error",
+      "Coverage error"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The sampling frame fails to cover eligible units.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “Sampling variability only” conflicts with the defining rule or calculation: The sampling frame fails to cover eligible units.",
+      "Incorrect. “Randomization error” conflicts with the defining rule or calculation: The sampling frame fails to cover eligible units.",
+      "Correct. The sampling frame fails to cover eligible units."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "sampling-estimation",
+      "concept"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-13",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Compare probability and non-probability sampling methods and sources of sampling error.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Increasing sample size primarily reduces:",
+    "choices": [
+      "Sampling error",
+      "A consistently miscalibrated measurement",
+      "Nonresponse bias automatically"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Larger n reduces random sampling variability, not necessarily systematic errors.",
+    "incorrectChoiceExplanations": [
+      "Correct. Larger n reduces random sampling variability, not necessarily systematic errors.",
+      "Incorrect. “A consistently miscalibrated measurement” conflicts with the defining rule or calculation: Larger n reduces random sampling variability, not necessarily systematic errors.",
+      "Incorrect. “Nonresponse bias automatically” conflicts with the defining rule or calculation: Larger n reduces random sampling variability, not necessarily systematic errors."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "sampling-estimation",
+      "application"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-14",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Explain sampling distributions, the Central Limit Theorem, standard error, and estimator properties.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A sampling distribution describes:",
+    "choices": [
+      "All raw observations in one sample",
+      "A statistic across repeated possible samples",
+      "Only the population's individual values"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "It is the distribution of a statistic under repeated sampling.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “All raw observations in one sample” conflicts with the defining rule or calculation: It is the distribution of a statistic under repeated sampling.",
+      "Correct. It is the distribution of a statistic under repeated sampling.",
+      "Incorrect. “Only the population's individual values” conflicts with the defining rule or calculation: It is the distribution of a statistic under repeated sampling."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "sampling-estimation",
+      "application"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-15",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Explain sampling distributions, the Central Limit Theorem, standard error, and estimator properties.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "The Central Limit Theorem primarily concerns the distribution of:",
+    "choices": [
+      "Every individual observation",
+      "The population becoming normal",
+      "A standardized sample mean as n grows"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Under conditions, the sample mean's standardized sampling distribution approaches normality.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “Every individual observation” conflicts with the defining rule or calculation: Under conditions, the sample mean's standardized sampling distribution approaches normality.",
+      "Incorrect. “The population becoming normal” conflicts with the defining rule or calculation: Under conditions, the sample mean's standardized sampling distribution approaches normality.",
+      "Correct. Under conditions, the sample mean's standardized sampling distribution approaches normality."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "sampling-estimation",
+      "application"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-16",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Explain sampling distributions, the Central Limit Theorem, standard error, and estimator properties.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "If σ=15 and n=25, the standard error of x̄ is:",
+    "choices": [
+      "3",
+      "0.6",
+      "75"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "SE=σ/√n=15/5=3.",
+    "incorrectChoiceExplanations": [
+      "Correct. SE=σ/√n=15/5=3.",
+      "Incorrect. “0.6” conflicts with the defining rule or calculation: SE=σ/√n=15/5=3.",
+      "Incorrect. “75” conflicts with the defining rule or calculation: SE=σ/√n=15/5=3."
+    ],
+    "relatedFormulaIds": [
+      "standard-error-08"
+    ],
+    "tags": [
+      "sampling-estimation",
+      "application"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-17",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Explain sampling distributions, the Central Limit Theorem, standard error, and estimator properties.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "If s=24 and n=64, estimated standard error is:",
+    "choices": [
+      "0.375",
+      "3",
+      "8"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Estimated SE=s/√n=24/8=3.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “0.375” conflicts with the defining rule or calculation: Estimated SE=s/√n=24/8=3.",
+      "Correct. Estimated SE=s/√n=24/8=3.",
+      "Incorrect. “8” conflicts with the defining rule or calculation: Estimated SE=s/√n=24/8=3."
+    ],
+    "relatedFormulaIds": [
+      "standard-error-08"
+    ],
+    "tags": [
+      "sampling-estimation",
+      "application"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-18",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Explain sampling distributions, the Central Limit Theorem, standard error, and estimator properties.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "If sample size rises from 25 to 100, standard error becomes:",
+    "choices": [
+      "One-quarter as large",
+      "Twice as large",
+      "One-half as large"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "SE scales as 1/√n; √(25/100)=1/2.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “One-quarter as large” conflicts with the defining rule or calculation: SE scales as 1/√n; √(25/100)=1/2.",
+      "Incorrect. “Twice as large” conflicts with the defining rule or calculation: SE scales as 1/√n; √(25/100)=1/2.",
+      "Correct. SE scales as 1/√n; √(25/100)=1/2."
+    ],
+    "relatedFormulaIds": [
+      "standard-error-08"
+    ],
+    "tags": [
+      "sampling-estimation",
+      "application"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-19",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Explain sampling distributions, the Central Limit Theorem, standard error, and estimator properties.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "To halve standard error, sample size must be multiplied by:",
+    "choices": [
+      "4",
+      "2",
+      "8"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Because SE falls with √n, halving it requires four times n.",
+    "incorrectChoiceExplanations": [
+      "Correct. Because SE falls with √n, halving it requires four times n.",
+      "Incorrect. “2” conflicts with the defining rule or calculation: Because SE falls with √n, halving it requires four times n.",
+      "Incorrect. “8” conflicts with the defining rule or calculation: Because SE falls with √n, halving it requires four times n."
+    ],
+    "relatedFormulaIds": [
+      "standard-error-08"
+    ],
+    "tags": [
+      "sampling-estimation",
+      "application"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-20",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Explain sampling distributions, the Central Limit Theorem, standard error, and estimator properties.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Which statement about the CLT is correct?",
+    "choices": [
+      "It guarantees normal raw data",
+      "It can support approximate normality of x̄ without a normal population",
+      "It requires infinite population variance"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The CLT concerns the sample mean and generally requires finite variance plus suitable independence.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “It guarantees normal raw data” conflicts with the defining rule or calculation: The CLT concerns the sample mean and generally requires finite variance plus suitable independence.",
+      "Correct. The CLT concerns the sample mean and generally requires finite variance plus suitable independence.",
+      "Incorrect. “It requires infinite population variance” conflicts with the defining rule or calculation: The CLT concerns the sample mean and generally requires finite variance plus suitable independence."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "sampling-estimation",
+      "application"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-21",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Explain sampling distributions, the Central Limit Theorem, standard error, and estimator properties.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "An estimator whose expected value equals the parameter is:",
+    "choices": [
+      "Efficient by definition",
+      "Consistent only",
+      "Unbiased"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Unbiasedness means correct repeated-sample centering.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “Efficient by definition” conflicts with the defining rule or calculation: Unbiasedness means correct repeated-sample centering.",
+      "Incorrect. “Consistent only” conflicts with the defining rule or calculation: Unbiasedness means correct repeated-sample centering.",
+      "Correct. Unbiasedness means correct repeated-sample centering."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "sampling-estimation",
+      "application"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-22",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Explain sampling distributions, the Central Limit Theorem, standard error, and estimator properties.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Among two unbiased estimators, the one with lower variance is:",
+    "choices": [
+      "More efficient",
+      "More biased",
+      "Necessarily inconsistent"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Efficiency refers to lower sampling variance among comparable estimators.",
+    "incorrectChoiceExplanations": [
+      "Correct. Efficiency refers to lower sampling variance among comparable estimators.",
+      "Incorrect. “More biased” conflicts with the defining rule or calculation: Efficiency refers to lower sampling variance among comparable estimators.",
+      "Incorrect. “Necessarily inconsistent” conflicts with the defining rule or calculation: Efficiency refers to lower sampling variance among comparable estimators."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "sampling-estimation",
+      "application"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-23",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Explain sampling distributions, the Central Limit Theorem, standard error, and estimator properties.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "An estimator that converges in probability to the parameter as n grows is:",
+    "choices": [
+      "Convenient",
+      "Consistent",
+      "Systematic"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Consistency describes convergence with increasing information.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “Convenient” conflicts with the defining rule or calculation: Consistency describes convergence with increasing information.",
+      "Correct. Consistency describes convergence with increasing information.",
+      "Incorrect. “Systematic” conflicts with the defining rule or calculation: Consistency describes convergence with increasing information."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "sampling-estimation",
+      "application"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-24",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Explain sampling distributions, the Central Limit Theorem, standard error, and estimator properties.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Which statement is true?",
+    "choices": [
+      "An unbiased estimate always equals the parameter",
+      "Consistency guarantees accuracy at n=5",
+      "Unbiasedness is a repeated-sampling property"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Unbiasedness concerns the estimator's average across possible samples.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “An unbiased estimate always equals the parameter” conflicts with the defining rule or calculation: Unbiasedness concerns the estimator's average across possible samples.",
+      "Incorrect. “Consistency guarantees accuracy at n=5” conflicts with the defining rule or calculation: Unbiasedness concerns the estimator's average across possible samples.",
+      "Correct. Unbiasedness concerns the estimator's average across possible samples."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "sampling-estimation",
+      "application"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-25",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Calculate and interpret confidence intervals for a population mean using Z or Student's t.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A confidence interval has the general form:",
+    "choices": [
+      "Estimate ± critical value × standard error",
+      "Estimate ± population size",
+      "Standard deviation ± sample mean"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "A two-sided interval combines a point estimate and margin of error.",
+    "incorrectChoiceExplanations": [
+      "Correct. A two-sided interval combines a point estimate and margin of error.",
+      "Incorrect. “Estimate ± population size” conflicts with the defining rule or calculation: A two-sided interval combines a point estimate and margin of error.",
+      "Incorrect. “Standard deviation ± sample mean” conflicts with the defining rule or calculation: A two-sided interval combines a point estimate and margin of error."
+    ],
+    "relatedFormulaIds": [
+      "margin-of-error-08"
+    ],
+    "tags": [
+      "sampling-estimation",
+      "application"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-26",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Calculate and interpret confidence intervals for a population mean using Z or Student's t.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "For x̄=50, σ=10, n=100, a 95% Z interval using 1.96 is:",
+    "choices": [
+      "[40.00, 60.00]",
+      "[48.04, 51.96]",
+      "[49.80, 50.20]"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "SE=1 and margin=1.96, producing 50±1.96.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “[40.00, 60.00]” conflicts with the defining rule or calculation: SE=1 and margin=1.96, producing 50±1.96.",
+      "Correct. SE=1 and margin=1.96, producing 50±1.96.",
+      "Incorrect. “[49.80, 50.20]” conflicts with the defining rule or calculation: SE=1 and margin=1.96, producing 50±1.96."
+    ],
+    "relatedFormulaIds": [
+      "z-confidence-interval-08"
+    ],
+    "tags": [
+      "sampling-estimation",
+      "application"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-27",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Calculate and interpret confidence intervals for a population mean using Z or Student's t.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "If population variance is unknown for a normal sample of n=16, use:",
+    "choices": [
+      "Z with known σ",
+      "t with 16 degrees of freedom",
+      "t with 15 degrees of freedom"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Unknown σ calls for t and df=n−1=15.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “Z with known σ” conflicts with the defining rule or calculation: Unknown σ calls for t and df=n−1=15.",
+      "Incorrect. “t with 16 degrees of freedom” conflicts with the defining rule or calculation: Unknown σ calls for t and df=n−1=15.",
+      "Correct. Unknown σ calls for t and df=n−1=15."
+    ],
+    "relatedFormulaIds": [
+      "t-confidence-interval-08",
+      "degrees-freedom-08"
+    ],
+    "tags": [
+      "sampling-estimation",
+      "application"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-28",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Calculate and interpret confidence intervals for a population mean using Z or Student's t.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "For x̄=20, s=8, n=16, t*=2.131, the margin of error is:",
+    "choices": [
+      "4.262",
+      "8.524",
+      "1.066"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "SE=8/4=2 and margin=2.131×2=4.262.",
+    "incorrectChoiceExplanations": [
+      "Correct. SE=8/4=2 and margin=2.131×2=4.262.",
+      "Incorrect. “8.524” conflicts with the defining rule or calculation: SE=8/4=2 and margin=2.131×2=4.262.",
+      "Incorrect. “1.066” conflicts with the defining rule or calculation: SE=8/4=2 and margin=2.131×2=4.262."
+    ],
+    "relatedFormulaIds": [
+      "t-confidence-interval-08"
+    ],
+    "tags": [
+      "sampling-estimation",
+      "application"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-29",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Calculate and interpret confidence intervals for a population mean using Z or Student's t.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A one-sample t interval based on 30 observations has df:",
+    "choices": [
+      "30",
+      "29",
+      "28"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Degrees of freedom are n−1=29.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “30” conflicts with the defining rule or calculation: Degrees of freedom are n−1=29.",
+      "Correct. Degrees of freedom are n−1=29.",
+      "Incorrect. “28” conflicts with the defining rule or calculation: Degrees of freedom are n−1=29."
+    ],
+    "relatedFormulaIds": [
+      "degrees-freedom-08"
+    ],
+    "tags": [
+      "sampling-estimation",
+      "application"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-30",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Calculate and interpret confidence intervals for a population mean using Z or Student's t.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Holding all else constant, raising confidence level makes an interval:",
+    "choices": [
+      "Narrower",
+      "Unchanged",
+      "Wider"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Higher coverage requires a larger critical value and margin.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “Narrower” conflicts with the defining rule or calculation: Higher coverage requires a larger critical value and margin.",
+      "Incorrect. “Unchanged” conflicts with the defining rule or calculation: Higher coverage requires a larger critical value and margin.",
+      "Correct. Higher coverage requires a larger critical value and margin."
+    ],
+    "relatedFormulaIds": [
+      "margin-of-error-08"
+    ],
+    "tags": [
+      "sampling-estimation",
+      "application"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-31",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Calculate and interpret confidence intervals for a population mean using Z or Student's t.",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "Holding confidence and variability constant, increasing n makes an interval:",
+    "choices": [
+      "Narrower",
+      "Shift to zero",
+      "Wider"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "A larger sample lowers standard error.",
+    "incorrectChoiceExplanations": [
+      "Correct. A larger sample lowers standard error.",
+      "Incorrect. “Shift to zero” conflicts with the defining rule or calculation: A larger sample lowers standard error.",
+      "Incorrect. “Wider” conflicts with the defining rule or calculation: A larger sample lowers standard error."
+    ],
+    "relatedFormulaIds": [
+      "margin-of-error-08"
+    ],
+    "tags": [
+      "sampling-estimation",
+      "application"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-32",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Calculate and interpret confidence intervals for a population mean using Z or Student's t.",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "Holding n and confidence constant, greater variability makes an interval:",
+    "choices": [
+      "Narrower",
+      "Wider",
+      "Unaffected"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Standard error and margin rise with σ or s.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “Narrower” conflicts with the defining rule or calculation: Standard error and margin rise with σ or s.",
+      "Correct. Standard error and margin rise with σ or s.",
+      "Incorrect. “Unaffected” conflicts with the defining rule or calculation: Standard error and margin rise with σ or s."
+    ],
+    "relatedFormulaIds": [
+      "margin-of-error-08"
+    ],
+    "tags": [
+      "sampling-estimation",
+      "application"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-33",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Calculate and interpret confidence intervals for a population mean using Z or Student's t.",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "For x̄=100, σ=20, n=25, z*=1.645, the 90% interval is:",
+    "choices": [
+      "[80.00,120.00]",
+      "[98.36,101.65]",
+      "[93.42,106.58]"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "SE=4; margin=6.58; interval is 100±6.58.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “[80.00,120.00]” conflicts with the defining rule or calculation: SE=4; margin=6.58; interval is 100±6.58.",
+      "Incorrect. “[98.36,101.65]” conflicts with the defining rule or calculation: SE=4; margin=6.58; interval is 100±6.58.",
+      "Correct. SE=4; margin=6.58; interval is 100±6.58."
+    ],
+    "relatedFormulaIds": [
+      "z-confidence-interval-08"
+    ],
+    "tags": [
+      "sampling-estimation",
+      "application"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-34",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Calculate and interpret confidence intervals for a population mean using Z or Student's t.",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "For x̄=6%, σ=12%, n=36, z*=1.96, the lower bound is:",
+    "choices": [
+      "2.08%",
+      "6.00%",
+      "9.92%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "SE=2%, margin=3.92%, and lower bound=2.08%.",
+    "incorrectChoiceExplanations": [
+      "Correct. SE=2%, margin=3.92%, and lower bound=2.08%.",
+      "Incorrect. “6.00%” conflicts with the defining rule or calculation: SE=2%, margin=3.92%, and lower bound=2.08%.",
+      "Incorrect. “9.92%” conflicts with the defining rule or calculation: SE=2%, margin=3.92%, and lower bound=2.08%."
+    ],
+    "relatedFormulaIds": [
+      "z-confidence-interval-08"
+    ],
+    "tags": [
+      "sampling-estimation",
+      "application"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-35",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Calculate and interpret confidence intervals for a population mean using Z or Student's t.",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "A valid interpretation of a 95% confidence procedure is:",
+    "choices": [
+      "95% of observations lie in every interval",
+      "About 95% of intervals from repeated valid samples cover μ",
+      "There is a 95% posterior probability for μ without a prior"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Frequentist confidence is long-run coverage of the procedure.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “95% of observations lie in every interval” conflicts with the defining rule or calculation: Frequentist confidence is long-run coverage of the procedure.",
+      "Correct. Frequentist confidence is long-run coverage of the procedure.",
+      "Incorrect. “There is a 95% posterior probability for μ without a prior” conflicts with the defining rule or calculation: Frequentist confidence is long-run coverage of the procedure."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "sampling-estimation",
+      "application"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-36",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Compare probability and non-probability sampling methods and sources of sampling error.",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "Mock-style challenge: A narrow interval from a convenience sample may be misleading because:",
+    "choices": [
+      "Narrow intervals are mathematically impossible",
+      "Convenience samples always have zero variance",
+      "Selection bias is not captured by the usual margin of error"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Standard error does not repair unknown selection probabilities or selection bias.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “Narrow intervals are mathematically impossible” conflicts with the defining rule or calculation: Standard error does not repair unknown selection probabilities or selection bias.",
+      "Incorrect. “Convenience samples always have zero variance” conflicts with the defining rule or calculation: Standard error does not repair unknown selection probabilities or selection bias.",
+      "Correct. Standard error does not repair unknown selection probabilities or selection bias."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "sampling-estimation",
+      "application",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-37",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Calculate and interpret confidence intervals for a population mean using Z or Student's t.",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "Mock-style challenge: Known population variance directly indicates use of:",
+    "choices": [
+      "A Z critical value for a mean interval under its assumptions",
+      "A binomial critical value",
+      "Judgmental sampling"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The known-σ mean interval uses standard normal critical values.",
+    "incorrectChoiceExplanations": [
+      "Correct. The known-σ mean interval uses standard normal critical values.",
+      "Incorrect. “A binomial critical value” conflicts with the defining rule or calculation: The known-σ mean interval uses standard normal critical values.",
+      "Incorrect. “Judgmental sampling” conflicts with the defining rule or calculation: The known-σ mean interval uses standard normal critical values."
+    ],
+    "relatedFormulaIds": [
+      "z-confidence-interval-08"
+    ],
+    "tags": [
+      "sampling-estimation",
+      "application",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-38",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Calculate and interpret confidence intervals for a population mean using Z or Student's t.",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "Mock-style challenge: Compared with Z, a t critical value for the same two-sided confidence is generally:",
+    "choices": [
+      "Smaller at finite df",
+      "Larger at finite df",
+      "Always identical"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Heavier t tails require a larger cutoff at finite degrees of freedom.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “Smaller at finite df” conflicts with the defining rule or calculation: Heavier t tails require a larger cutoff at finite degrees of freedom.",
+      "Correct. Heavier t tails require a larger cutoff at finite degrees of freedom.",
+      "Incorrect. “Always identical” conflicts with the defining rule or calculation: Heavier t tails require a larger cutoff at finite degrees of freedom."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "sampling-estimation",
+      "application",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-39",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Compare probability and non-probability sampling methods and sources of sampling error.",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "Mock-style challenge: Which change does not necessarily reduce nonsampling error?",
+    "choices": [
+      "Clarifying survey wording",
+      "Training data collectors",
+      "Merely increasing sample size"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "A larger n does not automatically cure measurement or processing problems.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “Clarifying survey wording” conflicts with the defining rule or calculation: A larger n does not automatically cure measurement or processing problems.",
+      "Incorrect. “Training data collectors” conflicts with the defining rule or calculation: A larger n does not automatically cure measurement or processing problems.",
+      "Correct. A larger n does not automatically cure measurement or processing problems."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "sampling-estimation",
+      "application",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q08-40",
+    "lessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Explain sampling distributions, the Central Limit Theorem, standard error, and estimator properties.",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "Mock-style challenge: If x̄=40, s=5, n=25, the estimated standard error is:",
+    "choices": [
+      "1",
+      "5",
+      "0.2"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "SE=s/√n=5/5=1.",
+    "incorrectChoiceExplanations": [
+      "Correct. SE=s/√n=5/5=1.",
+      "Incorrect. “5” conflicts with the defining rule or calculation: SE=s/√n=5/5=1.",
+      "Incorrect. “0.2” conflicts with the defining rule or calculation: SE=s/√n=5/5=1."
+    ],
+    "relatedFormulaIds": [
+      "standard-error-08"
+    ],
+    "tags": [
+      "sampling-estimation",
+      "application",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q-v165-qm-lm7a-41",
+    "lessonId": "quant-sampling-08",
+    "studyLessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain the central limit theorem and the application of confidence intervals and sampling methodologies",
+    "lessonSectionId": "introduction",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "Mock-style challenge: A systematic sample starts at record 7 and selects every 20th record. A hidden 20-record reporting cycle mainly creates risk of:",
+    "choices": [
+      "periodicity bias",
+      "cluster sampling error",
+      "stratification bias"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "A sampling interval matching a data cycle can systematically distort selection.",
+    "incorrectChoiceExplanations": [
+      "Correct. A sampling interval matching a data cycle can systematically distort selection.",
+      "Incorrect. cluster sampling error does not satisfy the stated calculation or interpretation. A sampling interval matching a data cycle can systematically distort selection.",
+      "Incorrect. stratification bias does not satisfy the stated calculation or interpretation. A sampling interval matching a data cycle can systematically distort selection."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm7",
+      "checkpoint-3-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-v165-qm-lm7a-42",
+    "lessonId": "quant-sampling-08",
+    "studyLessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain the central limit theorem and the application of confidence intervals and sampling methodologies",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Mock-style challenge: A population standard deviation is 18 and n=81. The standard error of the sample mean is:",
+    "choices": [
+      "0.222",
+      "18.0",
+      "2.0"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "SE=18/√81=2.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 0.222 does not satisfy the stated calculation or interpretation. SE=18/√81=2.",
+      "Incorrect. 18.0 does not satisfy the stated calculation or interpretation. SE=18/√81=2.",
+      "Correct. SE=18/√81=2."
+    ],
+    "relatedFormulaIds": [
+      "standard-error-08"
+    ],
+    "tags": [
+      "qm-lm7",
+      "checkpoint-3-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-v165-qm-lm7a-43",
+    "lessonId": "quant-sampling-08",
+    "studyLessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain the central limit theorem and the application of confidence intervals and sampling methodologies",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Mock-style challenge: A sample mean is 50, known σ=12, n=36, and z*=1.96. The 95% interval is:",
+    "choices": [
+      "[48.04, 51.96]",
+      "[46.08, 53.92]",
+      "[38.00, 62.00]"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "SE=12/6=2; margin=1.96(2)=3.92.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. [48.04, 51.96] does not satisfy the stated calculation or interpretation. SE=12/6=2; margin=1.96(2)=3.92.",
+      "Correct. SE=12/6=2; margin=1.96(2)=3.92.",
+      "Incorrect. [38.00, 62.00] does not satisfy the stated calculation or interpretation. SE=12/6=2; margin=1.96(2)=3.92."
+    ],
+    "relatedFormulaIds": [
+      "z-confidence-interval-08"
+    ],
+    "tags": [
+      "qm-lm7",
+      "checkpoint-3-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-v165-qm-lm7a-44",
+    "lessonId": "quant-sampling-08",
+    "studyLessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain the central limit theorem and the application of confidence intervals and sampling methodologies",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Mock-style challenge: A normal sample has n=25 and unknown population variance. The one-sample mean interval uses:",
+    "choices": [
+      "Student’s t with 24 degrees of freedom",
+      "standard normal with 25 degrees of freedom",
+      "chi-square with 24 degrees of freedom"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Unknown variance estimated by s calls for t with n−1=24 df.",
+    "incorrectChoiceExplanations": [
+      "Correct. Unknown variance estimated by s calls for t with n−1=24 df.",
+      "Incorrect. standard normal with 25 degrees of freedom does not satisfy the stated calculation or interpretation. Unknown variance estimated by s calls for t with n−1=24 df.",
+      "Incorrect. chi-square with 24 degrees of freedom does not satisfy the stated calculation or interpretation. Unknown variance estimated by s calls for t with n−1=24 df."
+    ],
+    "relatedFormulaIds": [
+      "degrees-freedom-08",
+      "t-confidence-interval-08"
+    ],
+    "tags": [
+      "qm-lm7",
+      "checkpoint-3-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-v165-qm-lm7a-45",
+    "lessonId": "quant-sampling-08",
+    "studyLessonId": "quant-sampling-08",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain the central limit theorem and the application of confidence intervals and sampling methodologies",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Mock-style challenge: Holding confidence and variability fixed, reducing a confidence-interval margin by half requires approximately:",
+    "choices": [
+      "twice the sample size",
+      "half the sample size",
+      "four times the sample size"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Margin varies with 1/√n, so halving it requires quadrupling n.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. twice the sample size does not satisfy the stated calculation or interpretation. Margin varies with 1/√n, so halving it requires quadrupling n.",
+      "Incorrect. half the sample size does not satisfy the stated calculation or interpretation. Margin varies with 1/√n, so halving it requires quadrupling n.",
+      "Correct. Margin varies with 1/√n, so halving it requires quadrupling n."
+    ],
+    "relatedFormulaIds": [
+      "margin-of-error-08"
+    ],
+    "tags": [
+      "qm-lm7",
+      "checkpoint-3-verified",
+      "mock-style"
+    ]
+  }
+]

@@ -1,0 +1,696 @@
+[
+  {
+    "id": "fc06-01",
+    "lessonId": "quant-probability-06",
+    "front": "A discrete rating has values 1, 2, and 3 with probabilities 0.20, 0.50, and 0.30. Its expected value is:",
+    "back": "E(X)=1(.20)+2(.50)+3(.30)=2.10.",
+    "tags": [
+      "definitions",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-02",
+    "lessonId": "quant-probability-06",
+    "front": "For a continuous return X, F(0.04)=0.70 and F(−0.02)=0.25. P(−2%<X≤4%) is:",
+    "back": "An interval probability is F(.04)−F(−.02)=.45.",
+    "tags": [
+      "definitions",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-03",
+    "lessonId": "quant-probability-06",
+    "front": "A continuous density is constant at 0.20 from 0 through 5. P(1<X<3.5) is:",
+    "back": "Probability is area: (3.5−1)(.20)=.50.",
+    "tags": [
+      "definitions",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-04",
+    "lessonId": "quant-probability-06",
+    "front": "A discrete uniform variable takes values 2, 4, 6, and 8. Its variance is:",
+    "back": "The mean is 5 and the average squared deviation is (9+1+1+9)/4=5.",
+    "tags": [
+      "definitions",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-05",
+    "lessonId": "quant-probability-06",
+    "front": "A Bernoulli default indicator has p=0.04. Its variance is:",
+    "back": "Bernoulli variance is p(1−p)=.04(.96)=.0384.",
+    "tags": [
+      "events",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-06",
+    "lessonId": "quant-probability-06",
+    "front": "Five independent loans each default with probability 0.10. The probability of exactly one default is closest to:",
+    "back": "C(5,1)(.10)(.90)^4=.32805.",
+    "tags": [
+      "events",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-07",
+    "lessonId": "quant-probability-06",
+    "front": "For a binomial variable with n=20 and p=0.30, its mean and variance are:",
+    "back": "Mean=np=6 and variance=np(1−p)=4.2.",
+    "tags": [
+      "independence",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-08",
+    "lessonId": "quant-probability-06",
+    "front": "A Poisson count has λ=3. Its probability of zero events is closest to:",
+    "back": "P(X=0)=e^(−3)=.0498.",
+    "tags": [
+      "probability-types",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-09",
+    "lessonId": "quant-probability-06",
+    "front": "A priori probability?",
+    "back": "Probability derived from logical symmetry or known structure.",
+    "tags": [
+      "probability-types"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-10",
+    "lessonId": "quant-probability-06",
+    "front": "Subjective probability?",
+    "back": "Probability based on informed judgment.",
+    "tags": [
+      "probability-types"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-11",
+    "lessonId": "quant-probability-06",
+    "front": "Complement rule?",
+    "back": "P(Aᶜ)=1−P(A).",
+    "tags": [
+      "complement"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-12",
+    "lessonId": "quant-probability-06",
+    "front": "Addition rule?",
+    "back": "P(A∪B)=P(A)+P(B)−P(A∩B).",
+    "tags": [
+      "addition"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-13",
+    "lessonId": "quant-probability-06",
+    "front": "Multiplication rule?",
+    "back": "P(A∩B)=P(A|B)P(B).",
+    "tags": [
+      "joint"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-14",
+    "lessonId": "quant-probability-06",
+    "front": "Conditional probability?",
+    "back": "P(A|B)=P(A∩B)/P(B); B is the restricted sample space.",
+    "tags": [
+      "conditional"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-15",
+    "lessonId": "quant-probability-06",
+    "front": "Conditional-direction trap?",
+    "back": "P(A|B) generally differs from P(B|A).",
+    "tags": [
+      "conditional",
+      "trap"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-16",
+    "lessonId": "quant-probability-06",
+    "front": "Total probability?",
+    "back": "Add conditional joint branches across an exhaustive partition.",
+    "tags": [
+      "total-probability"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-17",
+    "lessonId": "quant-probability-06",
+    "front": "Bayes formula?",
+    "back": "Posterior = likelihood × prior / total evidence probability.",
+    "tags": [
+      "bayes"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-18",
+    "lessonId": "quant-probability-06",
+    "front": "Bayes denominator?",
+    "back": "All mutually exclusive ways the observed evidence can occur.",
+    "tags": [
+      "bayes"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-19",
+    "lessonId": "quant-probability-06",
+    "front": "Tree rule?",
+    "back": "Multiply along a branch; add terminal branches representing alternatives.",
+    "tags": [
+      "tree"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-20",
+    "lessonId": "quant-probability-06",
+    "front": "Odds for?",
+    "back": "P(A):[1−P(A)].",
+    "tags": [
+      "odds"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-21",
+    "lessonId": "quant-probability-06",
+    "front": "Odds against?",
+    "back": "[1−P(A)]:P(A).",
+    "tags": [
+      "odds"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-22",
+    "lessonId": "quant-probability-06",
+    "front": "Expected value?",
+    "back": "Σpi xi; probability-weighted average outcome.",
+    "tags": [
+      "expected-value"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-23",
+    "lessonId": "quant-probability-06",
+    "front": "Expected-value caution?",
+    "back": "It need not be an attainable outcome and is not guaranteed.",
+    "tags": [
+      "expected-value",
+      "trap"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-24",
+    "lessonId": "quant-probability-06",
+    "front": "Random-variable variance?",
+    "back": "Σpi[xi−E(X)]².",
+    "tags": [
+      "variance"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-25",
+    "lessonId": "quant-probability-06",
+    "front": "Random-variable standard deviation?",
+    "back": "Square root of random-variable variance.",
+    "tags": [
+      "variance"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-26",
+    "lessonId": "quant-probability-06",
+    "front": "Covariance?",
+    "back": "Expected product of deviations; indicates direction and scale of co-movement.",
+    "tags": [
+      "covariance"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-27",
+    "lessonId": "quant-probability-06",
+    "front": "Correlation?",
+    "back": "Covariance divided by both standard deviations; bounded from −1 to +1.",
+    "tags": [
+      "correlation"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-28",
+    "lessonId": "quant-probability-06",
+    "front": "Zero-correlation caution?",
+    "back": "Zero linear correlation does not necessarily imply independence.",
+    "tags": [
+      "correlation",
+      "trap"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-29",
+    "lessonId": "quant-probability-06",
+    "front": "Expected portfolio return?",
+    "back": "Weighted average of asset expected returns.",
+    "tags": [
+      "portfolio"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-30",
+    "lessonId": "quant-probability-06",
+    "front": "Two-asset variance?",
+    "back": "Weighted individual variances plus the covariance cross term.",
+    "tags": [
+      "portfolio",
+      "variance"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-31",
+    "lessonId": "quant-probability-06",
+    "front": "Portfolio cross term?",
+    "back": "2wAwBσAσBρAB.",
+    "tags": [
+      "portfolio",
+      "variance"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-32",
+    "lessonId": "quant-probability-06",
+    "front": "Portfolio standard deviation?",
+    "back": "Square root of portfolio variance.",
+    "tags": [
+      "portfolio"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-33",
+    "lessonId": "quant-probability-06",
+    "front": "For a Poisson distribution with λ=7, the mean and variance are:",
+    "back": "Both the mean and variance of a Poisson distribution equal λ.",
+    "tags": [
+      "diversification",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-34",
+    "lessonId": "quant-probability-06",
+    "front": "A bond has a constant annual hazard rate λ=0.03. Its five-year cumulative default probability is closest to:",
+    "back": "1−e^(−.03×5)=.1393.",
+    "tags": [
+      "correlation",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-35",
+    "lessonId": "quant-probability-06",
+    "front": "A continuous uniform return ranges from −4% to 8%. Its expected return is:",
+    "back": "Uniform mean=(a+b)/2=(−4%+8%)/2=2%.",
+    "tags": [
+      "correlation",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-36",
+    "lessonId": "quant-probability-06",
+    "front": "Normal returns have mean 6% and standard deviation 8%. A return of −6% has z-score:",
+    "back": "z=(−.06−.06)/.08=−1.5.",
+    "tags": [
+      "portfolio",
+      "validation",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-37",
+    "lessonId": "quant-probability-06",
+    "front": "For a standard normal variable, Φ(1.20)=0.8849. P(Z>1.20) is:",
+    "back": "The right tail is 1−Φ(1.20)=.1151.",
+    "tags": [
+      "portfolio",
+      "validation",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-38",
+    "lessonId": "quant-probability-06",
+    "front": "If a continuously compounded return is normal, the corresponding ending price is commonly modeled as:",
+    "back": "Exponentiating a normal log return produces a positive lognormal price.",
+    "tags": [
+      "portfolio",
+      "trap",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-39",
+    "lessonId": "quant-probability-06",
+    "front": "A joint CDF F(x,y) directly reports the probability that:",
+    "back": "A joint CDF cumulates probability through both stated upper bounds.",
+    "tags": [
+      "validation",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc06-40",
+    "lessonId": "quant-probability-06",
+    "front": "Given two market regimes, a conditional expected return differs from an unconditional expected return because it:",
+    "back": "Conditional expectation uses the relevant conditional distribution.",
+    "tags": [
+      "trap",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns"
+  },
+  {
+    "id": "fc-v165-qm-lm6-41",
+    "lessonId": "quant-probability-06",
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns",
+    "supplementary": false,
+    "front": "How should an analyst apply standard normal transformation?",
+    "back": "Use the relevant observations, assumptions, and measurement basis; then interpret standard normal transformation within QM-LM6.",
+    "tags": [
+      "qm-lm6",
+      "standard-normal-transformation",
+      "v1.6.5"
+    ]
+  },
+  {
+    "id": "fc-v165-qm-lm6-42",
+    "lessonId": "quant-probability-06",
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns",
+    "supplementary": false,
+    "front": "How should an analyst apply lognormal asset price?",
+    "back": "Use the relevant observations, assumptions, and measurement basis; then interpret lognormal asset price within QM-LM6.",
+    "tags": [
+      "qm-lm6",
+      "lognormal-asset-price",
+      "v1.6.5"
+    ]
+  },
+  {
+    "id": "fc-v165-qm-lm6-43",
+    "lessonId": "quant-probability-06",
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns",
+    "supplementary": false,
+    "front": "How should an analyst apply Student t distribution?",
+    "back": "Use the relevant observations, assumptions, and measurement basis; then interpret Student t distribution within QM-LM6.",
+    "tags": [
+      "qm-lm6",
+      "Student-t-distribution",
+      "v1.6.5"
+    ]
+  },
+  {
+    "id": "fc-v165-qm-lm6-44",
+    "lessonId": "quant-probability-06",
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns",
+    "supplementary": false,
+    "front": "How should an analyst apply tail probability?",
+    "back": "Use the relevant observations, assumptions, and measurement basis; then interpret tail probability within QM-LM6.",
+    "tags": [
+      "qm-lm6",
+      "tail-probability",
+      "v1.6.5"
+    ]
+  },
+  {
+    "id": "fc-v165-qm-lm6-45",
+    "lessonId": "quant-probability-06",
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns",
+    "supplementary": false,
+    "front": "How should an analyst apply distribution selection?",
+    "back": "Use the relevant observations, assumptions, and measurement basis; then interpret distribution selection within QM-LM6.",
+    "tags": [
+      "qm-lm6",
+      "distribution-selection",
+      "v1.6.5"
+    ]
+  },
+  {
+    "id": "fc-v165-qm-lm6-46",
+    "lessonId": "quant-probability-06",
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns",
+    "supplementary": false,
+    "front": "How should an analyst apply random variable support?",
+    "back": "Use the relevant observations, assumptions, and measurement basis; then interpret random variable support within QM-LM6.",
+    "tags": [
+      "qm-lm6",
+      "random-variable-support",
+      "v1.6.5"
+    ]
+  },
+  {
+    "id": "fc-v165-qm-lm6-47",
+    "lessonId": "quant-probability-06",
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns",
+    "supplementary": false,
+    "front": "How should an analyst apply probability mass function?",
+    "back": "Use the relevant observations, assumptions, and measurement basis; then interpret probability mass function within QM-LM6.",
+    "tags": [
+      "qm-lm6",
+      "probability-mass-function",
+      "v1.6.5"
+    ]
+  },
+  {
+    "id": "fc-v165-qm-lm6-48",
+    "lessonId": "quant-probability-06",
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns",
+    "supplementary": false,
+    "front": "How should an analyst apply probability density function?",
+    "back": "Use the relevant observations, assumptions, and measurement basis; then interpret probability density function within QM-LM6.",
+    "tags": [
+      "qm-lm6",
+      "probability-density-function",
+      "v1.6.5"
+    ]
+  },
+  {
+    "id": "fc-v165-qm-lm6-49",
+    "lessonId": "quant-probability-06",
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns",
+    "supplementary": false,
+    "front": "How should an analyst apply cumulative distribution function?",
+    "back": "Use the relevant observations, assumptions, and measurement basis; then interpret cumulative distribution function within QM-LM6.",
+    "tags": [
+      "qm-lm6",
+      "cumulative-distribution-function",
+      "v1.6.5"
+    ]
+  },
+  {
+    "id": "fc-v165-qm-lm6-50",
+    "lessonId": "quant-probability-06",
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "officialLearningOutcome": "describe and apply discrete and continuous distributions used for financial asset prices and returns",
+    "supplementary": false,
+    "front": "How should an analyst apply expected value?",
+    "back": "Use the relevant observations, assumptions, and measurement basis; then interpret expected value within QM-LM6.",
+    "tags": [
+      "qm-lm6",
+      "expected-value",
+      "v1.6.5"
+    ]
+  }
+]

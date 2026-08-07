@@ -1,0 +1,563 @@
+[
+  {
+    "id": "simulated-mean-11",
+    "name": "Simulated sample mean",
+    "expression": "x̄sim=Σxi/M",
+    "meaning": "Average simulated outcome",
+    "variables": {
+      "xi": "trial outcome",
+      "M": "trials"
+    },
+    "intuition": "Balances trials",
+    "workedExample": "90,100,110 average 100",
+    "commonMistake": "Treating as certain",
+    "relatedLessonId": "quant-simulation-11",
+    "scopeStatement": "SM-06: Interpret a simulated outcome distribution using its mean, dispersion, percentiles, and tail outcomes.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "relatedLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "simulated-variance-11",
+    "name": "Simulated sample variance",
+    "expression": "s²sim=Σ(xi−x̄)²/(M−1)",
+    "meaning": "Trial dispersion",
+    "variables": {
+      "M": "trials",
+      "xi": "outcome"
+    },
+    "intuition": "Measures spread",
+    "workedExample": "90,100,110 variance 100",
+    "commonMistake": "Using M",
+    "relatedLessonId": "quant-simulation-11",
+    "scopeStatement": "SM-06: Interpret a simulated outcome distribution using its mean, dispersion, percentiles, and tail outcomes.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "relatedLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "simulation-se-11",
+    "name": "Simulation mean standard error",
+    "expression": "SE=s/√M",
+    "meaning": "Finite-run uncertainty",
+    "variables": {
+      "s": "trial SD",
+      "M": "trials"
+    },
+    "intuition": "Square-root convergence",
+    "workedExample": "20/√100=2",
+    "commonMistake": "Calling model risk",
+    "relatedLessonId": "quant-simulation-11",
+    "scopeStatement": "SM-05: Explain how sample size and number of iterations affect simulation precision.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "relatedLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "simulation-percentile-11",
+    "name": "Simulation percentile",
+    "expression": "Qp=empirical p-quantile",
+    "meaning": "Ordered tail location",
+    "variables": {
+      "p": "probability"
+    },
+    "intuition": "Ranks outcomes",
+    "workedExample": "5th percentile marks lower tail",
+    "commonMistake": "Claiming certainty",
+    "relatedLessonId": "quant-simulation-11",
+    "scopeStatement": "SM-06: Interpret a simulated outcome distribution using its mean, dispersion, percentiles, and tail outcomes.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "relatedLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "bootstrap-se-11",
+    "name": "Bootstrap standard error",
+    "expression": "SEboot=SD(bootstrap estimates)",
+    "meaning": "Resampling uncertainty estimate",
+    "variables": {
+      "estimates": "resampled statistics"
+    },
+    "intuition": "Spread across resamples",
+    "workedExample": "SD of bootstrap means",
+    "commonMistake": "Ignoring bias",
+    "relatedLessonId": "quant-simulation-11",
+    "scopeStatement": "SM-08: Explain the purpose and limitations of bootstrapping.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "relatedLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "bootstrap-ci-11",
+    "name": "Bootstrap percentile interval",
+    "expression": "[Q.025,Q.975]",
+    "meaning": "95% empirical interval",
+    "variables": {
+      "Q": "bootstrap quantile"
+    },
+    "intuition": "Uses resample tails",
+    "workedExample": "2.5th to 97.5th percentiles",
+    "commonMistake": "Assuming exact coverage",
+    "relatedLessonId": "quant-simulation-11",
+    "scopeStatement": "SM-08: Explain the purpose and limitations of bootstrapping.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "relatedLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "terminal-value-11",
+    "name": "Constant-return terminal value",
+    "expression": "VT=V0(1+r)^T",
+    "meaning": "Simplified compound value",
+    "variables": {
+      "V0": "initial",
+      "r": "return",
+      "T": "periods"
+    },
+    "intuition": "Validation special case",
+    "workedExample": "100(1.05)^3=115.7625",
+    "commonMistake": "Applying to random path average",
+    "relatedLessonId": "quant-simulation-11",
+    "scopeStatement": "SM-09: Apply simulation concepts to portfolio return, risk, valuation, and planning problems.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "relatedLearningOutcome": "explain and interpret simulation of financial asset prices and returns"
+  },
+  {
+    "id": "historical-log-return-11",
+    "name": "Historical log return",
+    "expression": "r_t = ln(P_t / P_{t-1})",
+    "meaning": "Continuously compounded change used to construct historical scenarios.",
+    "variables": {
+      "r_t": "log return",
+      "P_t": "current price",
+      "P_{t-1}": "previous price"
+    },
+    "intuition": "The log price relative converts successive prices into additive log changes.",
+    "workedExample": "ln(20,145.29 / 19,781.41) = 0.0182, or 1.82%.",
+    "commonMistake": "Using a simple percentage change while labeling it a log return.",
+    "relatedLessonId": "quant-simulation-11",
+    "scopeStatement": "SM-01: Describe historical simulation and explain its investment applications.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "relatedLearningOutcome": "describe historical simulation and explain how it can be used in investment applications"
+  },
+  {
+    "id": "historical-pl-11",
+    "name": "Historical scenario profit or loss",
+    "expression": "P/L_i = V_0 × r_i",
+    "meaning": "Applies a historical scenario return to today's portfolio value.",
+    "variables": {
+      "P/L_i": "scenario profit or loss",
+      "V_0": "current value",
+      "r_i": "scenario return as a decimal"
+    },
+    "intuition": "Historical shocks are translated into current monetary exposure.",
+    "workedExample": "EUR12,000,000 × −0.018 = −EUR216,000.",
+    "commonMistake": "Entering −1.8 rather than −0.018.",
+    "relatedLessonId": "quant-simulation-11",
+    "scopeStatement": "SM-01: Describe historical simulation and explain its investment applications.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "relatedLearningOutcome": "describe historical simulation and explain how it can be used in investment applications"
+  },
+  {
+    "id": "option-payoff-11",
+    "name": "European call terminal payoff",
+    "expression": "Payoff = max(P_T − K, 0)",
+    "meaning": "Terminal value of a European call under a simulated price scenario.",
+    "variables": {
+      "P_T": "price at expiration",
+      "K": "strike price"
+    },
+    "intuition": "Exercise occurs only when terminal price exceeds strike.",
+    "workedExample": "max(GBP163.57 − GBP141.25, 0) = GBP22.32.",
+    "commonMistake": "Using terminal stock price as option payoff.",
+    "relatedLessonId": "quant-simulation-11",
+    "scopeStatement": "SM-08: Describe bootstrap resampling and explain its investment applications.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "relatedLearningOutcome": "describe bootstrap resampling, and explain how it can be used in investment applications"
+  },
+  {
+    "id": "mc-log-return-11",
+    "name": "Simulated one-step log return",
+    "expression": "r_t = (r_f − σ²/2)s + σ√s X",
+    "meaning": "Generates a log return under a geometric Brownian motion assumption.",
+    "variables": {
+      "r_t": "simulated log return",
+      "r_f": "risk-free rate or drift",
+      "σ": "volatility",
+      "s": "step size in years",
+      "X": "standard-normal draw"
+    },
+    "intuition": "Combines volatility-adjusted drift with a scaled random shock.",
+    "workedExample": "With r_f=5%, σ=25%, s=1, X=0, r_t=1.875%.",
+    "commonMistake": "Omitting the −σ²/2 adjustment.",
+    "relatedLessonId": "quant-simulation-11",
+    "scopeStatement": "SM-03: Describe Monte Carlo simulation and explain its investment applications.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "relatedLearningOutcome": "describe Monte Carlo simulation and explain how it can be used in investment applications"
+  },
+  {
+    "id": "mc-price-update-11",
+    "name": "Price update from simulated log return",
+    "expression": "P_t = P_{t-1}e^{r_t}",
+    "meaning": "Converts a simulated log return into the next path price.",
+    "variables": {
+      "P_t": "current price",
+      "P_{t-1}": "previous price",
+      "r_t": "log return"
+    },
+    "intuition": "Exponentiation reverses the log-return transformation.",
+    "workedExample": "80e^0.04 = 83.26.",
+    "commonMistake": "Treating a log return as a simple return.",
+    "relatedLessonId": "quant-simulation-11",
+    "scopeStatement": "SM-03: Describe Monte Carlo simulation and explain its investment applications.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "relatedLearningOutcome": "describe Monte Carlo simulation and explain how it can be used in investment applications"
+  },
+  {
+    "id": "asian-payoff-11",
+    "name": "Path-dependent Asian-style payoff",
+    "expression": "Payoff = max(P_T − P_avg, 0)",
+    "meaning": "Illustrative payoff depending on terminal and average path prices.",
+    "variables": {
+      "P_T": "price at expiration",
+      "P_avg": "average path price"
+    },
+    "intuition": "The path average makes full path generation necessary.",
+    "workedExample": "If P_T=26 and P_avg=24.8, payoff=1.2.",
+    "commonMistake": "Ignoring the path average.",
+    "relatedLessonId": "quant-simulation-11",
+    "scopeStatement": "SM-03: Describe Monte Carlo simulation and explain its investment applications.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "relatedLearningOutcome": "describe Monte Carlo simulation and explain how it can be used in investment applications"
+  },
+  {
+    "id": "correlated-normal-11",
+    "name": "Two-variable correlated normal transformation",
+    "expression": "X₁=σ₁Z₁; X₂=σ₂(ρZ₁+√(1−ρ²)Z₂)",
+    "meaning": "Transforms independent normal draws into variables with specified volatilities and correlation.",
+    "variables": {
+      "X₁": "first correlated variable",
+      "X₂": "second correlated variable",
+      "σ₁": "first standard deviation",
+      "σ₂": "second standard deviation",
+      "ρ": "target correlation",
+      "Z₁": "first independent draw",
+      "Z₂": "second independent draw"
+    },
+    "intuition": "A shared component creates covariance while the orthogonal component preserves variance.",
+    "workedExample": "σ₂=2%, ρ=.3, Z₁=.4, Z₂=−1.2 gives X₂≈−2.05%.",
+    "commonMistake": "Using σ₂Z₂ and ignoring correlation.",
+    "relatedLessonId": "quant-simulation-11",
+    "scopeStatement": "SM-03: Describe Monte Carlo simulation and explain its investment applications.",
+    "tags": [
+      "simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "relatedLearningOutcome": "describe Monte Carlo simulation and explain how it can be used in investment applications"
+  },
+  {
+    "id": "accuracy-12",
+    "name": "Accuracy",
+    "expression": "(TP + TN) / N",
+    "meaning": "Accuracy",
+    "variables": {
+      "TP": "true positives",
+      "TN": "true negatives",
+      "N": "all observations"
+    },
+    "intuition": "Supplementary model-evaluation measure: Accuracy.",
+    "workedExample": "70 correct classifications out of 100 gives 70%.",
+    "commonMistake": "Using accuracy alone with an imbalanced class.",
+    "relatedLessonId": "quant-data-ai-12",
+    "scopeStatement": "DAI-18: Supplementary model-evaluation metrics beyond verified official scope.",
+    "tags": [
+      "data-ai",
+      "supplementary",
+      "extended-model-metrics",
+      "checkpoint-5-verified"
+    ],
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": true
+  },
+  {
+    "id": "precision-12",
+    "name": "Precision",
+    "expression": "TP / (TP + FP)",
+    "meaning": "Precision",
+    "variables": {
+      "TP": "true positives",
+      "FP": "false positives"
+    },
+    "intuition": "Supplementary model-evaluation measure: Precision.",
+    "workedExample": "TP=40 and FP=10 gives 80%.",
+    "commonMistake": "Using actual positives in the denominator.",
+    "relatedLessonId": "quant-data-ai-12",
+    "scopeStatement": "DAI-18: Supplementary model-evaluation metrics beyond verified official scope.",
+    "tags": [
+      "data-ai",
+      "supplementary",
+      "extended-model-metrics",
+      "checkpoint-5-verified"
+    ],
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": true
+  },
+  {
+    "id": "recall-12",
+    "name": "Recall",
+    "expression": "TP / (TP + FN)",
+    "meaning": "Recall",
+    "variables": {
+      "TP": "true positives",
+      "FN": "false negatives"
+    },
+    "intuition": "Supplementary model-evaluation measure: Recall.",
+    "workedExample": "TP=40 and FN=20 gives 66.67%.",
+    "commonMistake": "Using false positives in the denominator.",
+    "relatedLessonId": "quant-data-ai-12",
+    "scopeStatement": "DAI-18: Supplementary model-evaluation metrics beyond verified official scope.",
+    "tags": [
+      "data-ai",
+      "supplementary",
+      "extended-model-metrics",
+      "checkpoint-5-verified"
+    ],
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": true
+  },
+  {
+    "id": "specificity-12",
+    "name": "Specificity",
+    "expression": "TN / (TN + FP)",
+    "meaning": "Specificity",
+    "variables": {
+      "TN": "true negatives",
+      "FP": "false positives"
+    },
+    "intuition": "Supplementary model-evaluation measure: Specificity.",
+    "workedExample": "TN=30 and FP=10 gives 75%.",
+    "commonMistake": "Confusing specificity with precision.",
+    "relatedLessonId": "quant-data-ai-12",
+    "scopeStatement": "DAI-18: Supplementary model-evaluation metrics beyond verified official scope.",
+    "tags": [
+      "data-ai",
+      "supplementary",
+      "extended-model-metrics",
+      "checkpoint-5-verified"
+    ],
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": true
+  },
+  {
+    "id": "f1-12",
+    "name": "F1 score",
+    "expression": "2 × precision × recall / (precision + recall)",
+    "meaning": "F1 score",
+    "variables": {
+      "precision": "positive-prediction purity",
+      "recall": "actual-positive detection rate"
+    },
+    "intuition": "Supplementary model-evaluation measure: F1 score.",
+    "workedExample": "Precision=.80 and recall=.6667 gives .7273.",
+    "commonMistake": "Taking the arithmetic mean.",
+    "relatedLessonId": "quant-data-ai-12",
+    "scopeStatement": "DAI-18: Supplementary model-evaluation metrics beyond verified official scope.",
+    "tags": [
+      "data-ai",
+      "supplementary",
+      "extended-model-metrics",
+      "checkpoint-5-verified"
+    ],
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": true
+  },
+  {
+    "id": "false-positive-rate-12",
+    "name": "False-positive rate",
+    "expression": "FP / (FP + TN)",
+    "meaning": "False-positive rate",
+    "variables": {
+      "FP": "false positives",
+      "TN": "true negatives"
+    },
+    "intuition": "Supplementary model-evaluation measure: False-positive rate.",
+    "workedExample": "FP=10 and TN=30 gives 25%.",
+    "commonMistake": "Using all observations as the denominator.",
+    "relatedLessonId": "quant-data-ai-12",
+    "scopeStatement": "DAI-18: Supplementary model-evaluation metrics beyond verified official scope.",
+    "tags": [
+      "data-ai",
+      "supplementary",
+      "extended-model-metrics",
+      "checkpoint-5-verified"
+    ],
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": true
+  },
+  {
+    "id": "true-positive-rate-12",
+    "name": "True-positive rate",
+    "expression": "TP / (TP + FN)",
+    "meaning": "True-positive rate",
+    "variables": {
+      "TP": "true positives",
+      "FN": "false negatives"
+    },
+    "intuition": "Supplementary model-evaluation measure: True-positive rate.",
+    "workedExample": "TP=40 and FN=20 gives 66.67%.",
+    "commonMistake": "Confusing the measure with precision.",
+    "relatedLessonId": "quant-data-ai-12",
+    "scopeStatement": "DAI-18: Supplementary model-evaluation metrics beyond verified official scope.",
+    "tags": [
+      "data-ai",
+      "supplementary",
+      "extended-model-metrics",
+      "checkpoint-5-verified"
+    ],
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": true
+  },
+  {
+    "id": "linear-prediction-12",
+    "name": "Illustrative linear prediction",
+    "expression": "ŷ = b₀ + b₁x",
+    "meaning": "Illustrative linear prediction",
+    "variables": {
+      "ŷ": "predicted outcome",
+      "b₀": "intercept",
+      "b₁": "slope",
+      "x": "feature value"
+    },
+    "intuition": "Supplementary model-evaluation measure: Illustrative linear prediction.",
+    "workedExample": "2+3(4)=14.",
+    "commonMistake": "Interpreting association as causation.",
+    "relatedLessonId": "quant-data-ai-12",
+    "scopeStatement": "DAI-18: Supplementary model-evaluation metrics beyond verified official scope.",
+    "tags": [
+      "data-ai",
+      "supplementary",
+      "extended-model-metrics",
+      "checkpoint-5-verified"
+    ],
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": true
+  },
+  {
+    "id": "cv-average-12",
+    "name": "Cross-validation average",
+    "expression": "CV = Σ scoreₖ / K",
+    "meaning": "Cross-validation average",
+    "variables": {
+      "scoreₖ": "validation score for fold k",
+      "K": "number of folds"
+    },
+    "intuition": "Supplementary model-evaluation measure: Cross-validation average.",
+    "workedExample": "Scores .70,.80,.75 average .75.",
+    "commonMistake": "Randomly folding time-series observations.",
+    "relatedLessonId": "quant-data-ai-12",
+    "scopeStatement": "DAI-18: Supplementary model-evaluation metrics beyond verified official scope.",
+    "tags": [
+      "data-ai",
+      "supplementary",
+      "extended-model-metrics",
+      "checkpoint-5-verified"
+    ],
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": true
+  },
+  {
+    "id": "prevalence-12",
+    "name": "Positive-class prevalence",
+    "expression": "(TP + FN) / N",
+    "meaning": "Positive-class prevalence",
+    "variables": {
+      "TP": "true positives",
+      "FN": "false negatives",
+      "N": "all observations"
+    },
+    "intuition": "Supplementary model-evaluation measure: Positive-class prevalence.",
+    "workedExample": "60 actual positives among 100 observations gives 60%.",
+    "commonMistake": "Using predicted positives.",
+    "relatedLessonId": "quant-data-ai-12",
+    "scopeStatement": "DAI-18: Supplementary model-evaluation metrics beyond verified official scope.",
+    "tags": [
+      "data-ai",
+      "supplementary",
+      "extended-model-metrics",
+      "checkpoint-5-verified"
+    ],
+    "studyLessonId": "quant-data-ai-12",
+    "officialModuleId": "QM-LM11",
+    "supplementary": true
+  }
+]

@@ -1,0 +1,1580 @@
+[
+  {
+    "id": "q06-01",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate principal moments and conditional properties of statistical distributions used in finance",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "A discrete rating has values 1, 2, and 3 with probabilities 0.20, 0.50, and 0.30. Its expected value is:",
+    "choices": [
+      "2.00",
+      "2.10",
+      "2.30"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "E(X)=1(.20)+2(.50)+3(.30)=2.10.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 2.00 does not satisfy the stated calculation or interpretation. E(X)=1(.20)+2(.50)+3(.30)=2.10.",
+      "Correct. E(X)=1(.20)+2(.50)+3(.30)=2.10.",
+      "Incorrect. 2.30 does not satisfy the stated calculation or interpretation. E(X)=1(.20)+2(.50)+3(.30)=2.10."
+    ],
+    "relatedFormulaIds": [
+      "expected-value-06"
+    ],
+    "tags": [
+      "qm-lm6",
+      "checkpoint-3-verified",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-02",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate principal moments and conditional properties of statistical distributions used in finance",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "For a continuous return X, F(0.04)=0.70 and F(−0.02)=0.25. P(−2%<X≤4%) is:",
+    "choices": [
+      "0.70",
+      "0.95",
+      "0.45"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "An interval probability is F(.04)−F(−.02)=.45.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 0.70 does not satisfy the stated calculation or interpretation. An interval probability is F(.04)−F(−.02)=.45.",
+      "Incorrect. 0.95 does not satisfy the stated calculation or interpretation. An interval probability is F(.04)−F(−.02)=.45.",
+      "Correct. An interval probability is F(.04)−F(−.02)=.45."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm6",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-03",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate principal moments and conditional properties of statistical distributions used in finance",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A continuous density is constant at 0.20 from 0 through 5. P(1<X<3.5) is:",
+    "choices": [
+      "0.70",
+      "0.50",
+      "0.20"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Probability is area: (3.5−1)(.20)=.50.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 0.70 does not satisfy the stated calculation or interpretation. Probability is area: (3.5−1)(.20)=.50.",
+      "Correct. Probability is area: (3.5−1)(.20)=.50.",
+      "Incorrect. 0.20 does not satisfy the stated calculation or interpretation. Probability is area: (3.5−1)(.20)=.50."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm6",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-04",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate principal moments and conditional properties of statistical distributions used in finance",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A discrete uniform variable takes values 2, 4, 6, and 8. Its variance is:",
+    "choices": [
+      "5.00",
+      "2.50",
+      "20.00"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The mean is 5 and the average squared deviation is (9+1+1+9)/4=5.",
+    "incorrectChoiceExplanations": [
+      "Correct. The mean is 5 and the average squared deviation is (9+1+1+9)/4=5.",
+      "Incorrect. 2.50 does not satisfy the stated calculation or interpretation. The mean is 5 and the average squared deviation is (9+1+1+9)/4=5.",
+      "Incorrect. 20.00 does not satisfy the stated calculation or interpretation. The mean is 5 and the average squared deviation is (9+1+1+9)/4=5."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm6",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-05",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate principal moments and conditional properties of statistical distributions used in finance",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A Bernoulli default indicator has p=0.04. Its variance is:",
+    "choices": [
+      "0.0400",
+      "0.0016",
+      "0.0384"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Bernoulli variance is p(1−p)=.04(.96)=.0384.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 0.0400 does not satisfy the stated calculation or interpretation. Bernoulli variance is p(1−p)=.04(.96)=.0384.",
+      "Incorrect. 0.0016 does not satisfy the stated calculation or interpretation. Bernoulli variance is p(1−p)=.04(.96)=.0384.",
+      "Correct. Bernoulli variance is p(1−p)=.04(.96)=.0384."
+    ],
+    "relatedFormulaIds": [
+      "bernoulli-variance-07"
+    ],
+    "tags": [
+      "qm-lm6",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-06",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate principal moments and conditional properties of statistical distributions used in finance",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "Five independent loans each default with probability 0.10. The probability of exactly one default is closest to:",
+    "choices": [
+      "59.05%",
+      "32.81%",
+      "40.95%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "C(5,1)(.10)(.90)^4=.32805.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 59.05% does not satisfy the stated calculation or interpretation. C(5,1)(.10)(.90)^4=.32805.",
+      "Correct. C(5,1)(.10)(.90)^4=.32805.",
+      "Incorrect. 40.95% does not satisfy the stated calculation or interpretation. C(5,1)(.10)(.90)^4=.32805."
+    ],
+    "relatedFormulaIds": [
+      "binomial-probability-07"
+    ],
+    "tags": [
+      "qm-lm6",
+      "checkpoint-3-verified",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-07",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate principal moments and conditional properties of statistical distributions used in finance",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "For a binomial variable with n=20 and p=0.30, its mean and variance are:",
+    "choices": [
+      "6.0 and 4.2",
+      "6.0 and 6.0",
+      "14.0 and 4.2"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Mean=np=6 and variance=np(1−p)=4.2.",
+    "incorrectChoiceExplanations": [
+      "Correct. Mean=np=6 and variance=np(1−p)=4.2.",
+      "Incorrect. 6.0 and 6.0 does not satisfy the stated calculation or interpretation. Mean=np=6 and variance=np(1−p)=4.2.",
+      "Incorrect. 14.0 and 4.2 does not satisfy the stated calculation or interpretation. Mean=np=6 and variance=np(1−p)=4.2."
+    ],
+    "relatedFormulaIds": [
+      "binomial-mean-07",
+      "binomial-variance-07"
+    ],
+    "tags": [
+      "qm-lm6",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-08",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate principal moments and conditional properties of statistical distributions used in finance",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A Poisson count has λ=3. Its probability of zero events is closest to:",
+    "choices": [
+      "14.94%",
+      "95.02%",
+      "4.98%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "P(X=0)=e^(−3)=.0498.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 14.94% does not satisfy the stated calculation or interpretation. P(X=0)=e^(−3)=.0498.",
+      "Incorrect. 95.02% does not satisfy the stated calculation or interpretation. P(X=0)=e^(−3)=.0498.",
+      "Correct. P(X=0)=e^(−3)=.0498."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm6",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-09",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Explain and calculate unconditional, conditional, joint, and total probabilities.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "If P(default)=3%, P(no default) is:",
+    "choices": [
+      "3%",
+      "103%",
+      "97%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The complement is 1âˆ’0.03=0.97.",
+    "incorrectChoiceExplanations": [
+      "This repeats default probability.",
+      "Probabilities cannot exceed 100%.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [
+      "complement-rule-06"
+    ],
+    "tags": [
+      "complement"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-10",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Explain and calculate unconditional, conditional, joint, and total probabilities.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "P(A)=0.4, P(B)=0.3, and P(Aâˆ©B)=0.1. P(AâˆªB) is:",
+    "choices": [
+      "0.6",
+      "0.7",
+      "0.8"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "0.4+0.3âˆ’0.1=0.6.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "0.7 double-counts overlap.",
+      "0.8 adds rather than subtracts overlap."
+    ],
+    "relatedFormulaIds": [
+      "addition-rule-06"
+    ],
+    "tags": [
+      "addition"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-11",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Explain and calculate unconditional, conditional, joint, and total probabilities.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "If A and B are mutually exclusive with probabilities 0.2 and 0.5, P(AâˆªB) is:",
+    "choices": [
+      "0.1",
+      "0.7",
+      "1.0"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "For exclusive events the intersection is zero, so add 0.2+0.5.",
+    "incorrectChoiceExplanations": [
+      "0.1 is their product.",
+      "Correct.",
+      "They are not stated to be exhaustive."
+    ],
+    "relatedFormulaIds": [
+      "addition-rule-06"
+    ],
+    "tags": [
+      "addition"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-12",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Explain and calculate unconditional, conditional, joint, and total probabilities.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "P(B)=0.5 and P(A|B)=0.2. P(Aâˆ©B) equals:",
+    "choices": [
+      "0.70",
+      "0.25",
+      "0.10"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Multiply along the branch: 0.5Ã—0.2=0.10.",
+    "incorrectChoiceExplanations": [
+      "0.70 adds probabilities.",
+      "0.25 squares P(B).",
+      "Correct."
+    ],
+    "relatedFormulaIds": [
+      "multiplication-rule-06"
+    ],
+    "tags": [
+      "joint"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-13",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Explain and calculate unconditional, conditional, joint, and total probabilities.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "P(Aâˆ©B)=0.12 and P(B)=0.30. P(A|B) equals:",
+    "choices": [
+      "0.40",
+      "0.18",
+      "2.50"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "0.12/0.30=0.40.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "0.18 subtracts incorrectly.",
+      "2.5 reverses the ratio."
+    ],
+    "relatedFormulaIds": [
+      "conditional-probability-06"
+    ],
+    "tags": [
+      "conditional"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-14",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Explain and calculate unconditional, conditional, joint, and total probabilities.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Which denominator belongs in P(A|B)?",
+    "choices": [
+      "P(A)",
+      "P(B)",
+      "P(AâˆªB)"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Conditioning restricts the sample space to B.",
+    "incorrectChoiceExplanations": [
+      "P(A) would condition in the opposite direction.",
+      "Correct.",
+      "The union is not the conditional base."
+    ],
+    "relatedFormulaIds": [
+      "conditional-probability-06"
+    ],
+    "tags": [
+      "conditional",
+      "trap"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-15",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Explain and calculate unconditional, conditional, joint, and total probabilities.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Independent events have probabilities 0.6 and 0.5. Their joint probability is:",
+    "choices": [
+      "0.10",
+      "1.10",
+      "0.30"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Independence permits 0.6Ã—0.5=0.30.",
+    "incorrectChoiceExplanations": [
+      "0.10 is the difference.",
+      "Probabilities cannot exceed one.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [
+      "multiplication-rule-06"
+    ],
+    "tags": [
+      "independence"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-16",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Explain and calculate unconditional, conditional, joint, and total probabilities.",
+    "difficulty": "medium",
+    "estimatedSeconds": 65,
+    "stem": "P(A)=0.4, P(S|A)=0.7, P(S|not A)=0.2. P(S) is:",
+    "choices": [
+      "0.40",
+      "0.28",
+      "0.90"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "0.4(0.7)+0.6(0.2)=0.40.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "0.28 includes only the A branch.",
+      "0.90 adds conditional probabilities."
+    ],
+    "relatedFormulaIds": [
+      "total-probability-06"
+    ],
+    "tags": [
+      "tree",
+      "total-probability"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-17",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Apply probability trees, Bayes formula, odds, expected value, and random-variable variance.",
+    "difficulty": "medium",
+    "estimatedSeconds": 65,
+    "stem": "Using the prior data, P(A|S) is:",
+    "choices": [
+      "0.40",
+      "0.70",
+      "0.90"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Bayes: 0.4(0.7)/0.40=0.70.",
+    "incorrectChoiceExplanations": [
+      "0.40 is evidence probability.",
+      "Correct.",
+      "0.90 adds unrelated terms."
+    ],
+    "relatedFormulaIds": [
+      "bayes-rule-06"
+    ],
+    "tags": [
+      "bayes",
+      "tree"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-18",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Apply probability trees, Bayes formula, odds, expected value, and random-variable variance.",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Disease prior is 1%, sensitivity 90%, false-positive rate 5%. P(disease|positive) is closest to:",
+    "choices": [
+      "1.0%",
+      "90.0%",
+      "15.4%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "0.009/[0.009+0.99(0.05)]=0.1538.",
+    "incorrectChoiceExplanations": [
+      "This ignores the evidence update.",
+      "90% is sensitivity, not posterior probability.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [
+      "bayes-rule-06"
+    ],
+    "tags": [
+      "bayes",
+      "tree"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-19",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Explain and calculate unconditional, conditional, joint, and total probabilities.",
+    "difficulty": "medium",
+    "estimatedSeconds": 65,
+    "stem": "A market is up with probability 0.6. Gain probability is 0.8 if up and 0.3 otherwise. Total gain probability is:",
+    "choices": [
+      "0.60",
+      "0.48",
+      "1.10"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "0.6(0.8)+0.4(0.3)=0.60.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "0.48 omits the down-market branch.",
+      "Conditional probabilities cannot simply be added."
+    ],
+    "relatedFormulaIds": [
+      "total-probability-06"
+    ],
+    "tags": [
+      "tree"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-20",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Apply probability trees, Bayes formula, odds, expected value, and random-variable variance.",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "A manager is skilled with prior 0.3. Positive result probabilities are 0.8 if skilled and 0.2 otherwise. Posterior skill probability is closest to:",
+    "choices": [
+      "30.0%",
+      "63.2%",
+      "80.0%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Total positive=0.3(0.8)+0.7(0.2)=0.38; posterior=0.24/0.38=63.16%.",
+    "incorrectChoiceExplanations": [
+      "30% is the prior.",
+      "Correct.",
+      "80% is the likelihood."
+    ],
+    "relatedFormulaIds": [
+      "bayes-rule-06"
+    ],
+    "tags": [
+      "bayes",
+      "tree"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-21",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Apply probability trees, Bayes formula, odds, expected value, and random-variable variance.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Probability 0.75 corresponds to odds for the event of:",
+    "choices": [
+      "1:3",
+      "4:1",
+      "3:1"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Odds for are 0.75:0.25=3:1.",
+    "incorrectChoiceExplanations": [
+      "These are odds against.",
+      "Four is the total parts, not favorable-to-unfavorable odds.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "odds"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-22",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Apply probability trees, Bayes formula, odds, expected value, and random-variable variance.",
+    "difficulty": "medium",
+    "estimatedSeconds": 65,
+    "stem": "Odds against an event are 4:1. Its probability is:",
+    "choices": [
+      "20%",
+      "25%",
+      "80%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "One favorable part out of five total gives 1/5=20%.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "25% treats only unfavorable parts as total.",
+      "80% is probability against."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "odds"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-23",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Apply probability trees, Bayes formula, odds, expected value, and random-variable variance.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Returns 10% and âˆ’4% have probabilities 0.6 and 0.4. Expected return is:",
+    "choices": [
+      "2.4%",
+      "4.4%",
+      "6.0%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "0.6(10%)+0.4(âˆ’4%)=4.4%.",
+    "incorrectChoiceExplanations": [
+      "2.4% miscalculates the negative contribution.",
+      "Correct.",
+      "6% ignores the loss state."
+    ],
+    "relatedFormulaIds": [
+      "expected-value-06"
+    ],
+    "tags": [
+      "expected-value"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-24",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Apply probability trees, Bayes formula, odds, expected value, and random-variable variance.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Payoffs 100, 0, âˆ’50 have probabilities 0.3, 0.5, 0.2. Expected payoff is:",
+    "choices": [
+      "10",
+      "30",
+      "20"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "0.3(100)+0.5(0)+0.2(âˆ’50)=20.",
+    "incorrectChoiceExplanations": [
+      "10 subtracts too much.",
+      "30 omits the loss state.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [
+      "expected-value-06"
+    ],
+    "tags": [
+      "expected-value"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-25",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Apply probability trees, Bayes formula, odds, expected value, and random-variable variance.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "A 40% chance of 15 and 60% chance of 5 has expected value:",
+    "choices": [
+      "9",
+      "7",
+      "10"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "0.4(15)+0.6(5)=6+3=9.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "7 uses incorrect weights.",
+      "10 is the simple midpoint."
+    ],
+    "relatedFormulaIds": [
+      "expected-value-06"
+    ],
+    "tags": [
+      "expected-value"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-26",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Apply probability trees, Bayes formula, odds, expected value, and random-variable variance.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "An expected value must:",
+    "choices": [
+      "Be one of the possible outcomes",
+      "Be the probability-weighted average",
+      "Be positive"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Expected value is the weighted average and may not be attainable or positive.",
+    "incorrectChoiceExplanations": [
+      "It need not be an actual outcome.",
+      "Correct.",
+      "Negative expected values are possible."
+    ],
+    "relatedFormulaIds": [
+      "expected-value-06"
+    ],
+    "tags": [
+      "expected-value",
+      "interpretation"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-27",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Apply probability trees, Bayes formula, odds, expected value, and random-variable variance.",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "For returns 10% (.6) and âˆ’4% (.4), variance is:",
+    "choices": [
+      "0.068600",
+      "0.044000",
+      "0.004704"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "With mean .044, weighted squared deviations total .004704.",
+    "incorrectChoiceExplanations": [
+      "0.0686 is approximately standard deviation.",
+      "0.044 is the expected return in decimal form.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [
+      "random-variable-variance-06"
+    ],
+    "tags": [
+      "variance"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-28",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Apply probability trees, Bayes formula, odds, expected value, and random-variable variance.",
+    "difficulty": "medium",
+    "estimatedSeconds": 65,
+    "stem": "If random-variable variance is 0.004704, standard deviation is closest to:",
+    "choices": [
+      "6.86%",
+      "4.70%",
+      "8.40%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "âˆš0.004704=0.06859, or 6.86%.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "This treats variance as a percentage directly.",
+      "8.4% is the downside deviation magnitude."
+    ],
+    "relatedFormulaIds": [
+      "random-variable-variance-06"
+    ],
+    "tags": [
+      "variance",
+      "standard-deviation"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-29",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Calculate and interpret covariance, correlation, expected portfolio return, and two-asset portfolio variance.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Positive covariance indicates variables tend to:",
+    "choices": [
+      "Move in opposite directions",
+      "Move in the same direction",
+      "Have zero dispersion"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Positive products of same-direction deviations dominate.",
+    "incorrectChoiceExplanations": [
+      "Opposite movement implies negative covariance.",
+      "Correct.",
+      "Covariance does not imply zero dispersion."
+    ],
+    "relatedFormulaIds": [
+      "covariance-06"
+    ],
+    "tags": [
+      "covariance"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-30",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Calculate and interpret covariance, correlation, expected portfolio return, and two-asset portfolio variance.",
+    "difficulty": "medium",
+    "estimatedSeconds": 65,
+    "stem": "Covariance is 0.006 and standard deviations are 0.10 and 0.12. Correlation is:",
+    "choices": [
+      "0.05",
+      "0.72",
+      "0.50"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "0.006/(0.10Ã—0.12)=0.50.",
+    "incorrectChoiceExplanations": [
+      "0.05 divides by only one standard deviation incorrectly.",
+      "0.72 multiplies inconsistent terms.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [
+      "correlation-06"
+    ],
+    "tags": [
+      "correlation"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-31",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Calculate and interpret covariance, correlation, expected portfolio return, and two-asset portfolio variance.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Correlation must lie between:",
+    "choices": [
+      "âˆ’1 and +1",
+      "0 and +1",
+      "âˆ’100 and +100"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Correlation is standardized to the closed interval [âˆ’1,1].",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "Negative correlation is possible.",
+      "Percentage bounds are incorrect."
+    ],
+    "relatedFormulaIds": [
+      "correlation-06"
+    ],
+    "tags": [
+      "correlation"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-32",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Calculate and interpret covariance, correlation, expected portfolio return, and two-asset portfolio variance.",
+    "difficulty": "medium",
+    "estimatedSeconds": 65,
+    "stem": "Zero correlation necessarily proves independence:",
+    "choices": [
+      "True for all variables",
+      "False; nonlinear dependence may remain",
+      "True only for returns"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Zero linear correlation need not remove nonlinear dependence.",
+    "incorrectChoiceExplanations": [
+      "This claim is too strong.",
+      "Correct.",
+      "Returns receive no special guarantee."
+    ],
+    "relatedFormulaIds": [
+      "correlation-06"
+    ],
+    "tags": [
+      "correlation",
+      "trap"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-33",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate principal moments and conditional properties of statistical distributions used in finance",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "For a Poisson distribution with λ=7, the mean and variance are:",
+    "choices": [
+      "49 and 7",
+      "7 and 7",
+      "7 and 49"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Both the mean and variance of a Poisson distribution equal λ.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 49 and 7 does not satisfy the stated calculation or interpretation. Both the mean and variance of a Poisson distribution equal λ.",
+      "Correct. Both the mean and variance of a Poisson distribution equal λ.",
+      "Incorrect. 7 and 49 does not satisfy the stated calculation or interpretation. Both the mean and variance of a Poisson distribution equal λ."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm6",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-34",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate principal moments and conditional properties of statistical distributions used in finance",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A bond has a constant annual hazard rate λ=0.03. Its five-year cumulative default probability is closest to:",
+    "choices": [
+      "13.93%",
+      "15.00%",
+      "16.18%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "1−e^(−.03×5)=.1393.",
+    "incorrectChoiceExplanations": [
+      "Correct. 1−e^(−.03×5)=.1393.",
+      "Incorrect. 15.00% does not satisfy the stated calculation or interpretation. 1−e^(−.03×5)=.1393.",
+      "Incorrect. 16.18% does not satisfy the stated calculation or interpretation. 1−e^(−.03×5)=.1393."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm6",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-35",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate principal moments and conditional properties of statistical distributions used in finance",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "A continuous uniform return ranges from −4% to 8%. Its expected return is:",
+    "choices": [
+      "4.0%",
+      "1.0%",
+      "2.0%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Uniform mean=(a+b)/2=(−4%+8%)/2=2%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 4.0% does not satisfy the stated calculation or interpretation. Uniform mean=(a+b)/2=(−4%+8%)/2=2%.",
+      "Incorrect. 1.0% does not satisfy the stated calculation or interpretation. Uniform mean=(a+b)/2=(−4%+8%)/2=2%.",
+      "Correct. Uniform mean=(a+b)/2=(−4%+8%)/2=2%."
+    ],
+    "relatedFormulaIds": [
+      "continuous-uniform-mean-07"
+    ],
+    "tags": [
+      "qm-lm6",
+      "checkpoint-3-verified",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-36",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate principal moments and conditional properties of statistical distributions used in finance",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Normal returns have mean 6% and standard deviation 8%. A return of −6% has z-score:",
+    "choices": [
+      "−0.75",
+      "−1.50",
+      "1.50"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "z=(−.06−.06)/.08=−1.5.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. −0.75 does not satisfy the stated calculation or interpretation. z=(−.06−.06)/.08=−1.5.",
+      "Correct. z=(−.06−.06)/.08=−1.5.",
+      "Incorrect. 1.50 does not satisfy the stated calculation or interpretation. z=(−.06−.06)/.08=−1.5."
+    ],
+    "relatedFormulaIds": [
+      "z-score-07"
+    ],
+    "tags": [
+      "qm-lm6",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-37",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate principal moments and conditional properties of statistical distributions used in finance",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "For a standard normal variable, Φ(1.20)=0.8849. P(Z>1.20) is:",
+    "choices": [
+      "0.1151",
+      "0.8849",
+      "0.7698"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The right tail is 1−Φ(1.20)=.1151.",
+    "incorrectChoiceExplanations": [
+      "Correct. The right tail is 1−Φ(1.20)=.1151.",
+      "Incorrect. 0.8849 does not satisfy the stated calculation or interpretation. The right tail is 1−Φ(1.20)=.1151.",
+      "Incorrect. 0.7698 does not satisfy the stated calculation or interpretation. The right tail is 1−Φ(1.20)=.1151."
+    ],
+    "relatedFormulaIds": [
+      "normal-probability-07"
+    ],
+    "tags": [
+      "qm-lm6",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-38",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate principal moments and conditional properties of statistical distributions used in finance",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "If a continuously compounded return is normal, the corresponding ending price is commonly modeled as:",
+    "choices": [
+      "normal and able to be negative",
+      "uniform over a fixed interval",
+      "lognormal and bounded below by zero"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Exponentiating a normal log return produces a positive lognormal price.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. normal and able to be negative does not satisfy the stated calculation or interpretation. Exponentiating a normal log return produces a positive lognormal price.",
+      "Incorrect. uniform over a fixed interval does not satisfy the stated calculation or interpretation. Exponentiating a normal log return produces a positive lognormal price.",
+      "Correct. Exponentiating a normal log return produces a positive lognormal price."
+    ],
+    "relatedFormulaIds": [
+      "lognormal-transform-07"
+    ],
+    "tags": [
+      "qm-lm6",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-39",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate principal moments and conditional properties of statistical distributions used in finance",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Mock-style challenge: A joint CDF F(x,y) directly reports the probability that:",
+    "choices": [
+      "X>x and Y>y",
+      "X≤x and Y≤y",
+      "X=x and Y=y"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "A joint CDF cumulates probability through both stated upper bounds.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. X>x and Y>y does not satisfy the stated calculation or interpretation. A joint CDF cumulates probability through both stated upper bounds.",
+      "Correct. A joint CDF cumulates probability through both stated upper bounds.",
+      "Incorrect. X=x and Y=y does not satisfy the stated calculation or interpretation. A joint CDF cumulates probability through both stated upper bounds."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm6",
+      "checkpoint-3-verified",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q06-40",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate principal moments and conditional properties of statistical distributions used in finance",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "Mock-style challenge: Given two market regimes, a conditional expected return differs from an unconditional expected return because it:",
+    "choices": [
+      "uses probabilities and outcomes conditional on the specified regime",
+      "must equal one of the realized returns",
+      "ignores the probability of the regime"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Conditional expectation uses the relevant conditional distribution.",
+    "incorrectChoiceExplanations": [
+      "Correct. Conditional expectation uses the relevant conditional distribution.",
+      "Incorrect. must equal one of the realized returns does not satisfy the stated calculation or interpretation. Conditional expectation uses the relevant conditional distribution.",
+      "Incorrect. ignores the probability of the regime does not satisfy the stated calculation or interpretation. Conditional expectation uses the relevant conditional distribution."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm6",
+      "checkpoint-3-verified",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q07-01",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Distinguish and apply common discrete and continuous probability distributions.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Mock-style challenge: Which statement best distinguishes a probability mass function from a probability density function?",
+    "choices": [
+      "A mass function assigns probabilities to discrete outcomes",
+      "A density value at a point is itself a probability",
+      "A mass function applies only to normal variables"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "A PMF assigns point probabilities to discrete outcomes; a PDF must be integrated over an interval.",
+    "incorrectChoiceExplanations": [
+      "Correct. A PMF assigns point probabilities to discrete outcomes; a PDF must be integrated over an interval.",
+      "Incorrect. “A density value at a point is itself a probability” conflicts with the defining rule or calculation: A PMF assigns point probabilities to discrete outcomes; a PDF must be integrated over an interval.",
+      "Incorrect. “A mass function applies only to normal variables” conflicts with the defining rule or calculation: A PMF assigns point probabilities to discrete outcomes; a PDF must be integrated over an interval."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "distributions",
+      "concept",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "legacySourceLessonId": "quant-distributions-07",
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q07-02",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Distinguish and apply common discrete and continuous probability distributions.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Mock-style challenge: For a valid discrete probability distribution, the probabilities across all possible outcomes must sum to:",
+    "choices": [
+      "0",
+      "1",
+      "The expected value"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Probabilities over an exhaustive discrete support sum to one.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “0” conflicts with the defining rule or calculation: Probabilities over an exhaustive discrete support sum to one.",
+      "Correct. Probabilities over an exhaustive discrete support sum to one.",
+      "Incorrect. “The expected value” conflicts with the defining rule or calculation: Probabilities over an exhaustive discrete support sum to one."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "distributions",
+      "concept",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "legacySourceLessonId": "quant-distributions-07",
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q07-03",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Distinguish and apply common discrete and continuous probability distributions.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Mock-style challenge: For a continuous random variable, P(X = exactly 4) is generally:",
+    "choices": [
+      "Equal to the density at 4",
+      "One-half",
+      "Zero"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "A single point has zero width and therefore zero probability under a continuous distribution.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “Equal to the density at 4” conflicts with the defining rule or calculation: A single point has zero width and therefore zero probability under a continuous distribution.",
+      "Incorrect. “One-half” conflicts with the defining rule or calculation: A single point has zero width and therefore zero probability under a continuous distribution.",
+      "Correct. A single point has zero width and therefore zero probability under a continuous distribution."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "distributions",
+      "concept",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "legacySourceLessonId": "quant-distributions-07",
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q07-04",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Distinguish and apply common discrete and continuous probability distributions.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Mock-style challenge: The cumulative distribution function F(x) equals:",
+    "choices": [
+      "P(X ≤ x)",
+      "P(X = x) only",
+      "P(X > x)"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "A CDF gives the lower-tail probability through x.",
+    "incorrectChoiceExplanations": [
+      "Correct. A CDF gives the lower-tail probability through x.",
+      "Incorrect. “P(X = x) only” conflicts with the defining rule or calculation: A CDF gives the lower-tail probability through x.",
+      "Incorrect. “P(X > x)” conflicts with the defining rule or calculation: A CDF gives the lower-tail probability through x."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "distributions",
+      "concept",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "legacySourceLessonId": "quant-distributions-07",
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q07-05",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Distinguish and apply common discrete and continuous probability distributions.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Mock-style challenge: A discrete uniform variable has outcomes 1, 2, 3, and 4. P(X=3) is:",
+    "choices": [
+      "0.20",
+      "0.25",
+      "0.75"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Four equally likely outcomes give probability 1/4.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “0.20” conflicts with the defining rule or calculation: Four equally likely outcomes give probability 1/4.",
+      "Correct. Four equally likely outcomes give probability 1/4.",
+      "Incorrect. “0.75” conflicts with the defining rule or calculation: Four equally likely outcomes give probability 1/4."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "distributions",
+      "concept",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "legacySourceLessonId": "quant-distributions-07",
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q07-06",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Distinguish and apply common discrete and continuous probability distributions.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Mock-style challenge: For Bernoulli X with success probability p=0.30, E(X) is:",
+    "choices": [
+      "0.21",
+      "0.70",
+      "0.30"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "A 0/1 Bernoulli variable has mean p.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “0.21” conflicts with the defining rule or calculation: A 0/1 Bernoulli variable has mean p.",
+      "Incorrect. “0.70” conflicts with the defining rule or calculation: A 0/1 Bernoulli variable has mean p.",
+      "Correct. A 0/1 Bernoulli variable has mean p."
+    ],
+    "relatedFormulaIds": [
+      "bernoulli-mean-07"
+    ],
+    "tags": [
+      "distributions",
+      "concept",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "legacySourceLessonId": "quant-distributions-07",
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q07-07",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Distinguish and apply common discrete and continuous probability distributions.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Mock-style challenge: For Bernoulli p=0.40, the variance is:",
+    "choices": [
+      "0.24",
+      "0.16",
+      "0.40"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Bernoulli variance is p(1-p)=0.4×0.6=0.24.",
+    "incorrectChoiceExplanations": [
+      "Correct. Bernoulli variance is p(1-p)=0.4×0.6=0.24.",
+      "Incorrect. “0.16” conflicts with the defining rule or calculation: Bernoulli variance is p(1-p)=0.4×0.6=0.24.",
+      "Incorrect. “0.40” conflicts with the defining rule or calculation: Bernoulli variance is p(1-p)=0.4×0.6=0.24."
+    ],
+    "relatedFormulaIds": [
+      "bernoulli-variance-07"
+    ],
+    "tags": [
+      "distributions",
+      "concept",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "legacySourceLessonId": "quant-distributions-07",
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q07-08",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Distinguish and apply common discrete and continuous probability distributions.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Mock-style challenge: Which conditions support a binomial model?",
+    "choices": [
+      "Dependent trials with changing p",
+      "Fixed independent trials, two outcomes, constant p",
+      "Continuous outcomes on an interval"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "A binomial count needs fixed n, independent Bernoulli trials, and constant p.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “Dependent trials with changing p” conflicts with the defining rule or calculation: A binomial count needs fixed n, independent Bernoulli trials, and constant p.",
+      "Correct. A binomial count needs fixed n, independent Bernoulli trials, and constant p.",
+      "Incorrect. “Continuous outcomes on an interval” conflicts with the defining rule or calculation: A binomial count needs fixed n, independent Bernoulli trials, and constant p."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "distributions",
+      "concept",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "legacySourceLessonId": "quant-distributions-07",
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q07-09",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Distinguish and apply common discrete and continuous probability distributions.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Mock-style challenge: For n=3, p=0.5, P(X=2) is:",
+    "choices": [
+      "0.125",
+      "0.750",
+      "0.375"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "C(3,2)(0.5)^2(0.5)=3/8=0.375.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. “0.125” conflicts with the defining rule or calculation: C(3,2)(0.5)^2(0.5)=3/8=0.375.",
+      "Incorrect. “0.750” conflicts with the defining rule or calculation: C(3,2)(0.5)^2(0.5)=3/8=0.375.",
+      "Correct. C(3,2)(0.5)^2(0.5)=3/8=0.375."
+    ],
+    "relatedFormulaIds": [
+      "binomial-probability-07"
+    ],
+    "tags": [
+      "distributions",
+      "concept",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "legacySourceLessonId": "quant-distributions-07",
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q07-10",
+    "lessonId": "quant-probability-06",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "Distinguish and apply common discrete and continuous probability distributions.",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Mock-style challenge: For n=4, p=0.20, P(X=0) is:",
+    "choices": [
+      "0.4096",
+      "0.2000",
+      "0.5904"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "No successes has probability (0.8)^4=0.4096.",
+    "incorrectChoiceExplanations": [
+      "Correct. No successes has probability (0.8)^4=0.4096.",
+      "Incorrect. “0.2000” conflicts with the defining rule or calculation: No successes has probability (0.8)^4=0.4096.",
+      "Incorrect. “0.5904” conflicts with the defining rule or calculation: No successes has probability (0.8)^4=0.4096."
+    ],
+    "relatedFormulaIds": [
+      "binomial-probability-07"
+    ],
+    "tags": [
+      "distributions",
+      "concept",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "legacySourceLessonId": "quant-distributions-07",
+    "lessonSectionId": "introduction"
+  }
+]

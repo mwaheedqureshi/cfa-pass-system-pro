@@ -1,0 +1,12 @@
+import {Link} from 'react-router-dom';
+import {averageConfidence,questionTime,scoreAttempt,topicBreakdown} from '../../mocks/mockService';
+import type {MockAttempt,MockExam} from '../../mocks/types';
+
+export function MockExamResults({mock,attempt}:{mock:MockExam;attempt:MockAttempt}){
+  const score=scoreAttempt(mock,attempt),topics=topicBreakdown(mock,attempt),flagged=mock.questions.filter(q=>attempt.flags.includes(q.id)),flaggedCorrect=flagged.filter(q=>attempt.answers[q.id]===q.correctChoiceIndex).length;
+  const confidence={confident:0,unsure:0,guess:0};for(const value of Object.values(attempt.confidence))confidence[value]++;
+  const ranked=Object.entries(topics).filter(([,row])=>row.answered).sort((a,b)=>b[1].correct/b[1].answered-a[1].correct/a[1].answered),strongest=ranked[0],weakest=ranked.at(-1);
+  return <><h1>Mock results</h1><div className="stats-grid mt-5">{[[`${score.percentage}%`,'Score'],[score.correct,'Correct'],[score.incorrect,'Incorrect'],[score.unanswered,'Unanswered'],[`${Math.round(attempt.elapsedSeconds/60)} min`,'Time used'],[`${questionTime(attempt).toFixed(1)}s`,'Average per question'],[averageConfidence(attempt).toFixed(2),'Average confidence'],[`${flaggedCorrect}/${flagged.length}`,'Flagged performance']].map(([value,label])=><div className="stat-card" key={label}><strong>{value}</strong><span>{label}</span></div>)}</div>
+    <section className="card mt-6"><h2>Confidence breakdown</h2><p className="mt-3">Confident: <strong>{confidence.confident}</strong> · Unsure: <strong>{confidence.unsure}</strong> · Guess: <strong>{confidence.guess}</strong></p></section>
+    <section className="card mt-6"><h2>Topic and module breakdown</h2>{ranked.length?<><ul className="mt-3 space-y-2">{ranked.map(([name,row])=><li key={name}>{name}: <strong>{row.correct}/{row.answered}</strong></li>)}</ul><p className="mt-4">Strongest area: <strong>{strongest?.[0]}</strong></p><p>Weakest area: <strong>{weakest?.[0]}</strong></p></>:<p className="muted mt-3">Reliable topic mapping is unavailable for these questions.</p>}<div className="mt-5 flex flex-wrap gap-2"><Link className="btn btn-primary" to={`/mocks/${mock.id}/review?filter=incorrect`}>Review incorrect</Link><Link className="btn" to={`/mocks/${mock.id}/review`}>Review all</Link><Link className="btn" to={`/mocks/${mock.id}?retry=1`}>Retry mock</Link><Link className="btn" to="/mocks/practice?filter=unresolved">Practice weak areas</Link></div></section></>;
+}

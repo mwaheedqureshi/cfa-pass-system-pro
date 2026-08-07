@@ -1,0 +1,1604 @@
+[
+  {
+    "id": "q10-01",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-05: Describe, interpret, and explain simple linear regression and least-squares coefficient estimation.",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "A regression has Σ(xᵢ−x̄)(yᵢ−ȳ)=18 and Σ(xᵢ−x̄)²=12. The estimated slope is closest to:",
+    "choices": [
+      "1.5",
+      "1.6364",
+      "0.6667"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "OLS gives b₁=SXY/SXX=18/12=1.5. It is the predicted change in Y for a one-unit increase in X.",
+    "incorrectChoiceExplanations": [
+      "Correct. OLS gives b₁=SXY/SXX=18/12=1.5. It is the predicted change in Y for a one-unit increase in X.",
+      "Incorrect. 1.6364 does not follow the stated regression relationship or diagnostic evidence.",
+      "Incorrect. 0.6667 does not follow the stated regression relationship or diagnostic evidence."
+    ],
+    "relatedFormulaIds": [
+      "slope-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-02",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-05: Describe, interpret, and explain simple linear regression and least-squares coefficient estimation.",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "A regression has Σ(xᵢ−x̄)(yᵢ−ȳ)=30 and Σ(xᵢ−x̄)²=20. The estimated slope is closest to:",
+    "choices": [
+      "1.5789",
+      "1.5",
+      "0.6667"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "OLS gives b₁=SXY/SXX=30/20=1.5. It is the predicted change in Y for a one-unit increase in X.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 1.5789 does not follow the stated regression relationship or diagnostic evidence.",
+      "Correct. OLS gives b₁=SXY/SXX=30/20=1.5. It is the predicted change in Y for a one-unit increase in X.",
+      "Incorrect. 0.6667 does not follow the stated regression relationship or diagnostic evidence."
+    ],
+    "relatedFormulaIds": [
+      "slope-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-03",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-05: Describe, interpret, and explain simple linear regression and least-squares coefficient estimation.",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "A regression has Σ(xᵢ−x̄)(yᵢ−ȳ)=-24 and Σ(xᵢ−x̄)²=16. The estimated slope is closest to:",
+    "choices": [
+      "-1.6",
+      "-0.6667",
+      "-1.5"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "OLS gives b₁=SXY/SXX=-24/16=-1.5. It is the predicted change in Y for a one-unit increase in X.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. -1.6 does not follow the stated regression relationship or diagnostic evidence.",
+      "Incorrect. -0.6667 does not follow the stated regression relationship or diagnostic evidence.",
+      "Correct. OLS gives b₁=SXY/SXX=-24/16=-1.5. It is the predicted change in Y for a one-unit increase in X."
+    ],
+    "relatedFormulaIds": [
+      "slope-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-04",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-05: Describe, interpret, and explain simple linear regression and least-squares coefficient estimation.",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "A regression has Σ(xᵢ−x̄)(yᵢ−ȳ)=14 and Σ(xᵢ−x̄)²=8. The estimated slope is closest to:",
+    "choices": [
+      "1.75",
+      "2",
+      "0.5714"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "OLS gives b₁=SXY/SXX=14/8=1.75. It is the predicted change in Y for a one-unit increase in X.",
+    "incorrectChoiceExplanations": [
+      "Correct. OLS gives b₁=SXY/SXX=14/8=1.75. It is the predicted change in Y for a one-unit increase in X.",
+      "Incorrect. 2 does not follow the stated regression relationship or diagnostic evidence.",
+      "Incorrect. 0.5714 does not follow the stated regression relationship or diagnostic evidence."
+    ],
+    "relatedFormulaIds": [
+      "slope-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-05",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-05: Describe, interpret, and explain simple linear regression and least-squares coefficient estimation.",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "A regression has Σ(xᵢ−x̄)(yᵢ−ȳ)=9 and Σ(xᵢ−x̄)²=6. The estimated slope is closest to:",
+    "choices": [
+      "1.8",
+      "1.5",
+      "0.6667"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "OLS gives b₁=SXY/SXX=9/6=1.5. It is the predicted change in Y for a one-unit increase in X.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 1.8 does not follow the stated regression relationship or diagnostic evidence.",
+      "Correct. OLS gives b₁=SXY/SXX=9/6=1.5. It is the predicted change in Y for a one-unit increase in X.",
+      "Incorrect. 0.6667 does not follow the stated regression relationship or diagnostic evidence."
+    ],
+    "relatedFormulaIds": [
+      "slope-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-06",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-05: Describe, interpret, and explain simple linear regression and least-squares coefficient estimation.",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Given x̄=4, ȳ=10, and b₁=1.5, the regression intercept is closest to:",
+    "choices": [
+      "16",
+      "6.6667",
+      "4"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The fitted line passes through (x̄,ȳ), so b₀=ȳ−b₁x̄=10−1.5(4)=4.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 16 does not follow the stated regression relationship or diagnostic evidence.",
+      "Incorrect. 6.6667 does not follow the stated regression relationship or diagnostic evidence.",
+      "Correct. The fitted line passes through (x̄,ȳ), so b₀=ȳ−b₁x̄=10−1.5(4)=4."
+    ],
+    "relatedFormulaIds": [
+      "intercept-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-07",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-05: Describe, interpret, and explain simple linear regression and least-squares coefficient estimation.",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Given x̄=6, ȳ=2, and b₁=-0.4, the regression intercept is closest to:",
+    "choices": [
+      "4.4",
+      "-0.4",
+      "-5"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The fitted line passes through (x̄,ȳ), so b₀=ȳ−b₁x̄=2−-0.4(6)=4.4.",
+    "incorrectChoiceExplanations": [
+      "Correct. The fitted line passes through (x̄,ȳ), so b₀=ȳ−b₁x̄=2−-0.4(6)=4.4.",
+      "Incorrect. -0.4 does not follow the stated regression relationship or diagnostic evidence.",
+      "Incorrect. -5 does not follow the stated regression relationship or diagnostic evidence."
+    ],
+    "relatedFormulaIds": [
+      "intercept-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-08",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-05: Describe, interpret, and explain simple linear regression and least-squares coefficient estimation.",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Given x̄=3, ȳ=7, and b₁=1.2, the regression intercept is closest to:",
+    "choices": [
+      "10.6",
+      "3.4",
+      "5.8333"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The fitted line passes through (x̄,ȳ), so b₀=ȳ−b₁x̄=7−1.2(3)=3.4.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 10.6 does not follow the stated regression relationship or diagnostic evidence.",
+      "Correct. The fitted line passes through (x̄,ȳ), so b₀=ȳ−b₁x̄=7−1.2(3)=3.4.",
+      "Incorrect. 5.8333 does not follow the stated regression relationship or diagnostic evidence."
+    ],
+    "relatedFormulaIds": [
+      "intercept-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-09",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-05: Describe, interpret, and explain simple linear regression and least-squares coefficient estimation.",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Given x̄=5, ȳ=12, and b₁=2, the regression intercept is closest to:",
+    "choices": [
+      "22",
+      "6",
+      "2"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The fitted line passes through (x̄,ȳ), so b₀=ȳ−b₁x̄=12−2(5)=2.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 22 does not follow the stated regression relationship or diagnostic evidence.",
+      "Incorrect. 6 does not follow the stated regression relationship or diagnostic evidence.",
+      "Correct. The fitted line passes through (x̄,ȳ), so b₀=ȳ−b₁x̄=12−2(5)=2."
+    ],
+    "relatedFormulaIds": [
+      "intercept-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-10",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-05: Describe, interpret, and explain simple linear regression and least-squares coefficient estimation.",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Given x̄=8, ȳ=5, and b₁=0.25, the regression intercept is closest to:",
+    "choices": [
+      "3",
+      "7",
+      "20"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The fitted line passes through (x̄,ȳ), so b₀=ȳ−b₁x̄=5−0.25(8)=3.",
+    "incorrectChoiceExplanations": [
+      "Correct. The fitted line passes through (x̄,ȳ), so b₀=ȳ−b₁x̄=5−0.25(8)=3.",
+      "Incorrect. 7 does not follow the stated regression relationship or diagnostic evidence.",
+      "Incorrect. 20 does not follow the stated regression relationship or diagnostic evidence."
+    ],
+    "relatedFormulaIds": [
+      "intercept-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-11",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-08: Calculate and interpret predictions, standard error of estimate, prediction intervals, and functional forms.",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "For ŷ=2+1.4x, the predicted value at x=5 is closest to:",
+    "choices": [
+      "8.4",
+      "9",
+      "17"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Substitution gives ŷ=2+1.4(5)=9. This is a conditional point prediction, not a guaranteed outcome.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 8.4 does not follow the stated regression relationship or diagnostic evidence.",
+      "Correct. Substitution gives ŷ=2+1.4(5)=9. This is a conditional point prediction, not a guaranteed outcome.",
+      "Incorrect. 17 does not follow the stated regression relationship or diagnostic evidence."
+    ],
+    "relatedFormulaIds": [
+      "regression-equation-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-12",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-08: Calculate and interpret predictions, standard error of estimate, prediction intervals, and functional forms.",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "For ŷ=6+-0.5x, the predicted value at x=8 is closest to:",
+    "choices": [
+      "13.5",
+      "44",
+      "2"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Substitution gives ŷ=6+-0.5(8)=2. This is a conditional point prediction, not a guaranteed outcome.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 13.5 does not follow the stated regression relationship or diagnostic evidence.",
+      "Incorrect. 44 does not follow the stated regression relationship or diagnostic evidence.",
+      "Correct. Substitution gives ŷ=6+-0.5(8)=2. This is a conditional point prediction, not a guaranteed outcome."
+    ],
+    "relatedFormulaIds": [
+      "regression-equation-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-13",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-08: Calculate and interpret predictions, standard error of estimate, prediction intervals, and functional forms.",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "For ŷ=-1+2.2x, the predicted value at x=3 is closest to:",
+    "choices": [
+      "5.6",
+      "4.2",
+      "3.6"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Substitution gives ŷ=-1+2.2(3)=5.6. This is a conditional point prediction, not a guaranteed outcome.",
+    "incorrectChoiceExplanations": [
+      "Correct. Substitution gives ŷ=-1+2.2(3)=5.6. This is a conditional point prediction, not a guaranteed outcome.",
+      "Incorrect. 4.2 does not follow the stated regression relationship or diagnostic evidence.",
+      "Incorrect. 3.6 does not follow the stated regression relationship or diagnostic evidence."
+    ],
+    "relatedFormulaIds": [
+      "regression-equation-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-14",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-08: Calculate and interpret predictions, standard error of estimate, prediction intervals, and functional forms.",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "For ŷ=0.3+1.1x, the predicted value at x=4 is closest to:",
+    "choices": [
+      "5.4",
+      "4.7",
+      "5.6"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Substitution gives ŷ=0.3+1.1(4)=4.7. This is a conditional point prediction, not a guaranteed outcome.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 5.4 does not follow the stated regression relationship or diagnostic evidence.",
+      "Correct. Substitution gives ŷ=0.3+1.1(4)=4.7. This is a conditional point prediction, not a guaranteed outcome.",
+      "Incorrect. 5.6 does not follow the stated regression relationship or diagnostic evidence."
+    ],
+    "relatedFormulaIds": [
+      "regression-equation-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-15",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-08: Calculate and interpret predictions, standard error of estimate, prediction intervals, and functional forms.",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "For ŷ=10+0.25x, the predicted value at x=12 is closest to:",
+    "choices": [
+      "22.25",
+      "123",
+      "13"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Substitution gives ŷ=10+0.25(12)=13. This is a conditional point prediction, not a guaranteed outcome.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 22.25 does not follow the stated regression relationship or diagnostic evidence.",
+      "Incorrect. 123 does not follow the stated regression relationship or diagnostic evidence.",
+      "Correct. Substitution gives ŷ=10+0.25(12)=13. This is a conditional point prediction, not a guaranteed outcome."
+    ],
+    "relatedFormulaIds": [
+      "regression-equation-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-16",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-05: Describe, interpret, and explain simple linear regression and least-squares coefficient estimation.",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "An observation has actual y=8 and fitted ŷ=7.2. Its residual is closest to:",
+    "choices": [
+      "0.8",
+      "-0.8",
+      "15.2"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Residual e=y−ŷ=8−(7.2)=0.8. A positive residual means the model underpredicted Y.",
+    "incorrectChoiceExplanations": [
+      "Correct. Residual e=y−ŷ=8−(7.2)=0.8. A positive residual means the model underpredicted Y.",
+      "Incorrect. -0.8 does not follow the stated regression relationship or diagnostic evidence.",
+      "Incorrect. 15.2 does not follow the stated regression relationship or diagnostic evidence."
+    ],
+    "relatedFormulaIds": [
+      "residual-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-17",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-05: Describe, interpret, and explain simple linear regression and least-squares coefficient estimation.",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "An observation has actual y=4 and fitted ŷ=5.1. Its residual is closest to:",
+    "choices": [
+      "1.1",
+      "-1.1",
+      "9.1"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Residual e=y−ŷ=4−(5.1)=-1.1. A positive residual means the model underpredicted Y.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 1.1 does not follow the stated regression relationship or diagnostic evidence.",
+      "Correct. Residual e=y−ŷ=4−(5.1)=-1.1. A positive residual means the model underpredicted Y.",
+      "Incorrect. 9.1 does not follow the stated regression relationship or diagnostic evidence."
+    ],
+    "relatedFormulaIds": [
+      "residual-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-18",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-05: Describe, interpret, and explain simple linear regression and least-squares coefficient estimation.",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "An observation has actual y=-1 and fitted ŷ=-0.4. Its residual is closest to:",
+    "choices": [
+      "0.6",
+      "-1.4",
+      "-0.6"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Residual e=y−ŷ=-1−(-0.4)=-0.6. A positive residual means the model underpredicted Y.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 0.6 does not follow the stated regression relationship or diagnostic evidence.",
+      "Incorrect. -1.4 does not follow the stated regression relationship or diagnostic evidence.",
+      "Correct. Residual e=y−ŷ=-1−(-0.4)=-0.6. A positive residual means the model underpredicted Y."
+    ],
+    "relatedFormulaIds": [
+      "residual-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-19",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-05: Describe, interpret, and explain simple linear regression and least-squares coefficient estimation.",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "An observation has actual y=12 and fitted ŷ=9.5. Its residual is closest to:",
+    "choices": [
+      "2.5",
+      "-2.5",
+      "21.5"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Residual e=y−ŷ=12−(9.5)=2.5. A positive residual means the model underpredicted Y.",
+    "incorrectChoiceExplanations": [
+      "Correct. Residual e=y−ŷ=12−(9.5)=2.5. A positive residual means the model underpredicted Y.",
+      "Incorrect. -2.5 does not follow the stated regression relationship or diagnostic evidence.",
+      "Incorrect. 21.5 does not follow the stated regression relationship or diagnostic evidence."
+    ],
+    "relatedFormulaIds": [
+      "residual-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-20",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-05: Describe, interpret, and explain simple linear regression and least-squares coefficient estimation.",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "An observation has actual y=3 and fitted ŷ=3.8. Its residual is closest to:",
+    "choices": [
+      "0.8",
+      "-0.8",
+      "6.8"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Residual e=y−ŷ=3−(3.8)=-0.8. A positive residual means the model underpredicted Y.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 0.8 does not follow the stated regression relationship or diagnostic evidence.",
+      "Correct. Residual e=y−ŷ=3−(3.8)=-0.8. A positive residual means the model underpredicted Y.",
+      "Incorrect. 6.8 does not follow the stated regression relationship or diagnostic evidence."
+    ],
+    "relatedFormulaIds": [
+      "residual-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-21",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-16: Evaluate regression assumptions, residuals, goodness of fit, coefficients, and ANOVA results.",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "A fitted regression reports SST=100 and SSE=36. R² is closest to:",
+    "choices": [
+      "0.36",
+      "1.7778",
+      "0.64"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "R²=1−SSE/SST=1−36/100=0.64; 64% of sample variation in Y is explained by the fitted line.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 0.36 does not follow the stated regression relationship or diagnostic evidence.",
+      "Incorrect. 1.7778 does not follow the stated regression relationship or diagnostic evidence.",
+      "Correct. R²=1−SSE/SST=1−36/100=0.64; 64% of sample variation in Y is explained by the fitted line."
+    ],
+    "relatedFormulaIds": [
+      "r-squared-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-22",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-16: Evaluate regression assumptions, residuals, goodness of fit, coefficients, and ANOVA results.",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "A fitted regression reports SST=80 and SSE=20. R² is closest to:",
+    "choices": [
+      "0.75",
+      "0.25",
+      "3"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "R²=1−SSE/SST=1−20/80=0.75; 75% of sample variation in Y is explained by the fitted line.",
+    "incorrectChoiceExplanations": [
+      "Correct. R²=1−SSE/SST=1−20/80=0.75; 75% of sample variation in Y is explained by the fitted line.",
+      "Incorrect. 0.25 does not follow the stated regression relationship or diagnostic evidence.",
+      "Incorrect. 3 does not follow the stated regression relationship or diagnostic evidence."
+    ],
+    "relatedFormulaIds": [
+      "r-squared-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-23",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-16: Evaluate regression assumptions, residuals, goodness of fit, coefficients, and ANOVA results.",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "A fitted regression reports SST=50 and SSE=18. R² is closest to:",
+    "choices": [
+      "0.36",
+      "0.64",
+      "1.7778"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "R²=1−SSE/SST=1−18/50=0.64; 64% of sample variation in Y is explained by the fitted line.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 0.36 does not follow the stated regression relationship or diagnostic evidence.",
+      "Correct. R²=1−SSE/SST=1−18/50=0.64; 64% of sample variation in Y is explained by the fitted line.",
+      "Incorrect. 1.7778 does not follow the stated regression relationship or diagnostic evidence."
+    ],
+    "relatedFormulaIds": [
+      "r-squared-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-24",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-16: Evaluate regression assumptions, residuals, goodness of fit, coefficients, and ANOVA results.",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "A fitted regression reports SST=120 and SSE=30. R² is closest to:",
+    "choices": [
+      "0.25",
+      "3",
+      "0.75"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "R²=1−SSE/SST=1−30/120=0.75; 75% of sample variation in Y is explained by the fitted line.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 0.25 does not follow the stated regression relationship or diagnostic evidence.",
+      "Incorrect. 3 does not follow the stated regression relationship or diagnostic evidence.",
+      "Correct. R²=1−SSE/SST=1−30/120=0.75; 75% of sample variation in Y is explained by the fitted line."
+    ],
+    "relatedFormulaIds": [
+      "r-squared-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-25",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-16: Evaluate regression assumptions, residuals, goodness of fit, coefficients, and ANOVA results.",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "A fitted regression reports SST=64 and SSE=16. R² is closest to:",
+    "choices": [
+      "0.75",
+      "0.25",
+      "3"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "R²=1−SSE/SST=1−16/64=0.75; 75% of sample variation in Y is explained by the fitted line.",
+    "incorrectChoiceExplanations": [
+      "Correct. R²=1−SSE/SST=1−16/64=0.75; 75% of sample variation in Y is explained by the fitted line.",
+      "Incorrect. 0.25 does not follow the stated regression relationship or diagnostic evidence.",
+      "Incorrect. 3 does not follow the stated regression relationship or diagnostic evidence."
+    ],
+    "relatedFormulaIds": [
+      "r-squared-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-26",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-08: Calculate and interpret predictions, standard error of estimate, prediction intervals, and functional forms.",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "For a simple regression with n=5 and SSE=18, the standard error of estimate is closest to:",
+    "choices": [
+      "1.8974",
+      "2.4495",
+      "6"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "SEE=√[SSE/(n−2)]=√[18/3]=2.4495. Two degrees of freedom are used to estimate the intercept and slope.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 1.8974 does not follow the stated regression relationship or diagnostic evidence.",
+      "Correct. SEE=√[SSE/(n−2)]=√[18/3]=2.4495. Two degrees of freedom are used to estimate the intercept and slope.",
+      "Incorrect. 6 does not follow the stated regression relationship or diagnostic evidence."
+    ],
+    "relatedFormulaIds": [
+      "see-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-27",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-08: Calculate and interpret predictions, standard error of estimate, prediction intervals, and functional forms.",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "For a simple regression with n=7 and SSE=40, the standard error of estimate is closest to:",
+    "choices": [
+      "2.3905",
+      "8",
+      "2.8284"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "SEE=√[SSE/(n−2)]=√[40/5]=2.8284. Two degrees of freedom are used to estimate the intercept and slope.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 2.3905 does not follow the stated regression relationship or diagnostic evidence.",
+      "Incorrect. 8 does not follow the stated regression relationship or diagnostic evidence.",
+      "Correct. SEE=√[SSE/(n−2)]=√[40/5]=2.8284. Two degrees of freedom are used to estimate the intercept and slope."
+    ],
+    "relatedFormulaIds": [
+      "see-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-28",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-08: Calculate and interpret predictions, standard error of estimate, prediction intervals, and functional forms.",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "For a simple regression with n=6 and SSE=24, the standard error of estimate is closest to:",
+    "choices": [
+      "2.4495",
+      "2",
+      "6"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "SEE=√[SSE/(n−2)]=√[24/4]=2.4495. Two degrees of freedom are used to estimate the intercept and slope.",
+    "incorrectChoiceExplanations": [
+      "Correct. SEE=√[SSE/(n−2)]=√[24/4]=2.4495. Two degrees of freedom are used to estimate the intercept and slope.",
+      "Incorrect. 2 does not follow the stated regression relationship or diagnostic evidence.",
+      "Incorrect. 6 does not follow the stated regression relationship or diagnostic evidence."
+    ],
+    "relatedFormulaIds": [
+      "see-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-29",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-08: Calculate and interpret predictions, standard error of estimate, prediction intervals, and functional forms.",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "For a simple regression with n=9 and SSE=63, the standard error of estimate is closest to:",
+    "choices": [
+      "2.6458",
+      "3",
+      "9"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "SEE=√[SSE/(n−2)]=√[63/7]=3. Two degrees of freedom are used to estimate the intercept and slope.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 2.6458 does not follow the stated regression relationship or diagnostic evidence.",
+      "Correct. SEE=√[SSE/(n−2)]=√[63/7]=3. Two degrees of freedom are used to estimate the intercept and slope.",
+      "Incorrect. 9 does not follow the stated regression relationship or diagnostic evidence."
+    ],
+    "relatedFormulaIds": [
+      "see-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-30",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-08: Calculate and interpret predictions, standard error of estimate, prediction intervals, and functional forms.",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "For a simple regression with n=8 and SSE=12, the standard error of estimate is closest to:",
+    "choices": [
+      "1.2247",
+      "2",
+      "1.4142"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "SEE=√[SSE/(n−2)]=√[12/6]=1.4142. Two degrees of freedom are used to estimate the intercept and slope.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 1.2247 does not follow the stated regression relationship or diagnostic evidence.",
+      "Incorrect. 2 does not follow the stated regression relationship or diagnostic evidence.",
+      "Correct. SEE=√[SSE/(n−2)]=√[12/6]=1.4142. Two degrees of freedom are used to estimate the intercept and slope."
+    ],
+    "relatedFormulaIds": [
+      "see-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-31",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-16: Evaluate regression assumptions, residuals, goodness of fit, coefficients, and ANOVA results.",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "For H₀: β₁=0, an estimated slope of 1.2 with standard error 0.4 produces a t-statistic closest to:",
+    "choices": [
+      "3",
+      "0.8",
+      "0.3333"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "t=(b₁−0)/SE(b₁)=1.2/0.4=3, evaluated with n−2 degrees of freedom.",
+    "incorrectChoiceExplanations": [
+      "Correct. t=(b₁−0)/SE(b₁)=1.2/0.4=3, evaluated with n−2 degrees of freedom.",
+      "Incorrect. 0.8 does not follow the stated regression relationship or diagnostic evidence.",
+      "Incorrect. 0.3333 does not follow the stated regression relationship or diagnostic evidence."
+    ],
+    "relatedFormulaIds": [
+      "slope-t-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-32",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-16: Evaluate regression assumptions, residuals, goodness of fit, coefficients, and ANOVA results.",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "For H₀: β₁=0, an estimated slope of 0.3 with standard error 0.25 produces a t-statistic closest to:",
+    "choices": [
+      "0.05",
+      "1.2",
+      "0.8333"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "t=(b₁−0)/SE(b₁)=0.3/0.25=1.2, evaluated with n−2 degrees of freedom.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 0.05 does not follow the stated regression relationship or diagnostic evidence.",
+      "Correct. t=(b₁−0)/SE(b₁)=0.3/0.25=1.2, evaluated with n−2 degrees of freedom.",
+      "Incorrect. 0.8333 does not follow the stated regression relationship or diagnostic evidence."
+    ],
+    "relatedFormulaIds": [
+      "slope-t-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-33",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-16: Evaluate regression assumptions, residuals, goodness of fit, coefficients, and ANOVA results.",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "For H₀: β₁=0, an estimated slope of -0.8 with standard error 0.2 produces a t-statistic closest to:",
+    "choices": [
+      "-1",
+      "-0.25",
+      "-4"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "t=(b₁−0)/SE(b₁)=-0.8/0.2=-4, evaluated with n−2 degrees of freedom.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. -1 does not follow the stated regression relationship or diagnostic evidence.",
+      "Incorrect. -0.25 does not follow the stated regression relationship or diagnostic evidence.",
+      "Correct. t=(b₁−0)/SE(b₁)=-0.8/0.2=-4, evaluated with n−2 degrees of freedom."
+    ],
+    "relatedFormulaIds": [
+      "slope-t-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-34",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-16: Evaluate regression assumptions, residuals, goodness of fit, coefficients, and ANOVA results.",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "For H₀: β₁=0, an estimated slope of 0.45 with standard error 0.15 produces a t-statistic closest to:",
+    "choices": [
+      "3",
+      "0.3",
+      "0.3333"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "t=(b₁−0)/SE(b₁)=0.45/0.15=3, evaluated with n−2 degrees of freedom.",
+    "incorrectChoiceExplanations": [
+      "Correct. t=(b₁−0)/SE(b₁)=0.45/0.15=3, evaluated with n−2 degrees of freedom.",
+      "Incorrect. 0.3 does not follow the stated regression relationship or diagnostic evidence.",
+      "Incorrect. 0.3333 does not follow the stated regression relationship or diagnostic evidence."
+    ],
+    "relatedFormulaIds": [
+      "slope-t-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-35",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-16: Evaluate regression assumptions, residuals, goodness of fit, coefficients, and ANOVA results.",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "For H₀: β₁=0, an estimated slope of 1.1 with standard error 0.5 produces a t-statistic closest to:",
+    "choices": [
+      "0.6",
+      "2.2",
+      "0.4545"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "t=(b₁−0)/SE(b₁)=1.1/0.5=2.2, evaluated with n−2 degrees of freedom.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 0.6 does not follow the stated regression relationship or diagnostic evidence.",
+      "Correct. t=(b₁−0)/SE(b₁)=1.1/0.5=2.2, evaluated with n−2 degrees of freedom.",
+      "Incorrect. 0.4545 does not follow the stated regression relationship or diagnostic evidence."
+    ],
+    "relatedFormulaIds": [
+      "slope-t-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-36",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-16: Evaluate regression assumptions, residuals, goodness of fit, coefficients, and ANOVA results.",
+    "lessonSectionId": "introduction",
+    "difficulty": "hard",
+    "estimatedSeconds": 150,
+    "stem": "In a simple regression, SSR=54, SSE=18, and n=8. The ANOVA F-statistic is closest to:",
+    "choices": [
+      "3",
+      "3",
+      "18"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "With one predictor, MSR=SSR and MSE=SSE/(n−2), so F=54/(18/6)=18.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 3 does not follow the stated regression relationship or diagnostic evidence.",
+      "Incorrect. 3 does not follow the stated regression relationship or diagnostic evidence.",
+      "Correct. With one predictor, MSR=SSR and MSE=SSE/(n−2), so F=54/(18/6)=18."
+    ],
+    "relatedFormulaIds": [
+      "anova-f-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-37",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-16: Evaluate regression assumptions, residuals, goodness of fit, coefficients, and ANOVA results.",
+    "lessonSectionId": "introduction",
+    "difficulty": "hard",
+    "estimatedSeconds": 150,
+    "stem": "In a simple regression, SSR=40, SSE=20, and n=7. The ANOVA F-statistic is closest to:",
+    "choices": [
+      "10",
+      "2",
+      "4"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "With one predictor, MSR=SSR and MSE=SSE/(n−2), so F=40/(20/5)=10.",
+    "incorrectChoiceExplanations": [
+      "Correct. With one predictor, MSR=SSR and MSE=SSE/(n−2), so F=40/(20/5)=10.",
+      "Incorrect. 2 does not follow the stated regression relationship or diagnostic evidence.",
+      "Incorrect. 4 does not follow the stated regression relationship or diagnostic evidence."
+    ],
+    "relatedFormulaIds": [
+      "anova-f-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-38",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-16: Evaluate regression assumptions, residuals, goodness of fit, coefficients, and ANOVA results.",
+    "lessonSectionId": "introduction",
+    "difficulty": "hard",
+    "estimatedSeconds": 150,
+    "stem": "In a simple regression, SSR=75, SSE=25, and n=10. The ANOVA F-statistic is closest to:",
+    "choices": [
+      "3",
+      "24",
+      "3.125"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "With one predictor, MSR=SSR and MSE=SSE/(n−2), so F=75/(25/8)=24.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 3 does not follow the stated regression relationship or diagnostic evidence.",
+      "Correct. With one predictor, MSR=SSR and MSE=SSE/(n−2), so F=75/(25/8)=24.",
+      "Incorrect. 3.125 does not follow the stated regression relationship or diagnostic evidence."
+    ],
+    "relatedFormulaIds": [
+      "anova-f-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-39",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-16: Evaluate regression assumptions, residuals, goodness of fit, coefficients, and ANOVA results.",
+    "lessonSectionId": "introduction",
+    "difficulty": "hard",
+    "estimatedSeconds": 150,
+    "stem": "In a simple regression, SSR=32, SSE=16, and n=6. The ANOVA F-statistic is closest to:",
+    "choices": [
+      "2",
+      "4",
+      "8"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "With one predictor, MSR=SSR and MSE=SSE/(n−2), so F=32/(16/4)=8.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 2 does not follow the stated regression relationship or diagnostic evidence.",
+      "Incorrect. 4 does not follow the stated regression relationship or diagnostic evidence.",
+      "Correct. With one predictor, MSR=SSR and MSE=SSE/(n−2), so F=32/(16/4)=8."
+    ],
+    "relatedFormulaIds": [
+      "anova-f-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-40",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-16: Evaluate regression assumptions, residuals, goodness of fit, coefficients, and ANOVA results.",
+    "lessonSectionId": "introduction",
+    "difficulty": "hard",
+    "estimatedSeconds": 150,
+    "stem": "In a simple regression, SSR=90, SSE=30, and n=12. The ANOVA F-statistic is closest to:",
+    "choices": [
+      "30",
+      "3",
+      "3"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "With one predictor, MSR=SSR and MSE=SSE/(n−2), so F=90/(30/10)=30.",
+    "incorrectChoiceExplanations": [
+      "Correct. With one predictor, MSR=SSR and MSE=SSE/(n−2), so F=90/(30/10)=30.",
+      "Incorrect. 3 does not follow the stated regression relationship or diagnostic evidence.",
+      "Incorrect. 3 does not follow the stated regression relationship or diagnostic evidence."
+    ],
+    "relatedFormulaIds": [
+      "anova-f-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ]
+  },
+  {
+    "id": "q10-41",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-08: Calculate and interpret predictions, standard error of estimate, prediction intervals, and functional forms.",
+    "lessonSectionId": "introduction",
+    "difficulty": "hard",
+    "estimatedSeconds": 150,
+    "stem": "Mock-style challenge: At x₀, ŷ=10, SEE=2, leverage term h₀=0.25, and t*=2. Using ŷ±t*SEE√(1+h₀), the prediction interval is closest to:",
+    "choices": [
+      "[6, 14]",
+      "[5.5279, 14.4721]",
+      "[7.7639, 12.2361]"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The margin is 2(2)√(1+0.25)=4.4721, giving [5.5279, 14.4721]. The interval covers one future observation, so it includes irreducible error.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. [6, 14] does not follow the stated regression relationship or diagnostic evidence.",
+      "Correct. The margin is 2(2)√(1+0.25)=4.4721, giving [5.5279, 14.4721]. The interval covers one future observation, so it includes irreducible error.",
+      "Incorrect. [7.7639, 12.2361] does not follow the stated regression relationship or diagnostic evidence."
+    ],
+    "relatedFormulaIds": [
+      "prediction-interval-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q10-42",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-08: Calculate and interpret predictions, standard error of estimate, prediction intervals, and functional forms.",
+    "lessonSectionId": "introduction",
+    "difficulty": "hard",
+    "estimatedSeconds": 150,
+    "stem": "Mock-style challenge: At x₀, ŷ=5, SEE=1.5, leverage term h₀=0.44, and t*=2.1. Using ŷ±t*SEE√(1+h₀), the prediction interval is closest to:",
+    "choices": [
+      "[1.85, 8.15]",
+      "[3.11, 6.89]",
+      "[1.22, 8.78]"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The margin is 2.1(1.5)√(1+0.44)=3.78, giving [1.22, 8.78]. The interval covers one future observation, so it includes irreducible error.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. [1.85, 8.15] does not follow the stated regression relationship or diagnostic evidence.",
+      "Incorrect. [3.11, 6.89] does not follow the stated regression relationship or diagnostic evidence.",
+      "Correct. The margin is 2.1(1.5)√(1+0.44)=3.78, giving [1.22, 8.78]. The interval covers one future observation, so it includes irreducible error."
+    ],
+    "relatedFormulaIds": [
+      "prediction-interval-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q10-43",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-08: Calculate and interpret predictions, standard error of estimate, prediction intervals, and functional forms.",
+    "lessonSectionId": "introduction",
+    "difficulty": "hard",
+    "estimatedSeconds": 150,
+    "stem": "Mock-style challenge: At x₀, ŷ=8, SEE=1, leverage term h₀=0.2, and t*=2. Using ŷ±t*SEE√(1+h₀), the prediction interval is closest to:",
+    "choices": [
+      "[5.8091, 10.1909]",
+      "[6, 10]",
+      "[6.9046, 9.0954]"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The margin is 2(1)√(1+0.2)=2.1909, giving [5.8091, 10.1909]. The interval covers one future observation, so it includes irreducible error.",
+    "incorrectChoiceExplanations": [
+      "Correct. The margin is 2(1)√(1+0.2)=2.1909, giving [5.8091, 10.1909]. The interval covers one future observation, so it includes irreducible error.",
+      "Incorrect. [6, 10] does not follow the stated regression relationship or diagnostic evidence.",
+      "Incorrect. [6.9046, 9.0954] does not follow the stated regression relationship or diagnostic evidence."
+    ],
+    "relatedFormulaIds": [
+      "prediction-interval-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q10-44",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-08: Calculate and interpret predictions, standard error of estimate, prediction intervals, and functional forms.",
+    "lessonSectionId": "introduction",
+    "difficulty": "hard",
+    "estimatedSeconds": 150,
+    "stem": "Mock-style challenge: At x₀, ŷ=12, SEE=2.5, leverage term h₀=0.3, and t*=2.05. Using ŷ±t*SEE√(1+h₀), the prediction interval is closest to:",
+    "choices": [
+      "[6.875, 17.125]",
+      "[6.1566, 17.8434]",
+      "[9.0783, 14.9217]"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The margin is 2.05(2.5)√(1+0.3)=5.8434, giving [6.1566, 17.8434]. The interval covers one future observation, so it includes irreducible error.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. [6.875, 17.125] does not follow the stated regression relationship or diagnostic evidence.",
+      "Correct. The margin is 2.05(2.5)√(1+0.3)=5.8434, giving [6.1566, 17.8434]. The interval covers one future observation, so it includes irreducible error.",
+      "Incorrect. [9.0783, 14.9217] does not follow the stated regression relationship or diagnostic evidence."
+    ],
+    "relatedFormulaIds": [
+      "prediction-interval-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q10-45",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-08: Calculate and interpret predictions, standard error of estimate, prediction intervals, and functional forms.",
+    "lessonSectionId": "introduction",
+    "difficulty": "hard",
+    "estimatedSeconds": 150,
+    "stem": "Mock-style challenge: At x₀, ŷ=3, SEE=1.2, leverage term h₀=0.5, and t*=2.1. Using ŷ±t*SEE√(1+h₀), the prediction interval is closest to:",
+    "choices": [
+      "[0.48, 5.52]",
+      "[1.4568, 4.5432]",
+      "[-0.0864, 6.0864]"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The margin is 2.1(1.2)√(1+0.5)=3.0864, giving [-0.0864, 6.0864]. The interval covers one future observation, so it includes irreducible error.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. [0.48, 5.52] does not follow the stated regression relationship or diagnostic evidence.",
+      "Incorrect. [1.4568, 4.5432] does not follow the stated regression relationship or diagnostic evidence.",
+      "Correct. The margin is 2.1(1.2)√(1+0.5)=3.0864, giving [-0.0864, 6.0864]. The interval covers one future observation, so it includes irreducible error."
+    ],
+    "relatedFormulaIds": [
+      "prediction-interval-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q10-46",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-16: Evaluate regression assumptions, residuals, goodness of fit, coefficients, and ANOVA results.",
+    "lessonSectionId": "introduction",
+    "difficulty": "hard",
+    "estimatedSeconds": 150,
+    "stem": "Mock-style challenge: A residual plot fans outward as fitted values rise. This most likely indicates:",
+    "choices": [
+      "Heteroskedasticity",
+      "A proof of causation",
+      "Evidence that every fitted value is unbiased"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Nonconstant error variance makes conventional coefficient standard errors unreliable.",
+    "incorrectChoiceExplanations": [
+      "Correct. Nonconstant error variance makes conventional coefficient standard errors unreliable.",
+      "Incorrect. A proof of causation does not follow the stated regression relationship or diagnostic evidence.",
+      "Incorrect. Evidence that every fitted value is unbiased does not follow the stated regression relationship or diagnostic evidence."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q10-47",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-16: Evaluate regression assumptions, residuals, goodness of fit, coefficients, and ANOVA results.",
+    "lessonSectionId": "introduction",
+    "difficulty": "hard",
+    "estimatedSeconds": 150,
+    "stem": "Mock-style challenge: Time-ordered residuals appear in long positive and negative runs. This most likely indicates:",
+    "choices": [
+      "A proof of causation",
+      "Positive serial correlation",
+      "Evidence that every fitted value is unbiased"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Adjacent errors appear dependent, violating the independent-errors assumption.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. A proof of causation does not follow the stated regression relationship or diagnostic evidence.",
+      "Correct. Adjacent errors appear dependent, violating the independent-errors assumption.",
+      "Incorrect. Evidence that every fitted value is unbiased does not follow the stated regression relationship or diagnostic evidence."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q10-48",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-16: Evaluate regression assumptions, residuals, goodness of fit, coefficients, and ANOVA results.",
+    "lessonSectionId": "introduction",
+    "difficulty": "hard",
+    "estimatedSeconds": 150,
+    "stem": "Mock-style challenge: Residuals trace a pronounced U-shape against X. The best initial conclusion is:",
+    "choices": [
+      "A proof of causation",
+      "Evidence that every fitted value is unbiased",
+      "The linear functional form is misspecified"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Systematic curvature means the conditional mean is not adequately represented by a straight line.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. A proof of causation does not follow the stated regression relationship or diagnostic evidence.",
+      "Incorrect. Evidence that every fitted value is unbiased does not follow the stated regression relationship or diagnostic evidence.",
+      "Correct. Systematic curvature means the conditional mean is not adequately represented by a straight line."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q10-49",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-16: Evaluate regression assumptions, residuals, goodness of fit, coefficients, and ANOVA results.",
+    "lessonSectionId": "introduction",
+    "difficulty": "hard",
+    "estimatedSeconds": 150,
+    "stem": "Mock-style challenge: One observation has an extreme X value and removing it materially changes the slope. It is best described as:",
+    "choices": [
+      "An influential high-leverage observation",
+      "A proof of causation",
+      "Evidence that every fitted value is unbiased"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Extreme X creates leverage; the material coefficient change establishes influence.",
+    "incorrectChoiceExplanations": [
+      "Correct. Extreme X creates leverage; the material coefficient change establishes influence.",
+      "Incorrect. A proof of causation does not follow the stated regression relationship or diagnostic evidence.",
+      "Incorrect. Evidence that every fitted value is unbiased does not follow the stated regression relationship or diagnostic evidence."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q10-50",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-20: Calculate and interpret CAPM regression estimates.",
+    "lessonSectionId": "introduction",
+    "difficulty": "hard",
+    "estimatedSeconds": 150,
+    "stem": "Mock-style challenge: A CAPM regression of asset excess return on market excess return produces α=0.20% and β=1.30. The best interpretation is:",
+    "choices": [
+      "A proof of causation",
+      "The asset has estimated abnormal return of 0.20% per period and 30% greater market sensitivity",
+      "Evidence that every fitted value is unbiased"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Alpha is the intercept and beta is the slope on market excess return.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. A proof of causation does not follow the stated regression relationship or diagnostic evidence.",
+      "Correct. Alpha is the intercept and beta is the slope on market excess return.",
+      "Incorrect. Evidence that every fitted value is unbiased does not follow the stated regression relationship or diagnostic evidence."
+    ],
+    "relatedFormulaIds": [
+      "capm-regression-10"
+    ],
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified",
+      "mock-style"
+    ]
+  }
+]

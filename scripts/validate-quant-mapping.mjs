@@ -1,0 +1,26 @@
+import {readFile,readdir} from 'node:fs/promises';
+
+const root=process.cwd(),privateRoot='.local-research/quantitative-remediation';
+const read=async p=>JSON.parse(await readFile(`${root}/${p}`,'utf8'));
+const failures=[];
+const unique=(values,label)=>{if(new Set(values).size!==values.length)failures.push(`${label} contains duplicates`)};
+const expectedLessons=['quant-returns-01','quant-returns-02','quant-benchmarking-03','quant-tvm-04','quant-statistics-05','quant-probability-06','quant-sampling-08','quant-hypothesis-09','quant-distributions-07','quant-simulation-11','quant-regression-10','quant-data-ai-12'];
+const moduleMap=await read(`${privateRoot}/official-module-map.json`),lessonMap=await read(`${privateRoot}/lesson-remediation-map.json`);
+if(moduleMap.officialModuleCount!==11||moduleMap.modules.length!==11)failures.push('Official module count must equal 11');
+unique(moduleMap.modules.map(x=>x.officialModuleId),'Official module IDs');unique(moduleMap.modules.map(x=>x.officialModuleNumber),'Official module numbers');
+if(moduleMap.studyLessonCount!==12)failures.push('Study lesson count must equal 12');
+for(const module of moduleMap.modules){if(!module.mappedStudyLessonIds?.length)failures.push(`${module.officialModuleId}: no study lesson`);for(const id of module.mappedStudyLessonIds??[])if(!expectedLessons.includes(id))failures.push(`${module.officialModuleId}: unknown study lesson ${id}`);for(const key of ['officialModuleTitle','officialSourceFile','officialSourcePages','mappingConfidence'])if(!module[key])failures.push(`${module.officialModuleId}: missing ${key}`)}
+const lm7=moduleMap.modules.find(x=>x.officialModuleId==='QM-LM7');if(!lm7||lm7.mappedStudyLessonIds.length!==2||!lm7.mappedStudyLessonIds.includes('quant-sampling-08')||!lm7.mappedStudyLessonIds.includes('quant-hypothesis-09'))failures.push('LM7 must have exactly the Estimation and Testing subdivisions');
+if(lessonMap.lessons.length!==12)failures.push('Lesson map must contain 12 lessons');unique(lessonMap.lessons.map(x=>x.studyLessonId),'Lesson map IDs');
+for(const id of expectedLessons){const item=lessonMap.lessons.find(x=>x.studyLessonId===id);if(!item)failures.push(`Missing lesson mapping: ${id}`);else{if(item.currentRoute!==`/lessons/${id}`)failures.push(`${id}: route is not preserved`);if(!moduleMap.modules.some(m=>m.officialModuleId===item.targetOfficialModuleId))failures.push(`${id}: unknown target module`)}}
+const loadPublic=async dir=>{const files=(await readdir(`${root}/src/data/${dir}`)).filter(x=>x.startsWith('quantitative')&&x.endsWith('.json'));return(await Promise.all(files.map(x=>read(`src/data/${dir}/${x}`)))).flat()};
+const publicSets={question:await loadPublic('questions'),flashcard:await loadPublic('flashcards'),formula:await loadPublic('formulas')};
+const mappedFiles={question:'question-map.json',flashcard:'flashcard-map.json',formula:'formula-map.json'};
+const formulaIds=new Set(publicSets.formula.map(x=>x.id));
+for(const[kind,items]of Object.entries(publicSets)){const map=await read(`${privateRoot}/${mappedFiles[kind]}`),ids=map.items.map(x=>x.itemId);unique(ids,`${kind} map IDs`);if(ids.length!==items.length)failures.push(`${kind}: expected ${items.length} classifications, found ${ids.length}`);for(const item of items){if(!ids.includes(item.id))failures.push(`${kind}: missing ${item.id}`)}for(const entry of map.items){if(!expectedLessons.includes(entry.currentLessonId)||!expectedLessons.includes(entry.proposedStudyLessonId))failures.push(`${kind} ${entry.itemId}: orphan lesson`);if(!moduleMap.modules.some(m=>m.officialModuleId===entry.proposedOfficialModuleId))failures.push(`${kind} ${entry.itemId}: invalid official module`);if(!['official','supplementary'].includes(entry.officialOrSupplementary))failures.push(`${kind} ${entry.itemId}: invalid classification`);for(const id of entry.formulaDependencies??[])if(!formulaIds.has(id))failures.push(`${kind} ${entry.itemId}: missing formula ${id}`)}}
+const toolMap=await read(`${privateRoot}/tool-map.json`),registry=await readFile(`${root}/src/components/lessons/LessonInteractiveTools.tsx`,'utf8'),registered=[...registry.matchAll(/^const (\w+)=lazy\(/gm)].map(x=>x[1]);
+unique(toolMap.items.map(x=>x.itemId),'Tool map IDs');if(toolMap.items.length!==registered.length)failures.push(`tool: expected ${registered.length} classifications, found ${toolMap.items.length}`);for(const id of registered)if(!toolMap.items.some(x=>x.itemId===id))failures.push(`tool: missing ${id}`);for(const entry of toolMap.items)if(!expectedLessons.includes(entry.proposedStudyLessonId))failures.push(`tool ${entry.itemId}: orphan lesson`);
+const migration=await readFile(`${root}/docs/QUANT_PROGRESS_MIGRATION_SPEC.md`,'utf8');for(const token of ['cfa-pass-progress','idempotent','quant-distributions-07','quant-probability-06','legacy','quiz attempts','flashcard','assessment','LM7A','LM7B','malformed'])if(!migration.toLowerCase().includes(token.toLowerCase()))failures.push(`Migration specification missing: ${token}`);
+if(failures.length){console.error(failures.join('\n'));process.exit(1)}
+console.log(`Quantitative mapping valid: 11 official modules, 12 study lessons, ${publicSets.question.length} questions, ${publicSets.flashcard.length} flashcards, ${publicSets.formula.length} formulas, ${toolMap.items.length} tools.`);
+

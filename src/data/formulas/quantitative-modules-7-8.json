@@ -1,0 +1,634 @@
+[
+  {
+    "id": "bernoulli-mean-07",
+    "name": "Bernoulli expected value",
+    "expression": "E(X) = p",
+    "meaning": "Expected value of a 0/1 trial.",
+    "variables": {
+      "p": "success probability"
+    },
+    "intuition": "The long-run proportion of ones equals p.",
+    "workedExample": "With p=0.30, E(X)=0.30.",
+    "commonMistake": "Using 1âˆ’p as the mean.",
+    "relatedLessonId": "quant-probability-06",
+    "relatedLearningOutcome": "Distinguish and apply common discrete and continuous probability distributions.",
+    "tags": [
+      "bernoulli",
+      "mean"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "legacySourceLessonId": "quant-distributions-07"
+  },
+  {
+    "id": "bernoulli-variance-07",
+    "name": "Bernoulli variance",
+    "expression": "Var(X) = p(1âˆ’p)",
+    "meaning": "Dispersion of a 0/1 trial.",
+    "variables": {
+      "p": "success probability"
+    },
+    "intuition": "Uncertainty is zero at p=0 or 1 and greatest at p=0.5.",
+    "workedExample": "p=0.4 gives variance 0.24.",
+    "commonMistake": "Using pÂ².",
+    "relatedLessonId": "quant-probability-06",
+    "relatedLearningOutcome": "Distinguish and apply common discrete and continuous probability distributions.",
+    "tags": [
+      "bernoulli",
+      "variance"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "legacySourceLessonId": "quant-distributions-07"
+  },
+  {
+    "id": "binomial-probability-07",
+    "name": "Binomial probability",
+    "expression": "P(X=x) = C(n,x)p^x(1âˆ’p)^(nâˆ’x)",
+    "meaning": "Probability of exactly x successes.",
+    "variables": {
+      "n": "number of trials",
+      "x": "number of successes",
+      "p": "constant success probability",
+      "C(n,x)": "number of arrangements"
+    },
+    "intuition": "Counts every ordering of x successes and weights each ordering.",
+    "workedExample": "n=3,p=.5,x=2 gives 3(.5)^3=.375.",
+    "commonMistake": "Omitting the combination term.",
+    "relatedLessonId": "quant-probability-06",
+    "relatedLearningOutcome": "Distinguish and apply common discrete and continuous probability distributions.",
+    "tags": [
+      "binomial",
+      "probability"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "legacySourceLessonId": "quant-distributions-07"
+  },
+  {
+    "id": "binomial-mean-07",
+    "name": "Binomial expected value",
+    "expression": "E(X) = np",
+    "meaning": "Expected success count.",
+    "variables": {
+      "n": "number of trials",
+      "p": "success probability"
+    },
+    "intuition": "Adds the expected p from each of n trials.",
+    "workedExample": "n=10,p=.3 gives 3.",
+    "commonMistake": "Reporting p instead of a count.",
+    "relatedLessonId": "quant-probability-06",
+    "relatedLearningOutcome": "Distinguish and apply common discrete and continuous probability distributions.",
+    "tags": [
+      "binomial",
+      "mean"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "legacySourceLessonId": "quant-distributions-07"
+  },
+  {
+    "id": "binomial-variance-07",
+    "name": "Binomial variance",
+    "expression": "Var(X) = np(1âˆ’p)",
+    "meaning": "Variance of a binomial count.",
+    "variables": {
+      "n": "number of trials",
+      "p": "success probability"
+    },
+    "intuition": "Independent Bernoulli variances add.",
+    "workedExample": "n=20,p=.25 gives 3.75.",
+    "commonMistake": "Using np alone.",
+    "relatedLessonId": "quant-probability-06",
+    "relatedLearningOutcome": "Distinguish and apply common discrete and continuous probability distributions.",
+    "tags": [
+      "binomial",
+      "variance"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "legacySourceLessonId": "quant-distributions-07"
+  },
+  {
+    "id": "continuous-uniform-mean-07",
+    "name": "Continuous uniform expected value",
+    "expression": "E(X) = (a+b)/2",
+    "meaning": "Midpoint of a uniform interval.",
+    "variables": {
+      "a": "lower bound",
+      "b": "upper bound"
+    },
+    "intuition": "Symmetry centers the distribution at the midpoint.",
+    "workedExample": "Uniform 2 to 8 has mean 5.",
+    "commonMistake": "Using (bâˆ’a)/2.",
+    "relatedLessonId": "quant-probability-06",
+    "relatedLearningOutcome": "Distinguish and apply common discrete and continuous probability distributions.",
+    "tags": [
+      "uniform",
+      "mean"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "legacySourceLessonId": "quant-distributions-07"
+  },
+  {
+    "id": "continuous-uniform-variance-07",
+    "name": "Continuous uniform variance",
+    "expression": "Var(X) = (bâˆ’a)^2/12",
+    "meaning": "Dispersion of a continuous uniform variable.",
+    "variables": {
+      "a": "lower bound",
+      "b": "upper bound"
+    },
+    "intuition": "Only interval width determines spread.",
+    "workedExample": "Uniform 2 to 8 has variance 36/12=3.",
+    "commonMistake": "Forgetting to square the width.",
+    "relatedLessonId": "quant-probability-06",
+    "relatedLearningOutcome": "Distinguish and apply common discrete and continuous probability distributions.",
+    "tags": [
+      "uniform",
+      "variance"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "legacySourceLessonId": "quant-distributions-07"
+  },
+  {
+    "id": "z-score-07",
+    "name": "Z-score",
+    "expression": "z = (xâˆ’Î¼)/Ïƒ",
+    "meaning": "Signed standardized distance from the mean.",
+    "variables": {
+      "x": "observation",
+      "Î¼": "mean",
+      "Ïƒ": "standard deviation"
+    },
+    "intuition": "Expresses unlike scales in standard-deviation units.",
+    "workedExample": "x=14, Î¼=8, Ïƒ=3 gives z=2.",
+    "commonMistake": "Reversing x and Î¼.",
+    "relatedLessonId": "quant-probability-06",
+    "relatedLearningOutcome": "Standardize normal variables and interpret normal and lognormal probabilities.",
+    "tags": [
+      "normal",
+      "z-score"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "legacySourceLessonId": "quant-distributions-07"
+  },
+  {
+    "id": "reverse-standardization-07",
+    "name": "Reverse standardization",
+    "expression": "x = Î¼ + zÏƒ",
+    "meaning": "Converts a z-score back to the original scale.",
+    "variables": {
+      "x": "raw value",
+      "Î¼": "mean",
+      "z": "standard score",
+      "Ïƒ": "standard deviation"
+    },
+    "intuition": "Starts at the mean and moves z standard deviations.",
+    "workedExample": "Î¼=50,Ïƒ=5,z=1.2 gives x=56.",
+    "commonMistake": "Multiplying Î¼ by z.",
+    "relatedLessonId": "quant-probability-06",
+    "relatedLearningOutcome": "Standardize normal variables and interpret normal and lognormal probabilities.",
+    "tags": [
+      "normal",
+      "standardization"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "legacySourceLessonId": "quant-distributions-07"
+  },
+  {
+    "id": "normal-probability-07",
+    "name": "Normal interval probability",
+    "expression": "P(aâ‰¤Xâ‰¤b) = Î¦((bâˆ’Î¼)/Ïƒ) âˆ’ Î¦((aâˆ’Î¼)/Ïƒ)",
+    "meaning": "Normal probability between two bounds.",
+    "variables": {
+      "Î¦": "standard normal CDF",
+      "a": "lower bound",
+      "b": "upper bound",
+      "Î¼": "mean",
+      "Ïƒ": "standard deviation"
+    },
+    "intuition": "Standardize each bound and subtract cumulative areas.",
+    "workedExample": "For z bounds âˆ’1 and 1, probability is about .6827.",
+    "commonMistake": "Adding the two CDF values.",
+    "relatedLessonId": "quant-probability-06",
+    "relatedLearningOutcome": "Standardize normal variables and interpret normal and lognormal probabilities.",
+    "tags": [
+      "normal",
+      "probability"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "legacySourceLessonId": "quant-distributions-07"
+  },
+  {
+    "id": "lognormal-transform-07",
+    "name": "Lognormal transformation",
+    "expression": "X = exp(Y), where Y is normal",
+    "meaning": "Transforms a normal variable into a positive lognormal variable.",
+    "variables": {
+      "Y": "normally distributed variable",
+      "X": "positive lognormal variable",
+      "exp": "exponential function"
+    },
+    "intuition": "Exponentiation maps every real Y to a positive X.",
+    "workedExample": "Y=.08 gives X=e^.08â‰ˆ1.0833.",
+    "commonMistake": "Claiming X is symmetric.",
+    "relatedLessonId": "quant-probability-06",
+    "relatedLearningOutcome": "Standardize normal variables and interpret normal and lognormal probabilities.",
+    "tags": [
+      "lognormal",
+      "transformation"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "legacySourceLessonId": "quant-distributions-07"
+  },
+  {
+    "id": "student-t-statistic-07",
+    "name": "One-sample Student's t statistic",
+    "expression": "t = (xÌ„âˆ’Î¼0)/(s/âˆšn)",
+    "meaning": "Standardized sample-mean difference when Ïƒ is unknown.",
+    "variables": {
+      "xÌ„": "sample mean",
+      "Î¼0": "hypothesized mean",
+      "s": "sample standard deviation",
+      "n": "sample size"
+    },
+    "intuition": "Measures the mean gap in estimated standard-error units.",
+    "workedExample": "A gap of 4 and SE of 2 gives t=2.",
+    "commonMistake": "Using n rather than âˆšn.",
+    "relatedLessonId": "quant-sampling-08",
+    "relatedLearningOutcome": "explain the central limit theorem and the application of confidence intervals and sampling methodologies",
+    "tags": [
+      "student-t",
+      "statistic",
+      "qm-lm7",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "supplementary": false,
+    "legacySourceLessonId": "quant-distributions-07",
+    "subdivision": "A"
+  },
+  {
+    "id": "standard-error-08",
+    "name": "Standard error of the sample mean",
+    "expression": "SE(xÌ„) = Ïƒ/âˆšn, estimated by s/âˆšn",
+    "meaning": "Sampling standard deviation of the sample mean.",
+    "variables": {
+      "Ïƒ": "population standard deviation",
+      "s": "sample standard deviation",
+      "n": "sample size"
+    },
+    "intuition": "Averaging reduces noise at the square-root rate.",
+    "workedExample": "Ïƒ=12,n=36 gives SE=2.",
+    "commonMistake": "Dividing by n.",
+    "relatedLessonId": "quant-sampling-08",
+    "relatedLearningOutcome": "Explain sampling distributions, the Central Limit Theorem, standard error, and estimator properties.",
+    "tags": [
+      "sampling",
+      "standard-error"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false
+  },
+  {
+    "id": "z-confidence-interval-08",
+    "name": "Confidence interval with known variance",
+    "expression": "xÌ„ Â± z*Ïƒ/âˆšn",
+    "meaning": "Mean interval when population standard deviation is known.",
+    "variables": {
+      "xÌ„": "sample mean",
+      "z*": "normal critical value",
+      "Ïƒ": "population standard deviation",
+      "n": "sample size"
+    },
+    "intuition": "Adds and subtracts a normal critical number of standard errors.",
+    "workedExample": "xÌ„=50,Ïƒ=10,n=100,z*=1.96 gives [48.04,51.96].",
+    "commonMistake": "Using s while claiming Ïƒ is known.",
+    "relatedLessonId": "quant-sampling-08",
+    "relatedLearningOutcome": "Calculate and interpret confidence intervals for a population mean using Z or Student's t.",
+    "tags": [
+      "confidence-interval",
+      "z"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false
+  },
+  {
+    "id": "t-confidence-interval-08",
+    "name": "Confidence interval with unknown variance",
+    "expression": "xÌ„ Â± t* s/âˆšn",
+    "meaning": "Mean interval using estimated population spread.",
+    "variables": {
+      "xÌ„": "sample mean",
+      "t*": "t critical value with nâˆ’1 df",
+      "s": "sample standard deviation",
+      "n": "sample size"
+    },
+    "intuition": "Heavier t tails account for uncertainty from estimating Ïƒ.",
+    "workedExample": "xÌ„=14,s=4,n=16,t*=2.131 gives [11.869,16.131].",
+    "commonMistake": "Using a Z cutoff for a small unknown-Ïƒ sample.",
+    "relatedLessonId": "quant-sampling-08",
+    "relatedLearningOutcome": "Calculate and interpret confidence intervals for a population mean using Z or Student's t.",
+    "tags": [
+      "confidence-interval",
+      "student-t"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false
+  },
+  {
+    "id": "margin-of-error-08",
+    "name": "Margin of error",
+    "expression": "ME = critical value Ã— SE",
+    "meaning": "Half-width of a symmetric confidence interval.",
+    "variables": {
+      "critical value": "z* or t*",
+      "SE": "standard error"
+    },
+    "intuition": "Coverage cutoff multiplied by sampling spread determines interval reach.",
+    "workedExample": "1.96Ã—2=3.92.",
+    "commonMistake": "Calling the full interval width the margin.",
+    "relatedLessonId": "quant-sampling-08",
+    "relatedLearningOutcome": "Calculate and interpret confidence intervals for a population mean using Z or Student's t.",
+    "tags": [
+      "confidence-interval",
+      "margin"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false
+  },
+  {
+    "id": "degrees-freedom-08",
+    "name": "One-sample t degrees of freedom (confidence intervals)",
+    "expression": "df = nâˆ’1",
+    "meaning": "Degrees of freedom for a one-sample mean using sample variance.",
+    "variables": {
+      "df": "degrees of freedom",
+      "n": "sample size"
+    },
+    "intuition": "Estimating the sample mean consumes one independent deviation.",
+    "workedExample": "n=16 gives df=15.",
+    "commonMistake": "Using df=n.",
+    "relatedLessonId": "quant-sampling-08",
+    "relatedLearningOutcome": "Calculate and interpret confidence intervals for a population mean using Z or Student's t.",
+    "tags": [
+      "student-t",
+      "degrees-of-freedom"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false
+  },
+  {
+    "id": "portfolio-expected-return-08",
+    "name": "Portfolio expected return",
+    "expression": "E(Rp) = Σ wiE(Ri)",
+    "variables": {
+      "wi": "weight in asset i",
+      "E(Ri)": "expected return of asset i"
+    },
+    "meaning": "Weighted expected return.",
+    "intuition": "Weighted expected return.",
+    "workedExample": "With weights 40% and 60% and returns 6% and 10%, E(Rp)=8.4%.",
+    "commonMistake": "Do not include correlation.",
+    "relatedLessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "relatedLearningOutcome": "calculate, interpret, and evaluate expected return, variance, standard deviation, covariance, and correlation of portfolio returns",
+    "tags": [
+      "portfolio",
+      "LM8"
+    ]
+  },
+  {
+    "id": "portfolio-variance-08",
+    "name": "Multi-asset portfolio variance",
+    "expression": "σp² = ΣiΣj wi wj Covij",
+    "variables": {
+      "wi": "weight in asset i",
+      "Covij": "covariance of assets i and j"
+    },
+    "meaning": "Total variance including every pair.",
+    "intuition": "Total variance including every pair.",
+    "workedExample": "A covariance matrix and weight vector produce σp²=w′Σw.",
+    "commonMistake": "Do not omit or double-count cross terms.",
+    "relatedLessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "relatedLearningOutcome": "calculate, interpret, and evaluate expected return, variance, standard deviation, covariance, and correlation of portfolio returns",
+    "tags": [
+      "portfolio",
+      "LM8"
+    ]
+  },
+  {
+    "id": "two-asset-variance-08",
+    "name": "LM8 two-asset portfolio variance",
+    "expression": "σp² = wA²σA² + wB²σB² + 2wAwBρABσAσB",
+    "variables": {
+      "wA": "weight in A",
+      "σA": "standard deviation of A",
+      "ρAB": "correlation"
+    },
+    "meaning": "Two-asset specialization.",
+    "intuition": "Two-asset specialization.",
+    "workedExample": "At equal weights, 10% and 18% risks, and ρ=.3, σp=11.53%.",
+    "commonMistake": "Do not average standard deviations.",
+    "relatedLessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "relatedLearningOutcome": "calculate, interpret, and evaluate expected return, variance, standard deviation, covariance, and correlation of portfolio returns",
+    "tags": [
+      "portfolio",
+      "LM8"
+    ]
+  },
+  {
+    "id": "portfolio-standard-deviation-08",
+    "name": "Portfolio standard deviation",
+    "expression": "σp = √(σp²)",
+    "variables": {
+      "σp²": "portfolio variance"
+    },
+    "meaning": "Portfolio total risk in return units.",
+    "intuition": "Portfolio total risk in return units.",
+    "workedExample": "Variance .0133 gives σp=11.53%.",
+    "commonMistake": "Do not report variance as standard deviation.",
+    "relatedLessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "relatedLearningOutcome": "calculate, interpret, and evaluate expected return, variance, standard deviation, covariance, and correlation of portfolio returns",
+    "tags": [
+      "portfolio",
+      "LM8"
+    ]
+  },
+  {
+    "id": "covariance-08",
+    "name": "Covariance from correlation",
+    "expression": "CovAB = ρABσAσB",
+    "variables": {
+      "ρAB": "correlation",
+      "σA": "risk of A",
+      "σB": "risk of B"
+    },
+    "meaning": "Scaled co-movement.",
+    "intuition": "Scaled co-movement.",
+    "workedExample": "ρ=.25, σA=.12, σB=.20 gives .006.",
+    "commonMistake": "Use decimal returns.",
+    "relatedLessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "relatedLearningOutcome": "calculate, interpret, and evaluate expected return, variance, standard deviation, covariance, and correlation of portfolio returns",
+    "tags": [
+      "portfolio",
+      "LM8"
+    ]
+  },
+  {
+    "id": "correlation-08",
+    "name": "Correlation from covariance",
+    "expression": "ρAB = CovAB/(σAσB)",
+    "variables": {
+      "CovAB": "covariance",
+      "σA": "risk of A",
+      "σB": "risk of B"
+    },
+    "meaning": "Unit-free co-movement.",
+    "intuition": "Unit-free co-movement.",
+    "workedExample": "Cov=.009, risks .15 and .30 gives ρ=.20.",
+    "commonMistake": "A result outside [-1,1] is invalid.",
+    "relatedLessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "relatedLearningOutcome": "calculate, interpret, and evaluate expected return, variance, standard deviation, covariance, and correlation of portfolio returns",
+    "tags": [
+      "portfolio",
+      "LM8"
+    ]
+  },
+  {
+    "id": "minimum-variance-weight-08",
+    "name": "Two-asset GMV weight",
+    "expression": "wA = (σB²-CovAB)/(σA²+σB²-2CovAB)",
+    "variables": {
+      "wA": "GMV weight in A",
+      "σB²": "variance of B",
+      "CovAB": "covariance"
+    },
+    "meaning": "Variance-minimizing weight.",
+    "intuition": "Variance-minimizing weight.",
+    "workedExample": "Inputs .0144, .0324, .0036 give wA=72.73%.",
+    "commonMistake": "Do not swap numerator labels.",
+    "relatedLessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "relatedLearningOutcome": "calculate, interpret, and evaluate expected return, variance, standard deviation, covariance, and correlation of portfolio returns",
+    "tags": [
+      "portfolio",
+      "LM8"
+    ]
+  },
+  {
+    "id": "cal-return-08",
+    "name": "CAL expected return",
+    "expression": "E(Rc) = Rf + y[E(Rp)-Rf]",
+    "variables": {
+      "Rf": "risk-free rate",
+      "y": "risky fraction",
+      "E(Rp)": "risky return"
+    },
+    "meaning": "Return on a complete portfolio.",
+    "intuition": "Return on a complete portfolio.",
+    "workedExample": "Rf=3%, Rp=9%, y=.75 gives 7.5%.",
+    "commonMistake": "Apply y to excess return.",
+    "relatedLessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "relatedLearningOutcome": "calculate, interpret, and evaluate expected return, variance, standard deviation, covariance, and correlation of portfolio returns",
+    "tags": [
+      "portfolio",
+      "LM8"
+    ]
+  },
+  {
+    "id": "cal-risk-08",
+    "name": "CAL risk",
+    "expression": "σc = |y|σp",
+    "variables": {
+      "y": "risky fraction",
+      "σp": "risky portfolio risk"
+    },
+    "meaning": "Risk scales with risky exposure.",
+    "intuition": "Risk scales with risky exposure.",
+    "workedExample": "y=.75 and σp=12% gives 9%.",
+    "commonMistake": "The risk-free asset adds no variance.",
+    "relatedLessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "relatedLearningOutcome": "calculate, interpret, and evaluate expected return, variance, standard deviation, covariance, and correlation of portfolio returns",
+    "tags": [
+      "portfolio",
+      "LM8"
+    ]
+  },
+  {
+    "id": "portfolio-utility-08",
+    "name": "Mean–variance utility",
+    "expression": "U = E(R) - 0.5Aσ²",
+    "variables": {
+      "A": "risk-aversion coefficient",
+      "σ²": "return variance"
+    },
+    "meaning": "Risk-adjusted preference score.",
+    "intuition": "Risk-adjusted preference score.",
+    "workedExample": "E=.08, A=4, σ=.10 gives U=.06.",
+    "commonMistake": "Square standard deviation.",
+    "relatedLessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "relatedLearningOutcome": "calculate, interpret, and evaluate expected return, variance, standard deviation, covariance, and correlation of portfolio returns",
+    "tags": [
+      "portfolio",
+      "LM8"
+    ]
+  }
+]

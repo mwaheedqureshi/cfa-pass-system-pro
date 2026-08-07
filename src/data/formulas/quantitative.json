@@ -1,11 +1,488 @@
 [
-{"id":"holding-period-return","name":"Holding-period return","expression":"HPR = (P₁ − P₀ + D) / P₀","meaning":"Total return earned over one holding period.","variables":{"P₀":"beginning price","P₁":"ending price","D":"income received"},"workedExample":"Buy at 100, sell at 108, receive 4: (108 − 100 + 4) / 100 = 12%.","commonMistake":"Omitting income or dividing by ending value.","relatedLessonId":"quant-returns-01"},
-{"id":"price-return","name":"Price return","expression":"Rprice = (P₁ − P₀) / P₀","meaning":"Return from the change in market price only.","variables":{"P₀":"beginning price","P₁":"ending price"},"workedExample":"100 to 108 produces an 8% price return.","commonMistake":"Including dividends when only price return is requested.","relatedLessonId":"quant-returns-01"},
-{"id":"income-return","name":"Income return","expression":"Rincome = D / P₀","meaning":"Income received relative to beginning value.","variables":{"D":"income","P₀":"beginning price"},"workedExample":"A 4 dividend on a 100 beginning price is 4%.","commonMistake":"Using ending price as the denominator.","relatedLessonId":"quant-returns-01"},
-{"id":"exact-real-return","name":"Exact real return","expression":"Rreal = (1 + Rnominal) / (1 + inflation) − 1","meaning":"Purchasing-power growth after removing inflation exactly.","variables":{"Rnominal":"nominal return","inflation":"inflation rate"},"workedExample":"8% nominal with 3% inflation: 1.08 / 1.03 − 1 = 4.85%.","commonMistake":"Subtracting inflation when an exact result is required.","relatedLessonId":"quant-returns-01"},
-{"id":"approximate-real-return","name":"Approximate real return","expression":"Rreal ≈ Rnominal − inflation","meaning":"A quick approximation of purchasing-power growth.","variables":{"Rnominal":"nominal return","inflation":"inflation rate"},"workedExample":"8% nominal less 3% inflation is approximately 5%.","commonMistake":"Treating the approximation as exact.","relatedLessonId":"quant-returns-01"},
-{"id":"arithmetic-mean","name":"Arithmetic mean return","expression":"R̄ = ΣRt / n","meaning":"Simple average of periodic returns.","variables":{"Rt":"return in period t","n":"number of periods"},"workedExample":"10%, 5%, and −3% average to 4%.","commonMistake":"Using it to report compound growth.","relatedLessonId":"quant-returns-01"},
-{"id":"geometric-mean","name":"Geometric mean return","expression":"RG = [Π(1 + Rt)]^(1/n) − 1","meaning":"Constant periodic rate matching compounded wealth growth.","variables":{"Rt":"return in period t","n":"number of periods"},"workedExample":"20% then −20%: √(1.20 × 0.80) − 1 = −2.02%.","commonMistake":"Averaging percentages rather than wealth relatives.","relatedLessonId":"quant-returns-01"},
-{"id":"time-weighted-return","name":"Time-weighted return","expression":"RTWR = Π(1 + Rsubperiod) − 1","meaning":"Compounded performance after neutralizing external cash-flow timing.","variables":{"Rsubperiod":"return between external cash flows"},"workedExample":"10% then −5%: 1.10 × 0.95 − 1 = 4.5%.","commonMistake":"Averaging subperiod returns without compounding.","relatedLessonId":"quant-returns-01"},
-{"id":"foreign-currency-return","name":"Foreign-currency investment return","expression":"Rdomestic = (1 + Rasset)(1 + Rcurrency) − 1","meaning":"Domestic return combining local asset and exchange-rate effects.","variables":{"Rasset":"asset return in foreign currency","Rcurrency":"foreign currency return versus domestic currency"},"workedExample":"Asset +6%, currency +4%: 1.06 × 1.04 − 1 = 10.24%.","commonMistake":"Simply adding the two returns and losing the interaction term.","relatedLessonId":"quant-returns-01"}
+  {
+    "id": "holding-period-return",
+    "name": "Holding-period return",
+    "expression": "HPR = (Pâ‚ âˆ’ Pâ‚€ + D) / Pâ‚€",
+    "meaning": "Total return earned over one holding period.",
+    "variables": {
+      "Pâ‚€": "beginning price",
+      "Pâ‚": "ending price",
+      "D": "income received"
+    },
+    "workedExample": "Buy at 100, sell at 108, receive 4: (108 âˆ’ 100 + 4) / 100 = 12%.",
+    "commonMistake": "Omitting income or dividing by ending value.",
+    "relatedLessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false
+  },
+  {
+    "id": "price-return",
+    "name": "Price return",
+    "expression": "Rprice = (Pâ‚ âˆ’ Pâ‚€) / Pâ‚€",
+    "meaning": "Return from the change in market price only.",
+    "variables": {
+      "Pâ‚€": "beginning price",
+      "Pâ‚": "ending price"
+    },
+    "workedExample": "100 to 108 produces an 8% price return.",
+    "commonMistake": "Including dividends when only price return is requested.",
+    "relatedLessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false
+  },
+  {
+    "id": "income-return",
+    "name": "Income return",
+    "expression": "Rincome = D / Pâ‚€",
+    "meaning": "Income received relative to beginning value.",
+    "variables": {
+      "D": "income",
+      "Pâ‚€": "beginning price"
+    },
+    "workedExample": "A 4 dividend on a 100 beginning price is 4%.",
+    "commonMistake": "Using ending price as the denominator.",
+    "relatedLessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false
+  },
+  {
+    "id": "exact-real-return",
+    "name": "Exact real return",
+    "expression": "Rreal = (1 + Rnominal) / (1 + inflation) âˆ’ 1",
+    "meaning": "Purchasing-power growth after removing inflation exactly.",
+    "variables": {
+      "Rnominal": "nominal return",
+      "inflation": "inflation rate"
+    },
+    "workedExample": "8% nominal with 3% inflation: 1.08 / 1.03 âˆ’ 1 = 4.85%.",
+    "commonMistake": "Subtracting inflation when an exact result is required.",
+    "relatedLessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false
+  },
+  {
+    "id": "approximate-real-return",
+    "name": "Approximate real return",
+    "expression": "Rreal â‰ˆ Rnominal âˆ’ inflation",
+    "meaning": "A quick approximation of purchasing-power growth.",
+    "variables": {
+      "Rnominal": "nominal return",
+      "inflation": "inflation rate"
+    },
+    "workedExample": "8% nominal less 3% inflation is approximately 5%.",
+    "commonMistake": "Treating the approximation as exact.",
+    "relatedLessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false
+  },
+  {
+    "id": "arithmetic-mean",
+    "name": "Arithmetic mean return",
+    "expression": "RÌ„ = Î£Rt / n",
+    "meaning": "Simple average of periodic returns.",
+    "variables": {
+      "Rt": "return in period t",
+      "n": "number of periods"
+    },
+    "workedExample": "10%, 5%, and âˆ’3% average to 4%.",
+    "commonMistake": "Using it to report compound growth.",
+    "relatedLessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false
+  },
+  {
+    "id": "geometric-mean",
+    "name": "Geometric mean return (return foundations)",
+    "expression": "RG = [Î (1 + Rt)]^(1/n) âˆ’ 1",
+    "meaning": "Constant periodic rate matching compounded wealth growth.",
+    "variables": {
+      "Rt": "return in period t",
+      "n": "number of periods"
+    },
+    "workedExample": "20% then âˆ’20%: âˆš(1.20 Ã— 0.80) âˆ’ 1 = âˆ’2.02%.",
+    "commonMistake": "Averaging percentages rather than wealth relatives.",
+    "relatedLessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false
+  },
+  {
+    "id": "time-weighted-return",
+    "name": "Time-weighted return",
+    "expression": "RTWR = Î (1 + Rsubperiod) âˆ’ 1",
+    "meaning": "Compounded performance after neutralizing external cash-flow timing.",
+    "variables": {
+      "Rsubperiod": "return between external cash flows"
+    },
+    "workedExample": "10% then âˆ’5%: 1.10 Ã— 0.95 âˆ’ 1 = 4.5%.",
+    "commonMistake": "Averaging subperiod returns without compounding.",
+    "relatedLessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false
+  },
+  {
+    "id": "foreign-currency-return",
+    "name": "Foreign-currency investment return",
+    "expression": "Rdomestic = (1 + Rasset)(1 + Rcurrency) âˆ’ 1",
+    "meaning": "Domestic return combining local asset and exchange-rate effects.",
+    "variables": {
+      "Rasset": "asset return in foreign currency",
+      "Rcurrency": "foreign currency return versus domestic currency"
+    },
+    "workedExample": "Asset +6%, currency +4%: 1.06 Ã— 1.04 âˆ’ 1 = 10.24%.",
+    "commonMistake": "Simply adding the two returns and losing the interaction term.",
+    "relatedLessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false
+  },
+  {
+    "id": "simple-return-02",
+    "name": "Simple return",
+    "expression": "R = (Vâ‚ âˆ’ Vâ‚€ + D) / Vâ‚€",
+    "meaning": "Non-logarithmic gain for one measurement period relative to beginning value.",
+    "variables": {
+      "Vâ‚€": "beginning value",
+      "Vâ‚": "ending value",
+      "D": "income included by the stated convention"
+    },
+    "workedExample": "A value moves from 50 to 53 and pays 1: (53 âˆ’ 50 + 1) / 50 = 8%.",
+    "commonMistake": "Failing to clarify whether the stated simple return includes income.",
+    "relatedLessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false
+  },
+  {
+    "id": "total-return-02",
+    "name": "Total return",
+    "expression": "Rtotal = (Pâ‚ âˆ’ Pâ‚€ + D) / Pâ‚€",
+    "meaning": "Complete holding-period gain from price change and income.",
+    "variables": {
+      "Pâ‚€": "beginning price",
+      "Pâ‚": "ending price",
+      "D": "income received"
+    },
+    "workedExample": "64 to 68 with a 1.60 dividend: (68 âˆ’ 64 + 1.60) / 64 = 8.75%.",
+    "commonMistake": "Omitting dividends or coupons.",
+    "relatedLessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false
+  },
+  {
+    "id": "price-return-02",
+    "name": "Price return (Module 2)",
+    "expression": "Rprice = (Pâ‚ âˆ’ Pâ‚€) / Pâ‚€",
+    "meaning": "Return attributable only to price appreciation or depreciation.",
+    "variables": {
+      "Pâ‚€": "beginning price",
+      "Pâ‚": "ending price"
+    },
+    "workedExample": "64 to 68: 4 / 64 = 6.25%.",
+    "commonMistake": "Including income when price return alone is requested.",
+    "relatedLessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false
+  },
+  {
+    "id": "income-return-02",
+    "name": "Income return (Module 2)",
+    "expression": "Rincome = D / Pâ‚€",
+    "meaning": "Periodic income relative to the beginning investment value.",
+    "variables": {
+      "D": "income received",
+      "Pâ‚€": "beginning price"
+    },
+    "workedExample": "A 1.60 dividend on a beginning price of 64 gives 2.50%.",
+    "commonMistake": "Dividing income by ending price.",
+    "relatedLessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false
+  },
+  {
+    "id": "net-return-02",
+    "name": "Net return from ending wealth",
+    "expression": "Rnet = (Vgross,end âˆ’ Fees) / Vbegin âˆ’ 1",
+    "meaning": "Investor return after the specified fees are removed from gross ending wealth.",
+    "variables": {
+      "Vgross,end": "ending value before fees",
+      "Fees": "specified period fees",
+      "Vbegin": "beginning value"
+    },
+    "workedExample": "218,000 gross ending wealth less 2,000 fees on 200,000 beginning wealth gives 8%.",
+    "commonMistake": "Subtracting a percentage fee without checking its assessment base.",
+    "relatedLessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false
+  },
+  {
+    "id": "exact-real-return-02",
+    "name": "Exact real return (Module 2)",
+    "expression": "Rreal = (1 + Rnominal) / (1 + inflation) âˆ’ 1",
+    "meaning": "Exact purchasing-power growth after removing inflation.",
+    "variables": {
+      "Rnominal": "nominal return",
+      "inflation": "inflation rate"
+    },
+    "workedExample": "4% nominal with 6% inflation: 1.04 / 1.06 âˆ’ 1 = âˆ’1.89%.",
+    "commonMistake": "Assuming a positive nominal return implies a positive real return.",
+    "relatedLessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false
+  },
+  {
+    "id": "approximate-real-return-02",
+    "name": "Approximate real return (Module 2)",
+    "expression": "Rreal â‰ˆ Rnominal âˆ’ inflation",
+    "meaning": "Quick approximation of purchasing-power growth.",
+    "variables": {
+      "Rnominal": "nominal return",
+      "inflation": "inflation rate"
+    },
+    "workedExample": "4% nominal less 6% inflation is approximately âˆ’2%.",
+    "commonMistake": "Using the approximation when exact precision is requested.",
+    "relatedLessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false
+  },
+  {
+    "id": "leveraged-return-02",
+    "name": "Leveraged equity return",
+    "expression": "Requity = (Vend,asset âˆ’ Debt repayment âˆ’ Eâ‚€) / Eâ‚€",
+    "meaning": "Gain remaining for the investor relative to beginning equity after satisfying debt.",
+    "variables": {
+      "Vend,asset": "ending asset value",
+      "Debt repayment": "principal plus financing cost",
+      "Eâ‚€": "beginning investor equity"
+    },
+    "workedExample": "108 asset value less 26 debt repayment leaves 82; versus 75 equity, return is 9.33%.",
+    "commonMistake": "Using total asset value rather than investor equity as the denominator.",
+    "relatedLessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false
+  },
+  {
+    "id": "arithmetic-return-02",
+    "name": "Arithmetic mean return (Module 2)",
+    "expression": "RA = Î£Rt / n",
+    "meaning": "Simple average periodic return, suited to describing a typical single period.",
+    "variables": {
+      "Rt": "return in period t",
+      "n": "number of observations"
+    },
+    "workedExample": "30%, âˆ’10%, and 5% average to 8.33%.",
+    "commonMistake": "Using it as the realized compound growth rate.",
+    "relatedLessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false
+  },
+  {
+    "id": "geometric-return-02",
+    "name": "Geometric mean return (Module 2)",
+    "expression": "RG = [Î (1 + Rt)]^(1/n) âˆ’ 1",
+    "meaning": "Constant periodic rate matching actual compounded terminal wealth.",
+    "variables": {
+      "Rt": "return in period t",
+      "n": "number of periods"
+    },
+    "workedExample": "30%, âˆ’10%, and 5% compound to an annual geometric mean of about 7.11%.",
+    "commonMistake": "Taking the root of return percentages rather than compounded wealth relatives.",
+    "relatedLessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false
+  },
+  {
+    "id": "money-weighted-return-02",
+    "name": "Money-weighted return",
+    "expression": "0 = CFâ‚€ + CFâ‚/(1+r) + â€¦ + CFâ‚™/(1+r)â¿",
+    "meaning": "Internal rate of return earned on the investor's actual dated cash flows.",
+    "variables": {
+      "CFt": "investor cash flow at time t",
+      "r": "money-weighted rate of return",
+      "n": "final period"
+    },
+    "workedExample": "Cash flows âˆ’100, âˆ’50, and +176 at annual intervals have an IRR of 10%.",
+    "commonMistake": "Entering contributions and proceeds with the same sign.",
+    "relatedLessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false
+  },
+  {
+    "id": "time-weighted-return-02",
+    "name": "Time-weighted return (Module 2)",
+    "expression": "RTWR = Î (1 + Rsubperiod) âˆ’ 1",
+    "meaning": "Linked subperiod performance that neutralizes external cash-flow timing.",
+    "variables": {
+      "Rsubperiod": "return between consecutive external cash flows"
+    },
+    "workedExample": "8% followed by âˆ’3% gives 1.08 Ã— 0.97 âˆ’ 1 = 4.76%.",
+    "commonMistake": "Averaging subperiod returns instead of linking them.",
+    "relatedLessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false
+  },
+  {
+    "id": "multi-period-return-02",
+    "name": "Multi-period return",
+    "expression": "Rcumulative = Î (1 + Rt) âˆ’ 1",
+    "meaning": "Cumulative compounded return across consecutive periods.",
+    "variables": {
+      "Rt": "holding-period return in period t"
+    },
+    "workedExample": "12%, âˆ’7%, and 4%: 1.12 Ã— 0.93 Ã— 1.04 âˆ’ 1 = 8.3264%.",
+    "commonMistake": "Adding periodic returns.",
+    "relatedLessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false
+  },
+  {
+    "id": "annualized-return-02",
+    "name": "Annualized compound return",
+    "expression": "Rannual = (1 + Rcumulative)^(1/T) âˆ’ 1",
+    "meaning": "Constant annual compound rate equivalent to a cumulative return over T years.",
+    "variables": {
+      "Rcumulative": "return over the full interval",
+      "T": "interval length in years"
+    },
+    "workedExample": "21% over two years: 1.21^(1/2) âˆ’ 1 = 10% annually.",
+    "commonMistake": "Dividing cumulative return by the number of years.",
+    "relatedLessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false
+  },
+  {
+    "id": "foreign-currency-return-02",
+    "name": "Foreign-currency return (Module 2)",
+    "expression": "Rdomestic = (1 + Rasset)(1 + Rcurrency) âˆ’ 1",
+    "meaning": "Domestic-currency result combining local asset and exchange-rate effects.",
+    "variables": {
+      "Rasset": "asset return in foreign currency",
+      "Rcurrency": "foreign currency appreciation or depreciation"
+    },
+    "workedExample": "9% asset gain with 6% currency depreciation: 1.09 Ã— 0.94 âˆ’ 1 = 2.46%.",
+    "commonMistake": "Adding the rates and omitting their interaction.",
+    "relatedLessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false
+  },
+  {
+    "id": "risk-premium-02",
+    "name": "Risk premium",
+    "expression": "Risk premium = Required return âˆ’ Risk-free return",
+    "meaning": "Additional expected return required for bearing risk above a reference risk-free rate.",
+    "variables": {
+      "Required return": "minimum expected return demanded",
+      "Risk-free return": "appropriate reference rate"
+    },
+    "workedExample": "8.5% required less 3.0% risk-free equals a 5.5% risk premium.",
+    "commonMistake": "Dividing the two rates instead of taking their spread.",
+    "relatedLessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false
+  },
+  {
+    "id": "required-return-02",
+    "name": "Required return",
+    "expression": "Required return = Risk-free return + Risk premium",
+    "meaning": "Minimum expected return demanded for committing capital at the stated risk.",
+    "variables": {
+      "Risk-free return": "reference return for minimal risk",
+      "Risk premium": "compensation demanded for risk"
+    },
+    "workedExample": "3% risk-free plus a 5.5% risk premium gives an 8.5% required return.",
+    "commonMistake": "Confusing a required expected return with an already realized return.",
+    "relatedLessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false
+  },
+  {
+    "id": "required-return-components-01",
+    "name": "Required return components",
+    "expression": "r = real risk-free rate + expected inflation + risk premia",
+    "variables": {
+      "r": "required nominal return"
+    },
+    "meaning": "Links required compensation to time, inflation, and risk.",
+    "intuition": "Links required compensation to time, inflation, and risk.",
+    "workedExample": "With components 1.2%, 2.4%, and 3.1%, the additive estimate is 6.7%.",
+    "commonMistake": "Do not call the required return a realized return.",
+    "relatedLessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "relatedLearningOutcome": "describe, compare, and interpret returns",
+    "tags": [
+      "qm-lm1",
+      "v1.6.4"
+    ]
+  },
+  {
+    "id": "continuous-return-01",
+    "name": "Continuously compounded return",
+    "expression": "r_cc = ln(V1/V0)",
+    "variables": {
+      "V0": "beginning value",
+      "V1": "ending value"
+    },
+    "meaning": "Measures the logarithmic change in value.",
+    "intuition": "Measures the logarithmic change in value.",
+    "workedExample": "A rise from 96 to 103 gives ln(103/96)=7.04%.",
+    "commonMistake": "Do not report a log return as a simple return without conversion.",
+    "relatedLessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "relatedLearningOutcome": "describe, compare, and interpret returns",
+    "tags": [
+      "qm-lm1",
+      "v1.6.4"
+    ]
+  },
+  {
+    "id": "leveraged-equity-return-01",
+    "name": "LM1 leveraged equity return",
+    "expression": "R_E = [R_A(A) - r_D(D)]/E",
+    "variables": {
+      "A": "asset value",
+      "D": "debt",
+      "E": "equity",
+      "r_D": "debt cost"
+    },
+    "meaning": "Return to equity after financing cost.",
+    "intuition": "Return to equity after financing cost.",
+    "workedExample": "A=100, D=40, E=60, asset return 7%, debt cost 2% gives 10.33%.",
+    "commonMistake": "Divide by equity, not total assets.",
+    "relatedLessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "relatedLearningOutcome": "describe, compare, and interpret returns",
+    "tags": [
+      "qm-lm1",
+      "v1.6.4"
+    ]
+  }
 ]

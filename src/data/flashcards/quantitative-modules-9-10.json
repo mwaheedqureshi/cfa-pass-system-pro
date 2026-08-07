@@ -1,0 +1,1392 @@
+[
+  {
+    "id": "fc09-01",
+    "lessonId": "quant-hypothesis-09",
+    "front": "A manager claims mean excess return is positive. The appropriate alternative hypothesis is:",
+    "back": "A directional positive claim requires an upper-tailed alternative.",
+    "tags": [
+      "hypothesis-testing",
+      "definitions",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-02",
+    "lessonId": "quant-hypothesis-09",
+    "front": "With known σ=10, n=25, sample mean 54, and H₀: μ=50, the z statistic is:",
+    "back": "z=(54−50)/(10/√25)=2.",
+    "tags": [
+      "hypothesis-testing",
+      "definitions",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-03",
+    "lessonId": "quant-hypothesis-09",
+    "front": "For an upper-tail 5% z test, z=1.72 leads to:",
+    "back": "1.72 exceeds the 1.645 critical value.",
+    "tags": [
+      "hypothesis-testing",
+      "definitions",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-04",
+    "lessonId": "quant-hypothesis-09",
+    "front": "For a two-tailed 5% z test, z=−1.80 leads to:",
+    "back": "|−1.80| is below 1.96, so evidence is insufficient to reject.",
+    "tags": [
+      "hypothesis-testing",
+      "definitions",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-05",
+    "lessonId": "quant-hypothesis-09",
+    "front": "A test produces p=0.032 at α=0.05. The correct decision is:",
+    "back": "Because p<α, reject H₀; the p-value is not P(H₀ true).",
+    "tags": [
+      "hypothesis-testing",
+      "definitions",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-06",
+    "lessonId": "quant-hypothesis-09",
+    "front": "A test produces p=0.08 at α=0.05. The correct conclusion is:",
+    "back": "p>α means insufficient evidence to reject, not proof of the null.",
+    "tags": [
+      "hypothesis-testing",
+      "definitions",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-07",
+    "lessonId": "quant-hypothesis-09",
+    "front": "A two-sided test has one-tail area 0.018 beyond |t|. Its p-value is:",
+    "back": "For a symmetric two-sided test, double the one-tail area.",
+    "tags": [
+      "hypothesis-testing",
+      "definitions",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-08",
+    "lessonId": "quant-hypothesis-09",
+    "front": "A normal sample has n=16, unknown σ, x̄=12, s=4, and μ₀=10. The t statistic is:",
+    "back": "t=(12−10)/(4/√16)=2 with 15 df.",
+    "tags": [
+      "hypothesis-testing",
+      "definitions",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-09",
+    "lessonId": "quant-hypothesis-09",
+    "front": "Rejecting a true null hypothesis is:",
+    "back": "Type I error is a false rejection.",
+    "tags": [
+      "hypothesis-testing",
+      "definitions",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-10",
+    "lessonId": "quant-hypothesis-09",
+    "front": "Failing to reject a false null hypothesis is:",
+    "back": "Type II error is a missed real effect.",
+    "tags": [
+      "hypothesis-testing",
+      "definitions",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-11",
+    "lessonId": "quant-hypothesis-09",
+    "front": "If β=0.20, statistical power equals:",
+    "back": "Power=1−β=.80.",
+    "tags": [
+      "hypothesis-testing",
+      "definitions",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-12",
+    "lessonId": "quant-hypothesis-09",
+    "front": "All else equal, increasing sample size generally:",
+    "back": "A smaller standard error improves detection of a real effect.",
+    "tags": [
+      "hypothesis-testing",
+      "definitions",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-13",
+    "lessonId": "quant-hypothesis-09",
+    "front": "A 95% confidence interval for μ−μ₀ excludes zero. The corresponding two-sided 5% test should:",
+    "back": "Exclusion of the null value matches rejection at the corresponding level.",
+    "tags": [
+      "hypothesis-testing",
+      "definitions",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-14",
+    "lessonId": "quant-hypothesis-09",
+    "front": "A tiny return difference is statistically significant in a huge sample but smaller than trading costs. It is:",
+    "back": "Statistical detection does not establish practical profitability.",
+    "tags": [
+      "hypothesis-testing",
+      "definitions",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-15",
+    "lessonId": "quant-hypothesis-09",
+    "front": "An analyst chooses a one-tailed test only after seeing the sign of the sample result. This mainly:",
+    "back": "Tail direction must follow the research hypothesis, not the observed result.",
+    "tags": [
+      "hypothesis-testing",
+      "definitions",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-16",
+    "lessonId": "quant-hypothesis-09",
+    "front": "Known-variance mean statistic",
+    "back": "z=(xÌ„âˆ’Î¼0)/(Ïƒ/âˆšn).",
+    "tags": [
+      "hypothesis-testing",
+      "application"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-17",
+    "lessonId": "quant-hypothesis-09",
+    "front": "Unknown-variance mean statistic",
+    "back": "t=(xÌ„âˆ’Î¼0)/(s/âˆšn).",
+    "tags": [
+      "hypothesis-testing",
+      "application"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-18",
+    "lessonId": "quant-hypothesis-09",
+    "front": "One-sample t degrees of freedom (hypothesis tests)",
+    "back": "nâˆ’1.",
+    "tags": [
+      "hypothesis-testing",
+      "application"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-19",
+    "lessonId": "quant-hypothesis-09",
+    "front": "Z versus t for mean tests",
+    "back": "Known Ïƒ supports Z; unknown Ïƒ estimated by s supports t under appropriate conditions.",
+    "tags": [
+      "hypothesis-testing",
+      "application"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-20",
+    "lessonId": "quant-hypothesis-09",
+    "front": "Failure to reject",
+    "back": "Evidence is insufficient to reject H0; H0 has not been proven.",
+    "tags": [
+      "hypothesis-testing",
+      "application"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-21",
+    "lessonId": "quant-hypothesis-09",
+    "front": "Type I error",
+    "back": "Rejecting H0 when H0 is true.",
+    "tags": [
+      "hypothesis-testing",
+      "application"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-22",
+    "lessonId": "quant-hypothesis-09",
+    "front": "Type II error",
+    "back": "Failing to reject H0 when H0 is false.",
+    "tags": [
+      "hypothesis-testing",
+      "application"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-23",
+    "lessonId": "quant-hypothesis-09",
+    "front": "Power",
+    "back": "Probability of rejecting H0 at a specified false-null alternative; 1âˆ’Î².",
+    "tags": [
+      "hypothesis-testing",
+      "application"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-24",
+    "lessonId": "quant-hypothesis-09",
+    "front": "Sample size and power",
+    "back": "Larger n generally increases power, holding the model and other inputs fixed.",
+    "tags": [
+      "hypothesis-testing",
+      "application"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-25",
+    "lessonId": "quant-hypothesis-09",
+    "front": "Effect size and power",
+    "back": "A larger true departure from H0 is generally easier to detect.",
+    "tags": [
+      "hypothesis-testing",
+      "application"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-26",
+    "lessonId": "quant-hypothesis-09",
+    "front": "Variability and power",
+    "back": "Lower variability generally increases power, otherwise fixed.",
+    "tags": [
+      "hypothesis-testing",
+      "application"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-27",
+    "lessonId": "quant-hypothesis-09",
+    "front": "Alpha trade-off",
+    "back": "Higher alpha raises Type I risk and generally power, otherwise fixed.",
+    "tags": [
+      "hypothesis-testing",
+      "application"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-28",
+    "lessonId": "quant-hypothesis-09",
+    "front": "Statistical significance",
+    "back": "Evidence strength relative to a sampling model and alpha.",
+    "tags": [
+      "hypothesis-testing",
+      "application"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-29",
+    "lessonId": "quant-hypothesis-09",
+    "front": "Economic significance",
+    "back": "Whether effect magnitude matters after costs, risk, and context.",
+    "tags": [
+      "hypothesis-testing",
+      "application"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-30",
+    "lessonId": "quant-hypothesis-09",
+    "front": "Confidence-interval connection",
+    "back": "A null value outside the matching two-sided interval implies rejection at the corresponding alpha.",
+    "tags": [
+      "hypothesis-testing",
+      "application"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-31",
+    "lessonId": "quant-hypothesis-09",
+    "front": "Upper-tail p-value",
+    "back": "1âˆ’CDF(test statistic).",
+    "tags": [
+      "hypothesis-testing",
+      "application"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-32",
+    "lessonId": "quant-hypothesis-09",
+    "front": "Lower-tail p-value",
+    "back": "CDF(test statistic).",
+    "tags": [
+      "hypothesis-testing",
+      "application"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-33",
+    "lessonId": "quant-hypothesis-09",
+    "front": "Two-tail symmetric p-value",
+    "back": "Twice the smaller one-tail probability.",
+    "tags": [
+      "hypothesis-testing",
+      "application"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-34",
+    "lessonId": "quant-hypothesis-09",
+    "front": "Pre-specification",
+    "back": "Choose hypotheses, tail, alpha, and method before inspecting results.",
+    "tags": [
+      "hypothesis-testing",
+      "application"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-35",
+    "lessonId": "quant-hypothesis-09",
+    "front": "Normality and small samples",
+    "back": "Mean-test validity may require an approximately normal population when n is small.",
+    "tags": [
+      "hypothesis-testing",
+      "application"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-36",
+    "lessonId": "quant-hypothesis-09",
+    "front": "Independence assumption",
+    "back": "Dependence can invalidate conventional standard errors and decisions.",
+    "tags": [
+      "hypothesis-testing",
+      "application"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-37",
+    "lessonId": "quant-hypothesis-09",
+    "front": "Random sampling",
+    "back": "Supports inference to the defined population when executed well.",
+    "tags": [
+      "hypothesis-testing",
+      "application"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-38",
+    "lessonId": "quant-hypothesis-09",
+    "front": "Degrees of freedom role",
+    "back": "Lower df produces heavier t tails and larger critical magnitudes.",
+    "tags": [
+      "hypothesis-testing",
+      "application"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-39",
+    "lessonId": "quant-hypothesis-09",
+    "front": "P-value trap",
+    "back": "It is not the probability that H0 is true.",
+    "tags": [
+      "hypothesis-testing",
+      "application"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-40",
+    "lessonId": "quant-hypothesis-09",
+    "front": "Alpha trap",
+    "back": "It is not the probability that this particular rejection is wrong.",
+    "tags": [
+      "hypothesis-testing",
+      "application"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-41",
+    "lessonId": "quant-hypothesis-09",
+    "front": "One-tail trap",
+    "back": "Do not choose a favorable tail after seeing the statistic.",
+    "tags": [
+      "hypothesis-testing",
+      "application"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-42",
+    "lessonId": "quant-hypothesis-09",
+    "front": "Critical and p methods",
+    "back": "They give the same decision when tail, alpha, and distribution match.",
+    "tags": [
+      "hypothesis-testing",
+      "application"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-43",
+    "lessonId": "quant-hypothesis-09",
+    "front": "Practical decision",
+    "back": "Combine statistical evidence with effect size, costs, risk, and model limitations.",
+    "tags": [
+      "hypothesis-testing",
+      "application"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-44",
+    "lessonId": "quant-hypothesis-09",
+    "front": "Investment application",
+    "back": "Test whether a population mean active return differs from zero while checking dependence and bias.",
+    "tags": [
+      "hypothesis-testing",
+      "application"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc09-45",
+    "lessonId": "quant-hypothesis-09",
+    "front": "Model limitation",
+    "back": "A correct calculation does not repair invalid data or assumptions.",
+    "tags": [
+      "hypothesis-testing",
+      "application"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "officialLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "fc10-01",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "What does OLS minimize?",
+    "back": "The sum of squared residuals, Σ(yᵢ−ŷᵢ)².",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-02",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "Why square residuals?",
+    "back": "Squaring prevents cancellation and penalizes larger misses more heavily.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-03",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "What is the population simple-regression model?",
+    "back": "Yᵢ=β₀+β₁Xᵢ+εᵢ.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-04",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "What is the fitted line?",
+    "back": "ŷᵢ=b₀+b₁xᵢ.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-05",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "Slope meaning",
+    "back": "Predicted change in Y for a one-unit increase in X.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-06",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "Intercept meaning",
+    "back": "Predicted Y at X=0; it may lack economic meaning if zero lies outside the observed range.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-07",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "Residual sign",
+    "back": "eᵢ=yᵢ−ŷᵢ; positive means the model underpredicted.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-08",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "OLS residual sum with intercept",
+    "back": "The residuals sum to zero.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-09",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "OLS fitted-line location",
+    "back": "The fitted line passes through (x̄,ȳ).",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-10",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "SST decomposition",
+    "back": "SST=SSR+SSE.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-11",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "R² meaning",
+    "back": "Fraction of sample Y variation explained by the fitted linear model.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-12",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "What R² does not establish",
+    "back": "Causality, correct specification, or out-of-sample accuracy.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-13",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "SEE formula",
+    "back": "SEE=√[SSE/(n−2)].",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-14",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "SEE meaning",
+    "back": "Typical dispersion of observations around the fitted line, in Y units.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-15",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "Slope standard error",
+    "back": "SE(b₁)=SEE/√SXX.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-16",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "Slope t test",
+    "back": "t=(b₁−β₁,0)/SE(b₁), with n−2 degrees of freedom.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-17",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "Slope confidence interval",
+    "back": "b₁±t*SE(b₁).",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-18",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "ANOVA F statistic",
+    "back": "F=MSR/MSE; with one predictor, F equals the squared slope t-statistic.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-19",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "Homoskedasticity",
+    "back": "Conditional error variance is constant across X.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-20",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "Heteroskedasticity clue",
+    "back": "A funnel-shaped residual plot.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-21",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "Serial correlation clue",
+    "back": "Runs or cycles in time-ordered residuals.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-22",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "Functional-form clue",
+    "back": "Curvature in residuals suggests a linear model is inadequate.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-23",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "Normality role",
+    "back": "Error normality supports exact small-sample t and F inference.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-24",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "Exogeneity assumption",
+    "back": "E(ε|X)=0; X contains no systematic information about the error.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-25",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "Independent-error assumption in regression",
+    "back": "Regression errors are uncorrelated across observations.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-26",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "High leverage",
+    "back": "An observation with an unusual X value.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-27",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "Influence",
+    "back": "An observation whose removal materially changes fitted results.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-28",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "Point prediction",
+    "back": "ŷ₀=b₀+b₁x₀.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-29",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "Mean-response interval",
+    "back": "Uncertainty about the average Y at x₀.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-30",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "Prediction interval",
+    "back": "Uncertainty about one future Y; wider than a mean-response interval.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-31",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "Prediction leverage term",
+    "back": "1/n+(x₀−x̄)²/SXX.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-32",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "Why intervals widen away from x̄",
+    "back": "Coefficient uncertainty is greater at unusual predictor values.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-33",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "Extrapolation risk",
+    "back": "The assumed functional form may not hold outside observed X values.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-34",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "Linear–linear slope",
+    "back": "A one-unit X increase changes predicted Y by b₁ units.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-35",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "Log–linear slope",
+    "back": "A one-unit X increase changes predicted Y by approximately 100b₁%.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-36",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "Linear–log slope",
+    "back": "A 1% X increase changes predicted Y by approximately b₁/100 units.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-37",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "Log–log slope",
+    "back": "b₁ is elasticity: a 1% X increase changes predicted Y by b₁%.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-38",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "CAPM regression dependent variable",
+    "back": "Asset excess return, Rᵢ−R_f.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-39",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "CAPM regression predictor",
+    "back": "Market excess return, R_m−R_f.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-40",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "CAPM alpha",
+    "back": "Intercept; estimated abnormal return per observation period.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-41",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "CAPM beta",
+    "back": "Slope; sensitivity of asset excess return to market excess return.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-42",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "CAPM beta above one",
+    "back": "Greater systematic sensitivity than the market.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-43",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "CAPM residual",
+    "back": "Asset-specific return not explained by market excess return.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-44",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "CAPM R²",
+    "back": "Share of asset excess-return variation explained by market excess return.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-45",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "Statistical vs economic significance",
+    "back": "A precise slope can be economically small; assess both.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-46",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "Fail to reject β₁=0",
+    "back": "Evidence is insufficient to establish a nonzero linear relation; it does not prove zero.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-47",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "A significant intercept",
+    "back": "Does not rescue a misspecified or assumption-violating model.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-48",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "Residual plot purpose",
+    "back": "Check structure left unexplained by the fitted model.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-49",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "Regression causality warning",
+    "back": "Association alone does not establish a causal effect.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "fc10-50",
+    "lessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "front": "Fast exam sequence",
+    "back": "Equation → units → calculation → diagnostic assumptions → economic interpretation.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  }
+]

@@ -1,9 +1,85 @@
-import {readFile,access} from 'node:fs/promises'; import path from 'node:path';
-const root=process.cwd(); const read=async p=>JSON.parse(await readFile(path.join(root,p),'utf8'));
-const questions=await read('src/data/questions/quantitative.json'); const formulas=await read('src/data/formulas/quantitative.json'); const cards=await read('src/data/flashcards/quantitative.json');
-const lessons=[{id:'quant-returns-01',filePath:'public/content/quantitative/01-returns.md'}]; const fail=[]; const unique=(xs,label)=>{const ids=xs.map(x=>x.id);if(new Set(ids).size!==ids.length)fail.push(`${label} IDs must be unique`)};
-unique(lessons,'Lesson');unique(questions,'Question');unique(formulas,'Formula');unique(cards,'Flashcard'); const lessonIds=new Set(lessons.map(x=>x.id));const formulaIds=new Set(formulas.map(x=>x.id));
-for(const l of lessons){try{await access(path.join(root,l.filePath))}catch{fail.push(`Missing Markdown: ${l.filePath}`)}}
-for(const q of questions){if(!lessonIds.has(q.lessonId))fail.push(`${q.id}: unknown lesson`);if(q.choices.length!==3)fail.push(`${q.id}: must have three choices`);if(!Number.isInteger(q.correctChoiceIndex)||q.correctChoiceIndex<0||q.correctChoiceIndex>2)fail.push(`${q.id}: invalid correct index`);if(q.incorrectChoiceExplanations.length!==3)fail.push(`${q.id}: explanation count`);for(const id of q.relatedFormulaIds)if(!formulaIds.has(id))fail.push(`${q.id}: unknown formula ${id}`)}
-for(const f of formulas)if(!lessonIds.has(f.relatedLessonId))fail.push(`${f.id}: unknown lesson`);for(const c of cards)if(!lessonIds.has(c.lessonId))fail.push(`${c.id}: unknown lesson`);
-if(questions.length<20)fail.push('At least 20 questions required');if(cards.length<20)fail.push('At least 20 flashcards required');if(fail.length){console.error(fail.join('\n'));process.exit(1)}console.log(`Content valid: ${lessons.length} lesson, ${questions.length} questions, ${formulas.length} formulas, ${cards.length} flashcards.`);
+
+
+import {access,readFile,readdir} from 'node:fs/promises';
+import path from 'node:path';
+
+const root=process.cwd();
+const read=async file=>JSON.parse(await readFile(path.join(root,file),'utf8'));
+const questionFiles=['quantitative.json','quantitative-benchmarking.json','quantitative-tvm.json','quantitative-statistics.json','quantitative-probability.json','quantitative-distributions.json','quantitative-sampling.json','quantitative-hypothesis.json','quantitative-regression.json','quantitative-simulation.json','quantitative-data-ai.json','economics-firm-market-01.json'];
+const cardFiles=['quantitative.json','quantitative-modules-3-4.json','quantitative-statistics.json','quantitative-probability.json','quantitative-modules-7-8.json','quantitative-modules-9-10.json','quantitative-modules-11-12.json','economics-firm-market-01.json'];
+const formulaFiles=['quantitative.json','quantitative-modules-3-4.json','quantitative-modules-5-6.json','quantitative-modules-7-8.json','quantitative-modules-9-10.json','quantitative-modules-11-12.json','economics-firm-market-01.json'];
+const questions=(await Promise.all(questionFiles.map(f=>read(`src/data/questions/${f}`)))).flat();
+const cards=(await Promise.all(cardFiles.map(f=>read(`src/data/flashcards/${f}`)))).flat();
+const formulas=(await Promise.all(formulaFiles.map(f=>read(`src/data/formulas/${f}`)))).flat();
+const lessons=[
+{id:'quant-returns-01',filePath:'public/content/quantitative/01-returns.md',outcomes:['Calculate and interpret different return measures and their applications.','Compare money-weighted and time-weighted rates of return.','Calculate and interpret major return components and averages.']},
+{id:'quant-returns-02',filePath:'public/content/quantitative/02-types-of-financial-returns.md',outcomes:['Calculate and interpret major types of financial return.','Distinguish return measures by cash-flow treatment, compounding, inflation, fees, and currency perspective.','Compare money-weighted and time-weighted return and select an appropriate performance measure.']},
+{id:'quant-benchmarking-03',filePath:'public/content/quantitative/03-benchmarking-returns.md',outcomes:['Explain the purposes and characteristics of investment benchmarks.','Distinguish strategic, tactical, absolute, relative, market, custom, and peer benchmarks.','Interpret tracking difference and explain benchmark selection, rebalancing, attribution, and limitations.']},
+{id:'quant-tvm-04',filePath:'public/content/quantitative/04-time-value-of-money.md',outcomes:['Calculate and interpret present and future values for single and multiple cash flows.','Convert interest-rate conventions and value annuities, perpetuities, and growing cash flows.','Apply TVM to loans, bonds, investments, retirement planning, and inflation.']},
+{id:'quant-statistics-05',filePath:'public/content/quantitative/05-statistical-characteristics-of-asset-returns.md',outcomes:['Calculate and interpret measures of central tendency and location for asset-return data.','Calculate and interpret measures of dispersion for populations and samples.','Interpret skewness, kurtosis, outliers, and limitations when describing return distributions.']},
+{id:'quant-probability-06',filePath:'public/content/quantitative/06-probability.md',outcomes:['Explain and calculate unconditional, conditional, joint, and total probabilities.','Apply probability trees, Bayes formula, odds, expected value, and random-variable variance.','Calculate and interpret covariance, correlation, expected portfolio return, and two-asset portfolio variance.']},
+{id:'quant-distributions-07',filePath:'public/content/quantitative/07-return-risk-financial-portfolio.md',outcomes:['calculate, interpret, and evaluate expected return, variance, standard deviation, covariance, and correlation of portfolio returns']},
+{id:'quant-sampling-08',filePath:'public/content/quantitative/08-sampling-and-estimation.md',outcomes:['Compare probability and non-probability sampling methods and sources of sampling error.','Explain sampling distributions, the Central Limit Theorem, standard error, and estimator properties.','Calculate and interpret confidence intervals for a population mean using Z or Student\'s t.']},
+{id:'quant-hypothesis-09',filePath:'public/content/quantitative/09-hypothesis-testing.md',scopePrefix:'HT-',scopeCodes:new Set(Array.from({length:15},(_,i)=>`HT-${String(i+1).padStart(2,'0')}`))},
+{id:'quant-regression-10',filePath:'public/content/quantitative/10-correlation-and-regression.md',scopePrefix:'CR-',scopeCodes:new Set([...Array.from({length:18},(_,i)=>`CR-${String(i+1).padStart(2,'0')}`),'CR-20'])},
+{id:'quant-simulation-11',filePath:'public/content/quantitative/11-simulation-methods.md',scopePrefix:'SM-',scopeCodes:new Set(Array.from({length:12},(_,i)=>`SM-${String(i+1).padStart(2,'0')}`))},
+{id:'quant-data-ai-12',filePath:'public/content/quantitative/12-python-data-science-and-ai.md',scopePrefix:'DAI-',scopeCodes:new Set(Array.from({length:18},(_,i)=>`DAI-${String(i+1).padStart(2,'0')}`))},
+{id:'economics-firm-market-01',filePath:'public/content/economics/01-firm-and-market-structures.md',outcomes:['determine and interpret breakeven and shutdown points of production, as well as how economies and diseconomies of scale affect costs under perfect and imperfect competition','describe characteristics of perfect competition, monopolistic competition, oligopoly, and pure monopoly','explain supply and demand relationships under monopolistic competition, including the optimal price and output for firms as well as pricing strategy','explain supply and demand relationships under oligopoly, including the optimal price and output for firms as well as pricing strategy','identify the type of market structure within which a firm operates and describe the use and limitations of concentration measures']}
+];
+const failures=[];
+const unique=(items,label)=>{const ids=items.map(x=>x.id);if(new Set(ids).size!==ids.length)failures.push(`${label} IDs must be unique`)};
+unique(lessons,'Lesson');unique(questions,'Question');unique(cards,'Flashcard');unique(formulas,'Formula');
+const normalizedKey=value=>value.toLowerCase().replace(/[^a-z0-9]+/g,' ').trim();
+const uniqueText=(items,key,label)=>{const seen=new Map();for(const item of items){const value=normalizedKey(item[key]??'');if(seen.has(value))failures.push(`${item.id}: duplicate ${label} with ${seen.get(value)}`);else seen.set(value,item.id)}};
+uniqueText(cards,'front','flashcard front');uniqueText(formulas,'name','formula name');
+const lessonMap=new Map(lessons.map(l=>[l.id,l]));
+const formulaIds=new Set(formulas.map(f=>f.id));
+for(const lesson of lessons){try{await access(path.join(root,lesson.filePath));const markdown=await readFile(path.join(root,lesson.filePath),'utf8');for(const [label,pattern] of [['summary',/^## 30-second summary/im],['revision sheet',/^## .*revision sheet/im],['exam tips',/exam tips/i],['common mistakes',/common mistakes/i]])if(!pattern.test(markdown))failures.push(`${lesson.id}: missing ${label}`)}catch{failures.push(`Missing Markdown: ${lesson.filePath}`)}}
+for(const q of questions){
+ const lesson=lessonMap.get(q.lessonId);
+ if(!lesson)failures.push(`${q.id}: unknown lesson`);
+ if(typeof q.stem!=='string'||!q.stem.trim())failures.push(`${q.id}: empty stem`);
+ if(!Array.isArray(q.choices)||q.choices.length!==3)failures.push(`${q.id}: must have exactly three choices`);
+ if(!Number.isInteger(q.correctChoiceIndex)||q.correctChoiceIndex<0||q.correctChoiceIndex>2)failures.push(`${q.id}: invalid correct index`);
+ if(!Array.isArray(q.incorrectChoiceExplanations)||q.incorrectChoiceExplanations.length!==3||q.incorrectChoiceExplanations.some(x=>typeof x!=='string'||!x.trim()))failures.push(`${q.id}: missing answer explanation`);
+ if(!q.explanation?.trim())failures.push(`${q.id}: missing correct explanation`);
+ if(!['easy','medium','hard'].includes(q.difficulty))failures.push(`${q.id}: invalid difficulty`);
+ if(!Number.isFinite(q.estimatedSeconds)||q.estimatedSeconds<=0)failures.push(`${q.id}: invalid solving time`);
+ if(lesson?.scopePrefix){const code=q.scopeStatement?.split(':')[0];if(!q.scopeStatement?.trim()||!lesson.scopeCodes.has(code))failures.push(`${q.id}: invalid independent scope statement`);if(q.officialLearningOutcome)failures.push(`${q.id}: independent-scope module must not claim an official outcome`)}
+ else if(!q.officialLearningOutcome?.trim())failures.push(`${q.id}: empty learning outcome`);
+ if(q.topicId==='quantitative-methods'&&(!q.officialModuleId||!q.studyLessonId||typeof q.supplementary!=='boolean'))failures.push(`${q.id}: invalid curriculum classification`);
+ for(const id of q.relatedFormulaIds??[])if(!formulaIds.has(id))failures.push(`${q.id}: unknown formula ${id}`);
+}
+for(const c of cards){if(!lessonMap.has(c.lessonId))failures.push(`${c.id}: unknown lesson`);if(!c.front?.trim()||!c.back?.trim())failures.push(`${c.id}: empty front or back`);if(!Array.isArray(c.tags)||!c.tags.length)failures.push(`${c.id}: missing tags`)}
+for(const f of formulas){
+ const lesson=lessonMap.get(f.relatedLessonId);
+ if(!lesson)failures.push(`${f.id}: unknown lesson`);
+ for(const key of ['name','expression','meaning','workedExample','commonMistake'])if(!f[key]?.toString().trim())failures.push(`${f.id}: missing ${key}`);
+ if(!f.variables||typeof f.variables!=='object'||!Object.keys(f.variables).length)failures.push(`${f.id}: missing variables`);
+ if(lesson?.scopePrefix){const code=f.scopeStatement?.split(':')[0];for(const key of ['intuition','scopeStatement'])if(!f[key]?.toString().trim())failures.push(`${f.id}: missing ${key}`);if(!lesson.scopeCodes.has(code))failures.push(`${f.id}: invalid independent scope statement`);if(!Array.isArray(f.tags)||!f.tags.length)failures.push(`${f.id}: missing tags`)}
+ else if(['quant-statistics-05','quant-probability-06','quant-distributions-07','quant-sampling-08','economics-firm-market-01'].includes(f.relatedLessonId)){
+  for(const key of ['intuition','relatedLearningOutcome'])if(!f[key]?.toString().trim())failures.push(`${f.id}: missing ${key}`);
+  if(!Array.isArray(f.tags)||!f.tags.length)failures.push(`${f.id}: missing tags`);
+  if(f.relatedLessonId.startsWith('quant-')&&(!f.officialModuleId||!f.studyLessonId||typeof f.supplementary!=='boolean'))failures.push(`${f.id}: invalid curriculum classification`);
+ }
+}
+const normalized=new Map();
+for(const q of questions){const key=normalizedKey(q.stem);if(normalized.has(key))failures.push(`${q.id}: duplicate stem with ${normalized.get(key)}`);normalized.set(key,q.id)}
+const expected={'quant-returns-01':40,'quant-returns-02':40,'quant-benchmarking-03':45,'quant-tvm-04':50,'quant-statistics-05':45,'quant-probability-06':50,'quant-distributions-07':50,'quant-sampling-08':45,'quant-hypothesis-09':45,'quant-regression-10':50,'quant-simulation-11':45,'quant-data-ai-12':50,'economics-firm-market-01':40};
+for(const[id,count]of Object.entries(expected)){const qs=questions.filter(q=>q.lessonId===id);if(qs.length!==count)failures.push(`${id}: expected ${count} questions`);const expectedCards=id==='economics-firm-market-01'?30:count;if(cards.filter(c=>c.lessonId===id).length!==expectedCards)failures.push(`${id}: expected ${expectedCards} flashcards`);if(['quant-statistics-05','quant-probability-06','quant-distributions-07','quant-sampling-08','quant-hypothesis-09','quant-regression-10','quant-simulation-11','quant-data-ai-12','economics-firm-market-01'].includes(id)){const positions=[0,1,2].map(index=>qs.filter(q=>q.correctChoiceIndex===index).length);if(positions.some(n=>n<Math.floor(count*.2)))failures.push(`${id}: answer positions are materially imbalanced`)}}
+const officialTargets={'quant-probability-06':[50,12],'quant-sampling-08':[45,10],'quant-hypothesis-09':[45,10],'quant-distributions-07':[50,12],'quant-simulation-11':[45,10],'quant-regression-10':[50,10],'quant-data-ai-12':[40,10]};
+for(const[id,[target,mocks]]of Object.entries(officialTargets)){const qs=questions.filter(q=>q.lessonId===id&&!q.supplementary),cs=cards.filter(c=>c.lessonId===id&&!c.supplementary);if(qs.length!==target||cs.length!==target)failures.push(`${id}: invalid official question/card target`);if(qs.filter(q=>q.tags?.includes('mock-style')).length<mocks)failures.push(`${id}: missing mock-style coverage`);if(qs.some(q=>!q.officialModuleId||q.studyLessonId!==id||!q.lessonSectionId))failures.push(`${id}: incomplete official classification`)}
+if(questions.filter(q=>q.lessonId==='quant-data-ai-12'&&q.supplementary).length!==10||cards.filter(c=>c.lessonId==='quant-data-ai-12'&&c.supplementary).length!==10)failures.push('LM11 supplementary split must be 10 questions and 10 cards');
+for(const[id,minExamples,minChecks,minTables]of [['quant-probability-06',22,12,8],['quant-distributions-07',24,12,8]]){const lesson=lessons.find(x=>x.id===id),markdown=await readFile(path.join(root,lesson.filePath),'utf8'),examples=(markdown.match(/Worked Example/gi)??[]).length,checks=(markdown.match(/Knowledge Check/gi)??[]).length,tables=(markdown.match(/^\|[^\n]+\|$/gm)??[]).length/2;if(examples<minExamples||checks<minChecks||tables<minTables)failures.push(`${id}: lesson production minimum not met`)}
+const registry=await readFile(path.join(root,'src/components/lessons/LessonInteractiveTools.tsx'),'utf8');
+for(const id of ['quant-statistics-05','quant-probability-06','quant-distributions-07','quant-sampling-08','quant-hypothesis-09','quant-regression-10','quant-simulation-11','quant-data-ai-12'])if(!registry.includes(id))failures.push(`${id}: missing interactive registration`);
+const assessment=await readFile(path.join(root,'src/components/practice/ComprehensiveAssessment.tsx'),'utf8');
+for(const token of ['selectBalancedAssessment','/90','remaining','paused','moduleBreakdown','confidenceBreakdown','Incorrect-answer review'])if(!assessment.includes(token))failures.push(`Comprehensive assessment missing configuration: ${token}`);
+const chapterExam=await readFile(path.join(root,'src/components/practice/ChapterExam.tsx'),'utf8');
+for(const token of ['slice(0,30)','45*60',"'untimed'",'shuffle(officialQuestions)','question.supplementary','paused','localStorage','Outcome breakdown','Confidence breakdown','Incorrect-answer review','Retry incorrect'])if(!chapterExam.includes(token))failures.push(`Chapter exam missing configuration: ${token}`);
+try{const sourceMap=JSON.parse(await readFile(path.join(root,'.local-research/economics/economics-firm-market-01/source-map.json'),'utf8'));if(sourceMap.lessonId!=='economics-firm-market-01'||!Array.isArray(sourceMap.sources)||!sourceMap.sources.length||sourceMap.sources.some(source=>!source.filePath||!source.sourceCategory||!source.verificationStatus))failures.push('economics-firm-market-01: invalid private source-map metadata')}catch{failures.push('economics-firm-market-01: missing private source-map metadata')}
+try{const unresolved=await read('.local-research/quantitative-verification/unresolved-items.json'),status=await read('.local-research/quantitative-verification/verification-status.json');if(unresolved.criticalCount!==0||unresolved.items.length)failures.push('Checkpoint 1: unresolved critical audit records remain');for(const id of ['QM-LM1','QM-LM2','QM-LM3'])if(!status.fullyVerifiedModules.includes(id)||status.moduleStatuses[id]?.length!==8)failures.push(`Checkpoint 1: inconsistent verification status for ${id}`)}catch{failures.push('Checkpoint 1: missing private verification status')}
+async function findForbiddenPdfs(directory){const found=[];for(const entry of await readdir(directory,{withFileTypes:true})){if(['node_modules','.git','dist','.local-research'].includes(entry.name))continue;const target=path.join(directory,entry.name);if(entry.isDirectory())found.push(...await findForbiddenPdfs(target));else if(entry.name.toLowerCase().endsWith('.pdf'))found.push(path.relative(root,target))}return found}
+for(const pdf of await findForbiddenPdfs(root))if(pdf.replaceAll('\\','/')!=='public/docs/OFFICIAL_2027_LEVEL_I_TOPIC_OUTLINE.pdf')failures.push(`Reference-library artifact inside repository: ${pdf}`);
+if(failures.length){console.error(failures.join('\n'));process.exit(1)}
+console.log(`Content valid: ${lessons.length} lessons, ${questions.length} questions, ${formulas.length} formulas, ${cards.length} flashcards.`);

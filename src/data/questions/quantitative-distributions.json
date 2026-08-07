@@ -1,0 +1,1559 @@
+[
+  {
+    "id": "qport08-01",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate expected return, variance, standard deviation, covariance, and correlation of portfolio returns",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Core calculation: A portfolio invests 40% at an expected 6% and 60% at 10%. Its expected return is:",
+    "choices": [
+      "7.6%",
+      "8.4%",
+      "16.0%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Weighting gives 0.40(6%)+0.60(10%)=8.4%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 7.6% does not follow the required expected return relationship; Weighting gives 0.40(6%)+0.60(10%)=8.4%.",
+      "Correct. Weighting gives 0.40(6%)+0.60(10%)=8.4%.",
+      "Incorrect. 16.0% does not follow the required expected return relationship; Weighting gives 0.40(6%)+0.60(10%)=8.4%."
+    ],
+    "relatedFormulaIds": [
+      "portfolio-expected-return-08"
+    ],
+    "tags": [
+      "portfolio",
+      "expected return",
+      "mock-style"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-02",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret portfolio return and risk, minimum-variance portfolios, efficient frontiers, and optimal capital allocation",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "A 30% position returns −5% and a 70% position returns 9%. Portfolio return is:",
+    "choices": [
+      "2.0%",
+      "4.8%",
+      "6.3%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "0.30(−5%)+0.70(9%)=4.8%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 2.0% does not satisfy the stated calculation or interpretation. 0.30(−5%)+0.70(9%)=4.8%.",
+      "Correct. 0.30(−5%)+0.70(9%)=4.8%.",
+      "Incorrect. 6.3% does not satisfy the stated calculation or interpretation. 0.30(−5%)+0.70(9%)=4.8%."
+    ],
+    "relatedFormulaIds": [
+      "portfolio-expected-return-08"
+    ],
+    "tags": [
+      "qm-lm8",
+      "checkpoint-3-verified",
+      "mock-style"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-03",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret portfolio return and risk, minimum-variance portfolios, efficient frontiers, and optimal capital allocation",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Weights are 20%, 50%, and 30%; returns are 10%, −2%, and 8%. The second asset’s contribution is:",
+    "choices": [
+      "−2.0 percentage points",
+      "5.0 percentage points",
+      "−1.0 percentage point"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Contribution=0.50(−2%)=−1 percentage point.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. −2.0 percentage points does not satisfy the stated calculation or interpretation. Contribution=0.50(−2%)=−1 percentage point.",
+      "Incorrect. 5.0 percentage points does not satisfy the stated calculation or interpretation. Contribution=0.50(−2%)=−1 percentage point.",
+      "Correct. Contribution=0.50(−2%)=−1 percentage point."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm8",
+      "checkpoint-3-verified",
+      "mock-style"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-04",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate expected return, variance, standard deviation, covariance, and correlation of portfolio returns",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Core calculation: A 25% position earns -4%. Its contribution to portfolio return is:",
+    "choices": [
+      "-4.0 percentage points",
+      "-1.0 percentage point",
+      "-0.25 percentage point"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Contribution is weight times return: 0.25(-4%)=-1.0 percentage point.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. -4.0 percentage points does not follow the required return contribution relationship; Contribution is weight times return: 0.25(-4%)=-1.0 percentage point.",
+      "Correct. Contribution is weight times return: 0.25(-4%)=-1.0 percentage point.",
+      "Incorrect. -0.25 percentage point does not follow the required return contribution relationship; Contribution is weight times return: 0.25(-4%)=-1.0 percentage point."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "portfolio",
+      "return contribution",
+      "mock-style"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-05",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret portfolio return and risk, minimum-variance portfolios, efficient frontiers, and optimal capital allocation",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Standard deviations are 10% and 15%, and covariance is 0.006. Correlation is:",
+    "choices": [
+      "2.50",
+      "0.40",
+      "0.04"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "ρ=.006/(.10×.15)=.40.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 2.50 does not satisfy the stated calculation or interpretation. ρ=.006/(.10×.15)=.40.",
+      "Correct. ρ=.006/(.10×.15)=.40.",
+      "Incorrect. 0.04 does not satisfy the stated calculation or interpretation. ρ=.006/(.10×.15)=.40."
+    ],
+    "relatedFormulaIds": [
+      "correlation-08"
+    ],
+    "tags": [
+      "qm-lm8",
+      "checkpoint-3-verified",
+      "mock-style"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-06",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret portfolio return and risk, minimum-variance portfolios, efficient frontiers, and optimal capital allocation",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Standard deviations are 12% and 18%, and correlation is −0.25. Covariance is:",
+    "choices": [
+      "0.0054",
+      "−0.0054",
+      "−0.0540"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Cov=−.25(.12)(.18)=−.0054.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 0.0054 does not satisfy the stated calculation or interpretation. Cov=−.25(.12)(.18)=−.0054.",
+      "Correct. Cov=−.25(.12)(.18)=−.0054.",
+      "Incorrect. −0.0540 does not satisfy the stated calculation or interpretation. Cov=−.25(.12)(.18)=−.0054."
+    ],
+    "relatedFormulaIds": [
+      "covariance-08"
+    ],
+    "tags": [
+      "qm-lm8",
+      "checkpoint-3-verified",
+      "mock-style"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-07",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate expected return, variance, standard deviation, covariance, and correlation of portfolio returns",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Core calculation: Standard deviations are 12% and 20% and correlation is 0.25. Covariance equals:",
+    "choices": [
+      "0.0600",
+      "0.0060",
+      "0.2400"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Covariance is 0.25(0.12)(0.20)=0.0060.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 0.0600 does not follow the required covariance relationship; Covariance is 0.25(0.12)(0.20)=0.0060.",
+      "Correct. Covariance is 0.25(0.12)(0.20)=0.0060.",
+      "Incorrect. 0.2400 does not follow the required covariance relationship; Covariance is 0.25(0.12)(0.20)=0.0060."
+    ],
+    "relatedFormulaIds": [
+      "covariance-08"
+    ],
+    "tags": [
+      "portfolio",
+      "covariance",
+      "mock-style"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-08",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret portfolio return and risk, minimum-variance portfolios, efficient frontiers, and optimal capital allocation",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A 40/60 portfolio has risks 10% and 15% and correlation 0.25. Variance is:",
+    "choices": [
+      "0.0106",
+      "0.1072",
+      "0.0115"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Variance=.4²(.1²)+.6²(.15²)+2(.4)(.6)(.25)(.1)(.15)=.0115.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 0.0106 does not satisfy the stated calculation or interpretation. Variance=.4²(.1²)+.6²(.15²)+2(.4)(.6)(.25)(.1)(.15)=.0115.",
+      "Incorrect. 0.1072 does not satisfy the stated calculation or interpretation. Variance=.4²(.1²)+.6²(.15²)+2(.4)(.6)(.25)(.1)(.15)=.0115.",
+      "Correct. Variance=.4²(.1²)+.6²(.15²)+2(.4)(.6)(.25)(.1)(.15)=.0115."
+    ],
+    "relatedFormulaIds": [
+      "two-asset-variance-08"
+    ],
+    "tags": [
+      "qm-lm8",
+      "checkpoint-3-verified"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-09",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret portfolio return and risk, minimum-variance portfolios, efficient frontiers, and optimal capital allocation",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "A portfolio variance of 0.0144 corresponds to standard deviation:",
+    "choices": [
+      "14.4%",
+      "12.0%",
+      "1.44%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "√.0144=.12.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 14.4% does not satisfy the stated calculation or interpretation. √.0144=.12.",
+      "Correct. √.0144=.12.",
+      "Incorrect. 1.44% does not satisfy the stated calculation or interpretation. √.0144=.12."
+    ],
+    "relatedFormulaIds": [
+      "portfolio-standard-deviation-08"
+    ],
+    "tags": [
+      "qm-lm8",
+      "checkpoint-3-verified",
+      "mock-style"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-10",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate expected return, variance, standard deviation, covariance, and correlation of portfolio returns",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Core calculation: Covariance is 0.009 and standard deviations are 15% and 30%. Correlation equals:",
+    "choices": [
+      "0.45",
+      "2.00",
+      "0.20"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Correlation is 0.009/(0.15×0.30)=0.20.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 0.45 does not follow the required correlation relationship; Correlation is 0.009/(0.15×0.30)=0.20.",
+      "Incorrect. 2.00 does not follow the required correlation relationship; Correlation is 0.009/(0.15×0.30)=0.20.",
+      "Correct. Correlation is 0.009/(0.15×0.30)=0.20."
+    ],
+    "relatedFormulaIds": [
+      "correlation-08"
+    ],
+    "tags": [
+      "portfolio",
+      "correlation"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-11",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret portfolio return and risk, minimum-variance portfolios, efficient frontiers, and optimal capital allocation",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Two long-only assets have correlation +1. Portfolio risk equals:",
+    "choices": [
+      "zero for some positive weights",
+      "the weighted average of their standard deviations",
+      "the weighted average of their variances"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "At +1, risks add linearly for long-only weights.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. zero for some positive weights does not satisfy the stated calculation or interpretation. At +1, risks add linearly for long-only weights.",
+      "Correct. At +1, risks add linearly for long-only weights.",
+      "Incorrect. the weighted average of their variances does not satisfy the stated calculation or interpretation. At +1, risks add linearly for long-only weights."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm8",
+      "checkpoint-3-verified"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-12",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret portfolio return and risk, minimum-variance portfolios, efficient frontiers, and optimal capital allocation",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "With correlation −1, risks 10% and 15%, the zero-risk weight in the 10%-risk asset is:",
+    "choices": [
+      "40%",
+      "50%",
+      "60%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Solve .10w=.15(1−w), giving w=.60.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 40% does not satisfy the stated calculation or interpretation. Solve .10w=.15(1−w), giving w=.60.",
+      "Incorrect. 50% does not satisfy the stated calculation or interpretation. Solve .10w=.15(1−w), giving w=.60.",
+      "Correct. Solve .10w=.15(1−w), giving w=.60."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm8",
+      "checkpoint-3-verified"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-13",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate expected return, variance, standard deviation, covariance, and correlation of portfolio returns",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Core calculation: A 50/50 portfolio has asset risks of 10% and 18% with correlation 0.30. Its risk is closest to:",
+    "choices": [
+      "14.00%",
+      "7.00%",
+      "11.53%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Variance is 0.0133 and its square root is 11.53%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 14.00% does not follow the required two-asset risk relationship; Variance is 0.0133 and its square root is 11.53%.",
+      "Incorrect. 7.00% does not follow the required two-asset risk relationship; Variance is 0.0133 and its square root is 11.53%.",
+      "Correct. Variance is 0.0133 and its square root is 11.53%."
+    ],
+    "relatedFormulaIds": [
+      "two-asset-variance-08"
+    ],
+    "tags": [
+      "portfolio",
+      "two-asset risk"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-14",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret portfolio return and risk, minimum-variance portfolios, efficient frontiers, and optimal capital allocation",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Two 20%-risk assets are equally weighted. At correlation zero, portfolio risk is:",
+    "choices": [
+      "10.00%",
+      "14.14%",
+      "20.00%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Variance=.25(.04)+.25(.04)=.02; risk=14.14%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 10.00% does not satisfy the stated calculation or interpretation. Variance=.25(.04)+.25(.04)=.02; risk=14.14%.",
+      "Correct. Variance=.25(.04)+.25(.04)=.02; risk=14.14%.",
+      "Incorrect. 20.00% does not satisfy the stated calculation or interpretation. Variance=.25(.04)+.25(.04)=.02; risk=14.14%."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm8",
+      "checkpoint-3-verified"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-15",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret portfolio return and risk, minimum-variance portfolios, efficient frontiers, and optimal capital allocation",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "For positive portfolio weights, lowering pairwise correlation while holding other inputs fixed generally:",
+    "choices": [
+      "raises expected return",
+      "raises each asset’s variance",
+      "reduces portfolio variance"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Correlation affects cross terms, not expected returns or standalone risks.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. raises expected return does not satisfy the stated calculation or interpretation. Correlation affects cross terms, not expected returns or standalone risks.",
+      "Incorrect. raises each asset’s variance does not satisfy the stated calculation or interpretation. Correlation affects cross terms, not expected returns or standalone risks.",
+      "Correct. Correlation affects cross terms, not expected returns or standalone risks."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm8",
+      "checkpoint-3-verified"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-16",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate expected return, variance, standard deviation, covariance, and correlation of portfolio returns",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Core calculation: For two long-only assets with correlation +1, portfolio standard deviation is:",
+    "choices": [
+      "always zero",
+      "the product of asset variances",
+      "the weighted average of asset standard deviations"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "At perfect positive correlation, no curvature diversification benefit remains.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. always zero does not follow the required perfect positive correlation relationship; At perfect positive correlation, no curvature diversification benefit remains.",
+      "Incorrect. the product of asset variances does not follow the required perfect positive correlation relationship; At perfect positive correlation, no curvature diversification benefit remains.",
+      "Correct. At perfect positive correlation, no curvature diversification benefit remains."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "portfolio",
+      "perfect positive correlation"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-17",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret portfolio return and risk, minimum-variance portfolios, efficient frontiers, and optimal capital allocation",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "A covariance matrix used for portfolio variance must be:",
+    "choices": [
+      "asymmetric with zero diagonal",
+      "bounded between −1 and +1 in every cell",
+      "symmetric with nonnegative diagonal variances"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Cov(i,j)=Cov(j,i), and diagonal entries are variances.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. asymmetric with zero diagonal does not satisfy the stated calculation or interpretation. Cov(i,j)=Cov(j,i), and diagonal entries are variances.",
+      "Incorrect. bounded between −1 and +1 in every cell does not satisfy the stated calculation or interpretation. Cov(i,j)=Cov(j,i), and diagonal entries are variances.",
+      "Correct. Cov(i,j)=Cov(j,i), and diagonal entries are variances."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm8",
+      "checkpoint-3-verified",
+      "mock-style"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-18",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret portfolio return and risk, minimum-variance portfolios, efficient frontiers, and optimal capital allocation",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A three-asset variance calculation includes each unique covariance term:",
+    "choices": [
+      "three times",
+      "twice",
+      "once with no multiplier"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The full double sum contains ij and ji, so unique pair terms are doubled.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. three times does not satisfy the stated calculation or interpretation. The full double sum contains ij and ji, so unique pair terms are doubled.",
+      "Correct. The full double sum contains ij and ji, so unique pair terms are doubled.",
+      "Incorrect. once with no multiplier does not satisfy the stated calculation or interpretation. The full double sum contains ij and ji, so unique pair terms are doubled."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm8",
+      "checkpoint-3-verified"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-19",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate expected return, variance, standard deviation, covariance, and correlation of portfolio returns",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Core calculation: With correlation -1, a zero-variance combination is:",
+    "choices": [
+      "possible for suitable weights",
+      "impossible for risky assets",
+      "guaranteed at equal weights"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Perfectly opposing movements can exactly offset at weights determined by relative volatility.",
+    "incorrectChoiceExplanations": [
+      "Correct. Perfectly opposing movements can exactly offset at weights determined by relative volatility.",
+      "Incorrect. impossible for risky assets does not follow the required perfect negative correlation relationship; Perfectly opposing movements can exactly offset at weights determined by relative volatility.",
+      "Incorrect. guaranteed at equal weights does not follow the required perfect negative correlation relationship; Perfectly opposing movements can exactly offset at weights determined by relative volatility."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "portfolio",
+      "perfect negative correlation"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-20",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret portfolio return and risk, minimum-variance portfolios, efficient frontiers, and optimal capital allocation",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A portfolio modeled at 10% risk rises to 13% under stressed correlations. The relative increase is:",
+    "choices": [
+      "30%",
+      "3%",
+      "23.08%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "(13−10)/10=30%; the absolute increase is 3 percentage points.",
+    "incorrectChoiceExplanations": [
+      "Correct. (13−10)/10=30%; the absolute increase is 3 percentage points.",
+      "Incorrect. 3% does not satisfy the stated calculation or interpretation. (13−10)/10=30%; the absolute increase is 3 percentage points.",
+      "Incorrect. 23.08% does not satisfy the stated calculation or interpretation. (13−10)/10=30%; the absolute increase is 3 percentage points."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm8",
+      "checkpoint-3-verified"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-21",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret portfolio return and risk, minimum-variance portfolios, efficient frontiers, and optimal capital allocation",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Variances are .01 and .04 and covariance is zero. The GMV weight in the first asset is:",
+    "choices": [
+      "20%",
+      "50%",
+      "80%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "wA=.04/(.01+.04)=.80.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 20% does not satisfy the stated calculation or interpretation. wA=.04/(.01+.04)=.80.",
+      "Incorrect. 50% does not satisfy the stated calculation or interpretation. wA=.04/(.01+.04)=.80.",
+      "Correct. wA=.04/(.01+.04)=.80."
+    ],
+    "relatedFormulaIds": [
+      "minimum-variance-weight-08"
+    ],
+    "tags": [
+      "qm-lm8",
+      "checkpoint-3-verified"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-22",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate expected return, variance, standard deviation, covariance, and correlation of portfolio returns",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Core calculation: Diversification most directly reduces:",
+    "choices": [
+      "asset-specific risk",
+      "all systematic risk",
+      "expected return mechanically"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Combining imperfectly correlated assets reduces asset-specific risk, not common systematic exposure.",
+    "incorrectChoiceExplanations": [
+      "Correct. Combining imperfectly correlated assets reduces asset-specific risk, not common systematic exposure.",
+      "Incorrect. all systematic risk does not follow the required diversification relationship; Combining imperfectly correlated assets reduces asset-specific risk, not common systematic exposure.",
+      "Incorrect. expected return mechanically does not follow the required diversification relationship; Combining imperfectly correlated assets reduces asset-specific risk, not common systematic exposure."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "portfolio",
+      "diversification"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-23",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret portfolio return and risk, minimum-variance portfolios, efficient frontiers, and optimal capital allocation",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "The global minimum-variance portfolio is the portfolio with:",
+    "choices": [
+      "the highest Sharpe ratio necessarily",
+      "the lowest variance in the feasible set",
+      "the highest expected return"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "GMV minimizes variance without requiring a return target.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. the highest Sharpe ratio necessarily does not satisfy the stated calculation or interpretation. GMV minimizes variance without requiring a return target.",
+      "Correct. GMV minimizes variance without requiring a return target.",
+      "Incorrect. the highest expected return does not satisfy the stated calculation or interpretation. GMV minimizes variance without requiring a return target."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm8",
+      "checkpoint-3-verified"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-24",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret portfolio return and risk, minimum-variance portfolios, efficient frontiers, and optimal capital allocation",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "Portfolio A returns 9% at 12% risk; B returns 9% at 15% risk. Relative to B, A is:",
+    "choices": [
+      "dominant",
+      "dominated",
+      "equivalent"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Equal return with lower risk dominates.",
+    "incorrectChoiceExplanations": [
+      "Correct. Equal return with lower risk dominates.",
+      "Incorrect. dominated does not satisfy the stated calculation or interpretation. Equal return with lower risk dominates.",
+      "Incorrect. equivalent does not satisfy the stated calculation or interpretation. Equal return with lower risk dominates."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm8",
+      "checkpoint-3-verified",
+      "mock-style"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-25",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate expected return, variance, standard deviation, covariance, and correlation of portfolio returns",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Core calculation: Variances are 0.0144 and 0.0324 and covariance is 0.0036. The GMV weight in the first asset is closest to:",
+    "choices": [
+      "72.73%",
+      "27.27%",
+      "50.00%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "(0.0324-0.0036)/(0.0144+0.0324-2×0.0036)=72.73%.",
+    "incorrectChoiceExplanations": [
+      "Correct. (0.0324-0.0036)/(0.0144+0.0324-2×0.0036)=72.73%.",
+      "Incorrect. 27.27% does not follow the required GMV weight relationship; (0.0324-0.0036)/(0.0144+0.0324-2×0.0036)=72.73%.",
+      "Incorrect. 50.00% does not follow the required GMV weight relationship; (0.0324-0.0036)/(0.0144+0.0324-2×0.0036)=72.73%."
+    ],
+    "relatedFormulaIds": [
+      "minimum-variance-weight-08"
+    ],
+    "tags": [
+      "portfolio",
+      "GMV weight"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-26",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret portfolio return and risk, minimum-variance portfolios, efficient frontiers, and optimal capital allocation",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Portfolio A returns 8% at 10% risk; B returns 10% at 10% risk. Relative to A, B is:",
+    "choices": [
+      "dominated",
+      "minimum variance by definition",
+      "dominant"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Equal risk with higher return dominates.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. dominated does not satisfy the stated calculation or interpretation. Equal risk with higher return dominates.",
+      "Incorrect. minimum variance by definition does not satisfy the stated calculation or interpretation. Equal risk with higher return dominates.",
+      "Correct. Equal risk with higher return dominates."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm8",
+      "checkpoint-3-verified"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-27",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret portfolio return and risk, minimum-variance portfolios, efficient frontiers, and optimal capital allocation",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "The efficient frontier is:",
+    "choices": [
+      "only the global minimum-variance portfolio",
+      "the upper non-dominated part of the minimum-variance frontier",
+      "every feasible portfolio"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Efficient portfolios maximize return for risk or minimize risk for return.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. only the global minimum-variance portfolio does not satisfy the stated calculation or interpretation. Efficient portfolios maximize return for risk or minimize risk for return.",
+      "Correct. Efficient portfolios maximize return for risk or minimize risk for return.",
+      "Incorrect. every feasible portfolio does not satisfy the stated calculation or interpretation. Efficient portfolios maximize return for risk or minimize risk for return."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm8",
+      "checkpoint-3-verified"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-28",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate expected return, variance, standard deviation, covariance, and correlation of portfolio returns",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Core calculation: The efficient frontier contains portfolios that:",
+    "choices": [
+      "maximize expected return for a given risk",
+      "have the smallest number of securities",
+      "always include the risk-free asset"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Efficient portfolios are non-dominated in mean–variance space.",
+    "incorrectChoiceExplanations": [
+      "Correct. Efficient portfolios are non-dominated in mean–variance space.",
+      "Incorrect. have the smallest number of securities does not follow the required efficient frontier relationship; Efficient portfolios are non-dominated in mean–variance space.",
+      "Incorrect. always include the risk-free asset does not follow the required efficient frontier relationship; Efficient portfolios are non-dominated in mean–variance space."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "portfolio",
+      "efficient frontier"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-29",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret portfolio return and risk, minimum-variance portfolios, efficient frontiers, and optimal capital allocation",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Assets return 5% and 13%. A fully invested portfolio targeting 9% uses the first asset weight:",
+    "choices": [
+      "50%",
+      "40%",
+      "60%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": ".09=.05w+.13(1−w), so w=.50.",
+    "incorrectChoiceExplanations": [
+      "Correct. .09=.05w+.13(1−w), so w=.50.",
+      "Incorrect. 40% does not satisfy the stated calculation or interpretation. .09=.05w+.13(1−w), so w=.50.",
+      "Incorrect. 60% does not satisfy the stated calculation or interpretation. .09=.05w+.13(1−w), so w=.50."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm8",
+      "checkpoint-3-verified"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-30",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret portfolio return and risk, minimum-variance portfolios, efficient frontiers, and optimal capital allocation",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Rf=2%, risky return=8%, and y=0.60. Complete-portfolio return is:",
+    "choices": [
+      "4.8%",
+      "6.8%",
+      "5.6%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "2%+.60(8%−2%)=5.6%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 4.8% does not satisfy the stated calculation or interpretation. 2%+.60(8%−2%)=5.6%.",
+      "Incorrect. 6.8% does not satisfy the stated calculation or interpretation. 2%+.60(8%−2%)=5.6%.",
+      "Correct. 2%+.60(8%−2%)=5.6%."
+    ],
+    "relatedFormulaIds": [
+      "cal-return-08"
+    ],
+    "tags": [
+      "qm-lm8",
+      "checkpoint-3-verified"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-31",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate expected return, variance, standard deviation, covariance, and correlation of portfolio returns",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Core calculation: The risk-free rate is 3%, a risky portfolio returns 9%, and y=0.75. Complete-portfolio return is:",
+    "choices": [
+      "7.5%",
+      "6.75%",
+      "9.0%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "3%+0.75(9%-3%)=7.5%.",
+    "incorrectChoiceExplanations": [
+      "Correct. 3%+0.75(9%-3%)=7.5%.",
+      "Incorrect. 6.75% does not follow the required CAL return relationship; 3%+0.75(9%-3%)=7.5%.",
+      "Incorrect. 9.0% does not follow the required CAL return relationship; 3%+0.75(9%-3%)=7.5%."
+    ],
+    "relatedFormulaIds": [
+      "cal-return-08"
+    ],
+    "tags": [
+      "portfolio",
+      "CAL return"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-32",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret portfolio return and risk, minimum-variance portfolios, efficient frontiers, and optimal capital allocation",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "A risky portfolio has 16% risk and y=0.60. Complete-portfolio risk is:",
+    "choices": [
+      "6.4%",
+      "9.6%",
+      "16.0%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Risk=|y|σP=.60(16%)=9.6%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 6.4% does not satisfy the stated calculation or interpretation. Risk=|y|σP=.60(16%)=9.6%.",
+      "Correct. Risk=|y|σP=.60(16%)=9.6%.",
+      "Incorrect. 16.0% does not satisfy the stated calculation or interpretation. Risk=|y|σP=.60(16%)=9.6%."
+    ],
+    "relatedFormulaIds": [
+      "cal-risk-08"
+    ],
+    "tags": [
+      "qm-lm8",
+      "checkpoint-3-verified",
+      "mock-style"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-33",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret portfolio return and risk, minimum-variance portfolios, efficient frontiers, and optimal capital allocation",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "If y=1.25 on a CAL, the risk-free weight is:",
+    "choices": [
+      "−25%",
+      "25%",
+      "125%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "1−y=−.25, indicating borrowing.",
+    "incorrectChoiceExplanations": [
+      "Correct. 1−y=−.25, indicating borrowing.",
+      "Incorrect. 25% does not satisfy the stated calculation or interpretation. 1−y=−.25, indicating borrowing.",
+      "Incorrect. 125% does not satisfy the stated calculation or interpretation. 1−y=−.25, indicating borrowing."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm8",
+      "checkpoint-3-verified"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-34",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate expected return, variance, standard deviation, covariance, and correlation of portfolio returns",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Core calculation: A risky portfolio has 12% risk and y=0.75. Complete-portfolio risk is:",
+    "choices": [
+      "9%",
+      "12%",
+      "3%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The risk-free asset has no volatility, so risk is 0.75(12%)=9%.",
+    "incorrectChoiceExplanations": [
+      "Correct. The risk-free asset has no volatility, so risk is 0.75(12%)=9%.",
+      "Incorrect. 12% does not follow the required CAL risk relationship; The risk-free asset has no volatility, so risk is 0.75(12%)=9%.",
+      "Incorrect. 3% does not follow the required CAL risk relationship; The risk-free asset has no volatility, so risk is 0.75(12%)=9%."
+    ],
+    "relatedFormulaIds": [
+      "cal-risk-08"
+    ],
+    "tags": [
+      "portfolio",
+      "CAL risk"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-35",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret portfolio return and risk, minimum-variance portfolios, efficient frontiers, and optimal capital allocation",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Rf=3%, risky return=11%, and risky risk=16%. CAL slope is:",
+    "choices": [
+      "0.6875",
+      "0.08",
+      "0.50"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Slope=(11%−3%)/16%=.50.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 0.6875 does not satisfy the stated calculation or interpretation. Slope=(11%−3%)/16%=.50.",
+      "Incorrect. 0.08 does not satisfy the stated calculation or interpretation. Slope=(11%−3%)/16%=.50.",
+      "Correct. Slope=(11%−3%)/16%=.50."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm8",
+      "checkpoint-3-verified"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-36",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret portfolio return and risk, minimum-variance portfolios, efficient frontiers, and optimal capital allocation",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Two feasible risky portfolios have Sharpe ratios 0.45 and 0.60. The better CAL uses:",
+    "choices": [
+      "either, because slopes do not matter",
+      "the 0.60 portfolio",
+      "the 0.45 portfolio"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "A higher Sharpe ratio produces a steeper CAL.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. either, because slopes do not matter does not satisfy the stated calculation or interpretation. A higher Sharpe ratio produces a steeper CAL.",
+      "Correct. A higher Sharpe ratio produces a steeper CAL.",
+      "Incorrect. the 0.45 portfolio does not satisfy the stated calculation or interpretation. A higher Sharpe ratio produces a steeper CAL."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm8",
+      "checkpoint-3-verified"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-37",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate expected return, variance, standard deviation, covariance, and correlation of portfolio returns",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Core calculation: A risky portfolio returns 10% with 14% risk and the risk-free rate is 3%. CAL slope is:",
+    "choices": [
+      "0.50",
+      "0.71",
+      "0.20"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The slope is the Sharpe ratio: (10%-3%)/14%=0.50.",
+    "incorrectChoiceExplanations": [
+      "Correct. The slope is the Sharpe ratio: (10%-3%)/14%=0.50.",
+      "Incorrect. 0.71 does not follow the required CAL slope relationship; The slope is the Sharpe ratio: (10%-3%)/14%=0.50.",
+      "Incorrect. 0.20 does not follow the required CAL slope relationship; The slope is the Sharpe ratio: (10%-3%)/14%=0.50."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "portfolio",
+      "CAL slope"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-38",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret portfolio return and risk, minimum-variance portfolios, efficient frontiers, and optimal capital allocation",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "The capital market line is the CAL that uses:",
+    "choices": [
+      "the market portfolio as its risky portfolio",
+      "the global minimum-variance portfolio in every case",
+      "one individual security"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The CML is the market-portfolio special case.",
+    "incorrectChoiceExplanations": [
+      "Correct. The CML is the market-portfolio special case.",
+      "Incorrect. the global minimum-variance portfolio in every case does not satisfy the stated calculation or interpretation. The CML is the market-portfolio special case.",
+      "Incorrect. one individual security does not satisfy the stated calculation or interpretation. The CML is the market-portfolio special case."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm8",
+      "checkpoint-3-verified"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-39",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret portfolio return and risk, minimum-variance portfolios, efficient frontiers, and optimal capital allocation",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "Mock-style challenge: For U=E(R)−0.5Aσ², E(R)=9%, σ=15%, and A=4, utility is:",
+    "choices": [
+      "6.0%",
+      "0.0%",
+      "4.5%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": ".09−.5(4)(.15²)=.045.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 6.0% does not satisfy the stated calculation or interpretation. .09−.5(4)(.15²)=.045.",
+      "Incorrect. 0.0% does not satisfy the stated calculation or interpretation. .09−.5(4)(.15²)=.045.",
+      "Correct. .09−.5(4)(.15²)=.045."
+    ],
+    "relatedFormulaIds": [
+      "portfolio-utility-08"
+    ],
+    "tags": [
+      "qm-lm8",
+      "checkpoint-3-verified",
+      "mock-style"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-40",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate expected return, variance, standard deviation, covariance, and correlation of portfolio returns",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Mock-style challenge: Core calculation: With U=E(R)-0.5Aσ², E(R)=8%, σ=10%, and A=4, utility is:",
+    "choices": [
+      "6.0%",
+      "4.0%",
+      "7.8%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "0.08-0.5(4)(0.10²)=0.06.",
+    "incorrectChoiceExplanations": [
+      "Correct. 0.08-0.5(4)(0.10²)=0.06.",
+      "Incorrect. 4.0% does not follow the required utility relationship; 0.08-0.5(4)(0.10²)=0.06.",
+      "Incorrect. 7.8% does not follow the required utility relationship; 0.08-0.5(4)(0.10²)=0.06."
+    ],
+    "relatedFormulaIds": [
+      "portfolio-utility-08"
+    ],
+    "tags": [
+      "portfolio",
+      "utility",
+      "mock-style"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-41",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret portfolio return and risk, minimum-variance portfolios, efficient frontiers, and optimal capital allocation",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Mock-style challenge: Risky excess return is 6%, variance is .0225, and A=4. Optimal risky weight is:",
+    "choices": [
+      "150.00%",
+      "66.67%",
+      "26.67%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "y*=.06/[4(.0225)]=.6667.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 150.00% does not satisfy the stated calculation or interpretation. y*=.06/[4(.0225)]=.6667.",
+      "Correct. y*=.06/[4(.0225)]=.6667.",
+      "Incorrect. 26.67% does not satisfy the stated calculation or interpretation. y*=.06/[4(.0225)]=.6667."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm8",
+      "checkpoint-3-verified",
+      "mock-style"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-42",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret portfolio return and risk, minimum-variance portfolios, efficient frontiers, and optimal capital allocation",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Mock-style challenge: Holding the investment opportunity set fixed, doubling risk aversion causes optimal risky weight to:",
+    "choices": [
+      "halve",
+      "double",
+      "remain unchanged"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The optimal risky fraction is inversely proportional to A.",
+    "incorrectChoiceExplanations": [
+      "Correct. The optimal risky fraction is inversely proportional to A.",
+      "Incorrect. double does not satisfy the stated calculation or interpretation. The optimal risky fraction is inversely proportional to A.",
+      "Incorrect. remain unchanged does not satisfy the stated calculation or interpretation. The optimal risky fraction is inversely proportional to A."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm8",
+      "checkpoint-3-verified",
+      "mock-style"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-43",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate expected return, variance, standard deviation, covariance, and correlation of portfolio returns",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Mock-style challenge: Core calculation: A risky portfolio has 6% excess return, 15% risk, and A=3. Optimal risky weight is closest to:",
+    "choices": [
+      "88.89%",
+      "26.67%",
+      "133.33%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "y*=0.06/[3(0.15²)]=0.8889.",
+    "incorrectChoiceExplanations": [
+      "Correct. y*=0.06/[3(0.15²)]=0.8889.",
+      "Incorrect. 26.67% does not follow the required optimal allocation relationship; y*=0.06/[3(0.15²)]=0.8889.",
+      "Incorrect. 133.33% does not follow the required optimal allocation relationship; y*=0.06/[3(0.15²)]=0.8889."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "portfolio",
+      "optimal allocation",
+      "mock-style"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-44",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret portfolio return and risk, minimum-variance portfolios, efficient frontiers, and optimal capital allocation",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Mock-style challenge: An investor’s risk aversion changes the standard tangency portfolio itself:",
+    "choices": [
+      "yes; it changes every asset covariance",
+      "yes; it changes the risk-free rate",
+      "no; it changes the complete-portfolio allocation"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Separation first identifies the tangency portfolio, then preferences determine y.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. yes; it changes every asset covariance does not satisfy the stated calculation or interpretation. Separation first identifies the tangency portfolio, then preferences determine y.",
+      "Incorrect. yes; it changes the risk-free rate does not satisfy the stated calculation or interpretation. Separation first identifies the tangency portfolio, then preferences determine y.",
+      "Correct. Separation first identifies the tangency portfolio, then preferences determine y."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm8",
+      "checkpoint-3-verified",
+      "mock-style"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "qport08-45",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret portfolio return and risk, minimum-variance portfolios, efficient frontiers, and optimal capital allocation",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Mock-style challenge: A negative portfolio weight most directly indicates:",
+    "choices": [
+      "a negative expected return",
+      "a short position",
+      "a calculation error in every case"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Negative weights are permitted when short selling is allowed.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. a negative expected return does not satisfy the stated calculation or interpretation. Negative weights are permitted when short selling is allowed.",
+      "Correct. Negative weights are permitted when short selling is allowed.",
+      "Incorrect. a calculation error in every case does not satisfy the stated calculation or interpretation. Negative weights are permitted when short selling is allowed."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm8",
+      "checkpoint-3-verified",
+      "mock-style"
+    ],
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q-v165-qm-lm8-46",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret portfolio return and risk, minimum-variance portfolios, efficient frontiers, and optimal capital allocation",
+    "lessonSectionId": "introduction",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "Mock-style challenge: A portfolio weight above one combined with a negative risk-free weight indicates:",
+    "choices": [
+      "leveraged exposure",
+      "an infeasible covariance",
+      "zero variance"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Borrowing finances risky exposure above 100%.",
+    "incorrectChoiceExplanations": [
+      "Correct. Borrowing finances risky exposure above 100%.",
+      "Incorrect. an infeasible covariance does not satisfy the stated calculation or interpretation. Borrowing finances risky exposure above 100%.",
+      "Incorrect. zero variance does not satisfy the stated calculation or interpretation. Borrowing finances risky exposure above 100%."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm8",
+      "checkpoint-3-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-v165-qm-lm8-47",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret portfolio return and risk, minimum-variance portfolios, efficient frontiers, and optimal capital allocation",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Mock-style challenge: Historical correlations are least reliable when:",
+    "choices": [
+      "the sample includes more observations",
+      "returns are stated in decimals",
+      "market relationships change sharply under stress"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Regime shifts can make backward-looking dependence estimates unstable.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. the sample includes more observations does not satisfy the stated calculation or interpretation. Regime shifts can make backward-looking dependence estimates unstable.",
+      "Incorrect. returns are stated in decimals does not satisfy the stated calculation or interpretation. Regime shifts can make backward-looking dependence estimates unstable.",
+      "Correct. Regime shifts can make backward-looking dependence estimates unstable."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm8",
+      "checkpoint-3-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-v165-qm-lm8-48",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret portfolio return and risk, minimum-variance portfolios, efficient frontiers, and optimal capital allocation",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Mock-style challenge: Diversification can substantially reduce:",
+    "choices": [
+      "the expected return mechanically",
+      "asset-specific risk",
+      "all systematic risk"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Common shocks remain even in broad portfolios.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. the expected return mechanically does not satisfy the stated calculation or interpretation. Common shocks remain even in broad portfolios.",
+      "Correct. Common shocks remain even in broad portfolios.",
+      "Incorrect. all systematic risk does not satisfy the stated calculation or interpretation. Common shocks remain even in broad portfolios."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm8",
+      "checkpoint-3-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-v165-qm-lm8-49",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret portfolio return and risk, minimum-variance portfolios, efficient frontiers, and optimal capital allocation",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Mock-style challenge: An asset with high standalone volatility can still improve a portfolio if it has:",
+    "choices": [
+      "sufficiently low covariance with existing holdings",
+      "the highest standalone return only",
+      "correlation above +1"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Portfolio contribution depends on co-movement as well as standalone risk.",
+    "incorrectChoiceExplanations": [
+      "Correct. Portfolio contribution depends on co-movement as well as standalone risk.",
+      "Incorrect. the highest standalone return only does not satisfy the stated calculation or interpretation. Portfolio contribution depends on co-movement as well as standalone risk.",
+      "Incorrect. correlation above +1 does not satisfy the stated calculation or interpretation. Portfolio contribution depends on co-movement as well as standalone risk."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm8",
+      "checkpoint-3-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-v165-qm-lm8-50",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret portfolio return and risk, minimum-variance portfolios, efficient frontiers, and optimal capital allocation",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Mock-style challenge: Expected portfolio return requires which inputs?",
+    "choices": [
+      "correlations only",
+      "variances and covariances only",
+      "weights and expected asset returns"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Return is linear in weights and expected returns; dependence enters risk.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. correlations only does not satisfy the stated calculation or interpretation. Return is linear in weights and expected returns; dependence enters risk.",
+      "Incorrect. variances and covariances only does not satisfy the stated calculation or interpretation. Return is linear in weights and expected returns; dependence enters risk.",
+      "Correct. Return is linear in weights and expected returns; dependence enters risk."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm8",
+      "checkpoint-3-verified",
+      "mock-style"
+    ]
+  }
+]

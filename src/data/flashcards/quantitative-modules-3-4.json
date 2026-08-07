@@ -1,0 +1,1345 @@
+[
+  {
+    "id": "fc04-01",
+    "lessonId": "quant-tvm-04",
+    "front": "Why does money have time value?",
+    "back": "Opportunity cost, inflation, and uncertainty make dates economically different.",
+    "tags": [
+      "concept"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows"
+  },
+  {
+    "id": "fc04-02",
+    "lessonId": "quant-tvm-04",
+    "front": "Cash-flow timeline origin?",
+    "back": "Today is t=0; later dates are t=1 through t=N.",
+    "tags": [
+      "timeline"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows"
+  },
+  {
+    "id": "fc04-03",
+    "lessonId": "quant-tvm-04",
+    "front": "Simple-interest FV formula?",
+    "back": "FV = PV(1 + rN).",
+    "tags": [
+      "simple"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows"
+  },
+  {
+    "id": "fc04-04",
+    "lessonId": "quant-tvm-04",
+    "front": "Compound single-flow FV formula?",
+    "back": "FV = PV(1+r)^N.",
+    "tags": [
+      "fv"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows"
+  },
+  {
+    "id": "fc04-05",
+    "lessonId": "quant-tvm-04",
+    "front": "Single-flow PV formula?",
+    "back": "PV = FV/(1+r)^N.",
+    "tags": [
+      "pv"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows"
+  },
+  {
+    "id": "fc04-06",
+    "lessonId": "quant-tvm-04",
+    "front": "Compounding versus discounting?",
+    "back": "Compounding moves forward; discounting moves backward.",
+    "tags": [
+      "concept"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows"
+  },
+  {
+    "id": "fc04-07",
+    "lessonId": "quant-tvm-04",
+    "front": "Discount factor?",
+    "back": "1/(1+r)^N: today's value of one unit received at N.",
+    "tags": [
+      "pv"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows"
+  },
+  {
+    "id": "fc04-08",
+    "lessonId": "quant-tvm-04",
+    "front": "Effect of higher discount rate on PV?",
+    "back": "PV falls, holding cash flow and timing constant.",
+    "tags": [
+      "pv"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows"
+  },
+  {
+    "id": "fc04-09",
+    "lessonId": "quant-tvm-04",
+    "front": "Stated annual rate?",
+    "back": "Nominal annual quote paired with a compounding frequency.",
+    "tags": [
+      "rates"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows"
+  },
+  {
+    "id": "fc04-10",
+    "lessonId": "quant-tvm-04",
+    "front": "EAR formula?",
+    "back": "(1 + stated rate/m)^m âˆ’ 1.",
+    "tags": [
+      "rates"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows"
+  },
+  {
+    "id": "fc04-11",
+    "lessonId": "quant-tvm-04",
+    "front": "Why can EAR exceed stated rate?",
+    "back": "Positive within-year compounding earns interest on interest.",
+    "tags": [
+      "rates"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows"
+  },
+  {
+    "id": "fc04-12",
+    "lessonId": "quant-tvm-04",
+    "front": "Continuous-compounding FV?",
+    "back": "FV = PV e^(rN).",
+    "tags": [
+      "continuous"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows"
+  },
+  {
+    "id": "fc04-13",
+    "lessonId": "quant-tvm-04",
+    "front": "Continuous-compounding PV?",
+    "back": "PV = FV e^(âˆ’rN).",
+    "tags": [
+      "continuous"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows"
+  },
+  {
+    "id": "fc04-14",
+    "lessonId": "quant-tvm-04",
+    "front": "PV of uneven cash flows?",
+    "back": "Discount each cash flow to a common date and sum.",
+    "tags": [
+      "multiple"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows"
+  },
+  {
+    "id": "fc04-15",
+    "lessonId": "quant-tvm-04",
+    "front": "Ordinary annuity timing?",
+    "back": "Equal payments at each period-end.",
+    "tags": [
+      "annuity"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows"
+  },
+  {
+    "id": "fc04-16",
+    "lessonId": "quant-tvm-04",
+    "front": "Annuity due timing?",
+    "back": "Equal payments at each period-beginning.",
+    "tags": [
+      "annuity-due"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows"
+  },
+  {
+    "id": "fc04-17",
+    "lessonId": "quant-tvm-04",
+    "front": "PV ordinary annuity formula?",
+    "back": "PMT[1âˆ’(1+r)^âˆ’N]/r.",
+    "tags": [
+      "annuity"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows"
+  },
+  {
+    "id": "fc04-18",
+    "lessonId": "quant-tvm-04",
+    "front": "FV ordinary annuity formula?",
+    "back": "PMT[(1+r)^Nâˆ’1]/r.",
+    "tags": [
+      "annuity"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows"
+  },
+  {
+    "id": "fc04-19",
+    "lessonId": "quant-tvm-04",
+    "front": "Convert ordinary annuity to annuity due?",
+    "back": "Multiply its PV or FV by (1+r).",
+    "tags": [
+      "annuity-due"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows"
+  },
+  {
+    "id": "fc04-20",
+    "lessonId": "quant-tvm-04",
+    "front": "Level perpetuity PV?",
+    "back": "PMT/r, with first payment next period.",
+    "tags": [
+      "perpetuity"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows"
+  },
+  {
+    "id": "fc04-21",
+    "lessonId": "quant-tvm-04",
+    "front": "Growing perpetuity PV?",
+    "back": "CF1/(râˆ’g), requiring r greater than g.",
+    "tags": [
+      "perpetuity"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows"
+  },
+  {
+    "id": "fc04-22",
+    "lessonId": "quant-tvm-04",
+    "front": "Growing annuity versus growing perpetuity?",
+    "back": "A growing annuity ends after N payments; a perpetuity continues forever.",
+    "tags": [
+      "growing-annuity"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows"
+  },
+  {
+    "id": "fc04-29",
+    "lessonId": "quant-tvm-04",
+    "front": "Plain fixed-rate bond value?",
+    "back": "PV of coupon annuity plus PV of principal.",
+    "tags": [
+      "bond"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows"
+  },
+  {
+    "id": "fc04-30",
+    "lessonId": "quant-tvm-04",
+    "front": "Required return rises: bond PV effect?",
+    "back": "Bond present value falls.",
+    "tags": [
+      "bond"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows"
+  },
+  {
+    "id": "fc04-31",
+    "lessonId": "quant-tvm-04",
+    "front": "Positive-value investment condition?",
+    "back": "PV of expected benefits exceeds the investment price.",
+    "tags": [
+      "investment"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows"
+  },
+  {
+    "id": "fc04-33",
+    "lessonId": "quant-tvm-04",
+    "front": "Inflate a real future target formula?",
+    "back": "Nominal target = real target Ã— (1+inflation)^N.",
+    "tags": [
+      "inflation"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows"
+  },
+  {
+    "id": "fc04-34",
+    "lessonId": "quant-tvm-04",
+    "front": "Opportunity cost in TVM?",
+    "back": "Return forgone on a comparable alternative with similar risk.",
+    "tags": [
+      "opportunity-cost"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows"
+  },
+  {
+    "id": "fc04-35",
+    "lessonId": "quant-tvm-04",
+    "front": "BA II Plus N key?",
+    "back": "Number of periods, matched to the frequency of I/Y.",
+    "tags": [
+      "calculator"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows"
+  },
+  {
+    "id": "fc04-36",
+    "lessonId": "quant-tvm-04",
+    "front": "BA II Plus I/Y key?",
+    "back": "Interest rate per calculator period under the chosen P/Y convention.",
+    "tags": [
+      "calculator"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows"
+  },
+  {
+    "id": "fc04-37",
+    "lessonId": "quant-tvm-04",
+    "front": "BA II Plus PMT key?",
+    "back": "Equal recurring payment; enter zero for a single-cash-flow problem.",
+    "tags": [
+      "calculator"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows"
+  },
+  {
+    "id": "fc04-38",
+    "lessonId": "quant-tvm-04",
+    "front": "BA II Plus CPT key?",
+    "back": "Computes the selected missing TVM variable.",
+    "tags": [
+      "calculator"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows"
+  },
+  {
+    "id": "fc04-39",
+    "lessonId": "quant-tvm-04",
+    "front": "Why use CLR TVM?",
+    "back": "Remove stored values before starting a new TVM problem.",
+    "tags": [
+      "calculator"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows"
+  },
+  {
+    "id": "fc04-40",
+    "lessonId": "quant-tvm-04",
+    "front": "TVM calendar-language rule?",
+    "back": "The rate period and N period must match.",
+    "tags": [
+      "memory"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows"
+  },
+  {
+    "id": "fc-lm4x-01",
+    "lessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "supplementary": false,
+    "front": "A two-year zero-coupon bond pays 1,000 at maturity. At a 6% annual required return, its present value is closest to:",
+    "back": "Discount every promised coupon and principal payment at the required periodic return, then add the present values.",
+    "tags": [
+      "qm-lm4",
+      "fixed-income-present-value",
+      "instrument-valuation",
+      "replacement",
+      "checkpoint-2-verified"
+    ]
+  },
+  {
+    "id": "fc-lm4x-02",
+    "lessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "supplementary": false,
+    "front": "A stock is expected to pay dividends of 2.00 and 2.20 in Years 1 and 2 and sell for 42 at Year 2. At 10%, value is closest to:",
+    "back": "Equity value is the present value of expected shareholder cash flows; match each dividend and terminal value to its date.",
+    "tags": [
+      "qm-lm4",
+      "equity-present-value",
+      "instrument-valuation",
+      "replacement",
+      "checkpoint-2-verified"
+    ]
+  },
+  {
+    "id": "fc-lm4x-03",
+    "lessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "supplementary": false,
+    "front": "Two riskless strategies have identical cash flows at every date but different prices. The most defensible conclusion is:",
+    "back": "Cash-flow additivity says the value of a combined cash-flow stream equals the sum of component values; identical dated cash flows must have identical prices.",
+    "tags": [
+      "qm-lm4",
+      "cash-flow-additivity",
+      "instrument-valuation",
+      "replacement",
+      "checkpoint-2-verified"
+    ]
+  },
+  {
+    "id": "fc-lm4x-04",
+    "lessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "supplementary": false,
+    "front": "A five-year zero-coupon bond costs 78 and pays 100 at maturity. Its annual implied return is closest to:",
+    "back": "An implied bond return is the discount rate that equates observed price with promised cash flows; for a zero-coupon bond it is (FV/PV)^(1/N)−1.",
+    "tags": [
+      "qm-lm4",
+      "implied-bond-return",
+      "instrument-valuation",
+      "replacement",
+      "checkpoint-2-verified"
+    ]
+  },
+  {
+    "id": "fc-lm4x-05",
+    "lessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "supplementary": false,
+    "front": "A stock costs 50, its next dividend is 2, and dividends are expected to grow 3% indefinitely. Required return is:",
+    "back": "For constant dividend growth, required equity return is D1/P0+g. D1 is next period’s dividend.",
+    "tags": [
+      "qm-lm4",
+      "required-equity-return",
+      "instrument-valuation",
+      "replacement",
+      "checkpoint-2-verified"
+    ]
+  },
+  {
+    "id": "fc-lm4x-06",
+    "lessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "supplementary": false,
+    "front": "A stock costs 40, its next dividend is 1.60, and required return is 9%. Implied perpetual dividend growth is:",
+    "back": "For constant dividend growth, implied growth is r−D1/P0 and requires r>g.",
+    "tags": [
+      "qm-lm4",
+      "implied-equity-growth",
+      "instrument-valuation",
+      "replacement",
+      "checkpoint-2-verified"
+    ]
+  },
+  {
+    "id": "fc-lm4x-07",
+    "lessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "supplementary": false,
+    "front": "The one-year spot rate is 3% and the two-year spot rate is 4%. The one-year forward rate one year from now is closest to:",
+    "back": "A forward interest rate makes investing long term equivalent to rolling shorter risk-free investments over the same horizon.",
+    "tags": [
+      "qm-lm4",
+      "forward-interest-rate",
+      "instrument-valuation",
+      "replacement",
+      "checkpoint-2-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3r-01",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "supplementary": false,
+    "front": "Money-weighted return cash-flow sensitivity?",
+    "back": "MWR is the IRR of investor cash flows, so periods with more capital invested have more influence on the result.",
+    "tags": [
+      "qm-lm3",
+      "money-weighted-return-cash-flow-sensitivity",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3r-02",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "supplementary": false,
+    "front": "Time-weighted subperiod linking?",
+    "back": "Split at external cash flows, calculate each subperiod return, multiply the wealth relatives, and subtract one. Annualize separately if required.",
+    "tags": [
+      "qm-lm3",
+      "time-weighted-subperiod-linking",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3r-03",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "supplementary": false,
+    "front": "External cash-flow timing?",
+    "back": "External contributions and withdrawals affect MWR because they change invested capital; properly calculated TWR neutralizes their timing.",
+    "tags": [
+      "qm-lm3",
+      "external-cash-flow-timing",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3r-04",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "supplementary": false,
+    "front": "Price-weighted index divisor?",
+    "back": "A price-weighted index sums constituent prices and divides by a continuity-adjusted divisor. Splits require divisor adjustment to avoid an artificial jump.",
+    "tags": [
+      "qm-lm3",
+      "price-weighted-index-divisor",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3r-05",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "supplementary": false,
+    "front": "Equal-weighted index return?",
+    "back": "An equal-weighted index return is the arithmetic average of constituent returns at the rebalance point; weights drift afterward.",
+    "tags": [
+      "qm-lm3",
+      "equal-weighted-index-return",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3r-06",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "supplementary": false,
+    "front": "Market-capitalization weighting?",
+    "back": "Market-cap weights are proportional to price times shares outstanding, so the largest companies have the greatest effect.",
+    "tags": [
+      "qm-lm3",
+      "market-capitalization-weighting",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3r-07",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "supplementary": false,
+    "front": "Float-adjusted market capitalization?",
+    "back": "Float-adjusted capitalization multiplies market value by the fraction available to public investors, excluding strategic or restricted holdings.",
+    "tags": [
+      "qm-lm3",
+      "float-adjusted-market-capitalization",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3r-08",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "supplementary": false,
+    "front": "What does a price-return index exclude?",
+    "back": "A price-return index reflects constituent price changes and excludes cash distributions.",
+    "tags": [
+      "qm-lm3",
+      "price-return-index",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3r-09",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "supplementary": false,
+    "front": "What reinvestment feature distinguishes a total-return index?",
+    "back": "A total-return index includes constituent distributions, ordinarily with a stated reinvestment assumption.",
+    "tags": [
+      "qm-lm3",
+      "total-return-index",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3r-10",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "supplementary": false,
+    "front": "Index rebalancing?",
+    "back": "Rebalancing restores target constituent weights without necessarily changing membership.",
+    "tags": [
+      "qm-lm3",
+      "index-rebalancing",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3r-11",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "supplementary": false,
+    "front": "Index reconstitution?",
+    "back": "Reconstitution applies eligibility rules to change index membership; it is distinct from merely restoring weights.",
+    "tags": [
+      "qm-lm3",
+      "index-reconstitution",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3r-12",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "supplementary": false,
+    "front": "Constituent addition?",
+    "back": "Adding a constituent requires weights and, where relevant, the divisor to be adjusted so the membership change alone does not create a return.",
+    "tags": [
+      "qm-lm3",
+      "constituent-addition",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3r-13",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "supplementary": false,
+    "front": "Benchmark comparability?",
+    "back": "A useful benchmark matches the portfolio’s mandate, investable universe, currency, risk exposure, and return convention and is specified in advance.",
+    "tags": [
+      "qm-lm3",
+      "benchmark-comparability",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3r-14",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "supplementary": false,
+    "front": "Index concentration?",
+    "back": "Concentration means a small number of constituents drive more of index risk and return; capitalization weighting can increase this exposure.",
+    "tags": [
+      "qm-lm3",
+      "index-concentration",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3r-15",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "supplementary": false,
+    "front": "MWR versus TWR selection?",
+    "back": "Use TWR to assess a manager who does not control external cash flows; use MWR to describe the investor experience or a strategy that controls cash-flow timing.",
+    "tags": [
+      "qm-lm3",
+      "MWR-versus-TWR-selection",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm4r-01",
+    "lessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "supplementary": false,
+    "front": "A three-year 5% annual coupon bond with face value 100 is discounted at 6%. Its value is closest to:",
+    "back": "Under covered interest parity, F=S(1+r_domestic)^T/(1+r_foreign)^T for a domestic-per-foreign quote.",
+    "tags": [
+      "qm-lm4",
+      "fixed-income-present-value",
+      "checkpoint-2-verified"
+    ]
+  },
+  {
+    "id": "fc-lm4r-02",
+    "lessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "supplementary": false,
+    "front": "A share pays a constant dividend of 3 beginning next year. At a 12% required return, value is:",
+    "back": "For a non-income-producing asset, prepaid forward value equals spot; the ordinary forward delivery price compounds spot to maturity.",
+    "tags": [
+      "qm-lm4",
+      "equity-present-value",
+      "checkpoint-2-verified"
+    ]
+  },
+  {
+    "id": "fc-lm4r-03",
+    "lessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "supplementary": false,
+    "front": "A four-year bond has price 95, annual coupon 4, and face value 100. Its implied yield is the rate that:",
+    "back": "Replicate an option with the underlying and risk-free borrowing/lending so terminal payoffs match in every state; discount the common payoff to value the position.",
+    "tags": [
+      "qm-lm4",
+      "cash-flow-additivity",
+      "checkpoint-2-verified"
+    ]
+  },
+  {
+    "id": "fc-lm4r-04",
+    "lessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "supplementary": false,
+    "front": "A stock costs 64, next dividend is 2.40, and constant growth is 3.5%. Its required return is closest to:",
+    "back": "Arithmetic mean is the sum of observations divided by n; it describes a typical observation, not compound growth.",
+    "tags": [
+      "qm-lm4",
+      "implied-bond-return",
+      "checkpoint-2-verified"
+    ]
+  },
+  {
+    "id": "fc-lm4r-05",
+    "lessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "supplementary": false,
+    "front": "A stock costs 80, next dividend is 3.20, and required return is 8.5%. Implied growth is:",
+    "back": "Weighted mean is Σw_ix_i with weights summing to one; verify both weights and units before interpreting.",
+    "tags": [
+      "qm-lm4",
+      "required-equity-return",
+      "checkpoint-2-verified"
+    ]
+  },
+  {
+    "id": "fc-lm4r-06",
+    "lessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "supplementary": false,
+    "front": "One-year and two-year spot rates are 2% and 3.5%. The one-year forward rate one year ahead is closest to:",
+    "back": "The median depends on rank, so an extreme observation affects it less than the mean.",
+    "tags": [
+      "qm-lm4",
+      "implied-equity-growth",
+      "checkpoint-2-verified"
+    ]
+  },
+  {
+    "id": "fc-lm4r-07",
+    "lessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "supplementary": false,
+    "front": "Spot is 1.20 domestic currency per foreign unit. One-year domestic and foreign rates are 5% and 2%. The no-arbitrage forward rate is closest to:",
+    "back": "Population variance divides squared deviations from μ by N and is expressed in squared units.",
+    "tags": [
+      "qm-lm4",
+      "forward-interest-rate",
+      "checkpoint-2-verified"
+    ]
+  },
+  {
+    "id": "fc-lm4r-08",
+    "lessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "supplementary": false,
+    "front": "A non-income-producing asset costs 90 today. With a 4% one-year risk-free rate, its prepaid forward value is:",
+    "back": "Sample variance divides squared deviations from the sample mean by n−1 because estimating the mean consumes one degree of freedom.",
+    "tags": [
+      "qm-lm4",
+      "forward-exchange-rate",
+      "checkpoint-2-verified"
+    ]
+  },
+  {
+    "id": "fc-lm4r-09",
+    "lessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "supplementary": false,
+    "front": "A stock will be 60 or 36 in one year. A call with strike 48 will pay 12 or 0. The replicating hedge ratio is:",
+    "back": "Standard deviation is the positive square root of variance and returns dispersion to the observations’ original units.",
+    "tags": [
+      "qm-lm4",
+      "prepaid-forward-value",
+      "checkpoint-2-verified"
+    ]
+  },
+  {
+    "id": "fc-lm4r-10",
+    "lessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "supplementary": false,
+    "front": "A stock costs 50, a put costs 4, a call costs 6, and the present value of strike is 48. Which trade reflects put–call parity?",
+    "back": "Sample covariance is the sum of paired deviation products divided by n−1; its sign shows direction of linear co-movement.",
+    "tags": [
+      "qm-lm4",
+      "option-replication-value",
+      "checkpoint-2-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3v-01",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "supplementary": false,
+    "front": "A portfolio is valued immediately before every external cash flow. Which process produces its time-weighted return?",
+    "back": "TWR removes external-flow size effects by splitting at flows and linking wealth relatives.",
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3v-02",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "supplementary": false,
+    "front": "A fund returns 8% before a contribution and 3% afterward. Its linked time-weighted return is closest to:",
+    "back": "(1.08)(1.03)−1=11.24%; addition and averaging both ignore the required linking.",
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3v-03",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "supplementary": false,
+    "front": "An account begins at 100, receives a 50 contribution after earning 10%, and ends at 168 after a second subperiod. The second subperiod return is:",
+    "back": "Value just after the flow is 110+50=160, so the second return is 168/160−1=5%.",
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3v-04",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "supplementary": false,
+    "front": "Cash flows are −200 today and +242 two years later. The annual money-weighted return is:",
+    "back": "Solve −200+242/(1+r)^2=0; (1+r)^2=1.21 and r=10%.",
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3v-05",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "supplementary": false,
+    "front": "A large withdrawal occurs immediately before the portfolio’s worst subperiod. Compared with TWR, MWR will most likely place:",
+    "back": "MWR reflects capital invested; after the withdrawal, less capital experiences the loss.",
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3v-06",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "supplementary": false,
+    "front": "Which return best reports the experience of an investor who controls contribution timing?",
+    "back": "MWR incorporates the size and timing of the investor’s actual cash flows.",
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3v-07",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "supplementary": false,
+    "front": "A manager controls when a closed-end strategy calls committed capital. Which measure may be especially relevant?",
+    "back": "When the manager controls external-flow timing, MWR can reflect that decision.",
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3v-08",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "supplementary": false,
+    "front": "Subperiod returns are −50%, +10%, and +10%. The cumulative TWR is:",
+    "back": "(0.50)(1.10)(1.10)−1=−39.50%. −15.42% is the annualized geometric rate, not cumulative return.",
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3v-09",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "supplementary": false,
+    "front": "The annualized TWR for three equal annual subperiods with cumulative wealth relative 0.605 is closest to:",
+    "back": "0.605^(1/3)−1=−15.42%.",
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3v-10",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "supplementary": false,
+    "front": "For an IRR calculation from the investor perspective, a contribution and final liquidation value normally have signs that are:",
+    "back": "Contributions are investor outflows; distributions and terminal value are inflows.",
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3v-11",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "supplementary": false,
+    "front": "A price-weighted index has prices 15, 25, and 50 and divisor 3. Its level is:",
+    "back": "(15+25+50)/3=30.",
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3v-12",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "supplementary": false,
+    "front": "Immediately after a 2-for-1 split, constituent prices sum to 72 while the pre-split index level was 30. The continuity divisor is:",
+    "back": "Choose d so 72/d=30; d=2.40.",
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3v-13",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "supplementary": false,
+    "front": "A price-weighted index is most sensitive to the return of the constituent with the:",
+    "back": "Price weighting assigns influence in proportion to price per share, not company size.",
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3v-14",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "supplementary": false,
+    "front": "Constituent returns are 14%, −5%, 3%, and 8%. The equal-weighted index return is:",
+    "back": "(14−5+3+8)/4=5%.",
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3v-15",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "supplementary": false,
+    "front": "After one constituent outperforms in an equal-weighted index, its weight before rebalancing will generally:",
+    "back": "Relative outperformance increases its market value and causes weight drift.",
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3v-16",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "supplementary": false,
+    "front": "Restoring every constituent to the target weight is index:",
+    "back": "Rebalancing restores weights; reconstitution changes membership.",
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3v-17",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "supplementary": false,
+    "front": "Applying eligibility rules and replacing securities is index:",
+    "back": "Reconstitution changes the constituent set under index rules.",
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3v-18",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "supplementary": false,
+    "front": "Beginning market values are 100, 300, and 600. Their capitalization weights are:",
+    "back": "Divide each value by total capitalization of 1,000.",
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3v-19",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "supplementary": false,
+    "front": "Capitalization weights are 10%, 30%, and 60%; returns are 20%, 5%, and −4%. Index return is:",
+    "back": "0.10(20)+0.30(5)+0.60(−4)=1.10%.",
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3v-20",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "supplementary": false,
+    "front": "A company has 20 million shares at 30 and a 75% float factor. Float-adjusted capitalization is:",
+    "back": "30×20 million×0.75=450 million.",
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3v-21",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "supplementary": false,
+    "front": "A strategic founder holding excluded by a float adjustment most directly causes the company’s index weight to:",
+    "back": "Excluding non-investable shares lowers the reference capitalization.",
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3v-22",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "supplementary": false,
+    "front": "Compared with equal weighting, capitalization weighting generally requires:",
+    "back": "Price changes naturally update capitalization weights, reducing forced rebalancing.",
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3v-23",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "supplementary": false,
+    "front": "A capitalization-weighted index has one constituent at 45% weight. The clearest implication is:",
+    "back": "A large weight concentrates the index’s return exposure.",
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3v-24",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "supplementary": false,
+    "front": "An index rises from 800 to 824 with no distributions. Its price return is:",
+    "back": "824/800−1=3%.",
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3v-25",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "supplementary": false,
+    "front": "An index begins at 1,000, ends at 1,025, and includes 15 points of distributions. Total return is:",
+    "back": "(1,025−1,000+15)/1,000=4%.",
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3v-26",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "supplementary": false,
+    "front": "A total-return index exceeds an otherwise identical price-return index because the total-return version:",
+    "back": "The distinguishing component is constituent distributions.",
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3v-27",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "supplementary": false,
+    "front": "An index provider replaces a constituent but wants zero mechanical return at the effective instant. It should adjust:",
+    "back": "Index maintenance factors preserve continuity through non-economic changes.",
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3v-28",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "supplementary": false,
+    "front": "Which weighting method gives the same beginning weight to a small and a large company?",
+    "back": "Equal weighting assigns identical target weights regardless of size.",
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3v-29",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "supplementary": false,
+    "front": "Which weighting method can give a highly priced share more influence even when its company is small?",
+    "back": "Price weighting responds to price per share rather than economic size.",
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm3v-30",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "supplementary": false,
+    "front": "For valid comparison, a portfolio and its index should use the same period and:",
+    "back": "Matching horizon and return convention prevents an apples-to-oranges comparison.",
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified"
+    ]
+  }
+]

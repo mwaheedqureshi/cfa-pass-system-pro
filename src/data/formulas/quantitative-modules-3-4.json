@@ -1,0 +1,553 @@
+[
+  {
+    "id": "tracking-difference-03",
+    "name": "Tracking difference",
+    "expression": "TD = Rportfolio − Rbenchmark",
+    "meaning": "One-period return lead or lag relative to a benchmark.",
+    "variables": {
+      "Rportfolio": "portfolio return",
+      "Rbenchmark": "benchmark return"
+    },
+    "workedExample": "7.6% − 8.0% = −0.4%, or −40 basis points.",
+    "commonMistake": "Reversing the subtraction order or calling the result tracking error.",
+    "relatedLessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false
+  },
+  {
+    "id": "custom-benchmark-return-03",
+    "name": "Custom benchmark return",
+    "expression": "RB = Σ wiRi",
+    "meaning": "Weighted return of benchmark components.",
+    "variables": {
+      "wi": "specified benchmark weight",
+      "Ri": "component index return"
+    },
+    "workedExample": "50%×8% + 30%×5% + 20%×2% = 5.9%.",
+    "commonMistake": "Using weights that do not sum to 100%.",
+    "relatedLessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false
+  },
+  {
+    "id": "relative-return-03",
+    "name": "Relative return",
+    "expression": "Rrelative = Rportfolio − Rbenchmark",
+    "meaning": "Portfolio performance measured against a specified comparator.",
+    "variables": {
+      "Rportfolio": "portfolio return",
+      "Rbenchmark": "comparator return"
+    },
+    "workedExample": "A 7% portfolio versus 9% benchmark has −2% relative return.",
+    "commonMistake": "Comparing different periods, currencies, or return conventions.",
+    "relatedLessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false
+  },
+  {
+    "id": "simple-interest-04",
+    "name": "Future value with simple interest",
+    "expression": "FV = PV(1 + rN)",
+    "meaning": "Principal earns interest but prior interest does not.",
+    "variables": {
+      "PV": "present principal",
+      "r": "rate per period",
+      "N": "period count"
+    },
+    "workedExample": "2,000 at 5% for 3 years becomes 2,300.",
+    "commonMistake": "Compounding when simple interest is specified.",
+    "relatedLessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false
+  },
+  {
+    "id": "compound-fv-04",
+    "name": "Future value of a single cash flow",
+    "expression": "FV = PV(1 + r)^N",
+    "meaning": "Moves one present cash flow forward through compound growth.",
+    "variables": {
+      "PV": "present value",
+      "r": "rate per period",
+      "N": "period count"
+    },
+    "workedExample": "5,000 at 6% for 4 years becomes 6,312.38.",
+    "commonMistake": "Mismatching the frequency of r and N.",
+    "relatedLessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false
+  },
+  {
+    "id": "single-pv-04",
+    "name": "Present value of a single cash flow",
+    "expression": "PV = FV / (1 + r)^N",
+    "meaning": "Discounts one future cash flow to today.",
+    "variables": {
+      "FV": "future value",
+      "r": "discount rate per period",
+      "N": "period count"
+    },
+    "workedExample": "10,000 in 6 years at 7% is worth 6,663.42 today.",
+    "commonMistake": "Multiplying instead of dividing when moving backward.",
+    "relatedLessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false
+  },
+  {
+    "id": "discount-factor-04",
+    "name": "Discount factor",
+    "expression": "DFN = 1 / (1 + r)^N",
+    "meaning": "Present value today of one unit received at period N.",
+    "variables": {
+      "r": "discount rate per period",
+      "N": "period count"
+    },
+    "workedExample": "At 7% for 6 years, the factor is 0.666342.",
+    "commonMistake": "Using a positive exponent in the numerator.",
+    "relatedLessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false
+  },
+  {
+    "id": "ear-04",
+    "name": "Effective annual rate",
+    "expression": "EAR = (1 + stated rate/m)^m − 1",
+    "meaning": "Actual one-year compound growth from a stated rate.",
+    "variables": {
+      "m": "compounding periods per year",
+      "stated rate": "quoted nominal annual rate"
+    },
+    "workedExample": "12% monthly gives (1.01)^12 − 1 = 12.6825%.",
+    "commonMistake": "Using the annual stated rate as the periodic rate.",
+    "relatedLessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false
+  },
+  {
+    "id": "stated-rate-04",
+    "name": "Stated annual rate from EAR",
+    "expression": "Stated rate = m[(1 + EAR)^(1/m) − 1]",
+    "meaning": "Nominal annual quote consistent with an EAR and compounding frequency.",
+    "variables": {
+      "EAR": "effective annual rate",
+      "m": "periods per year"
+    },
+    "workedExample": "10.25% EAR with semiannual compounding corresponds to 10% stated.",
+    "commonMistake": "Multiplying EAR directly by m.",
+    "relatedLessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false
+  },
+  {
+    "id": "continuous-fv-04",
+    "name": "Continuous-compounding future value",
+    "expression": "FV = PV e^(rN)",
+    "meaning": "Future value when compounding is continuous.",
+    "variables": {
+      "e": "natural exponential constant",
+      "r": "continuously compounded annual rate",
+      "N": "years"
+    },
+    "workedExample": "3,000 at 8% for 2 years becomes 3,520.53.",
+    "commonMistake": "Using the discrete compound formula.",
+    "relatedLessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false
+  },
+  {
+    "id": "continuous-pv-04",
+    "name": "Continuous-compounding present value",
+    "expression": "PV = FV e^(−rN)",
+    "meaning": "Discounts a future cash flow continuously.",
+    "variables": {
+      "FV": "future cash flow",
+      "r": "continuous rate",
+      "N": "years"
+    },
+    "workedExample": "1,000 due in 2 years at 5% has PV 904.84.",
+    "commonMistake": "Forgetting the negative exponent.",
+    "relatedLessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false
+  },
+  {
+    "id": "multiple-cf-pv-04",
+    "name": "PV of multiple cash flows",
+    "expression": "PV = Σ CFt/(1+r)^t",
+    "meaning": "Sums individually discounted cash flows at a common date.",
+    "variables": {
+      "CFt": "cash flow at time t",
+      "r": "discount rate per period",
+      "t": "cash-flow date"
+    },
+    "workedExample": "100, 200, 400 in years 1–3 at 5% total 622.19 today.",
+    "commonMistake": "Adding cash flows before accounting for their different dates.",
+    "relatedLessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false
+  },
+  {
+    "id": "ordinary-annuity-pv-04",
+    "name": "PV of ordinary annuity",
+    "expression": "PV = PMT[1 − (1+r)^(−N)]/r",
+    "meaning": "Value today of equal end-of-period payments.",
+    "variables": {
+      "PMT": "equal payment",
+      "r": "periodic rate",
+      "N": "payment count"
+    },
+    "workedExample": "Five year-end payments of 1,000 at 6% are worth 4,212.36.",
+    "commonMistake": "Using BGN timing for end-of-period payments.",
+    "relatedLessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false
+  },
+  {
+    "id": "ordinary-annuity-fv-04",
+    "name": "FV of ordinary annuity",
+    "expression": "FV = PMT[(1+r)^N − 1]/r",
+    "meaning": "Accumulated value of equal end-of-period payments.",
+    "variables": {
+      "PMT": "equal payment",
+      "r": "periodic rate",
+      "N": "payment count"
+    },
+    "workedExample": "Four year-end deposits of 2,000 at 5% grow to 8,620.25.",
+    "commonMistake": "Giving the final payment an extra period of growth.",
+    "relatedLessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false
+  },
+  {
+    "id": "annuity-due-04",
+    "name": "Annuity due value",
+    "expression": "Value due = Value ordinary × (1+r)",
+    "meaning": "Adjusts an ordinary annuity because every payment occurs one period earlier.",
+    "variables": {
+      "Value ordinary": "PV or FV for end payments",
+      "r": "periodic rate"
+    },
+    "workedExample": "8,620.25 ordinary FV at 5% becomes 9,051.26 due FV.",
+    "commonMistake": "Using BGN mode and multiplying again.",
+    "relatedLessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false
+  },
+  {
+    "id": "perpetuity-04",
+    "name": "PV of level perpetuity",
+    "expression": "PV = PMT/r",
+    "meaning": "Value of equal payments continuing forever, first paid next period.",
+    "variables": {
+      "PMT": "level periodic payment",
+      "r": "required return per period"
+    },
+    "workedExample": "50 annually at 5% is worth 1,000.",
+    "commonMistake": "Treating a payment today as part of the formula.",
+    "relatedLessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false
+  },
+  {
+    "id": "growing-perpetuity-04",
+    "name": "PV of growing perpetuity",
+    "expression": "PV = CF1/(r−g)",
+    "meaning": "Value of perpetual cash flows growing at constant g, with r greater than g.",
+    "variables": {
+      "CF1": "next-period cash flow",
+      "r": "required return",
+      "g": "growth rate"
+    },
+    "workedExample": "CF1 40, r 8%, g 3% gives PV 800.",
+    "commonMistake": "Using today's cash flow or allowing g to equal/exceed r.",
+    "relatedLessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false
+  },
+  {
+    "id": "growing-annuity-04",
+    "name": "PV of growing annuity",
+    "expression": "PV = CF1/(r−g)[1−((1+g)/(1+r))^N]",
+    "meaning": "Value of a finite stream with constant payment growth.",
+    "variables": {
+      "CF1": "next-period payment",
+      "r": "discount rate",
+      "g": "growth rate",
+      "N": "number of payments"
+    },
+    "workedExample": "CF1 1,000, g 2%, r 7%, N 5 gives about 4,267.80.",
+    "commonMistake": "Using an infinite-perpetuity result for a finite stream.",
+    "relatedLessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false
+  },
+  {
+    "id": "loan-payment-04",
+    "name": "Amortizing loan payment",
+    "expression": "PMT = PVr/[1−(1+r)^(−N)]",
+    "meaning": "Equal end-of-period payment that fully amortizes a loan.",
+    "variables": {
+      "PV": "loan principal",
+      "r": "periodic borrowing rate",
+      "N": "payment count"
+    },
+    "workedExample": "20,000 for 4 annual payments at 6% requires 5,771.83 per year.",
+    "commonMistake": "Using annual N with a monthly rate.",
+    "relatedLessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false
+  },
+  {
+    "id": "amortization-interest-04",
+    "name": "Loan payment decomposition",
+    "expression": "Interest = Beginning balance × r; Principal = PMT − Interest",
+    "meaning": "Splits an amortizing payment into financing cost and debt reduction.",
+    "variables": {
+      "r": "periodic loan rate",
+      "PMT": "level payment"
+    },
+    "workedExample": "On 20,000 at 6%, first interest is 1,200 and 4,571.83 reduces principal.",
+    "commonMistake": "Calculating interest on ending balance.",
+    "relatedLessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false
+  },
+  {
+    "id": "bond-value-04",
+    "name": "Fixed-rate bond value",
+    "expression": "Value = Coupon[1−(1+r)^(−N)]/r + Face/(1+r)^N",
+    "meaning": "Sum of coupon-annuity PV and principal PV.",
+    "variables": {
+      "Coupon": "periodic coupon",
+      "Face": "principal at maturity",
+      "r": "required return per period",
+      "N": "period count"
+    },
+    "workedExample": "Three 50 coupons plus 1,000 principal at 6% are worth 973.27.",
+    "commonMistake": "Omitting principal or mixing annual and semiannual inputs.",
+    "relatedLessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false
+  },
+  {
+    "id": "inflation-target-04",
+    "name": "Inflation-adjusted future target",
+    "expression": "Nominal target = Real target(1+inflation)^N",
+    "meaning": "Future currency amount needed to preserve today's purchasing power.",
+    "variables": {
+      "Real target": "amount in today's purchasing power",
+      "inflation": "expected inflation rate",
+      "N": "years"
+    },
+    "workedExample": "50,000 today inflated 2.5% for 15 years becomes 72,415.",
+    "commonMistake": "Discounting when the task is to inflate a current real target forward.",
+    "relatedLessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false
+  },
+  {
+    "id": "price-weighted-index-03",
+    "name": "Price-weighted index level",
+    "expression": "I = ΣP_i / d",
+    "variables": {
+      "P_i": "constituent price",
+      "d": "index divisor"
+    },
+    "meaning": "Measures a price-weighted basket while the divisor preserves continuity.",
+    "intuition": "Measures a price-weighted basket while the divisor preserves continuity.",
+    "workedExample": "Prices 20, 30, and 50 with divisor 3 give 33.33.",
+    "commonMistake": "Adjust the divisor for splits.",
+    "relatedLessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "relatedLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "tags": [
+      "qm-lm3",
+      "v1.6.4"
+    ]
+  },
+  {
+    "id": "equal-weighted-index-return-03",
+    "name": "Equal-weighted index return",
+    "expression": "R_I = ΣR_i / n",
+    "variables": {
+      "R_i": "constituent return",
+      "n": "number of constituents"
+    },
+    "meaning": "Gives each constituent equal beginning weight.",
+    "intuition": "Gives each constituent equal beginning weight.",
+    "workedExample": "Returns 12%, −3%, and 6% produce 5%.",
+    "commonMistake": "Periodic rebalancing is required.",
+    "relatedLessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "relatedLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "tags": [
+      "qm-lm3",
+      "v1.6.4"
+    ]
+  },
+  {
+    "id": "cap-weighted-index-return-03",
+    "name": "Capitalization-weighted index return",
+    "expression": "R_I = Σw_iR_i",
+    "variables": {
+      "w_i": "beginning market-value weight",
+      "R_i": "constituent return"
+    },
+    "meaning": "Weights constituents by beginning market value.",
+    "intuition": "Weights constituents by beginning market value.",
+    "workedExample": "Weights 20%, 30%, 50% and returns 4%, 8%, −2% produce 2.2%.",
+    "commonMistake": "Use beginning weights.",
+    "relatedLessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "relatedLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "tags": [
+      "qm-lm3",
+      "v1.6.4"
+    ]
+  },
+  {
+    "id": "float-adjusted-cap-03",
+    "name": "Float-adjusted capitalization",
+    "expression": "M_float = P × shares × float factor",
+    "variables": {
+      "P": "price",
+      "shares": "shares outstanding",
+      "float factor": "freely tradable proportion"
+    },
+    "meaning": "Excludes strategic or restricted holdings from investable capitalization.",
+    "intuition": "Excludes strategic or restricted holdings from investable capitalization.",
+    "workedExample": "Market value 800 and float factor 60% gives 480.",
+    "commonMistake": "Do not apply the float factor twice.",
+    "relatedLessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "relatedLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "tags": [
+      "qm-lm3",
+      "v1.6.4"
+    ]
+  },
+  {
+    "id": "implied-forward-rate-04",
+    "name": "Implied forward interest rate",
+    "expression": "(1+s_2)^2 = (1+s_1)(1+f_1,1)",
+    "variables": {
+      "s_1": "one-year spot rate",
+      "s_2": "two-year spot rate",
+      "f_1,1": "one-year forward rate one year ahead"
+    },
+    "meaning": "Uses no-arbitrage across maturities.",
+    "intuition": "Uses no-arbitrage across maturities.",
+    "workedExample": "Spot rates 3% and 4% imply f=5.01%.",
+    "commonMistake": "Match compounding conventions.",
+    "relatedLessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "relatedLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "tags": [
+      "qm-lm4",
+      "v1.6.4"
+    ]
+  },
+  {
+    "id": "forward-fx-rate-04",
+    "name": "No-arbitrage forward exchange rate",
+    "expression": "F = S(1+r_d)^T/(1+r_f)^T",
+    "variables": {
+      "S": "spot domestic per foreign",
+      "r_d": "domestic rate",
+      "r_f": "foreign rate",
+      "T": "years"
+    },
+    "meaning": "Links the forward quotation to relative financing rates.",
+    "intuition": "Links the forward quotation to relative financing rates.",
+    "workedExample": "S=1.10, domestic 5%, foreign 2%, T=1 gives 1.1324.",
+    "commonMistake": "Keep the quotation direction consistent.",
+    "relatedLessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "relatedLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "tags": [
+      "qm-lm4",
+      "v1.6.4"
+    ]
+  },
+  {
+    "id": "implied-equity-growth-04",
+    "name": "Implied constant equity growth",
+    "expression": "g = r - D1/P0",
+    "variables": {
+      "g": "implied growth",
+      "r": "required return",
+      "D1": "next dividend",
+      "P0": "current price"
+    },
+    "meaning": "Rearranges the constant-growth valuation model.",
+    "intuition": "Rearranges the constant-growth valuation model.",
+    "workedExample": "P0=50, D1=2, r=8% implies g=4%.",
+    "commonMistake": "Use the next dividend, not the last dividend.",
+    "relatedLessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "relatedLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "tags": [
+      "qm-lm4",
+      "v1.6.4"
+    ]
+  },
+  {
+    "id": "put-call-parity-04",
+    "name": "Put–call parity",
+    "expression": "S0 + p0 = c0 + PV(X)",
+    "variables": {
+      "S0": "asset price",
+      "p0": "put value",
+      "c0": "call value",
+      "PV(X)": "present value of strike"
+    },
+    "meaning": "Equates portfolios with identical expiration payoffs.",
+    "intuition": "Equates portfolios with identical expiration payoffs.",
+    "workedExample": "If S0=100, p=6, and PV(X)=95, call value is 11.",
+    "commonMistake": "Options must share strike and expiration.",
+    "relatedLessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "relatedLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "tags": [
+      "qm-lm4",
+      "v1.6.4"
+    ]
+  }
+]

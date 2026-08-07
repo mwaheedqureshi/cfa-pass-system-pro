@@ -1,0 +1,1387 @@
+[
+  {
+    "id": "fc08-01",
+    "lessonId": "quant-sampling-08",
+    "front": "Population",
+    "back": "The entire group about which inference is sought.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-02",
+    "lessonId": "quant-sampling-08",
+    "front": "Sample",
+    "back": "The observed subset of the population.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-03",
+    "lessonId": "quant-sampling-08",
+    "front": "Parameter",
+    "back": "A fixed, usually unknown population characteristic.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-04",
+    "lessonId": "quant-sampling-08",
+    "front": "Statistic",
+    "back": "A quantity computed from sample data.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-05",
+    "lessonId": "quant-sampling-08",
+    "front": "Estimator versus estimate",
+    "back": "Estimator is the rule; estimate is its realized value.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-06",
+    "lessonId": "quant-sampling-08",
+    "front": "Simple random sampling",
+    "back": "Selection through an equal random mechanism from a frame.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-07",
+    "lessonId": "quant-sampling-08",
+    "front": "Systematic sampling",
+    "back": "Random start followed by every kth unit.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-08",
+    "lessonId": "quant-sampling-08",
+    "front": "Systematic sampling trap",
+    "back": "Periodicity in the frame can align with k.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-09",
+    "lessonId": "quant-sampling-08",
+    "front": "Stratified sampling",
+    "back": "Divide into strata and randomly sample within every stratum.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-10",
+    "lessonId": "quant-sampling-08",
+    "front": "Cluster sampling",
+    "back": "Randomly select groups, then observe units in selected groups.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-11",
+    "lessonId": "quant-sampling-08",
+    "front": "Strata versus clusters",
+    "back": "Sample within all strata; select only some clusters.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-12",
+    "lessonId": "quant-sampling-08",
+    "front": "Convenience sampling",
+    "back": "Choose observations because they are easy to access.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-13",
+    "lessonId": "quant-sampling-08",
+    "front": "Judgmental sampling",
+    "back": "Researcher deliberately selects cases using expertise.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-14",
+    "lessonId": "quant-sampling-08",
+    "front": "Sampling error",
+    "back": "Chance difference between a statistic and its parameter.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-15",
+    "lessonId": "quant-sampling-08",
+    "front": "Coverage error",
+    "back": "The sampling frame omits or duplicates eligible population units.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-16",
+    "lessonId": "quant-sampling-08",
+    "front": "Nonresponse error",
+    "back": "Selected units that respond differ systematically from nonrespondents.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-17",
+    "lessonId": "quant-sampling-08",
+    "front": "Measurement error",
+    "back": "Recorded values do not accurately represent the intended variable.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-18",
+    "lessonId": "quant-sampling-08",
+    "front": "Does larger n cure bias?",
+    "back": "No. It mainly reduces sampling variability, not systematic design error.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-19",
+    "lessonId": "quant-sampling-08",
+    "front": "Sampling distribution",
+    "back": "Distribution of a statistic across repeated possible samples.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-20",
+    "lessonId": "quant-sampling-08",
+    "front": "Central Limit Theorem",
+    "back": "Under conditions, standardized sample means approach normality as n grows.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-21",
+    "lessonId": "quant-sampling-08",
+    "front": "CLT trap",
+    "back": "It does not make the raw population normal.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-22",
+    "lessonId": "quant-sampling-08",
+    "front": "Standard error of xÌ„",
+    "back": "Ïƒ/âˆšn, estimated by s/âˆšn.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-23",
+    "lessonId": "quant-sampling-08",
+    "front": "Sample-size effect on SE",
+    "back": "Four times n gives half the SE.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-24",
+    "lessonId": "quant-sampling-08",
+    "front": "Unbiasedness",
+    "back": "Expected estimator value equals the parameter.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-25",
+    "lessonId": "quant-sampling-08",
+    "front": "Efficiency",
+    "back": "Lower variance among comparable estimators.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-26",
+    "lessonId": "quant-sampling-08",
+    "front": "Consistency",
+    "back": "Estimator converges toward the parameter as n grows.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-27",
+    "lessonId": "quant-sampling-08",
+    "front": "Unbiasedness trap",
+    "back": "It does not mean every realized estimate is correct.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-28",
+    "lessonId": "quant-sampling-08",
+    "front": "Point estimate",
+    "back": "One sample-based value used to estimate a parameter.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-29",
+    "lessonId": "quant-sampling-08",
+    "front": "Confidence interval form",
+    "back": "Estimate Â± critical value Ã— standard error.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-30",
+    "lessonId": "quant-sampling-08",
+    "front": "Margin of error",
+    "back": "Critical value multiplied by standard error.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-31",
+    "lessonId": "quant-sampling-08",
+    "front": "Known Ïƒ mean interval",
+    "back": "xÌ„ Â± z*Ïƒ/âˆšn.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-32",
+    "lessonId": "quant-sampling-08",
+    "front": "Unknown Ïƒ mean interval",
+    "back": "xÌ„ Â± t*s/âˆšn.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-33",
+    "lessonId": "quant-sampling-08",
+    "front": "One-sample t degrees of freedom (confidence intervals)",
+    "back": "nâˆ’1.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-34",
+    "lessonId": "quant-sampling-08",
+    "front": "Confidence-level effect",
+    "back": "Higher confidence widens the interval, all else equal.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-35",
+    "lessonId": "quant-sampling-08",
+    "front": "Variability effect",
+    "back": "Greater Ïƒ or s widens the interval.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-36",
+    "lessonId": "quant-sampling-08",
+    "front": "Sample-size effect on CI",
+    "back": "Larger n narrows the interval through lower SE.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-37",
+    "lessonId": "quant-sampling-08",
+    "front": "95% confidence meaning",
+    "back": "About 95% of intervals from repeated valid samples cover the fixed parameter.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-38",
+    "lessonId": "quant-sampling-08",
+    "front": "Confidence-interval misuse",
+    "back": "Do not say 95% of population observations lie inside a mean interval.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-39",
+    "lessonId": "quant-sampling-08",
+    "front": "Z versus t for confidence intervals",
+    "back": "Use Z for known Ïƒ; use t when Ïƒ is estimated, under appropriate assumptions.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc08-40",
+    "lessonId": "quant-sampling-08",
+    "front": "Precision versus validity",
+    "back": "A narrow interval can still be biased if the sample design is flawed.",
+    "tags": [
+      "sampling-estimation"
+    ],
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "supplementary": false,
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals"
+  },
+  {
+    "id": "fc-v165-qm-lm7a-41",
+    "lessonId": "quant-sampling-08",
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals",
+    "supplementary": false,
+    "front": "A systematic sample starts at record 7 and selects every 20th record. A hidden 20-record reporting cycle mainly creates risk of:",
+    "back": "A sampling interval matching a data cycle can systematically distort selection.",
+    "tags": [
+      "qm-lm7",
+      "simple-random-sample",
+      "v1.6.5",
+      "checkpoint-3-verified"
+    ]
+  },
+  {
+    "id": "fc-v165-qm-lm7a-42",
+    "lessonId": "quant-sampling-08",
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals",
+    "supplementary": false,
+    "front": "A population standard deviation is 18 and n=81. The standard error of the sample mean is:",
+    "back": "SE=18/√81=2.",
+    "tags": [
+      "qm-lm7",
+      "stratified-sample",
+      "v1.6.5",
+      "checkpoint-3-verified"
+    ]
+  },
+  {
+    "id": "fc-v165-qm-lm7a-43",
+    "lessonId": "quant-sampling-08",
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals",
+    "supplementary": false,
+    "front": "A sample mean is 50, known σ=12, n=36, and z*=1.96. The 95% interval is:",
+    "back": "SE=12/6=2; margin=1.96(2)=3.92.",
+    "tags": [
+      "qm-lm7",
+      "sampling-error",
+      "v1.6.5",
+      "checkpoint-3-verified"
+    ]
+  },
+  {
+    "id": "fc-v165-qm-lm7a-44",
+    "lessonId": "quant-sampling-08",
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals",
+    "supplementary": false,
+    "front": "A normal sample has n=25 and unknown population variance. The one-sample mean interval uses:",
+    "back": "Unknown variance estimated by s calls for t with n−1=24 df.",
+    "tags": [
+      "qm-lm7",
+      "point-estimate",
+      "v1.6.5",
+      "checkpoint-3-verified"
+    ]
+  },
+  {
+    "id": "fc-v165-qm-lm7a-45",
+    "lessonId": "quant-sampling-08",
+    "studyLessonId": "quant-sampling-08",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "A",
+    "officialLearningOutcome": "explain sampling and estimation and construct and interpret confidence intervals",
+    "supplementary": false,
+    "front": "Holding confidence and variability fixed, reducing a confidence-interval margin by half requires approximately:",
+    "back": "Margin varies with 1/√n, so halving it requires quadrupling n.",
+    "tags": [
+      "qm-lm7",
+      "sampling-distribution",
+      "v1.6.5",
+      "checkpoint-3-verified"
+    ]
+  },
+  {
+    "id": "fcport08-01",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "Portfolio — Portfolio — Portfolio expected return",
+    "back": "Weighted average: ΣwᵢE(Rᵢ). Correlation does not enter.",
+    "tags": [
+      "portfolio",
+      "LM8"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-02",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "A 30% position returns −5% and a 70% position returns 9%. Portfolio return is:",
+    "back": "0.30(−5%)+0.70(9%)=4.8%.",
+    "tags": [
+      "portfolio",
+      "LM8",
+      "checkpoint-3-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-03",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "Weights are 20%, 50%, and 30%; returns are 10%, −2%, and 8%. The second asset’s contribution is:",
+    "back": "Contribution=0.50(−2%)=−1 percentage point.",
+    "tags": [
+      "portfolio",
+      "LM8",
+      "checkpoint-3-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-04",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "Portfolio — Portfolio — Two-asset variance",
+    "back": "wA²σA²+wB²σB²+2wAwBρABσAσB.",
+    "tags": [
+      "portfolio",
+      "LM8"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-05",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "Standard deviations are 10% and 15%, and covariance is 0.006. Correlation is:",
+    "back": "ρ=.006/(.10×.15)=.40.",
+    "tags": [
+      "portfolio",
+      "LM8",
+      "checkpoint-3-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-06",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "Standard deviations are 12% and 18%, and correlation is −0.25. Covariance is:",
+    "back": "Cov=−.25(.12)(.18)=−.0054.",
+    "tags": [
+      "portfolio",
+      "LM8",
+      "checkpoint-3-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-07",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "Portfolio — Portfolio — Perfect positive correlation",
+    "back": "No diversification curvature for long-only positions.",
+    "tags": [
+      "portfolio",
+      "LM8"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-08",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "A 40/60 portfolio has risks 10% and 15% and correlation 0.25. Variance is:",
+    "back": "Variance=.4²(.1²)+.6²(.15²)+2(.4)(.6)(.25)(.1)(.15)=.0115.",
+    "tags": [
+      "portfolio",
+      "LM8",
+      "checkpoint-3-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-09",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "A portfolio variance of 0.0144 corresponds to standard deviation:",
+    "back": "√.0144=.12.",
+    "tags": [
+      "portfolio",
+      "LM8",
+      "checkpoint-3-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-10",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "Portfolio — Portfolio — Diversification",
+    "back": "Reduces asset-specific risk through imperfect co-movement.",
+    "tags": [
+      "portfolio",
+      "LM8"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-11",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "Two long-only assets have correlation +1. Portfolio risk equals:",
+    "back": "At +1, risks add linearly for long-only weights.",
+    "tags": [
+      "portfolio",
+      "LM8",
+      "checkpoint-3-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-12",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "With correlation −1, risks 10% and 15%, the zero-risk weight in the 10%-risk asset is:",
+    "back": "Solve .10w=.15(1−w), giving w=.60.",
+    "tags": [
+      "portfolio",
+      "LM8",
+      "checkpoint-3-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-13",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "Portfolio — Portfolio — Cross-term rule",
+    "back": "Double each unique covariance pair if summing only one triangle.",
+    "tags": [
+      "portfolio",
+      "LM8"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-14",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "Two 20%-risk assets are equally weighted. At correlation zero, portfolio risk is:",
+    "back": "Variance=.25(.04)+.25(.04)=.02; risk=14.14%.",
+    "tags": [
+      "portfolio",
+      "LM8",
+      "checkpoint-3-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-15",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "For positive portfolio weights, lowering pairwise correlation while holding other inputs fixed generally:",
+    "back": "Correlation affects cross terms, not expected returns or standalone risks.",
+    "tags": [
+      "portfolio",
+      "LM8",
+      "checkpoint-3-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-16",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "Portfolio — Portfolio — Minimum-variance frontier",
+    "back": "Lowest attainable variance for each target return.",
+    "tags": [
+      "portfolio",
+      "LM8"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-17",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "A covariance matrix used for portfolio variance must be:",
+    "back": "Cov(i,j)=Cov(j,i), and diagonal entries are variances.",
+    "tags": [
+      "portfolio",
+      "LM8",
+      "checkpoint-3-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-18",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "A three-asset variance calculation includes each unique covariance term:",
+    "back": "The full double sum contains ij and ji, so unique pair terms are doubled.",
+    "tags": [
+      "portfolio",
+      "LM8",
+      "checkpoint-3-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-19",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "Portfolio — Portfolio — Risk-free asset",
+    "back": "Known return with zero variance and covariance.",
+    "tags": [
+      "portfolio",
+      "LM8"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-20",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "A portfolio modeled at 10% risk rises to 13% under stressed correlations. The relative increase is:",
+    "back": "(13−10)/10=30%; the absolute increase is 3 percentage points.",
+    "tags": [
+      "portfolio",
+      "LM8",
+      "checkpoint-3-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-21",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "Variances are .01 and .04 and covariance is zero. The GMV weight in the first asset is:",
+    "back": "wA=.04/(.01+.04)=.80.",
+    "tags": [
+      "portfolio",
+      "LM8",
+      "checkpoint-3-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-22",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "Portfolio — Portfolio — CAL risk",
+    "back": "|y|σp.",
+    "tags": [
+      "portfolio",
+      "LM8"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-23",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "The global minimum-variance portfolio is the portfolio with:",
+    "back": "GMV minimizes variance without requiring a return target.",
+    "tags": [
+      "portfolio",
+      "LM8",
+      "checkpoint-3-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-24",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "Portfolio A returns 9% at 12% risk; B returns 9% at 15% risk. Relative to B, A is:",
+    "back": "Equal return with lower risk dominates.",
+    "tags": [
+      "portfolio",
+      "LM8",
+      "checkpoint-3-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-25",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "Portfolio — Portfolio — CML",
+    "back": "CAL whose risky portfolio is the market portfolio.",
+    "tags": [
+      "portfolio",
+      "LM8"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-26",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "Portfolio A returns 8% at 10% risk; B returns 10% at 10% risk. Relative to A, B is:",
+    "back": "Equal risk with higher return dominates.",
+    "tags": [
+      "portfolio",
+      "LM8",
+      "checkpoint-3-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-27",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "The efficient frontier is:",
+    "back": "Efficient portfolios maximize return for risk or minimize risk for return.",
+    "tags": [
+      "portfolio",
+      "LM8",
+      "checkpoint-3-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-28",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "Portfolio — Portfolio — Negative risky weight",
+    "back": "y<0: short the risky portfolio and hold more than 100% risk-free.",
+    "tags": [
+      "portfolio",
+      "LM8"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-29",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "Assets return 5% and 13%. A fully invested portfolio targeting 9% uses the first asset weight:",
+    "back": ".09=.05w+.13(1−w), so w=.50.",
+    "tags": [
+      "portfolio",
+      "LM8",
+      "checkpoint-3-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-30",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "Rf=2%, risky return=8%, and y=0.60. Complete-portfolio return is:",
+    "back": "2%+.60(8%−2%)=5.6%.",
+    "tags": [
+      "portfolio",
+      "LM8",
+      "checkpoint-3-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-31",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "Portfolio — Portfolio — Optimal risky fraction",
+    "back": "[E(Rp)-Rf]/(Aσp²) for the stated utility function.",
+    "tags": [
+      "portfolio",
+      "LM8"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-32",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "A risky portfolio has 16% risk and y=0.60. Complete-portfolio risk is:",
+    "back": "Risk=|y|σP=.60(16%)=9.6%.",
+    "tags": [
+      "portfolio",
+      "LM8",
+      "checkpoint-3-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-33",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "If y=1.25 on a CAL, the risk-free weight is:",
+    "back": "1−y=−.25, indicating borrowing.",
+    "tags": [
+      "portfolio",
+      "LM8",
+      "checkpoint-3-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-34",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "Portfolio — Portfolio — Stress correlation",
+    "back": "Recalculate portfolio risk under less favorable co-movement.",
+    "tags": [
+      "portfolio",
+      "LM8"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-35",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "Rf=3%, risky return=11%, and risky risk=16%. CAL slope is:",
+    "back": "Slope=(11%−3%)/16%=.50.",
+    "tags": [
+      "portfolio",
+      "LM8",
+      "checkpoint-3-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-36",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "Two feasible risky portfolios have Sharpe ratios 0.45 and 0.60. The better CAL uses:",
+    "back": "A higher Sharpe ratio produces a steeper CAL.",
+    "tags": [
+      "portfolio",
+      "LM8",
+      "checkpoint-3-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-37",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "Portfolio — Portfolio — Decimal discipline",
+    "back": "Use 0.12, not 12, for 12% inside variance formulas.",
+    "tags": [
+      "portfolio",
+      "LM8"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-38",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "The capital market line is the CAL that uses:",
+    "back": "The CML is the market-portfolio special case.",
+    "tags": [
+      "portfolio",
+      "LM8",
+      "checkpoint-3-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-39",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "For U=E(R)−0.5Aσ², E(R)=9%, σ=15%, and A=4, utility is:",
+    "back": ".09−.5(4)(.15²)=.045.",
+    "tags": [
+      "portfolio",
+      "LM8",
+      "checkpoint-3-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-40",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "Portfolio — Portfolio — Expected versus realized return",
+    "back": "Expected return is forward-looking; realized return is observed.",
+    "tags": [
+      "portfolio",
+      "LM8"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-41",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "Risky excess return is 6%, variance is .0225, and A=4. Optimal risky weight is:",
+    "back": "y*=.06/[4(.0225)]=.6667.",
+    "tags": [
+      "portfolio",
+      "LM8",
+      "checkpoint-3-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-42",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "Holding the investment opportunity set fixed, doubling risk aversion causes optimal risky weight to:",
+    "back": "The optimal risky fraction is inversely proportional to A.",
+    "tags": [
+      "portfolio",
+      "LM8",
+      "checkpoint-3-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-43",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "Portfolio — Portfolio — Correlation limitation",
+    "back": "Correlation is not causation and misses nonlinear dependence.",
+    "tags": [
+      "portfolio",
+      "LM8"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-44",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "An investor’s risk aversion changes the standard tangency portfolio itself:",
+    "back": "Separation first identifies the tangency portfolio, then preferences determine y.",
+    "tags": [
+      "portfolio",
+      "LM8",
+      "checkpoint-3-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fcport08-45",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "supplementary": false,
+    "front": "A negative portfolio weight most directly indicates:",
+    "back": "Negative weights are permitted when short selling is allowed.",
+    "tags": [
+      "portfolio",
+      "LM8",
+      "checkpoint-3-verified"
+    ],
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio"
+  },
+  {
+    "id": "fc-v165-qm-lm8-46",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio",
+    "supplementary": false,
+    "front": "A portfolio weight above one combined with a negative risk-free weight indicates:",
+    "back": "Borrowing finances risky exposure above 100%.",
+    "tags": [
+      "qm-lm8",
+      "portfolio-expected-return",
+      "v1.6.5",
+      "checkpoint-3-verified"
+    ]
+  },
+  {
+    "id": "fc-v165-qm-lm8-47",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio",
+    "supplementary": false,
+    "front": "Historical correlations are least reliable when:",
+    "back": "Regime shifts can make backward-looking dependence estimates unstable.",
+    "tags": [
+      "qm-lm8",
+      "portfolio-variance",
+      "v1.6.5",
+      "checkpoint-3-verified"
+    ]
+  },
+  {
+    "id": "fc-v165-qm-lm8-48",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio",
+    "supplementary": false,
+    "front": "Diversification can substantially reduce:",
+    "back": "Common shocks remain even in broad portfolios.",
+    "tags": [
+      "qm-lm8",
+      "covariance-contribution",
+      "v1.6.5",
+      "checkpoint-3-verified"
+    ]
+  },
+  {
+    "id": "fc-v165-qm-lm8-49",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio",
+    "supplementary": false,
+    "front": "An asset with high standalone volatility can still improve a portfolio if it has:",
+    "back": "Portfolio contribution depends on co-movement as well as standalone risk.",
+    "tags": [
+      "qm-lm8",
+      "correlation-and-diversification",
+      "v1.6.5",
+      "checkpoint-3-verified"
+    ]
+  },
+  {
+    "id": "fc-v165-qm-lm8-50",
+    "lessonId": "quant-distributions-07",
+    "studyLessonId": "quant-distributions-07",
+    "officialModuleId": "QM-LM8",
+    "officialLearningOutcome": "calculate and interpret the return and risk of a financial portfolio",
+    "supplementary": false,
+    "front": "Expected portfolio return requires which inputs?",
+    "back": "Return is linear in weights and expected returns; dependence enters risk.",
+    "tags": [
+      "qm-lm8",
+      "two-asset-portfolio-risk",
+      "v1.6.5",
+      "checkpoint-3-verified"
+    ]
+  }
+]

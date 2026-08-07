@@ -247,4 +247,50 @@ For a geometric mean, multiply wealth relatives and take the appropriate root; k
 - Money-weighted return reflects actual cash-flow timing; time-weighted return neutralizes it.
 - Domestic foreign-asset return combines local asset and currency wealth relatives.
 - Leverage magnifies equity outcomes in both directions.
++
+## Common mistakes
+
+- Mixing price change with total return.
+- Adding multi-period percentage returns instead of compounding wealth relatives.
+- Comparing returns measured over different horizons.
+
+## Exam tips
+
+Identify the investor cash flows, measurement period, and currency perspective before selecting a return measure.
+
+## One-page revision sheet
+
+| Measure | Core interpretation |
+|---|---|
+| Holding-period return | Total gain relative to beginning value |
+| Price return | Capital gain or loss only |
+| Income return | Cash income relative to beginning value |
+| Geometric mean | Constant compound growth rate |
+| Time-weighted return | Removes external cash-flow timing effects |
+
+## 30-second summary
+
+Return measurement begins with the change in wealth over a defined period. Separate price and income components, compound across periods, match horizons and currencies, and choose an averaging method that fits the decision.
+## 2027 scope application lab
+
+### Worked Example 11 — annualized holding-period return
+**Problem.** An asset earns 4.2% over 90 days. Annualize using four equal periods. **Solution.** $(1.042)^4-1=17.88\%$. **Interpretation.** Compounding, not multiplication, recognizes return earned on prior gains. **Exam insight.** Use the period convention specified; do not silently mix 90/365 with four quarters.
+
+### Worked Example 12 — continuously compounded return
+**Problem.** Value rises from 96 to 103. **Solution.** $r_{cc}=\ln(103/96)=7.04\%$. **Interpretation.** The log return is additive through time. **Exam insight.** Convert back with $e^{r_{cc}}-1$ when a simple return is requested.
+
+### Worked Example 13 — required return decomposition
+**Problem.** The real risk-free rate is 1.2%, expected inflation 2.4%, and combined risk premia 3.1%. **Solution.** The additive approximation is $1.2+2.4+3.1=6.7\%$. **Interpretation.** Required return compensates for time, purchasing-power erosion, and risk. **Exam insight.** Use exact compounding only when the question supplies or requests it.
+
+### Worked Example 14 — leveraged return
+**Problem.** An investor supplies 60 and borrows 40 at 2% to buy an asset for 100. The asset earns 7%. **Solution.** Asset gain is 7; interest is 0.8; equity gain is 6.2, so leveraged equity return is $6.2/60=10.33\%$. **Interpretation.** Leverage magnifies the spread over borrowing cost. **Exam insight.** Divide by investor equity, not total asset value.
+
+> **Knowledge Check 1.** Price rises 6% and income return is 2%. Total return? **Answer:** 8% when both use the same beginning-value base.
+> **Knowledge Check 2.** Which mean measures compound growth? **Answer:** Geometric mean.
+> **Knowledge Check 3.** Can an arithmetic mean be below the geometric mean for the same non-constant return series? **Answer:** No.
+> **Knowledge Check 4.** What converts nominal return to purchasing-power return? **Answer:** The exact real-return relation $(1+R_n)/(1+\pi)-1$.
+> **Knowledge Check 5.** Gross return is measured before what? **Answer:** Applicable investment-management fees and expenses specified by the question.
+> **Knowledge Check 6.** Why is a required return not an observed return? **Answer:** It is the compensation demanded ex ante, not the realized outcome.
+> **Knowledge Check 7.** What happens to leverage when the asset return falls below borrowing cost? **Answer:** It magnifies the equity loss.
+> **Knowledge Check 8.** Are log returns directly interpretable as simple percentage gains? **Answer:** Only approximately for small returns; convert exactly when needed.
 

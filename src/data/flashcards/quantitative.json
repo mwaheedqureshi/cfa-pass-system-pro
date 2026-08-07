@@ -1,22 +1,1112 @@
 [
-{"id":"fc01","lessonId":"quant-returns-01","front":"Holding-period return formula?","back":"(Ending value − beginning value + income) / beginning value.","tags":["hpr"]},
-{"id":"fc02","lessonId":"quant-returns-01","front":"Price return measures what?","back":"Price appreciation or depreciation only, relative to beginning value.","tags":["components"]},
-{"id":"fc03","lessonId":"quant-returns-01","front":"Income return formula?","back":"Income received / beginning value.","tags":["components"]},
-{"id":"fc04","lessonId":"quant-returns-01","front":"Total return decomposition?","back":"Price return + income return.","tags":["components"]},
-{"id":"fc05","lessonId":"quant-returns-01","front":"Gross versus net return?","back":"Gross is before specified fees; net is after them.","tags":["fees"]},
-{"id":"fc06","lessonId":"quant-returns-01","front":"Exact Fisher relationship for real return?","back":"(1 + nominal return) / (1 + inflation) − 1.","tags":["real"]},
-{"id":"fc07","lessonId":"quant-returns-01","front":"Approximate real return?","back":"Nominal return − inflation.","tags":["real"]},
-{"id":"fc08","lessonId":"quant-returns-01","front":"What does leverage do to equity return?","back":"Magnifies both gains and losses; financing cost also matters.","tags":["leverage"]},
-{"id":"fc09","lessonId":"quant-returns-01","front":"Arithmetic mean use?","back":"Average one-period return or expected return estimate.","tags":["averages"]},
-{"id":"fc10","lessonId":"quant-returns-01","front":"Geometric mean use?","back":"Compound growth over multiple periods.","tags":["averages"]},
-{"id":"fc11","lessonId":"quant-returns-01","front":"Why is geometric mean usually below arithmetic mean?","back":"Volatility drag; equality holds when all periodic returns are equal.","tags":["averages"]},
-{"id":"fc12","lessonId":"quant-returns-01","front":"Money-weighted return is equivalent to what?","back":"The internal rate of return on the investor's cash flows.","tags":["mwr"]},
-{"id":"fc13","lessonId":"quant-returns-01","front":"What influences money-weighted return?","back":"The amount and timing of external cash flows.","tags":["mwr"]},
-{"id":"fc14","lessonId":"quant-returns-01","front":"Time-weighted return procedure?","back":"Split at external cash flows, calculate subperiod returns, then compound.","tags":["twr"]},
-{"id":"fc15","lessonId":"quant-returns-01","front":"Preferred measure for manager evaluation?","back":"Usually time-weighted return when the manager does not control external flows.","tags":["twr"]},
-{"id":"fc16","lessonId":"quant-returns-01","front":"Foreign investment return formula?","back":"(1 + foreign asset return)(1 + currency return) − 1.","tags":["currency"]},
-{"id":"fc17","lessonId":"quant-returns-01","front":"When does currency help a domestic investor?","back":"When the foreign currency appreciates against the domestic currency.","tags":["currency"]},
-{"id":"fc18","lessonId":"quant-returns-01","front":"Risk premium definition?","back":"Expected return above a benchmark risk-free return as compensation for risk.","tags":["required"]},
-{"id":"fc19","lessonId":"quant-returns-01","front":"BA II Plus sign rule for IRR?","back":"Cash paid and cash received must carry opposite signs.","tags":["calculator"]},
-{"id":"fc20","lessonId":"quant-returns-01","front":"Best denominator for a basic return calculation?","back":"Beginning value—the capital at risk at the start.","tags":["hpr"]}
+  {
+    "id": "fc01",
+    "lessonId": "quant-returns-01",
+    "front": "Holding-period return formula (Module 1)",
+    "back": "(Ending value âˆ’ beginning value + income) / beginning value.",
+    "tags": [
+      "hpr"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns"
+  },
+  {
+    "id": "fc02",
+    "lessonId": "quant-returns-01",
+    "front": "Price return measures what?",
+    "back": "Price appreciation or depreciation only, relative to beginning value.",
+    "tags": [
+      "components"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns"
+  },
+  {
+    "id": "fc03",
+    "lessonId": "quant-returns-01",
+    "front": "Income return formula (Module 1)",
+    "back": "Income received / beginning value.",
+    "tags": [
+      "components"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns"
+  },
+  {
+    "id": "fc04",
+    "lessonId": "quant-returns-01",
+    "front": "Total return decomposition?",
+    "back": "Price return + income return.",
+    "tags": [
+      "components"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns"
+  },
+  {
+    "id": "fc05",
+    "lessonId": "quant-returns-01",
+    "front": "Gross versus net return (Module 1)",
+    "back": "Gross is before specified fees; net is after them.",
+    "tags": [
+      "fees"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns"
+  },
+  {
+    "id": "fc06",
+    "lessonId": "quant-returns-01",
+    "front": "Exact Fisher relationship for real return?",
+    "back": "(1 + nominal return) / (1 + inflation) âˆ’ 1.",
+    "tags": [
+      "real"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns"
+  },
+  {
+    "id": "fc07",
+    "lessonId": "quant-returns-01",
+    "front": "Approximate real return?",
+    "back": "Nominal return âˆ’ inflation.",
+    "tags": [
+      "real"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns"
+  },
+  {
+    "id": "fc08",
+    "lessonId": "quant-returns-01",
+    "front": "What does leverage do to equity return?",
+    "back": "Magnifies both gains and losses; financing cost also matters.",
+    "tags": [
+      "leverage"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns"
+  },
+  {
+    "id": "fc09",
+    "lessonId": "quant-returns-01",
+    "front": "Arithmetic mean use?",
+    "back": "Average one-period return or expected return estimate.",
+    "tags": [
+      "averages"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns"
+  },
+  {
+    "id": "fc10",
+    "lessonId": "quant-returns-01",
+    "front": "Geometric mean use?",
+    "back": "Compound growth over multiple periods.",
+    "tags": [
+      "averages"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns"
+  },
+  {
+    "id": "fc11",
+    "lessonId": "quant-returns-01",
+    "front": "Why is geometric mean usually below arithmetic mean?",
+    "back": "Volatility drag; equality holds when all periodic returns are equal.",
+    "tags": [
+      "averages"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns"
+  },
+  {
+    "id": "fc12",
+    "lessonId": "quant-returns-01",
+    "front": "Money-weighted return is equivalent to what?",
+    "back": "The internal rate of return on the investor's cash flows.",
+    "tags": [
+      "mwr"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns"
+  },
+  {
+    "id": "fc13",
+    "lessonId": "quant-returns-01",
+    "front": "What influences money-weighted return?",
+    "back": "The amount and timing of external cash flows.",
+    "tags": [
+      "mwr"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns"
+  },
+  {
+    "id": "fc14",
+    "lessonId": "quant-returns-01",
+    "front": "Time-weighted return procedure (Module 1)",
+    "back": "Split at external cash flows, calculate subperiod returns, then compound.",
+    "tags": [
+      "twr"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns"
+  },
+  {
+    "id": "fc15",
+    "lessonId": "quant-returns-01",
+    "front": "Preferred measure for manager evaluation?",
+    "back": "Usually time-weighted return when the manager does not control external flows.",
+    "tags": [
+      "twr"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns"
+  },
+  {
+    "id": "fc16",
+    "lessonId": "quant-returns-01",
+    "front": "Foreign investment return formula?",
+    "back": "(1 + foreign asset return)(1 + currency return) âˆ’ 1.",
+    "tags": [
+      "currency"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns"
+  },
+  {
+    "id": "fc17",
+    "lessonId": "quant-returns-01",
+    "front": "When does currency help a domestic investor?",
+    "back": "When the foreign currency appreciates against the domestic currency.",
+    "tags": [
+      "currency"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns"
+  },
+  {
+    "id": "fc18",
+    "lessonId": "quant-returns-01",
+    "front": "Risk premium definition?",
+    "back": "Expected return above a benchmark risk-free return as compensation for risk.",
+    "tags": [
+      "required"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns"
+  },
+  {
+    "id": "fc19",
+    "lessonId": "quant-returns-01",
+    "front": "BA II Plus sign rule for IRR?",
+    "back": "Cash paid and cash received must carry opposite signs.",
+    "tags": [
+      "calculator"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns"
+  },
+  {
+    "id": "fc20",
+    "lessonId": "quant-returns-01",
+    "front": "Best denominator for a basic return calculation?",
+    "back": "Beginning valueâ€”the capital at risk at the start.",
+    "tags": [
+      "hpr"
+    ],
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "supplementary": false,
+    "officialLearningOutcome": "describe, compare, and interpret returns"
+  },
+  {
+    "id": "fc21",
+    "lessonId": "quant-returns-02",
+    "front": "What four questions frame return selection?",
+    "back": "Identify the value base, cash flows, measurement lens, and time scale.",
+    "tags": [
+      "framework"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators"
+  },
+  {
+    "id": "fc22",
+    "lessonId": "quant-returns-02",
+    "front": "Holding-period return formula (return types)",
+    "back": "(Ending value âˆ’ beginning value + income) / beginning value.",
+    "tags": [
+      "hpr"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators"
+  },
+  {
+    "id": "fc23",
+    "lessonId": "quant-returns-02",
+    "front": "Price return formula?",
+    "back": "(Ending price âˆ’ beginning price) / beginning price.",
+    "tags": [
+      "components"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators"
+  },
+  {
+    "id": "fc24",
+    "lessonId": "quant-returns-02",
+    "front": "Income return formula (return types)",
+    "back": "Income received / beginning value.",
+    "tags": [
+      "components"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators"
+  },
+  {
+    "id": "fc25",
+    "lessonId": "quant-returns-02",
+    "front": "How do price and income return relate to total return?",
+    "back": "Total return equals price return plus income return when both use beginning value.",
+    "tags": [
+      "components"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators"
+  },
+  {
+    "id": "fc26",
+    "lessonId": "quant-returns-02",
+    "front": "What must be clarified when a question says simple return?",
+    "back": "Whether the stated gain includes income; simple usually means a non-logarithmic period return.",
+    "tags": [
+      "simple"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators"
+  },
+  {
+    "id": "fc27",
+    "lessonId": "quant-returns-02",
+    "front": "Gross versus net return (return types)",
+    "back": "Gross is before specified fees; net is after those fees.",
+    "tags": [
+      "fees"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators"
+  },
+  {
+    "id": "fc28",
+    "lessonId": "quant-returns-02",
+    "front": "Best method when a fee is stated in currency?",
+    "back": "Subtract the fee from gross ending wealth, then calculate return relative to beginning wealth.",
+    "tags": [
+      "fees"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators"
+  },
+  {
+    "id": "fc29",
+    "lessonId": "quant-returns-02",
+    "front": "Nominal versus real return?",
+    "back": "Nominal measures money growth; real measures purchasing-power growth.",
+    "tags": [
+      "real"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators"
+  },
+  {
+    "id": "fc30",
+    "lessonId": "quant-returns-02",
+    "front": "Exact real return formula?",
+    "back": "(1 + nominal return) / (1 + inflation) âˆ’ 1.",
+    "tags": [
+      "real"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators"
+  },
+  {
+    "id": "fc31",
+    "lessonId": "quant-returns-02",
+    "front": "Leveraged equity return denominator?",
+    "back": "Beginning investor equity, not total asset value.",
+    "tags": [
+      "leverage"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators"
+  },
+  {
+    "id": "fc32",
+    "lessonId": "quant-returns-02",
+    "front": "How does financing cost affect leveraged return?",
+    "back": "It reduces ending equity and therefore reduces the investor's leveraged return.",
+    "tags": [
+      "leverage"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators"
+  },
+  {
+    "id": "fc33",
+    "lessonId": "quant-returns-02",
+    "front": "Arithmetic mean is best used for what?",
+    "back": "Describing an average one-period observation or estimating a typical single-period return.",
+    "tags": [
+      "averages"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators"
+  },
+  {
+    "id": "fc34",
+    "lessonId": "quant-returns-02",
+    "front": "Geometric mean is best used for what?",
+    "back": "The constant periodic rate matching realized compound terminal wealth.",
+    "tags": [
+      "averages"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators"
+  },
+  {
+    "id": "fc35",
+    "lessonId": "quant-returns-02",
+    "front": "Arithmetic versus geometric ordering?",
+    "back": "Arithmetic mean is greater than or equal to geometric mean; equality holds for constant returns.",
+    "tags": [
+      "averages"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators"
+  },
+  {
+    "id": "fc36",
+    "lessonId": "quant-returns-02",
+    "front": "Multi-period return formula?",
+    "back": "Multiply all period wealth relatives, then subtract one: Î (1 + Rt) âˆ’ 1.",
+    "tags": [
+      "multi-period"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators"
+  },
+  {
+    "id": "fc37",
+    "lessonId": "quant-returns-02",
+    "front": "Annualized compound return formula?",
+    "back": "(1 + cumulative return)^(1/T) âˆ’ 1, where T is years.",
+    "tags": [
+      "annualized"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators"
+  },
+  {
+    "id": "fc38",
+    "lessonId": "quant-returns-02",
+    "front": "Why not divide cumulative return by years?",
+    "back": "Division ignores compounding; use the appropriate root of the wealth relative.",
+    "tags": [
+      "annualized"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators"
+  },
+  {
+    "id": "fc39",
+    "lessonId": "quant-returns-02",
+    "front": "Money-weighted return represents whose experience?",
+    "back": "The investor's actual experience, including amount and timing of external cash flows.",
+    "tags": [
+      "mwr"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators"
+  },
+  {
+    "id": "fc40",
+    "lessonId": "quant-returns-02",
+    "front": "Time-weighted return procedure (return types)",
+    "back": "Split at external cash flows, calculate each subperiod return, and geometrically link them.",
+    "tags": [
+      "twr"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators"
+  },
+  {
+    "id": "fc41",
+    "lessonId": "quant-returns-02",
+    "front": "Manager evaluation: MWR or TWR?",
+    "back": "Usually TWR when the manager does not control contributions and withdrawals.",
+    "tags": [
+      "twr"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators"
+  },
+  {
+    "id": "fc42",
+    "lessonId": "quant-returns-02",
+    "front": "Domestic return on a foreign asset?",
+    "back": "(1 + foreign-asset return)(1 + foreign-currency return) âˆ’ 1.",
+    "tags": [
+      "currency"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators"
+  },
+  {
+    "id": "fc43",
+    "lessonId": "quant-returns-02",
+    "front": "Effect of foreign-currency depreciation?",
+    "back": "It reduces the domestic investor's return, all else equal.",
+    "tags": [
+      "currency"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators"
+  },
+  {
+    "id": "fc44",
+    "lessonId": "quant-returns-02",
+    "front": "Risk premium formula?",
+    "back": "Required return âˆ’ reference risk-free return.",
+    "tags": [
+      "required"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators"
+  },
+  {
+    "id": "fc45",
+    "lessonId": "quant-returns-02",
+    "front": "Required return definition?",
+    "back": "The minimum expected return demanded for committing capital at the stated risk.",
+    "tags": [
+      "required"
+    ],
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators"
+  },
+  {
+    "id": "fc-lm1r-01",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "supplementary": false,
+    "front": "Holding-period total return?",
+    "back": "Total return equals the price change plus cash distributions, divided by beginning value. The beginning value is the investment base.",
+    "tags": [
+      "qm-lm1",
+      "holding-period-total-return",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm1r-02",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "supplementary": false,
+    "front": "Price and income return decomposition?",
+    "back": "Price return is the price change divided by beginning value; income return is cash income divided by the same beginning value. Their sum is total return.",
+    "tags": [
+      "qm-lm1",
+      "price-and-income-return-decomposition",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm1r-03",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "supplementary": false,
+    "front": "Arithmetic mean return?",
+    "back": "Add the periodic returns and divide by the number of observations. It estimates a one-period expected return but does not describe compound growth.",
+    "tags": [
+      "qm-lm1",
+      "arithmetic-mean-return",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm1r-04",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "supplementary": false,
+    "front": "Geometric compound return?",
+    "back": "Multiply the wealth relatives, take the nth root, and subtract one. It is the constant periodic rate that reproduces terminal wealth.",
+    "tags": [
+      "qm-lm1",
+      "geometric-compound-return",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm1r-05",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "supplementary": false,
+    "front": "Annualized return?",
+    "back": "For a holding period of T years, annualized return is (1 + holding-period return)^(1/T) − 1. Annualization assumes a repeatable compound rate.",
+    "tags": [
+      "qm-lm1",
+      "annualized-return",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm1r-06",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "supplementary": false,
+    "front": "Continuously compounded return?",
+    "back": "The continuously compounded return is ln(ending value / beginning value). Log returns add across time.",
+    "tags": [
+      "qm-lm1",
+      "continuously-compounded-return",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm1r-07",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "supplementary": false,
+    "front": "Required return?",
+    "back": "Required return compensates for the real risk-free rate, expected inflation, and relevant risk premiums. It is an opportunity-cost threshold, not a realized result.",
+    "tags": [
+      "qm-lm1",
+      "required-return",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm1r-08",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "supplementary": false,
+    "front": "Risk-free rate?",
+    "back": "A nominal risk-free rate combines compensation for time value and expected inflation, with no default-risk premium for the chosen horizon and currency.",
+    "tags": [
+      "qm-lm1",
+      "risk-free-rate",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm1r-09",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "supplementary": false,
+    "front": "Risk premium?",
+    "back": "A risk premium is the extra required return above a comparable risk-free rate for bearing a specified risk.",
+    "tags": [
+      "qm-lm1",
+      "risk-premium",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm1r-10",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "supplementary": false,
+    "front": "Exact real return?",
+    "back": "Exact real return is (1 + nominal return)/(1 + inflation) − 1. Subtraction is only an approximation.",
+    "tags": [
+      "qm-lm1",
+      "exact-real-return",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm1r-11",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "supplementary": false,
+    "front": "Gross versus net return?",
+    "back": "Gross return is measured before specified fees or costs; net return is measured after them. Always identify which costs the convention includes.",
+    "tags": [
+      "qm-lm1",
+      "gross-versus-net-return",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm1r-12",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "supplementary": false,
+    "front": "Pre-tax versus after-tax return?",
+    "back": "Pre-tax return ignores taxes. After-tax return applies the relevant tax treatment separately to taxable income and realized gains when rates differ.",
+    "tags": [
+      "qm-lm1",
+      "pre-tax-versus-after-tax-return",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm1r-13",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "supplementary": false,
+    "front": "Leveraged return?",
+    "back": "Leverage magnifies the residual return to equity: asset profit less financing cost is divided by the smaller equity base. It magnifies losses as well as gains.",
+    "tags": [
+      "qm-lm1",
+      "leveraged-return",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm1r-14",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "supplementary": false,
+    "front": "Multi-period compounding?",
+    "back": "Link sequential returns by multiplying (1 + r_t), then subtract one. Adding returns ignores compounding.",
+    "tags": [
+      "qm-lm1",
+      "multi-period-compounding",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm1r-15",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "supplementary": false,
+    "front": "Negative holding-period return?",
+    "back": "A holding-period return is negative when distributions do not offset the price loss. Keep the distribution positive and the price change signed.",
+    "tags": [
+      "qm-lm1",
+      "negative-holding-period-return",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm1r-16",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "supplementary": false,
+    "front": "Income timing?",
+    "back": "Return measurement assigns income to the period in which the investor earns or receives it under the stated convention; inconsistent timing distorts comparisons.",
+    "tags": [
+      "qm-lm1",
+      "income-timing",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm1r-17",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "supplementary": false,
+    "front": "Annualization limits?",
+    "back": "Annualization standardizes horizon, but it does not make a short, unusual return repeatable or remove volatility and path dependence.",
+    "tags": [
+      "qm-lm1",
+      "annualization-limits",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm1r-18",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "supplementary": false,
+    "front": "Inflation premium?",
+    "back": "The inflation premium compensates for expected loss of purchasing power. Unexpected inflation can still change the realized real return.",
+    "tags": [
+      "qm-lm1",
+      "inflation-premium",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm1r-19",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "supplementary": false,
+    "front": "Liquidity premium?",
+    "back": "A liquidity premium compensates investors for the cost and uncertainty of selling an asset quickly near fair value.",
+    "tags": [
+      "qm-lm1",
+      "liquidity-premium",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm1r-20",
+    "lessonId": "quant-returns-01",
+    "studyLessonId": "quant-returns-01",
+    "officialModuleId": "QM-LM1",
+    "officialLearningOutcome": "describe, compare, and interpret returns",
+    "supplementary": false,
+    "front": "Maturity premium?",
+    "back": "A maturity premium compensates for greater price sensitivity and uncertainty associated with longer horizons, holding other risks constant.",
+    "tags": [
+      "qm-lm1",
+      "maturity-premium",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm2r-01",
+    "lessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "supplementary": false,
+    "front": "Equity dividend and price return?",
+    "back": "An equity total return combines dividend income and the signed share-price change, each measured relative to beginning price.",
+    "tags": [
+      "qm-lm2",
+      "equity-dividend-and-price-return",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm2r-02",
+    "lessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "supplementary": false,
+    "front": "Bond coupon and price return?",
+    "back": "A bond holding-period return combines coupon income and the bond-price change, divided by beginning full price under the stated convention.",
+    "tags": [
+      "qm-lm2",
+      "bond-coupon-and-price-return",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm2r-03",
+    "lessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "supplementary": false,
+    "front": "Money-market discount yield?",
+    "back": "A discount yield often uses face value and a 360-day convention, so it is not directly comparable with an investment return based on price paid and a 365-day year.",
+    "tags": [
+      "qm-lm2",
+      "money-market-discount-yield",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm2r-04",
+    "lessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "supplementary": false,
+    "front": "Bank deposit return?",
+    "back": "A deposit return is primarily credited interest relative to the deposited principal; quote conventions and compounding frequency must match the comparison basis.",
+    "tags": [
+      "qm-lm2",
+      "bank-deposit-return",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm2r-05",
+    "lessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "supplementary": false,
+    "front": "Commodity collateral and price return?",
+    "back": "A commodity position may combine spot-price change, collateral income, and roll effects. State which components the reported return includes.",
+    "tags": [
+      "qm-lm2",
+      "commodity-collateral-and-price-return",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm2r-06",
+    "lessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "supplementary": false,
+    "front": "Foreign-asset local return?",
+    "back": "Local return measures the asset in its local currency and excludes the investor’s currency translation effect.",
+    "tags": [
+      "qm-lm2",
+      "foreign-asset-local-return",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm2r-07",
+    "lessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "supplementary": false,
+    "front": "Currency translation return?",
+    "back": "Domestic-currency return compounds local asset return with currency return: (1 + local)(1 + FX) − 1.",
+    "tags": [
+      "qm-lm2",
+      "currency-translation-return",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm2r-08",
+    "lessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "supplementary": false,
+    "front": "Price-return index?",
+    "back": "A price-return index reflects constituent price changes and excludes cash distributions.",
+    "tags": [
+      "qm-lm2",
+      "price-return-index",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm2r-09",
+    "lessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "supplementary": false,
+    "front": "Total-return index?",
+    "back": "A total-return index includes constituent distributions, ordinarily with a stated reinvestment assumption.",
+    "tags": [
+      "qm-lm2",
+      "total-return-index",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm2r-10",
+    "lessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "supplementary": false,
+    "front": "Real asset income return?",
+    "back": "Real assets can generate income such as rent in addition to price appreciation; total return includes both on a consistent beginning-value base.",
+    "tags": [
+      "qm-lm2",
+      "real-asset-income-return",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm2r-11",
+    "lessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "supplementary": false,
+    "front": "Nominal versus real comparison?",
+    "back": "Use real returns to compare purchasing-power growth when inflation differs; use nominal returns only when the price-level basis is comparable.",
+    "tags": [
+      "qm-lm2",
+      "nominal-versus-real-comparison",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm2r-12",
+    "lessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "supplementary": false,
+    "front": "Gross versus net comparison?",
+    "back": "Compare portfolios on the same fee basis. A gross series and a net series are not directly comparable without adjusting the convention.",
+    "tags": [
+      "qm-lm2",
+      "gross-versus-net-comparison",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm2r-13",
+    "lessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "supplementary": false,
+    "front": "Pre-tax versus after-tax comparison?",
+    "back": "Tax-aware comparisons require the same investor tax assumptions and treatment of income, gains, and timing.",
+    "tags": [
+      "qm-lm2",
+      "pre-tax-versus-after-tax-comparison",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm2r-14",
+    "lessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "supplementary": false,
+    "front": "Leveraged versus unleveraged return?",
+    "back": "Unleveraged return measures the asset; leveraged return measures the residual to equity after financing cost. Different equity bases make them non-interchangeable.",
+    "tags": [
+      "qm-lm2",
+      "leveraged-versus-unleveraged-return",
+      "checkpoint-1-verified"
+    ]
+  },
+  {
+    "id": "fc-lm2r-15",
+    "lessonId": "quant-returns-02",
+    "studyLessonId": "quant-returns-02",
+    "officialModuleId": "QM-LM2",
+    "officialLearningOutcome": "calculate, compare, and interpret different types of returns for financial assets, instruments, and indicators",
+    "supplementary": false,
+    "front": "Asset-class long-run return interpretation?",
+    "back": "Long-run historical averages describe a sample and return convention; they are not guaranteed forecasts and must be compared on consistent horizons and bases.",
+    "tags": [
+      "qm-lm2",
+      "asset-class-long-run-return-interpretation",
+      "checkpoint-1-verified"
+    ]
+  }
 ]

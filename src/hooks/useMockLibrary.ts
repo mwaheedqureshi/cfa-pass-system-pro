@@ -1,0 +1,1 @@
+import {useEffect,useState} from 'react';import {loadMockLibrary} from '../mocks/mockService';import type {MockLibrary} from '../mocks/types';export function useMockLibrary(){const[library,setLibrary]=useState<MockLibrary|null|undefined>(undefined);useEffect(()=>{loadMockLibrary().then(setLibrary)},[]);return library}

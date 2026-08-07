@@ -1,0 +1,1462 @@
+[
+  {
+    "id": "q-lm3r-01",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return and interpret index weighting and returns",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "An investor adds substantial capital immediately before the portfolio’s strongest subperiod. Relative to TWR, MWR will most likely be:",
+    "choices": [
+      "higher because more capital experienced the strong return",
+      "unchanged because external flows never affect MWR",
+      "lower solely because the contribution is positive"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "MWR weights periods by invested capital and is sensitive to contribution timing; TWR removes external-flow effects.",
+    "incorrectChoiceExplanations": [
+      "Correct. MWR weights periods by invested capital and is sensitive to contribution timing; TWR removes external-flow effects.",
+      "Incorrect. unchanged because external flows never affect MWR does not follow the required calculation, classification, or interpretation. MWR weights periods by invested capital and is sensitive to contribution timing; TWR removes external-flow effects.",
+      "Incorrect. lower solely because the contribution is positive does not follow the required calculation, classification, or interpretation. MWR weights periods by invested capital and is sensitive to contribution timing; TWR removes external-flow effects."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm3",
+      "mwr-twr",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm3r-02",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return and interpret index weighting and returns",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "A manager does not control client contributions or withdrawals. The better measure of the manager’s investment performance is generally:",
+    "choices": [
+      "Money-weighted return",
+      "Income return",
+      "Time-weighted return"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "TWR removes the effect of external cash-flow timing that the manager does not control.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. Money-weighted return does not follow the required calculation, classification, or interpretation. TWR removes the effect of external cash-flow timing that the manager does not control.",
+      "Incorrect. Income return does not follow the required calculation, classification, or interpretation. TWR removes the effect of external cash-flow timing that the manager does not control.",
+      "Correct. TWR removes the effect of external cash-flow timing that the manager does not control."
+    ],
+    "relatedFormulaIds": [
+      "time-weighted-return"
+    ],
+    "tags": [
+      "qm-lm3",
+      "measure-selection",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm3r-03",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return and interpret index weighting and returns",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A portfolio returns 5% before an external contribution and −2% after it. Its time-weighted return is:",
+    "choices": [
+      "1.40%",
+      "2.90%",
+      "3.00%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "TWR=(1.05)(0.98)−1=2.90%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 1.40% does not follow the required calculation, classification, or interpretation. TWR=(1.05)(0.98)−1=2.90%.",
+      "Correct. TWR=(1.05)(0.98)−1=2.90%.",
+      "Incorrect. 3.00% does not follow the required calculation, classification, or interpretation. TWR=(1.05)(0.98)−1=2.90%."
+    ],
+    "relatedFormulaIds": [
+      "time-weighted-return"
+    ],
+    "tags": [
+      "qm-lm3",
+      "twr-calculation",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm3r-04",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return and interpret index weighting and returns",
+    "lessonSectionId": "introduction",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Cash flows are −100 initially and +110 one year later. The money-weighted return is:",
+    "choices": [
+      "10%",
+      "9.09%",
+      "110%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Solve −100+110/(1+r)=0, giving r=10%.",
+    "incorrectChoiceExplanations": [
+      "Correct. Solve −100+110/(1+r)=0, giving r=10%.",
+      "Incorrect. 9.09% does not follow the required calculation, classification, or interpretation. Solve −100+110/(1+r)=0, giving r=10%.",
+      "Incorrect. 110% does not follow the required calculation, classification, or interpretation. Solve −100+110/(1+r)=0, giving r=10%."
+    ],
+    "relatedFormulaIds": [
+      "money-weighted-return-02"
+    ],
+    "tags": [
+      "qm-lm3",
+      "mwr-calculation",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm3r-05",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return and interpret index weighting and returns",
+    "lessonSectionId": "introduction",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A price-weighted index contains securities priced at 20, 40, and 60 with divisor 3. Its level is:",
+    "choices": [
+      "120.00",
+      "20.00",
+      "40.00"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Index level=(20+40+60)/3=40.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 120.00 does not follow the required calculation, classification, or interpretation. Index level=(20+40+60)/3=40.",
+      "Incorrect. 20.00 does not follow the required calculation, classification, or interpretation. Index level=(20+40+60)/3=40.",
+      "Correct. Index level=(20+40+60)/3=40."
+    ],
+    "relatedFormulaIds": [
+      "price-weighted-index-03"
+    ],
+    "tags": [
+      "qm-lm3",
+      "price-weighted",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm3r-06",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return and interpret index weighting and returns",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "In a price-weighted index, a 2-for-1 split occurs in the highest-priced constituent. To preserve continuity, the index provider should:",
+    "choices": [
+      "leave the divisor unchanged",
+      "adjust the divisor",
+      "double every constituent weight"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "A split changes price mechanically, so the divisor is adjusted to prevent an artificial index jump.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. leave the divisor unchanged does not follow the required calculation, classification, or interpretation. A split changes price mechanically, so the divisor is adjusted to prevent an artificial index jump.",
+      "Correct. A split changes price mechanically, so the divisor is adjusted to prevent an artificial index jump.",
+      "Incorrect. double every constituent weight does not follow the required calculation, classification, or interpretation. A split changes price mechanically, so the divisor is adjusted to prevent an artificial index jump."
+    ],
+    "relatedFormulaIds": [
+      "price-weighted-index-03"
+    ],
+    "tags": [
+      "qm-lm3",
+      "divisor-adjustment",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm3r-07",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return and interpret index weighting and returns",
+    "lessonSectionId": "introduction",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Three constituents return 9%, −3%, and 6%. An equal-weighted index return is:",
+    "choices": [
+      "4.0%",
+      "12.0%",
+      "3.0%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Equal-weighted return=(9−3+6)/3=4.0%.",
+    "incorrectChoiceExplanations": [
+      "Correct. Equal-weighted return=(9−3+6)/3=4.0%.",
+      "Incorrect. 12.0% does not follow the required calculation, classification, or interpretation. Equal-weighted return=(9−3+6)/3=4.0%.",
+      "Incorrect. 3.0% does not follow the required calculation, classification, or interpretation. Equal-weighted return=(9−3+6)/3=4.0%."
+    ],
+    "relatedFormulaIds": [
+      "equal-weighted-index-return-03"
+    ],
+    "tags": [
+      "qm-lm3",
+      "equal-weighted",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm3r-08",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return and interpret index weighting and returns",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Beginning capitalization weights are 20%, 30%, and 50%; returns are 5%, 10%, and −2%. Index return is:",
+    "choices": [
+      "4.33%",
+      "1.5%",
+      "3.0%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Capitalization-weighted return=0.2(5)+0.3(10)+0.5(−2)=3.0%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 4.33% does not follow the required calculation, classification, or interpretation. Capitalization-weighted return=0.2(5)+0.3(10)+0.5(−2)=3.0%.",
+      "Incorrect. 1.5% does not follow the required calculation, classification, or interpretation. Capitalization-weighted return=0.2(5)+0.3(10)+0.5(−2)=3.0%.",
+      "Correct. Capitalization-weighted return=0.2(5)+0.3(10)+0.5(−2)=3.0%."
+    ],
+    "relatedFormulaIds": [
+      "cap-weighted-index-return-03"
+    ],
+    "tags": [
+      "qm-lm3",
+      "cap-weighted",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm3r-09",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return and interpret index weighting and returns",
+    "lessonSectionId": "introduction",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A company has market capitalization of 900 and a free-float factor of 60%. Its float-adjusted capitalization is:",
+    "choices": [
+      "360",
+      "540",
+      "1,500"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Float-adjusted capitalization=900×0.60=540.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 360 does not follow the required calculation, classification, or interpretation. Float-adjusted capitalization=900×0.60=540.",
+      "Correct. Float-adjusted capitalization=900×0.60=540.",
+      "Incorrect. 1,500 does not follow the required calculation, classification, or interpretation. Float-adjusted capitalization=900×0.60=540."
+    ],
+    "relatedFormulaIds": [
+      "float-adjusted-cap-03"
+    ],
+    "tags": [
+      "qm-lm3",
+      "float-adjustment",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm3r-10",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return and interpret index weighting and returns",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Compared with capitalization weighting, equal weighting generally requires:",
+    "choices": [
+      "more frequent rebalancing to restore equal weights",
+      "no rebalancing after price changes",
+      "weights based only on share price"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Returns cause equal weights to drift, so periodic rebalancing is needed to restore them.",
+    "incorrectChoiceExplanations": [
+      "Correct. Returns cause equal weights to drift, so periodic rebalancing is needed to restore them.",
+      "Incorrect. no rebalancing after price changes does not follow the required calculation, classification, or interpretation. Returns cause equal weights to drift, so periodic rebalancing is needed to restore them.",
+      "Incorrect. weights based only on share price does not follow the required calculation, classification, or interpretation. Returns cause equal weights to drift, so periodic rebalancing is needed to restore them."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm3",
+      "rebalancing",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm3r-11",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return and interpret index weighting and returns",
+    "lessonSectionId": "introduction",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Replacing an ineligible constituent with an eligible security is best described as:",
+    "choices": [
+      "divisor-free compounding",
+      "return annualization",
+      "index reconstitution"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Reconstitution changes index membership according to the provider’s eligibility rules.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. divisor-free compounding does not follow the required calculation, classification, or interpretation. Reconstitution changes index membership according to the provider’s eligibility rules.",
+      "Incorrect. return annualization does not follow the required calculation, classification, or interpretation. Reconstitution changes index membership according to the provider’s eligibility rules.",
+      "Correct. Reconstitution changes index membership according to the provider’s eligibility rules."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm3",
+      "reconstitution",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm3r-12",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return and interpret index weighting and returns",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "A price-return index is flat while its total-return counterpart gains 2%. The difference is most plausibly attributable to:",
+    "choices": [
+      "removal of every constituent",
+      "reinvested constituent distributions",
+      "a different beginning-value denominator"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Total-return indexes include distributions; price-return indexes omit them.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. removal of every constituent does not follow the required calculation, classification, or interpretation. Total-return indexes include distributions; price-return indexes omit them.",
+      "Correct. Total-return indexes include distributions; price-return indexes omit them.",
+      "Incorrect. a different beginning-value denominator does not follow the required calculation, classification, or interpretation. Total-return indexes include distributions; price-return indexes omit them."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm3",
+      "price-total-index",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm3r-13",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return and interpret index weighting and returns",
+    "lessonSectionId": "introduction",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "A portfolio earns 7% and its benchmark earns 5.5%. Tracking difference is:",
+    "choices": [
+      "1.5%",
+      "12.5%",
+      "−1.5%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Tracking difference=portfolio return−benchmark return=1.5%.",
+    "incorrectChoiceExplanations": [
+      "Correct. Tracking difference=portfolio return−benchmark return=1.5%.",
+      "Incorrect. 12.5% does not follow the required calculation, classification, or interpretation. Tracking difference=portfolio return−benchmark return=1.5%.",
+      "Incorrect. −1.5% does not follow the required calculation, classification, or interpretation. Tracking difference=portfolio return−benchmark return=1.5%."
+    ],
+    "relatedFormulaIds": [
+      "tracking-difference-03"
+    ],
+    "tags": [
+      "qm-lm3",
+      "relative-performance",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm3r-14",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return and interpret index weighting and returns",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "A capitalization-weighted index becomes dominated by one large issuer. The most direct interpretation is:",
+    "choices": [
+      "every constituent now contributes equally",
+      "the index has become price weighted",
+      "index performance is increasingly sensitive to that issuer"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Larger capitalization produces larger weight, so concentration increases sensitivity to the dominant issuer.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. every constituent now contributes equally does not follow the required calculation, classification, or interpretation. Larger capitalization produces larger weight, so concentration increases sensitivity to the dominant issuer.",
+      "Incorrect. the index has become price weighted does not follow the required calculation, classification, or interpretation. Larger capitalization produces larger weight, so concentration increases sensitivity to the dominant issuer.",
+      "Correct. Larger capitalization produces larger weight, so concentration increases sensitivity to the dominant issuer."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm3",
+      "concentration",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm3r-15",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return and interpret index weighting and returns",
+    "lessonSectionId": "introduction",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "A benchmark is appropriate for performance evaluation only if it is:",
+    "choices": [
+      "guaranteed to have lower volatility than the portfolio",
+      "consistent with the portfolio’s investable strategy and risk exposures",
+      "selected after observing which index performed best"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "A valid benchmark should be specified consistently with the mandate, not chosen after outcomes are known.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. guaranteed to have lower volatility than the portfolio does not follow the required calculation, classification, or interpretation. A valid benchmark should be specified consistently with the mandate, not chosen after outcomes are known.",
+      "Correct. A valid benchmark should be specified consistently with the mandate, not chosen after outcomes are known.",
+      "Incorrect. selected after observing which index performed best does not follow the required calculation, classification, or interpretation. A valid benchmark should be specified consistently with the mandate, not chosen after outcomes are known."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm3",
+      "benchmark-selection",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm3v-01",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "lessonSectionId": "official-index-construction-application-lab",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A portfolio is valued immediately before every external cash flow. Which process produces its time-weighted return?",
+    "choices": [
+      "Link the intervening subperiod returns geometrically",
+      "Solve one IRR using every external cash flow",
+      "Weight each subperiod return by ending wealth"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "TWR removes external-flow size effects by splitting at flows and linking wealth relatives.",
+    "incorrectChoiceExplanations": [
+      "Correct. TWR removes external-flow size effects by splitting at flows and linking wealth relatives.",
+      "Incorrect. Solve one IRR using every external cash flow conflicts with the calculation or measurement convention. TWR removes external-flow size effects by splitting at flows and linking wealth relatives.",
+      "Incorrect. Weight each subperiod return by ending wealth conflicts with the calculation or measurement convention. TWR removes external-flow size effects by splitting at flows and linking wealth relatives."
+    ],
+    "relatedFormulaIds": [
+      "time-weighted-return"
+    ],
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm3v-02",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "lessonSectionId": "official-index-construction-application-lab",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A fund returns 8% before a contribution and 3% afterward. Its linked time-weighted return is closest to:",
+    "choices": [
+      "11.00%",
+      "5.50%",
+      "11.24%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "(1.08)(1.03)−1=11.24%; addition and averaging both ignore the required linking.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 11.00% conflicts with the calculation or measurement convention. (1.08)(1.03)−1=11.24%; addition and averaging both ignore the required linking.",
+      "Incorrect. 5.50% conflicts with the calculation or measurement convention. (1.08)(1.03)−1=11.24%; addition and averaging both ignore the required linking.",
+      "Correct. (1.08)(1.03)−1=11.24%; addition and averaging both ignore the required linking."
+    ],
+    "relatedFormulaIds": [
+      "time-weighted-return"
+    ],
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm3v-03",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "lessonSectionId": "official-index-construction-application-lab",
+    "difficulty": "hard",
+    "estimatedSeconds": 120,
+    "stem": "An account begins at 100, receives a 50 contribution after earning 10%, and ends at 168 after a second subperiod. The second subperiod return is:",
+    "choices": [
+      "52.73%",
+      "5.00%",
+      "12.00%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Value just after the flow is 110+50=160, so the second return is 168/160−1=5%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 52.73% conflicts with the calculation or measurement convention. Value just after the flow is 110+50=160, so the second return is 168/160−1=5%.",
+      "Correct. Value just after the flow is 110+50=160, so the second return is 168/160−1=5%.",
+      "Incorrect. 12.00% conflicts with the calculation or measurement convention. Value just after the flow is 110+50=160, so the second return is 168/160−1=5%."
+    ],
+    "relatedFormulaIds": [
+      "time-weighted-return"
+    ],
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm3v-04",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "lessonSectionId": "official-index-construction-application-lab",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Cash flows are −200 today and +242 two years later. The annual money-weighted return is:",
+    "choices": [
+      "10.00%",
+      "21.00%",
+      "9.54%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Solve −200+242/(1+r)^2=0; (1+r)^2=1.21 and r=10%.",
+    "incorrectChoiceExplanations": [
+      "Correct. Solve −200+242/(1+r)^2=0; (1+r)^2=1.21 and r=10%.",
+      "Incorrect. 21.00% conflicts with the calculation or measurement convention. Solve −200+242/(1+r)^2=0; (1+r)^2=1.21 and r=10%.",
+      "Incorrect. 9.54% conflicts with the calculation or measurement convention. Solve −200+242/(1+r)^2=0; (1+r)^2=1.21 and r=10%."
+    ],
+    "relatedFormulaIds": [
+      "money-weighted-return-02"
+    ],
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm3v-05",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "lessonSectionId": "official-index-construction-application-lab",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A large withdrawal occurs immediately before the portfolio’s worst subperiod. Compared with TWR, MWR will most likely place:",
+    "choices": [
+      "more economic weight on the loss",
+      "exactly equal weight on every subperiod",
+      "less economic weight on the loss"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "MWR reflects capital invested; after the withdrawal, less capital experiences the loss.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. more economic weight on the loss conflicts with the calculation or measurement convention. MWR reflects capital invested; after the withdrawal, less capital experiences the loss.",
+      "Incorrect. exactly equal weight on every subperiod conflicts with the calculation or measurement convention. MWR reflects capital invested; after the withdrawal, less capital experiences the loss.",
+      "Correct. MWR reflects capital invested; after the withdrawal, less capital experiences the loss."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm3v-06",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "lessonSectionId": "official-index-construction-application-lab",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Which return best reports the experience of an investor who controls contribution timing?",
+    "choices": [
+      "Price-index return",
+      "Money-weighted return",
+      "Time-weighted return"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "MWR incorporates the size and timing of the investor’s actual cash flows.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. Price-index return conflicts with the calculation or measurement convention. MWR incorporates the size and timing of the investor’s actual cash flows.",
+      "Correct. MWR incorporates the size and timing of the investor’s actual cash flows.",
+      "Incorrect. Time-weighted return conflicts with the calculation or measurement convention. MWR incorporates the size and timing of the investor’s actual cash flows."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm3v-07",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "lessonSectionId": "official-index-construction-application-lab",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A manager controls when a closed-end strategy calls committed capital. Which measure may be especially relevant?",
+    "choices": [
+      "Money-weighted return",
+      "Price return only",
+      "An equal-weighted index return"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "When the manager controls external-flow timing, MWR can reflect that decision.",
+    "incorrectChoiceExplanations": [
+      "Correct. When the manager controls external-flow timing, MWR can reflect that decision.",
+      "Incorrect. Price return only conflicts with the calculation or measurement convention. When the manager controls external-flow timing, MWR can reflect that decision.",
+      "Incorrect. An equal-weighted index return conflicts with the calculation or measurement convention. When the manager controls external-flow timing, MWR can reflect that decision."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm3v-08",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "lessonSectionId": "official-index-construction-application-lab",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Subperiod returns are −50%, +10%, and +10%. The cumulative TWR is:",
+    "choices": [
+      "−30.00%",
+      "−15.42%",
+      "−39.50%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "(0.50)(1.10)(1.10)−1=−39.50%. −15.42% is the annualized geometric rate, not cumulative return.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. −30.00% conflicts with the calculation or measurement convention. (0.50)(1.10)(1.10)−1=−39.50%. −15.42% is the annualized geometric rate, not cumulative return.",
+      "Incorrect. −15.42% conflicts with the calculation or measurement convention. (0.50)(1.10)(1.10)−1=−39.50%. −15.42% is the annualized geometric rate, not cumulative return.",
+      "Correct. (0.50)(1.10)(1.10)−1=−39.50%. −15.42% is the annualized geometric rate, not cumulative return."
+    ],
+    "relatedFormulaIds": [
+      "time-weighted-return"
+    ],
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm3v-09",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "lessonSectionId": "official-index-construction-application-lab",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "The annualized TWR for three equal annual subperiods with cumulative wealth relative 0.605 is closest to:",
+    "choices": [
+      "−13.17%",
+      "−15.42%",
+      "−39.50%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "0.605^(1/3)−1=−15.42%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. −13.17% conflicts with the calculation or measurement convention. 0.605^(1/3)−1=−15.42%.",
+      "Correct. 0.605^(1/3)−1=−15.42%.",
+      "Incorrect. −39.50% conflicts with the calculation or measurement convention. 0.605^(1/3)−1=−15.42%."
+    ],
+    "relatedFormulaIds": [
+      "time-weighted-return"
+    ],
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm3v-10",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and compare money-weighted and time-weighted rates of return",
+    "lessonSectionId": "official-index-construction-application-lab",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "For an IRR calculation from the investor perspective, a contribution and final liquidation value normally have signs that are:",
+    "choices": [
+      "negative and positive, respectively",
+      "positive and negative, respectively",
+      "both positive"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Contributions are investor outflows; distributions and terminal value are inflows.",
+    "incorrectChoiceExplanations": [
+      "Correct. Contributions are investor outflows; distributions and terminal value are inflows.",
+      "Incorrect. positive and negative, respectively conflicts with the calculation or measurement convention. Contributions are investor outflows; distributions and terminal value are inflows.",
+      "Incorrect. both positive conflicts with the calculation or measurement convention. Contributions are investor outflows; distributions and terminal value are inflows."
+    ],
+    "relatedFormulaIds": [
+      "money-weighted-return-02"
+    ],
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm3v-11",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "lessonSectionId": "official-index-construction-application-lab",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "A price-weighted index has prices 15, 25, and 50 and divisor 3. Its level is:",
+    "choices": [
+      "90",
+      "16.67",
+      "30"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "(15+25+50)/3=30.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 90 conflicts with the calculation or measurement convention. (15+25+50)/3=30.",
+      "Incorrect. 16.67 conflicts with the calculation or measurement convention. (15+25+50)/3=30.",
+      "Correct. (15+25+50)/3=30."
+    ],
+    "relatedFormulaIds": [
+      "price-weighted-index-03"
+    ],
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm3v-12",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "lessonSectionId": "official-index-construction-application-lab",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Immediately after a 2-for-1 split, constituent prices sum to 72 while the pre-split index level was 30. The continuity divisor is:",
+    "choices": [
+      "0.417",
+      "2.40",
+      "3.00"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Choose d so 72/d=30; d=2.40.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 0.417 conflicts with the calculation or measurement convention. Choose d so 72/d=30; d=2.40.",
+      "Correct. Choose d so 72/d=30; d=2.40.",
+      "Incorrect. 3.00 conflicts with the calculation or measurement convention. Choose d so 72/d=30; d=2.40."
+    ],
+    "relatedFormulaIds": [
+      "price-weighted-index-03"
+    ],
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm3v-13",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "lessonSectionId": "official-index-construction-application-lab",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "A price-weighted index is most sensitive to the return of the constituent with the:",
+    "choices": [
+      "highest share price",
+      "largest market capitalization",
+      "largest free-float factor"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Price weighting assigns influence in proportion to price per share, not company size.",
+    "incorrectChoiceExplanations": [
+      "Correct. Price weighting assigns influence in proportion to price per share, not company size.",
+      "Incorrect. largest market capitalization conflicts with the calculation or measurement convention. Price weighting assigns influence in proportion to price per share, not company size.",
+      "Incorrect. largest free-float factor conflicts with the calculation or measurement convention. Price weighting assigns influence in proportion to price per share, not company size."
+    ],
+    "relatedFormulaIds": [
+      "price-weighted-index-03"
+    ],
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm3v-14",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "lessonSectionId": "official-index-construction-application-lab",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Constituent returns are 14%, −5%, 3%, and 8%. The equal-weighted index return is:",
+    "choices": [
+      "20.00%",
+      "4.25%",
+      "5.00%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "(14−5+3+8)/4=5%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 20.00% conflicts with the calculation or measurement convention. (14−5+3+8)/4=5%.",
+      "Incorrect. 4.25% conflicts with the calculation or measurement convention. (14−5+3+8)/4=5%.",
+      "Correct. (14−5+3+8)/4=5%."
+    ],
+    "relatedFormulaIds": [
+      "equal-weighted-index-return-03"
+    ],
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm3v-15",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "lessonSectionId": "official-index-construction-application-lab",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "After one constituent outperforms in an equal-weighted index, its weight before rebalancing will generally:",
+    "choices": [
+      "fall below its target equal weight",
+      "rise above its target equal weight",
+      "remain exactly equal automatically"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Relative outperformance increases its market value and causes weight drift.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. fall below its target equal weight conflicts with the calculation or measurement convention. Relative outperformance increases its market value and causes weight drift.",
+      "Correct. Relative outperformance increases its market value and causes weight drift.",
+      "Incorrect. remain exactly equal automatically conflicts with the calculation or measurement convention. Relative outperformance increases its market value and causes weight drift."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm3v-16",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "lessonSectionId": "official-index-construction-application-lab",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Restoring every constituent to the target weight is index:",
+    "choices": [
+      "rebalancing",
+      "reconstitution",
+      "annualization"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Rebalancing restores weights; reconstitution changes membership.",
+    "incorrectChoiceExplanations": [
+      "Correct. Rebalancing restores weights; reconstitution changes membership.",
+      "Incorrect. reconstitution conflicts with the calculation or measurement convention. Rebalancing restores weights; reconstitution changes membership.",
+      "Incorrect. annualization conflicts with the calculation or measurement convention. Rebalancing restores weights; reconstitution changes membership."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm3v-17",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "lessonSectionId": "official-index-construction-application-lab",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Applying eligibility rules and replacing securities is index:",
+    "choices": [
+      "rebalancing",
+      "compounding",
+      "reconstitution"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Reconstitution changes the constituent set under index rules.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. rebalancing conflicts with the calculation or measurement convention. Reconstitution changes the constituent set under index rules.",
+      "Incorrect. compounding conflicts with the calculation or measurement convention. Reconstitution changes the constituent set under index rules.",
+      "Correct. Reconstitution changes the constituent set under index rules."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm3v-18",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "lessonSectionId": "official-index-construction-application-lab",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Beginning market values are 100, 300, and 600. Their capitalization weights are:",
+    "choices": [
+      "16.7%, 33.3%, and 50%",
+      "10%, 30%, and 60%",
+      "33.3%, 33.3%, and 33.3%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Divide each value by total capitalization of 1,000.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 16.7%, 33.3%, and 50% conflicts with the calculation or measurement convention. Divide each value by total capitalization of 1,000.",
+      "Correct. Divide each value by total capitalization of 1,000.",
+      "Incorrect. 33.3%, 33.3%, and 33.3% conflicts with the calculation or measurement convention. Divide each value by total capitalization of 1,000."
+    ],
+    "relatedFormulaIds": [
+      "cap-weighted-index-return-03"
+    ],
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm3v-19",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "lessonSectionId": "official-index-construction-application-lab",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Capitalization weights are 10%, 30%, and 60%; returns are 20%, 5%, and −4%. Index return is:",
+    "choices": [
+      "1.10%",
+      "7.00%",
+      "3.67%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "0.10(20)+0.30(5)+0.60(−4)=1.10%.",
+    "incorrectChoiceExplanations": [
+      "Correct. 0.10(20)+0.30(5)+0.60(−4)=1.10%.",
+      "Incorrect. 7.00% conflicts with the calculation or measurement convention. 0.10(20)+0.30(5)+0.60(−4)=1.10%.",
+      "Incorrect. 3.67% conflicts with the calculation or measurement convention. 0.10(20)+0.30(5)+0.60(−4)=1.10%."
+    ],
+    "relatedFormulaIds": [
+      "cap-weighted-index-return-03"
+    ],
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm3v-20",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "lessonSectionId": "official-index-construction-application-lab",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A company has 20 million shares at 30 and a 75% float factor. Float-adjusted capitalization is:",
+    "choices": [
+      "600 million",
+      "337.5 million",
+      "450 million"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "30×20 million×0.75=450 million.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 600 million conflicts with the calculation or measurement convention. 30×20 million×0.75=450 million.",
+      "Incorrect. 337.5 million conflicts with the calculation or measurement convention. 30×20 million×0.75=450 million.",
+      "Correct. 30×20 million×0.75=450 million."
+    ],
+    "relatedFormulaIds": [
+      "float-adjusted-cap-03"
+    ],
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm3v-21",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "lessonSectionId": "official-index-construction-application-lab",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A strategic founder holding excluded by a float adjustment most directly causes the company’s index weight to:",
+    "choices": [
+      "become equal to every other weight",
+      "decrease relative to full-cap weighting",
+      "increase above full-cap weighting"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Excluding non-investable shares lowers the reference capitalization.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. become equal to every other weight conflicts with the calculation or measurement convention. Excluding non-investable shares lowers the reference capitalization.",
+      "Correct. Excluding non-investable shares lowers the reference capitalization.",
+      "Incorrect. increase above full-cap weighting conflicts with the calculation or measurement convention. Excluding non-investable shares lowers the reference capitalization."
+    ],
+    "relatedFormulaIds": [
+      "float-adjusted-cap-03"
+    ],
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm3v-22",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "lessonSectionId": "official-index-construction-application-lab",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Compared with equal weighting, capitalization weighting generally requires:",
+    "choices": [
+      "less trading merely to restore weights after price changes",
+      "daily trades to restore original market values",
+      "a divisor equal to the number of securities"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Price changes naturally update capitalization weights, reducing forced rebalancing.",
+    "incorrectChoiceExplanations": [
+      "Correct. Price changes naturally update capitalization weights, reducing forced rebalancing.",
+      "Incorrect. daily trades to restore original market values conflicts with the calculation or measurement convention. Price changes naturally update capitalization weights, reducing forced rebalancing.",
+      "Incorrect. a divisor equal to the number of securities conflicts with the calculation or measurement convention. Price changes naturally update capitalization weights, reducing forced rebalancing."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm3v-23",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "lessonSectionId": "official-index-construction-application-lab",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A capitalization-weighted index has one constituent at 45% weight. The clearest implication is:",
+    "choices": [
+      "every constituent contributes equally",
+      "the index is automatically diversified",
+      "index return is highly sensitive to that constituent"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "A large weight concentrates the index’s return exposure.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. every constituent contributes equally conflicts with the calculation or measurement convention. A large weight concentrates the index’s return exposure.",
+      "Incorrect. the index is automatically diversified conflicts with the calculation or measurement convention. A large weight concentrates the index’s return exposure.",
+      "Correct. A large weight concentrates the index’s return exposure."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm3v-24",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "lessonSectionId": "official-index-construction-application-lab",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "An index rises from 800 to 824 with no distributions. Its price return is:",
+    "choices": [
+      "24.00%",
+      "3.00%",
+      "2.91%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "824/800−1=3%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 24.00% conflicts with the calculation or measurement convention. 824/800−1=3%.",
+      "Correct. 824/800−1=3%.",
+      "Incorrect. 2.91% conflicts with the calculation or measurement convention. 824/800−1=3%."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm3v-25",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "lessonSectionId": "official-index-construction-application-lab",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "An index begins at 1,000, ends at 1,025, and includes 15 points of distributions. Total return is:",
+    "choices": [
+      "4.00%",
+      "2.50%",
+      "1.50%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "(1,025−1,000+15)/1,000=4%.",
+    "incorrectChoiceExplanations": [
+      "Correct. (1,025−1,000+15)/1,000=4%.",
+      "Incorrect. 2.50% conflicts with the calculation or measurement convention. (1,025−1,000+15)/1,000=4%.",
+      "Incorrect. 1.50% conflicts with the calculation or measurement convention. (1,025−1,000+15)/1,000=4%."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm3v-26",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "lessonSectionId": "official-index-construction-application-lab",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "A total-return index exceeds an otherwise identical price-return index because the total-return version:",
+    "choices": [
+      "uses only the highest-priced constituent",
+      "excludes constituent price changes",
+      "includes distributions under its reinvestment convention"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The distinguishing component is constituent distributions.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. uses only the highest-priced constituent conflicts with the calculation or measurement convention. The distinguishing component is constituent distributions.",
+      "Incorrect. excludes constituent price changes conflicts with the calculation or measurement convention. The distinguishing component is constituent distributions.",
+      "Correct. The distinguishing component is constituent distributions."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm3v-27",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "lessonSectionId": "official-index-construction-application-lab",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "An index provider replaces a constituent but wants zero mechanical return at the effective instant. It should adjust:",
+    "choices": [
+      "every historical constituent return",
+      "the index shares or divisor consistently",
+      "the prior period’s investor cash flows"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Index maintenance factors preserve continuity through non-economic changes.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. every historical constituent return conflicts with the calculation or measurement convention. Index maintenance factors preserve continuity through non-economic changes.",
+      "Correct. Index maintenance factors preserve continuity through non-economic changes.",
+      "Incorrect. the prior period’s investor cash flows conflicts with the calculation or measurement convention. Index maintenance factors preserve continuity through non-economic changes."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm3v-28",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "lessonSectionId": "official-index-construction-application-lab",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Which weighting method gives the same beginning weight to a small and a large company?",
+    "choices": [
+      "Equal weighting",
+      "Capitalization weighting",
+      "Float-adjusted capitalization weighting"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Equal weighting assigns identical target weights regardless of size.",
+    "incorrectChoiceExplanations": [
+      "Correct. Equal weighting assigns identical target weights regardless of size.",
+      "Incorrect. Capitalization weighting conflicts with the calculation or measurement convention. Equal weighting assigns identical target weights regardless of size.",
+      "Incorrect. Float-adjusted capitalization weighting conflicts with the calculation or measurement convention. Equal weighting assigns identical target weights regardless of size."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm3v-29",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "lessonSectionId": "official-index-construction-application-lab",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Which weighting method can give a highly priced share more influence even when its company is small?",
+    "choices": [
+      "Equal weighting",
+      "Float-adjusted capitalization weighting",
+      "Price weighting"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Price weighting responds to price per share rather than economic size.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. Equal weighting conflicts with the calculation or measurement convention. Price weighting responds to price per share rather than economic size.",
+      "Incorrect. Float-adjusted capitalization weighting conflicts with the calculation or measurement convention. Price weighting responds to price per share rather than economic size.",
+      "Correct. Price weighting responds to price per share rather than economic size."
+    ],
+    "relatedFormulaIds": [
+      "price-weighted-index-03"
+    ],
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm3v-30",
+    "lessonId": "quant-benchmarking-03",
+    "studyLessonId": "quant-benchmarking-03",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM3",
+    "supplementary": false,
+    "officialLearningOutcome": "describe choices and implications of weighting methods used in index construction and management, and calculate, interpret, and explain the value and return of an index",
+    "lessonSectionId": "official-index-construction-application-lab",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "For valid comparison, a portfolio and its index should use the same period and:",
+    "choices": [
+      "share-price denomination per constituent",
+      "return convention, including price versus total return",
+      "number of portfolio holdings"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Matching horizon and return convention prevents an apples-to-oranges comparison.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. share-price denomination per constituent conflicts with the calculation or measurement convention. Matching horizon and return convention prevents an apples-to-oranges comparison.",
+      "Correct. Matching horizon and return convention prevents an apples-to-oranges comparison.",
+      "Incorrect. number of portfolio holdings conflicts with the calculation or measurement convention. Matching horizon and return convention prevents an apples-to-oranges comparison."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm3",
+      "checkpoint-1-verified",
+      "mock-style"
+    ]
+  }
+]

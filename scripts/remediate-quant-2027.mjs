@@ -1,0 +1,67 @@
+import {readFile,writeFile} from 'node:fs/promises';
+
+const read=async p=>JSON.parse(await readFile(p,'utf8'));
+const write=(p,v)=>writeFile(p,JSON.stringify(v,null,2)+'\n');
+const map={
+ 'quant-returns-01':['QM-LM1'], 'quant-returns-02':['QM-LM2'], 'quant-benchmarking-03':['QM-LM3'], 'quant-tvm-04':['QM-LM4'], 'quant-statistics-05':['QM-LM5'], 'quant-probability-06':['QM-LM6'],
+ 'quant-sampling-08':['QM-LM7','A'], 'quant-hypothesis-09':['QM-LM7','B'], 'quant-distributions-07':['QM-LM8'], 'quant-simulation-11':['QM-LM9'], 'quant-regression-10':['QM-LM10'], 'quant-data-ai-12':['QM-LM11']
+};
+const outcome='calculate, interpret, and evaluate expected return, variance, standard deviation, covariance, and correlation of portfolio returns';
+const concepts=[
+ ['expected return','A portfolio invests 40% at an expected 6% and 60% at 10%. Its expected return is:',['8.4%','7.6%','16.0%'],0,'Weighting gives 0.40(6%)+0.60(10%)=8.4%.','portfolio-expected-return-08'],
+ ['return contribution','A 25% position earns -4%. Its contribution to portfolio return is:',['-1.0 percentage point','-4.0 percentage points','-0.25 percentage point'],0,'Contribution is weight times return: 0.25(-4%)=-1.0 percentage point.',null],
+ ['covariance','Standard deviations are 12% and 20% and correlation is 0.25. Covariance equals:',['0.0060','0.0600','0.2400'],0,'Covariance is 0.25(0.12)(0.20)=0.0060.','covariance-08'],
+ ['correlation','Covariance is 0.009 and standard deviations are 15% and 30%. Correlation equals:',['0.20','0.45','2.00'],0,'Correlation is 0.009/(0.15×0.30)=0.20.','correlation-08'],
+ ['two-asset risk','A 50/50 portfolio has asset risks of 10% and 18% with correlation 0.30. Its risk is closest to:',['11.53%','14.00%','7.00%'],0,'Variance is 0.0133 and its square root is 11.53%.','two-asset-variance-08'],
+ ['perfect positive correlation','For two long-only assets with correlation +1, portfolio standard deviation is:',['the weighted average of asset standard deviations','always zero','the product of asset variances'],0,'At perfect positive correlation, no curvature diversification benefit remains.',null],
+ ['perfect negative correlation','With correlation -1, a zero-variance combination is:',['possible for suitable weights','impossible for risky assets','guaranteed at equal weights'],0,'Perfectly opposing movements can exactly offset at weights determined by relative volatility.',null],
+ ['diversification','Diversification most directly reduces:',['asset-specific risk','all systematic risk','expected return mechanically'],0,'Combining imperfectly correlated assets reduces asset-specific risk, not common systematic exposure.',null],
+ ['GMV weight','Variances are 0.0144 and 0.0324 and covariance is 0.0036. The GMV weight in the first asset is closest to:',['72.73%','27.27%','50.00%'],0,'(0.0324-0.0036)/(0.0144+0.0324-2×0.0036)=72.73%.','minimum-variance-weight-08'],
+ ['efficient frontier','The efficient frontier contains portfolios that:',['maximize expected return for a given risk','have the smallest number of securities','always include the risk-free asset'],0,'Efficient portfolios are non-dominated in mean–variance space.',null],
+ ['CAL return','The risk-free rate is 3%, a risky portfolio returns 9%, and y=0.75. Complete-portfolio return is:',['7.5%','6.75%','9.0%'],0,'3%+0.75(9%-3%)=7.5%.','cal-return-08'],
+ ['CAL risk','A risky portfolio has 12% risk and y=0.75. Complete-portfolio risk is:',['9%','12%','3%'],0,'The risk-free asset has no volatility, so risk is 0.75(12%)=9%.','cal-risk-08'],
+ ['CAL slope','A risky portfolio returns 10% with 14% risk and the risk-free rate is 3%. CAL slope is:',['0.50','0.71','0.20'],0,'The slope is the Sharpe ratio: (10%-3%)/14%=0.50.',null],
+ ['utility','With U=E(R)-0.5Aσ², E(R)=8%, σ=10%, and A=4, utility is:',['6.0%','4.0%','7.8%'],0,'0.08-0.5(4)(0.10²)=0.06.','portfolio-utility-08'],
+ ['optimal allocation','A risky portfolio has 6% excess return, 15% risk, and A=3. Optimal risky weight is closest to:',['88.89%','26.67%','133.33%'],0,'y*=0.06/[3(0.15²)]=0.8889.',null]
+];
+const variants=['Core calculation','Analyst review','Exam application'];
+const questions=concepts.flatMap((c,ci)=>variants.map((v,vi)=>{
+ const rotate=vi, choices=[...c[2].slice(rotate),...c[2].slice(0,rotate)],correct=(c[3]-rotate+3)%3;
+ return {id:`q08-${String(ci*3+vi+1).padStart(2,'0')}`,lessonId:'quant-distributions-07',studyLessonId:'quant-distributions-07',officialModuleId:'QM-LM8',supplementary:false,topicId:'quantitative-methods',officialLearningOutcome:outcome,difficulty:['easy','medium','hard'][vi],estimatedSeconds:60+vi*30,stem:`${v}: ${c[1]}`,choices,correctChoiceIndex:correct,explanation:c[4],incorrectChoiceExplanations:choices.map((choice,i)=>i===correct?`Correct. ${c[4]}`:`Incorrect. ${choice} does not follow the required ${c[0]} relationship; ${c[4]}`),relatedFormulaIds:c[5]?[c[5]]:[],tags:['portfolio',c[0]]};
+}));
+
+const qOld=await read('src/data/questions/quantitative-distributions.json');
+const qProbability=await read('src/data/questions/quantitative-probability.json');
+for(const q of qOld){q.lessonId='quant-probability-06';q.studyLessonId='quant-probability-06';q.officialModuleId='QM-LM6';q.supplementary=false;q.legacySourceLessonId='quant-distributions-07'}
+await write('src/data/questions/quantitative-probability.json',[...qProbability,...qOld]);
+await write('src/data/questions/quantitative-distributions.json',questions);
+
+const cardFile='src/data/flashcards/quantitative-modules-7-8.json',cards=await read(cardFile);
+for(const c of cards.filter(c=>c.lessonId==='quant-distributions-07')){c.lessonId='quant-probability-06';c.studyLessonId='quant-probability-06';c.officialModuleId='QM-LM6';c.supplementary=false;c.legacySourceLessonId='quant-distributions-07'}
+const prompts=[
+ ['Portfolio expected return','Weighted average: ΣwᵢE(Rᵢ). Correlation does not enter.'],['Return contribution','A holding contributes wᵢRᵢ percentage points.'],['Portfolio variance','ΣᵢΣⱼwᵢwⱼCovᵢⱼ.'],['Two-asset variance','wA²σA²+wB²σB²+2wAwBρABσAσB.'],['Covariance','Direction and scale of co-movement; Cov=ρσAσB.'],['Correlation','Unit-free standardized covariance bounded from -1 to +1.'],['Perfect positive correlation','No diversification curvature for long-only positions.'],['Perfect negative correlation','A suitable weight combination can have zero variance.'],['Zero correlation','No linear association; it does not generally prove independence.'],['Diversification','Reduces asset-specific risk through imperfect co-movement.'],['Systematic risk','Common-factor risk that broad diversification cannot eliminate.'],['Covariance matrix','Symmetric table containing all variances and pairwise covariances.'],['Cross-term rule','Double each unique covariance pair if summing only one triangle.'],['GMV portfolio','Feasible risky portfolio with the smallest variance.'],['GMV two-asset weight','(σB²-CovAB)/(σA²+σB²-2CovAB).'],['Minimum-variance frontier','Lowest attainable variance for each target return.'],['Efficient frontier','Upper non-dominated part of the minimum-variance frontier.'],['Dominance','At least as much return and no more risk, with one strict improvement.'],['Risk-free asset','Known return with zero variance and covariance.'],['Complete portfolio','Combination of a risk-free asset and a selected risky portfolio.'],['CAL expected return','Rf+y[E(Rp)-Rf].'],['CAL risk','|y|σp.'],['CAL slope','Sharpe ratio of the selected risky portfolio.'],['Tangency portfolio','Risky portfolio producing the steepest feasible CAL.'],['CML','CAL whose risky portfolio is the market portfolio.'],['Lending region','0<y<1: positive allocations to risky and risk-free assets.'],['Leveraged region','y>1: borrow at the risk-free rate to increase risky exposure.'],['Negative risky weight','y<0: short the risky portfolio and hold more than 100% risk-free.'],['Mean–variance utility','U=E(R)-0.5Aσ² under the stated convention.'],['Risk aversion A','Higher A means a larger penalty for variance.'],['Optimal risky fraction','[E(Rp)-Rf]/(Aσp²) for the stated utility function.'],['Separation insight','Investors can share a tangency portfolio but choose different risky weights.'],['Historical correlation','A sample estimate that can change across regimes.'],['Stress correlation','Recalculate portfolio risk under less favorable co-movement.'],['Tail dependence','Extreme co-movement may not be captured by ordinary correlation.'],['Variance versus risk','Variance is squared dispersion; risk is its square root.'],['Decimal discipline','Use 0.12, not 12, for 12% inside variance formulas.'],['Weight check','Fully invested portfolio weights sum to one, including negative positions.'],['Risk contribution intuition','A holding can add little risk when it offsets other holdings.'],['Expected versus realized return','Expected return is forward-looking; realized return is observed.'],['Frontier first','Opportunity set determines efficient choices before preferences.'],['Preference second','Risk aversion selects the complete portfolio on the best CAL.'],['Correlation limitation','Correlation is not causation and misses nonlinear dependence.'],['Estimation error','Inputs estimated from samples can make optimized weights unstable.'],['Portfolio exam sequence','Weights → expected return → covariance terms → variance → square root.']
+];
+const newCards=prompts.map((x,i)=>({id:`fc08-${String(i+1).padStart(2,'0')}`,lessonId:'quant-distributions-07',studyLessonId:'quant-distributions-07',officialModuleId:'QM-LM8',supplementary:false,front:x[0],back:x[1],tags:['portfolio','LM8']}));
+await write(cardFile,[...cards,...newCards]);
+
+const formulaFile='src/data/formulas/quantitative-modules-7-8.json',formulas=await read(formulaFile);
+for(const f of formulas.filter(f=>f.relatedLessonId==='quant-distributions-07')){f.relatedLessonId='quant-probability-06';f.studyLessonId='quant-probability-06';f.officialModuleId='QM-LM6';f.supplementary=false;f.legacySourceLessonId='quant-distributions-07'}
+const fspec=[
+ ['portfolio-expected-return-08','Portfolio expected return','E(Rp) = Σ wiE(Ri)',{'wi':'weight in asset i','E(Ri)':'expected return of asset i'},'Weighted expected return.','With weights 40% and 60% and returns 6% and 10%, E(Rp)=8.4%.','Do not include correlation.'],
+ ['portfolio-variance-08','Multi-asset portfolio variance','σp² = ΣiΣj wi wj Covij',{'wi':'weight in asset i','Covij':'covariance of assets i and j'},'Total variance including every pair.','A covariance matrix and weight vector produce σp²=w′Σw.','Do not omit or double-count cross terms.'],
+ ['two-asset-variance-08','Two-asset portfolio variance','σp² = wA²σA² + wB²σB² + 2wAwBρABσAσB',{'wA':'weight in A','σA':'standard deviation of A','ρAB':'correlation'},'Two-asset specialization.','At equal weights, 10% and 18% risks, and ρ=.3, σp=11.53%.','Do not average standard deviations.'],
+ ['portfolio-standard-deviation-08','Portfolio standard deviation','σp = √(σp²)',{'σp²':'portfolio variance'},'Portfolio total risk in return units.','Variance .0133 gives σp=11.53%.','Do not report variance as standard deviation.'],
+ ['covariance-08','Covariance from correlation','CovAB = ρABσAσB',{'ρAB':'correlation','σA':'risk of A','σB':'risk of B'},'Scaled co-movement.','ρ=.25, σA=.12, σB=.20 gives .006.','Use decimal returns.'],
+ ['correlation-08','Correlation from covariance','ρAB = CovAB/(σAσB)',{'CovAB':'covariance','σA':'risk of A','σB':'risk of B'},'Unit-free co-movement.','Cov=.009, risks .15 and .30 gives ρ=.20.','A result outside [-1,1] is invalid.'],
+ ['minimum-variance-weight-08','Two-asset GMV weight','wA = (σB²-CovAB)/(σA²+σB²-2CovAB)',{'wA':'GMV weight in A','σB²':'variance of B','CovAB':'covariance'},'Variance-minimizing weight.','Inputs .0144, .0324, .0036 give wA=72.73%.','Do not swap numerator labels.'],
+ ['cal-return-08','CAL expected return','E(Rc) = Rf + y[E(Rp)-Rf]',{'Rf':'risk-free rate','y':'risky fraction','E(Rp)':'risky return'},'Return on a complete portfolio.','Rf=3%, Rp=9%, y=.75 gives 7.5%.','Apply y to excess return.'],
+ ['cal-risk-08','CAL risk','σc = |y|σp',{'y':'risky fraction','σp':'risky portfolio risk'},'Risk scales with risky exposure.','y=.75 and σp=12% gives 9%.','The risk-free asset adds no variance.'],
+ ['portfolio-utility-08','Mean–variance utility','U = E(R) - 0.5Aσ²',{'A':'risk-aversion coefficient','σ²':'return variance'},'Risk-adjusted preference score.','E=.08, A=4, σ=.10 gives U=.06.','Square standard deviation.']
+];
+const newFormulas=fspec.map(x=>({id:x[0],name:x[1],expression:x[2],variables:x[3],meaning:x[4],intuition:x[4],workedExample:x[5],commonMistake:x[6],relatedLessonId:'quant-distributions-07',studyLessonId:'quant-distributions-07',officialModuleId:'QM-LM8',supplementary:false,relatedLearningOutcome:outcome,tags:['portfolio','LM8']}));
+await write(formulaFile,[...formulas,...newFormulas]);
+
+for(const dir of ['questions','flashcards','formulas']){
+ const {readdir}=await import('node:fs/promises');
+ for(const name of await readdir(`src/data/${dir}`)){if(!name.startsWith('quantitative')||!name.endsWith('.json'))continue;const p=`src/data/${dir}/${name}`,items=await read(p);for(const item of items){const lesson=item.lessonId??item.relatedLessonId;const cls=map[lesson];if(!cls)continue;item.studyLessonId=lesson;item.officialModuleId=cls[0];if(cls[1])item.subdivision=cls[1];if(typeof item.supplementary!=='boolean')item.supplementary=false}await write(p,items)}
+}

@@ -1,0 +1,606 @@
+[
+  {
+    "id": "arithmetic-mean-05",
+    "name": "Arithmetic mean",
+    "expression": "xÌ„ = Î£xi / n",
+    "meaning": "Simple average of observations.",
+    "variables": {
+      "xi": "observation i",
+      "n": "number of observations"
+    },
+    "intuition": "Balance point of the data.",
+    "workedExample": "For 2, 5, âˆ’1, 6, the mean is 12/4 = 3.",
+    "commonMistake": "Using it for compound growth.",
+    "relatedLessonId": "quant-statistics-05",
+    "relatedLearningOutcome": "Calculate and interpret measures of central tendency and location for asset-return data.",
+    "tags": [
+      "statistics",
+      "mean"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false
+  },
+  {
+    "id": "weighted-mean-05",
+    "name": "Weighted mean",
+    "expression": "xÌ„w = Î£wi xi, Î£wi = 1",
+    "meaning": "Average reflecting unequal importance.",
+    "variables": {
+      "wi": "weight on observation i",
+      "xi": "observation i"
+    },
+    "intuition": "Larger weights exert more influence.",
+    "workedExample": "60% at 8% and 40% at 3% gives 6%.",
+    "commonMistake": "Using weights that do not sum to one.",
+    "relatedLessonId": "quant-statistics-05",
+    "relatedLearningOutcome": "Calculate and interpret measures of central tendency and location for asset-return data.",
+    "tags": [
+      "statistics",
+      "weighted-mean"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false
+  },
+  {
+    "id": "geometric-mean-05",
+    "name": "Geometric mean return (descriptive statistics)",
+    "expression": "RG = [Î (1+Ri)]^(1/n) âˆ’ 1",
+    "meaning": "Constant rate matching compound growth.",
+    "variables": {
+      "Ri": "return in period i",
+      "n": "period count"
+    },
+    "intuition": "Averages wealth relatives, not percentages.",
+    "workedExample": "20% then âˆ’10% gives âˆš1.08âˆ’1 = 3.923%.",
+    "commonMistake": "Multiplying raw percentage returns.",
+    "relatedLessonId": "quant-statistics-05",
+    "relatedLearningOutcome": "Calculate and interpret measures of central tendency and location for asset-return data.",
+    "tags": [
+      "statistics",
+      "geometric-mean"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false
+  },
+  {
+    "id": "harmonic-mean-05",
+    "name": "Harmonic mean",
+    "expression": "H = n / Î£(1/xi)",
+    "meaning": "Average suited to certain rates with a fixed numerator.",
+    "variables": {
+      "xi": "positive rate observation",
+      "n": "observation count"
+    },
+    "intuition": "Gives greater influence to smaller denominators.",
+    "workedExample": "Equal-distance speeds 30 and 60 average to 40.",
+    "commonMistake": "Using zero or negative inputs without examining validity.",
+    "relatedLessonId": "quant-statistics-05",
+    "relatedLearningOutcome": "Calculate and interpret measures of central tendency and location for asset-return data.",
+    "tags": [
+      "statistics",
+      "harmonic-mean"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false
+  },
+  {
+    "id": "population-variance-05",
+    "name": "Population variance",
+    "expression": "ÏƒÂ² = Î£(xiâˆ’Î¼)Â² / N",
+    "meaning": "Average squared deviation for a complete population.",
+    "variables": {
+      "Î¼": "population mean",
+      "N": "population size",
+      "xi": "population observation"
+    },
+    "intuition": "Squares prevent positive and negative deviations from canceling.",
+    "workedExample": "For 2,4,6, variance is 8/3 = 2.6667.",
+    "commonMistake": "Using nâˆ’1 for a complete population.",
+    "relatedLessonId": "quant-statistics-05",
+    "relatedLearningOutcome": "Calculate and interpret measures of dispersion for populations and samples.",
+    "tags": [
+      "statistics",
+      "variance",
+      "population"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false
+  },
+  {
+    "id": "sample-variance-05",
+    "name": "Sample variance",
+    "expression": "sÂ² = Î£(xiâˆ’xÌ„)Â² / (nâˆ’1)",
+    "meaning": "Dispersion estimator calculated from a sample.",
+    "variables": {
+      "xÌ„": "sample mean",
+      "n": "sample size",
+      "xi": "sample observation"
+    },
+    "intuition": "The nâˆ’1 denominator corrects for estimating the mean from the sample.",
+    "workedExample": "For sample 2,4,6, variance is 8/2 = 4.",
+    "commonMistake": "Dividing by n.",
+    "relatedLessonId": "quant-statistics-05",
+    "relatedLearningOutcome": "Calculate and interpret measures of dispersion for populations and samples.",
+    "tags": [
+      "statistics",
+      "variance",
+      "sample"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false
+  },
+  {
+    "id": "population-standard-deviation-05",
+    "name": "Population standard deviation",
+    "expression": "Ïƒ = âˆšÏƒÂ²",
+    "meaning": "Population dispersion in original units.",
+    "variables": {
+      "ÏƒÂ²": "population variance"
+    },
+    "intuition": "Square root reverses the squared units of variance.",
+    "workedExample": "Variance 2.6667 gives Ïƒ = 1.633.",
+    "commonMistake": "Reporting variance as standard deviation.",
+    "relatedLessonId": "quant-statistics-05",
+    "relatedLearningOutcome": "Calculate and interpret measures of dispersion for populations and samples.",
+    "tags": [
+      "statistics",
+      "standard-deviation"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false
+  },
+  {
+    "id": "sample-standard-deviation-05",
+    "name": "Sample standard deviation",
+    "expression": "s = âˆšsÂ²",
+    "meaning": "Sample dispersion in original units.",
+    "variables": {
+      "sÂ²": "sample variance"
+    },
+    "intuition": "Typical scale of observations around the sample mean.",
+    "workedExample": "Sample variance 4 gives s = 2.",
+    "commonMistake": "Taking another division after the square root.",
+    "relatedLessonId": "quant-statistics-05",
+    "relatedLearningOutcome": "Calculate and interpret measures of dispersion for populations and samples.",
+    "tags": [
+      "statistics",
+      "standard-deviation",
+      "sample"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false
+  },
+  {
+    "id": "coefficient-variation-05",
+    "name": "Coefficient of variation",
+    "expression": "CV = standard deviation / mean",
+    "meaning": "Dispersion per unit of mean.",
+    "variables": {
+      "standard deviation": "dispersion measure",
+      "mean": "average level"
+    },
+    "intuition": "Makes relative dispersion comparable across different scales.",
+    "workedExample": "12% standard deviation / 8% mean = 1.5.",
+    "commonMistake": "Using CV when the mean is zero or near zero.",
+    "relatedLessonId": "quant-statistics-05",
+    "relatedLearningOutcome": "Calculate and interpret measures of dispersion for populations and samples.",
+    "tags": [
+      "statistics",
+      "relative-dispersion"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false
+  },
+  {
+    "id": "sharpe-ratio-05",
+    "name": "Sharpe ratio",
+    "expression": "Sharpe = (Rpâˆ’Rf) / Ïƒp",
+    "meaning": "Excess return per unit of total return volatility.",
+    "variables": {
+      "Rp": "portfolio return",
+      "Rf": "risk-free return",
+      "Ïƒp": "portfolio standard deviation"
+    },
+    "intuition": "Relates reward above a reference rate to volatility borne.",
+    "workedExample": "(9%âˆ’3%)/10% = 0.60.",
+    "commonMistake": "Mixing inputs measured over different periods.",
+    "relatedLessonId": "quant-statistics-05",
+    "relatedLearningOutcome": "Calculate and interpret measures of dispersion for populations and samples.",
+    "tags": [
+      "statistics",
+      "risk-adjusted-return"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false
+  },
+  {
+    "id": "complement-rule-06",
+    "name": "Complement rule",
+    "expression": "P(Aá¶œ) = 1 âˆ’ P(A)",
+    "meaning": "Probability that A does not occur.",
+    "variables": {
+      "P(A)": "probability of event A"
+    },
+    "intuition": "An event and its complement exhaust the sample space.",
+    "workedExample": "Default probability 3% implies no-default probability 97%.",
+    "commonMistake": "Subtracting from 100 when probabilities are decimals.",
+    "relatedLessonId": "quant-probability-06",
+    "relatedLearningOutcome": "Explain and calculate unconditional, conditional, joint, and total probabilities.",
+    "tags": [
+      "probability",
+      "complement"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false
+  },
+  {
+    "id": "addition-rule-06",
+    "name": "Addition rule",
+    "expression": "P(AâˆªB)=P(A)+P(B)âˆ’P(Aâˆ©B)",
+    "meaning": "Probability that at least one event occurs.",
+    "variables": {
+      "P(Aâˆ©B)": "joint probability",
+      "P(AâˆªB)": "union probability"
+    },
+    "intuition": "Subtract overlap because it was counted twice.",
+    "workedExample": "0.4+0.3âˆ’0.1 = 0.6.",
+    "commonMistake": "Omitting the overlap for non-exclusive events.",
+    "relatedLessonId": "quant-probability-06",
+    "relatedLearningOutcome": "Explain and calculate unconditional, conditional, joint, and total probabilities.",
+    "tags": [
+      "probability",
+      "addition"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false
+  },
+  {
+    "id": "multiplication-rule-06",
+    "name": "Multiplication rule",
+    "expression": "P(Aâˆ©B)=P(A|B)P(B)",
+    "meaning": "Joint probability from a conditional branch and its base event.",
+    "variables": {
+      "P(A|B)": "probability of A given B",
+      "P(B)": "probability of B"
+    },
+    "intuition": "Multiply along a probability-tree path.",
+    "workedExample": "P(B)=0.5 and P(A|B)=0.2 gives joint 0.10.",
+    "commonMistake": "Multiplying marginal probabilities without independence.",
+    "relatedLessonId": "quant-probability-06",
+    "relatedLearningOutcome": "Explain and calculate unconditional, conditional, joint, and total probabilities.",
+    "tags": [
+      "probability",
+      "joint"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false
+  },
+  {
+    "id": "conditional-probability-06",
+    "name": "Conditional probability",
+    "expression": "P(A|B)=P(Aâˆ©B)/P(B)",
+    "meaning": "Probability of A after restricting attention to B.",
+    "variables": {
+      "P(Aâˆ©B)": "joint probability",
+      "P(B)": "conditioning probability"
+    },
+    "intuition": "B becomes the relevant sample space.",
+    "workedExample": "0.12/0.30 = 0.40.",
+    "commonMistake": "Reversing P(A|B) and P(B|A).",
+    "relatedLessonId": "quant-probability-06",
+    "relatedLearningOutcome": "Explain and calculate unconditional, conditional, joint, and total probabilities.",
+    "tags": [
+      "probability",
+      "conditional"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false
+  },
+  {
+    "id": "total-probability-06",
+    "name": "Total probability rule",
+    "expression": "P(S)=Î£P(S|Ai)P(Ai)",
+    "meaning": "Overall event probability across exhaustive, exclusive states.",
+    "variables": {
+      "Ai": "partition state",
+      "P(S|Ai)": "conditional probability in state i"
+    },
+    "intuition": "Add all terminal branches leading to S.",
+    "workedExample": "0.4(0.7)+0.6(0.2)=0.40.",
+    "commonMistake": "Failing to include every exhaustive state.",
+    "relatedLessonId": "quant-probability-06",
+    "relatedLearningOutcome": "Explain and calculate unconditional, conditional, joint, and total probabilities.",
+    "tags": [
+      "probability",
+      "total-probability"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false
+  },
+  {
+    "id": "bayes-rule-06",
+    "name": "Bayes formula",
+    "expression": "P(A|S)=P(S|A)P(A)/P(S)",
+    "meaning": "Updates a prior probability after observing evidence.",
+    "variables": {
+      "P(A)": "prior",
+      "P(S|A)": "likelihood",
+      "P(S)": "total evidence probability"
+    },
+    "intuition": "Relevant joint probability divided by all ways the evidence can occur.",
+    "workedExample": "0.4(0.7)/0.40 = 0.70.",
+    "commonMistake": "Using the likelihood alone as the posterior.",
+    "relatedLessonId": "quant-probability-06",
+    "relatedLearningOutcome": "Apply probability trees, Bayes formula, odds, expected value, and random-variable variance.",
+    "tags": [
+      "probability",
+      "bayes"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false
+  },
+  {
+    "id": "expected-value-06",
+    "name": "Expected value",
+    "expression": "E(X)=Î£pi xi",
+    "meaning": "Probability-weighted average outcome.",
+    "variables": {
+      "pi": "probability of outcome i",
+      "xi": "outcome value"
+    },
+    "intuition": "Long-run balance point of repeated uncertain outcomes.",
+    "workedExample": "0.6(10%)+0.4(âˆ’4%)=4.4%.",
+    "commonMistake": "Assuming expected value must be a possible outcome.",
+    "relatedLessonId": "quant-probability-06",
+    "relatedLearningOutcome": "Apply probability trees, Bayes formula, odds, expected value, and random-variable variance.",
+    "tags": [
+      "probability",
+      "expected-value"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false
+  },
+  {
+    "id": "random-variable-variance-06",
+    "name": "Variance of a random variable",
+    "expression": "Var(X)=Î£pi[xiâˆ’E(X)]Â²",
+    "meaning": "Probability-weighted squared dispersion around expected value.",
+    "variables": {
+      "pi": "outcome probability",
+      "xi": "outcome",
+      "E(X)": "expected value"
+    },
+    "intuition": "Weights each squared surprise by its probability.",
+    "workedExample": "For 10% (.6) and âˆ’4% (.4), variance is 0.004704.",
+    "commonMistake": "Using percentage numbers instead of decimal returns inconsistently.",
+    "relatedLessonId": "quant-probability-06",
+    "relatedLearningOutcome": "Apply probability trees, Bayes formula, odds, expected value, and random-variable variance.",
+    "tags": [
+      "probability",
+      "variance"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false
+  },
+  {
+    "id": "covariance-06",
+    "name": "Covariance",
+    "expression": "Cov(X,Y)=E[(Xâˆ’EX)(Yâˆ’EY)]",
+    "meaning": "Direction and scale of joint variation.",
+    "variables": {
+      "EX": "expected X",
+      "EY": "expected Y"
+    },
+    "intuition": "Same-direction deviations contribute positively.",
+    "workedExample": "If correlation=.5 and standard deviations=.10,.12, covariance=.006.",
+    "commonMistake": "Treating covariance as bounded from âˆ’1 to 1.",
+    "relatedLessonId": "quant-probability-06",
+    "relatedLearningOutcome": "Calculate and interpret covariance, correlation, expected portfolio return, and two-asset portfolio variance.",
+    "tags": [
+      "probability",
+      "covariance"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false
+  },
+  {
+    "id": "correlation-06",
+    "name": "Correlation",
+    "expression": "ÏXY=Cov(X,Y)/(ÏƒXÏƒY)",
+    "meaning": "Standardized linear co-movement from âˆ’1 to +1.",
+    "variables": {
+      "Cov(X,Y)": "covariance",
+      "ÏƒX": "standard deviation of X",
+      "ÏƒY": "standard deviation of Y"
+    },
+    "intuition": "Removes measurement units from covariance.",
+    "workedExample": "0.006/(0.10Ã—0.12)=0.50.",
+    "commonMistake": "Interpreting zero correlation as proof of independence.",
+    "relatedLessonId": "quant-probability-06",
+    "relatedLearningOutcome": "Calculate and interpret covariance, correlation, expected portfolio return, and two-asset portfolio variance.",
+    "tags": [
+      "probability",
+      "correlation"
+    ],
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false
+  },
+  {
+    "id": "sample-covariance-05",
+    "name": "LM5 sample covariance",
+    "expression": "s_xy = Σ[(x_i-x̄)(y_i-ȳ)]/(n-1)",
+    "variables": {
+      "x_i,y_i": "paired observations",
+      "x̄,ȳ": "sample means",
+      "n": "sample size"
+    },
+    "meaning": "Measures linear co-movement in squared return units.",
+    "intuition": "Measures linear co-movement in squared return units.",
+    "workedExample": "Cross-products sum to 0.0002 for n=3, so covariance is 0.0001.",
+    "commonMistake": "Use n−1 for a sample.",
+    "relatedLessonId": "quant-statistics-05",
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "relatedLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "tags": [
+      "qm-lm5",
+      "v1.6.4"
+    ]
+  },
+  {
+    "id": "correlation-05",
+    "name": "LM5 correlation from covariance",
+    "expression": "r_xy = s_xy/(s_xs_y)",
+    "variables": {
+      "s_xy": "sample covariance",
+      "s_x,s_y": "sample standard deviations"
+    },
+    "meaning": "Standardizes covariance to the interval −1 to +1.",
+    "intuition": "Standardizes covariance to the interval −1 to +1.",
+    "workedExample": "Covariance .0012 and risks 10% and 20% give correlation .06.",
+    "commonMistake": "Zero correlation does not generally prove independence.",
+    "relatedLessonId": "quant-statistics-05",
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "relatedLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "tags": [
+      "qm-lm5",
+      "v1.6.4"
+    ]
+  },
+  {
+    "id": "target-semideviation-05",
+    "name": "Target semideviation",
+    "expression": "s_target = √[Σ min(0, R_i − B)² / (n − 1)]",
+    "variables": {
+      "R_i": "observed return",
+      "B": "target return",
+      "n": "sample observation count"
+    },
+    "meaning": "Measures dispersion only below a target.",
+    "intuition": "Measures dispersion only below a target.",
+    "workedExample": "For four observations with target shortfalls of 4%, 2%, and 0%, sqrt[(0.04²+0.02²)/(4−1)] = 2.58%.",
+    "commonMistake": "Including upside deviations or dividing by n when the stated sample convention requires n−1.",
+    "relatedLessonId": "quant-statistics-05",
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "relatedLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "tags": [
+      "qm-lm5",
+      "v1.6.4"
+    ]
+  },
+  {
+    "id": "skewness-05",
+    "name": "Standardized skewness",
+    "expression": "Skew(X) = (1/n) Σ[(X_i − X̄)/s]³",
+    "meaning": "Measures asymmetry using standardized cubed deviations.",
+    "variables": {
+      "X_i": "observation i",
+      "X̄": "sample mean",
+      "s": "sample standard deviation",
+      "n": "observation count"
+    },
+    "intuition": "Cubing preserves the direction of deviations and emphasizes tail observations.",
+    "workedExample": "A negative calculated value indicates a longer or more influential left tail.",
+    "commonMistake": "Interpreting negative skew as meaning that most observations are negative.",
+    "relatedLessonId": "quant-statistics-05",
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "relatedLearningOutcome": "calculate, interpret, and evaluate statistical characteristics of asset returns, including central tendency, dispersion, shape, covariance, correlation, semideviation, and coefficient of variation",
+    "tags": [
+      "statistics",
+      "shape",
+      "checkpoint-2-verified"
+    ]
+  },
+  {
+    "id": "excess-kurtosis-05",
+    "name": "Excess kurtosis",
+    "expression": "Excess kurtosis = kurtosis − 3",
+    "meaning": "Compares tail weight and peakedness with the normal-reference kurtosis of 3.",
+    "variables": {
+      "kurtosis": "standardized fourth moment under the Pearson convention"
+    },
+    "intuition": "Positive excess indicates heavier tails than the normal reference.",
+    "workedExample": "Pearson kurtosis of 5.2 gives excess kurtosis of 2.2.",
+    "commonMistake": "Calling Pearson kurtosis of 3 positive excess kurtosis.",
+    "relatedLessonId": "quant-statistics-05",
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "relatedLearningOutcome": "calculate, interpret, and evaluate statistical characteristics of asset returns, including central tendency, dispersion, shape, covariance, correlation, semideviation, and coefficient of variation",
+    "tags": [
+      "statistics",
+      "shape",
+      "checkpoint-2-verified"
+    ]
+  },
+  {
+    "id": "poisson-probability-06",
+    "name": "Poisson probability mass",
+    "expression": "P(X=x)=e^(−λ)λ^x/x!",
+    "variables": {
+      "x": "nonnegative event count",
+      "λ": "expected event count over the interval"
+    },
+    "meaning": "Gives the probability of x independent rare-event arrivals in a fixed interval.",
+    "intuition": "The rate parameter controls both center and dispersion.",
+    "workedExample": "With λ=3, P(X=0)=e^(−3)=4.98%.",
+    "commonMistake": "Using a Poisson model when the event rate is not stable over the interval.",
+    "relatedLessonId": "quant-probability-06",
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "relatedLearningOutcome": "calculate, interpret, and evaluate principal moments and conditional properties of statistical distributions used in finance",
+    "tags": [
+      "qm-lm6",
+      "checkpoint-3-verified"
+    ]
+  },
+  {
+    "id": "poisson-moments-06",
+    "name": "Poisson mean and variance",
+    "expression": "E(X)=Var(X)=λ",
+    "variables": {
+      "λ": "expected event count over the interval"
+    },
+    "meaning": "The Poisson mean and variance both equal its rate parameter.",
+    "intuition": "A higher event rate shifts the count distribution right and increases dispersion.",
+    "workedExample": "For λ=7, the mean and variance are both 7.",
+    "commonMistake": "Using λ² as the variance.",
+    "relatedLessonId": "quant-probability-06",
+    "studyLessonId": "quant-probability-06",
+    "officialModuleId": "QM-LM6",
+    "supplementary": false,
+    "relatedLearningOutcome": "calculate, interpret, and evaluate principal moments and conditional properties of statistical distributions used in finance",
+    "tags": [
+      "qm-lm6",
+      "checkpoint-3-verified"
+    ]
+  }
+]

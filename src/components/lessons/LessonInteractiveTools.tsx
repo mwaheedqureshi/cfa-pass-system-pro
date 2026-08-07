@@ -1,0 +1,31 @@
+
+import {lazy,Suspense} from 'react';
+const BenchmarkDiagram=lazy(()=>import('./BenchmarkDiagram').then(m=>({default:m.BenchmarkDiagram})));
+const CashFlowTimeline=lazy(()=>import('./CashFlowTimeline').then(m=>({default:m.CashFlowTimeline})));
+const CompoundingFrequencyExplorer=lazy(()=>import('./CompoundingFrequencyExplorer').then(m=>({default:m.CompoundingFrequencyExplorer})));
+const TVMCalculator=lazy(()=>import('./TVMCalculator').then(m=>({default:m.TVMCalculator})));
+const DescriptiveStatisticsCalculator=lazy(()=>import('./DescriptiveStatisticsCalculator').then(m=>({default:m.DescriptiveStatisticsCalculator})));
+const DistributionShapeExplorer=lazy(()=>import('./DistributionShapeExplorer').then(m=>({default:m.DistributionShapeExplorer})));
+const ProbabilityTreeExplorer=lazy(()=>import('./ProbabilityTreeExplorer').then(m=>({default:m.ProbabilityTreeExplorer})));
+const TwoAssetPortfolioCalculator=lazy(()=>import('./TwoAssetPortfolioCalculator').then(m=>({default:m.TwoAssetPortfolioCalculator})));
+const PortfolioAllocationExplorer=lazy(()=>import('./PortfolioAllocationExplorer'));
+const DistributionExplorer=lazy(()=>import('./DistributionExplorer').then(m=>({default:m.DistributionExplorer})));
+const ZScoreProbabilityCalculator=lazy(()=>import('./ZScoreProbabilityCalculator').then(m=>({default:m.ZScoreProbabilityCalculator})));
+const BinomialProbabilityCalculator=lazy(()=>import('./BinomialProbabilityCalculator').then(m=>({default:m.BinomialProbabilityCalculator})));
+const ConfidenceIntervalCalculator=lazy(()=>import('./ConfidenceIntervalCalculator').then(m=>({default:m.ConfidenceIntervalCalculator})));
+const SamplingMethodExplorer=lazy(()=>import('./SamplingMethodExplorer').then(m=>({default:m.SamplingMethodExplorer})));
+const HypothesisTestDecisionTool=lazy(()=>import('./HypothesisTestDecisionTool').then(m=>({default:m.HypothesisTestDecisionTool})));
+const PValueExplorer=lazy(()=>import('./PValueExplorer').then(m=>({default:m.PValueExplorer})));
+const ErrorTradeoffExplorer=lazy(()=>import('./ErrorTradeoffExplorer').then(m=>({default:m.ErrorTradeoffExplorer})));
+const CorrelationScatterplotExplorer=lazy(()=>import('./CorrelationScatterplotExplorer').then(m=>({default:m.CorrelationScatterplotExplorer})));
+const SimpleRegressionCalculator=lazy(()=>import('./SimpleRegressionCalculator').then(m=>({default:m.SimpleRegressionCalculator})));
+const RegressionOutputInterpreter=lazy(()=>import('./RegressionOutputInterpreter').then(m=>({default:m.RegressionOutputInterpreter})));
+const MonteCarloPortfolioSimulator=lazy(()=>import('./MonteCarloPortfolioSimulator').then(m=>({default:m.MonteCarloPortfolioSimulator})));
+const BootstrapExplorer=lazy(()=>import('./BootstrapExplorer').then(m=>({default:m.BootstrapExplorer})));
+const ScenarioSensitivityStressExplorer=lazy(()=>import('./ScenarioSensitivityStressExplorer').then(m=>({default:m.ScenarioSensitivityStressExplorer})));
+const ConfusionMatrixExplorer=lazy(()=>import('./ConfusionMatrixExplorer').then(m=>({default:m.ConfusionMatrixExplorer})));
+const BiasLeakageScenarioTrainer=lazy(()=>import('./BiasLeakageScenarioTrainer').then(m=>({default:m.BiasLeakageScenarioTrainer})));
+const ModelEvaluationExplorer=lazy(()=>import('./ModelEvaluationExplorer').then(m=>({default:m.ModelEvaluationExplorer})));
+const GenerativeAIRiskExplorer=lazy(()=>import('./GenerativeAIRiskExplorer').then(m=>({default:m.GenerativeAIRiskExplorer})));
+const loading=<p role="status" className="card mt-6">Loading learning toolsâ€¦</p>;
+export function LessonInteractiveTools({lessonId}:{lessonId:string}){let tools=null;if(lessonId==='quant-benchmarking-03')tools=<BenchmarkDiagram/>;else if(lessonId==='quant-tvm-04')tools=<><TVMCalculator/><CashFlowTimeline/><CompoundingFrequencyExplorer/></>;else if(lessonId==='quant-statistics-05')tools=<><DistributionShapeExplorer/><DescriptiveStatisticsCalculator/></>;else if(lessonId==='quant-probability-06')tools=<><ProbabilityTreeExplorer/><DistributionExplorer/><ZScoreProbabilityCalculator/><BinomialProbabilityCalculator/></>;else if(lessonId==='quant-distributions-07')tools=<><TwoAssetPortfolioCalculator/><PortfolioAllocationExplorer/></>;else if(lessonId==='quant-sampling-08')tools=<><ConfidenceIntervalCalculator/><SamplingMethodExplorer/></>;else if(lessonId==='quant-hypothesis-09')tools=<><HypothesisTestDecisionTool/><PValueExplorer/><ErrorTradeoffExplorer/></>;else if(lessonId==='quant-regression-10')tools=<><CorrelationScatterplotExplorer/><SimpleRegressionCalculator/><RegressionOutputInterpreter/></>;else if(lessonId==='quant-simulation-11')tools=<><MonteCarloPortfolioSimulator/><BootstrapExplorer/><ScenarioSensitivityStressExplorer/></>;else if(lessonId==='quant-data-ai-12')tools=<><ConfusionMatrixExplorer/><BiasLeakageScenarioTrainer/><ModelEvaluationExplorer/><GenerativeAIRiskExplorer/></>;return tools?<Suspense fallback={loading}><div className="mt-6 space-y-6">{tools}</div></Suspense>:null}

@@ -1,0 +1,1388 @@
+[
+  {
+    "id": "q11-01",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-01: Describe historical simulation and explain its investment applications.",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Which method preserves exact dated joint market moves?",
+    "choices": [
+      "Historical simulation",
+      "Independent bootstrap",
+      "Independent-normal Monte Carlo"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Historical simulation replays aligned historical vectors.",
+    "incorrectChoiceExplanations": [
+      "Correct. Historical simulation replays aligned historical vectors.",
+      "Incorrect. Independent bootstrap does not follow from the method or calculation described.",
+      "Incorrect. Independent-normal Monte Carlo does not follow from the method or calculation described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simulation",
+      "historical-simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-02",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-01: Describe historical simulation and explain its investment applications.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A security lacks most of the selected history. The main issue is:",
+    "choices": [
+      "Forced normality",
+      "Missing relevant shocks",
+      "No percentile calculation"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Historical simulation needs a relevant scenario history.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. Forced normality does not follow from the method or calculation described.",
+      "Correct. Historical simulation needs a relevant scenario history.",
+      "Incorrect. No percentile calculation does not follow from the method or calculation described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simulation",
+      "historical-simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-03",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-01: Describe historical simulation and explain its investment applications.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Applying past shocks to today's positions produces:",
+    "choices": [
+      "A certain forecast",
+      "A population mean",
+      "Conditional current-portfolio scenarios"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Historical shocks revalue current exposures conditionally.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. A certain forecast does not follow from the method or calculation described.",
+      "Incorrect. A population mean does not follow from the method or calculation described.",
+      "Correct. Historical shocks revalue current exposures conditionally."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simulation",
+      "historical-simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-04",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-01: Describe historical simulation and explain its investment applications.",
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "EUR12 million under a -1.8% scenario gives P/L of:",
+    "choices": [
+      "-EUR216,000",
+      "-EUR66,667",
+      "EUR216,000"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "EUR12,000,000 x -0.018 = -EUR216,000.",
+    "incorrectChoiceExplanations": [
+      "Correct. EUR12,000,000 x -0.018 = -EUR216,000.",
+      "Incorrect. -EUR66,667 does not follow from the method or calculation described.",
+      "Incorrect. EUR216,000 does not follow from the method or calculation described."
+    ],
+    "relatedFormulaIds": [
+      "historical-pl-11"
+    ],
+    "tags": [
+      "simulation",
+      "historical-simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-05",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-01: Describe historical simulation and explain its investment applications.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Halfway between -25.60% and -25.56% is:",
+    "choices": [
+      "-25.60%",
+      "-25.58%",
+      "-25.56%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Linear interpolation gives -25.58%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. -25.60% does not follow from the method or calculation described.",
+      "Correct. Linear interpolation gives -25.58%.",
+      "Incorrect. -25.56% does not follow from the method or calculation described."
+    ],
+    "relatedFormulaIds": [
+      "simulation-percentile-11"
+    ],
+    "tags": [
+      "simulation",
+      "historical-simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-06",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-01: Describe historical simulation and explain its investment applications.",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "A calm historical window most directly risks:",
+    "choices": [
+      "Excess arithmetic",
+      "Current weights",
+      "Missing stressed regimes"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Historical simulation cannot create absent regimes.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. Excess arithmetic does not follow from the method or calculation described.",
+      "Incorrect. Current weights does not follow from the method or calculation described.",
+      "Correct. Historical simulation cannot create absent regimes."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simulation",
+      "historical-simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-07",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-01: Describe historical simulation and explain its investment applications.",
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "Historical VaR exceeds normal VaR after joint selloffs. Best interpretation:",
+    "choices": [
+      "Observed tails drive the result",
+      "Selloffs must recur",
+      "Normal VaR is coded wrongly"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Empirical scenarios retain observed joint tails.",
+    "incorrectChoiceExplanations": [
+      "Correct. Empirical scenarios retain observed joint tails.",
+      "Incorrect. Selloffs must recur does not follow from the method or calculation described.",
+      "Incorrect. Normal VaR is coded wrongly does not follow from the method or calculation described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simulation",
+      "historical-simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-08",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-01: Describe historical simulation and explain its investment applications.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Why align historical factors by date?",
+    "choices": [
+      "Force normality",
+      "Preserve co-movement",
+      "Ensure gains"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Date alignment preserves contemporaneous dependence.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. Force normality does not follow from the method or calculation described.",
+      "Correct. Date alignment preserves contemporaneous dependence.",
+      "Incorrect. Ensure gains does not follow from the method or calculation described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simulation",
+      "historical-simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-09",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-01: Describe historical simulation and explain its investment applications.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A historical 5th-percentile value of 82 means:",
+    "choices": [
+      "Value will be 82",
+      "Loss probability is 95%",
+      "About 5% of scenarios are at or below 82"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "An empirical percentile locates a conditional tail.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. Value will be 82 does not follow from the method or calculation described.",
+      "Incorrect. Loss probability is 95% does not follow from the method or calculation described.",
+      "Correct. An empirical percentile locates a conditional tail."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simulation",
+      "historical-simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-10",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-01: Describe historical simulation and explain its investment applications.",
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "A standard historical-simulation use is:",
+    "choices": [
+      "Apply past shocks to current positions",
+      "Use only a closed form",
+      "Draw assumed lognormal returns"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Historical simulation applies empirical shocks.",
+    "incorrectChoiceExplanations": [
+      "Correct. Historical simulation applies empirical shocks.",
+      "Incorrect. Use only a closed form does not follow from the method or calculation described.",
+      "Incorrect. Draw assumed lognormal returns does not follow from the method or calculation described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simulation",
+      "historical-simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-11",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-01: Describe historical simulation and explain its investment applications.",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Historical simulation is less flexible because it:",
+    "choices": [
+      "Needs a seed",
+      "Is limited to observed patterns",
+      "Cannot preserve correlation"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Scenario variety is bounded by the chosen history.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. Needs a seed does not follow from the method or calculation described.",
+      "Correct. Scenario variety is bounded by the chosen history.",
+      "Incorrect. Cannot preserve correlation does not follow from the method or calculation described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simulation",
+      "historical-simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-12",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-01: Describe historical simulation and explain its investment applications.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Using an index proxy for a short-history security creates:",
+    "choices": [
+      "Guaranteed unbiasedness",
+      "Normality",
+      "Basis risk"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The proxy may not behave like the security.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. Guaranteed unbiasedness does not follow from the method or calculation described.",
+      "Incorrect. Normality does not follow from the method or calculation described.",
+      "Correct. The proxy may not behave like the security."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simulation",
+      "historical-simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-13",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-08: Describe bootstrap resampling and explain its investment applications.",
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "From [-2%,1%,4%], a valid bootstrap resample is:",
+    "choices": [
+      "[1%,1%,-2%]",
+      "Only [-2%,1%,4%]",
+      "[-1%,2%,5%]"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Replacement permits repetition and omission.",
+    "incorrectChoiceExplanations": [
+      "Correct. Replacement permits repetition and omission.",
+      "Incorrect. Only [-2%,1%,4%] does not follow from the method or calculation described.",
+      "Incorrect. [-1%,2%,5%] does not follow from the method or calculation described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simulation",
+      "bootstrapping"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-14",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-08: Describe bootstrap resampling and explain its investment applications.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Bootstrap differs from one historical replay because it:",
+    "choices": [
+      "Requires normality",
+      "Samples repeatedly with replacement",
+      "Preserves time order"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Replacement produces many empirical resamples.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. Requires normality does not follow from the method or calculation described.",
+      "Correct. Replacement produces many empirical resamples.",
+      "Incorrect. Preserves time order does not follow from the method or calculation described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simulation",
+      "bootstrapping"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-15",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-08: Describe bootstrap resampling and explain its investment applications.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "More resamples from a biased sample will:",
+    "choices": [
+      "Remove bias",
+      "Make it representative",
+      "Estimate its bias more precisely"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Resampling cannot add missing information.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. Remove bias does not follow from the method or calculation described.",
+      "Incorrect. Make it representative does not follow from the method or calculation described.",
+      "Correct. Resampling cannot add missing information."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simulation",
+      "bootstrapping"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-16",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-08: Describe bootstrap resampling and explain its investment applications.",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Bootstrap statistic SD is 0.014. Bootstrap SE is:",
+    "choices": [
+      "0.014",
+      "0.000196",
+      "0.118"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Bootstrap SE is the SD of bootstrap estimates.",
+    "incorrectChoiceExplanations": [
+      "Correct. Bootstrap SE is the SD of bootstrap estimates.",
+      "Incorrect. 0.000196 does not follow from the method or calculation described.",
+      "Incorrect. 0.118 does not follow from the method or calculation described."
+    ],
+    "relatedFormulaIds": [
+      "bootstrap-se-11"
+    ],
+    "tags": [
+      "simulation",
+      "bootstrapping"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-17",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-08: Describe bootstrap resampling and explain its investment applications.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Bootstrap 2.5th and 97.5th percentiles are 6.4% and 8.1%. Interval:",
+    "choices": [
+      "[-1.7%,1.7%]",
+      "[6.4%,8.1%]",
+      "[2.5%,97.5%]"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Percentile endpoints form the interval.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. [-1.7%,1.7%] does not follow from the method or calculation described.",
+      "Correct. Percentile endpoints form the interval.",
+      "Incorrect. [2.5%,97.5%] does not follow from the method or calculation described."
+    ],
+    "relatedFormulaIds": [
+      "bootstrap-ci-11"
+    ],
+    "tags": [
+      "simulation",
+      "bootstrapping"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-18",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-08: Describe bootstrap resampling and explain its investment applications.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Ordinary bootstrap can harm autocorrelated data because it:",
+    "choices": [
+      "Assumes lognormality",
+      "Cannot compute means",
+      "Destroys serial dependence"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Independent draws can remove time dependence.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. Assumes lognormality does not follow from the method or calculation described.",
+      "Incorrect. Cannot compute means does not follow from the method or calculation described.",
+      "Correct. Independent draws can remove time dependence."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simulation",
+      "bootstrapping"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-19",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-08: Describe bootstrap resampling and explain its investment applications.",
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "One observation appearing three times in a resample is:",
+    "choices": [
+      "Valid",
+      "Always invalid",
+      "Valid only if zero"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Sampling with replacement permits repeats.",
+    "incorrectChoiceExplanations": [
+      "Correct. Sampling with replacement permits repeats.",
+      "Incorrect. Always invalid does not follow from the method or calculation described.",
+      "Incorrect. Valid only if zero does not follow from the method or calculation described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simulation",
+      "bootstrapping"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-20",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-08: Describe bootstrap resampling and explain its investment applications.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "With 24 returns, bootstrap is useful for:",
+    "choices": [
+      "Proving future volatility",
+      "Estimating statistic uncertainty",
+      "Creating unseen regimes"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Resamples approximate empirical sampling variability.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. Proving future volatility does not follow from the method or calculation described.",
+      "Correct. Resamples approximate empirical sampling variability.",
+      "Incorrect. Creating unseen regimes does not follow from the method or calculation described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simulation",
+      "bootstrapping"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-21",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-08: Describe bootstrap resampling and explain its investment applications.",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Call strike 141.25 and terminal price 163.57 give payoff:",
+    "choices": [
+      "0",
+      "163.57",
+      "22.32"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "max(163.57-141.25,0)=22.32.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 0 does not follow from the method or calculation described.",
+      "Incorrect. 163.57 does not follow from the method or calculation described.",
+      "Correct. max(163.57-141.25,0)=22.32."
+    ],
+    "relatedFormulaIds": [
+      "option-payoff-11"
+    ],
+    "tags": [
+      "simulation",
+      "bootstrapping"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-22",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-08: Describe bootstrap resampling and explain its investment applications.",
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "Bootstrap is non-parametric because it:",
+    "choices": [
+      "Resamples empirical data",
+      "Has no assumptions",
+      "Uses no numbers"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "It need not impose a named distribution.",
+    "incorrectChoiceExplanations": [
+      "Correct. It need not impose a named distribution.",
+      "Incorrect. Has no assumptions does not follow from the method or calculation described.",
+      "Incorrect. Uses no numbers does not follow from the method or calculation described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simulation",
+      "bootstrapping"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-23",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-08: Describe bootstrap resampling and explain its investment applications.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Same sample, algorithm, seed, and settings produce:",
+    "choices": [
+      "Different results",
+      "Same pseudorandom results",
+      "Exact population"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "A fixed seed reproduces the draw sequence.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. Different results does not follow from the method or calculation described.",
+      "Correct. A fixed seed reproduces the draw sequence.",
+      "Incorrect. Exact population does not follow from the method or calculation described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simulation",
+      "bootstrapping"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-24",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-08: Describe bootstrap resampling and explain its investment applications.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "If crises are absent from the sample, bootstrap likely:",
+    "choices": [
+      "Adds them",
+      "Sets confidence to zero",
+      "Understates tail risk"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Absent states cannot be resampled.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. Adds them does not follow from the method or calculation described.",
+      "Incorrect. Sets confidence to zero does not follow from the method or calculation described.",
+      "Correct. Absent states cannot be resampled."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simulation",
+      "bootstrapping"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-25",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-03: Describe Monte Carlo simulation and explain its investment applications.",
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "First substantive Monte Carlo step:",
+    "choices": [
+      "Report best outcome",
+      "Parameterize target and process",
+      "Run until desired answer"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Valid simulation begins with explicit setup.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. Report best outcome does not follow from the method or calculation described.",
+      "Correct. Valid simulation begins with explicit setup.",
+      "Incorrect. Run until desired answer does not follow from the method or calculation described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simulation",
+      "monte-carlo-simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-26",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-03: Describe Monte Carlo simulation and explain its investment applications.",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Monte Carlo output represents:",
+    "choices": [
+      "Only historical facts",
+      "Assumption-free forecasts",
+      "Outcomes conditional on the model"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Results inherit process and parameter assumptions.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. Only historical facts does not follow from the method or calculation described.",
+      "Incorrect. Assumption-free forecasts does not follow from the method or calculation described.",
+      "Correct. Results inherit process and parameter assumptions."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simulation",
+      "monte-carlo-simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-27",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-03: Describe Monte Carlo simulation and explain its investment applications.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "With rf=5%, sigma=25%, s=1, X=0, log return is:",
+    "choices": [
+      "1.875%",
+      "5.000%",
+      "8.125%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "0.05-0.25^2/2=0.01875.",
+    "incorrectChoiceExplanations": [
+      "Correct. 0.05-0.25^2/2=0.01875.",
+      "Incorrect. 5.000% does not follow from the method or calculation described.",
+      "Incorrect. 8.125% does not follow from the method or calculation described."
+    ],
+    "relatedFormulaIds": [
+      "mc-log-return-11"
+    ],
+    "tags": [
+      "simulation",
+      "monte-carlo-simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-28",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-03: Describe Monte Carlo simulation and explain its investment applications.",
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "Price 80 and log return 4% give next price closest to:",
+    "choices": [
+      "83.20",
+      "83.26",
+      "84.00"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "80e^0.04=83.26.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 83.20 does not follow from the method or calculation described.",
+      "Correct. 80e^0.04=83.26.",
+      "Incorrect. 84.00 does not follow from the method or calculation described."
+    ],
+    "relatedFormulaIds": [
+      "mc-price-update-11"
+    ],
+    "tags": [
+      "simulation",
+      "monte-carlo-simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-29",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-03: Describe Monte Carlo simulation and explain its investment applications.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Zero volatility, 100, 5%, three simple-return periods gives:",
+    "choices": [
+      "105.00",
+      "110.25",
+      "115.76"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "100(1.05)^3=115.7625.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 105.00 does not follow from the method or calculation described.",
+      "Incorrect. 110.25 does not follow from the method or calculation described.",
+      "Correct. 100(1.05)^3=115.7625."
+    ],
+    "relatedFormulaIds": [
+      "terminal-value-11"
+    ],
+    "tags": [
+      "simulation",
+      "monte-carlo-simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-30",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-03: Describe Monte Carlo simulation and explain its investment applications.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Runs rise from 2,500 to 10,000. Mean SE falls about:",
+    "choices": [
+      "50%",
+      "75%",
+      "25%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Quadrupling runs halves SE.",
+    "incorrectChoiceExplanations": [
+      "Correct. Quadrupling runs halves SE.",
+      "Incorrect. 75% does not follow from the method or calculation described.",
+      "Incorrect. 25% does not follow from the method or calculation described."
+    ],
+    "relatedFormulaIds": [
+      "simulation-se-11"
+    ],
+    "tags": [
+      "simulation",
+      "monte-carlo-simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-31",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-03: Describe Monte Carlo simulation and explain its investment applications.",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "More runs with understated volatility mainly provide:",
+    "choices": [
+      "No model risk",
+      "Less noise around the wrong model",
+      "Correct volatility"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Run count improves precision, not specification.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. No model risk does not follow from the method or calculation described.",
+      "Correct. Run count improves precision, not specification.",
+      "Incorrect. Correct volatility does not follow from the method or calculation described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simulation",
+      "monte-carlo-simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-32",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-03: Describe Monte Carlo simulation and explain its investment applications.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Monte Carlo suits an Asian option because:",
+    "choices": [
+      "Only terminal price matters",
+      "Payoff is linear",
+      "Full paths can be evaluated"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Path averages require simulated trajectories.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. Only terminal price matters does not follow from the method or calculation described.",
+      "Incorrect. Payoff is linear does not follow from the method or calculation described.",
+      "Correct. Path averages require simulated trajectories."
+    ],
+    "relatedFormulaIds": [
+      "asian-payoff-11"
+    ],
+    "tags": [
+      "simulation",
+      "monte-carlo-simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-33",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-03: Describe Monte Carlo simulation and explain its investment applications.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "sigma2=2%, rho=.3, Z1=.4, Z2=-1.2 gives X2 closest to:",
+    "choices": [
+      "-2.05%",
+      "-2.40%",
+      "-1.80%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The correlated-normal transformation gives about -2.05%.",
+    "incorrectChoiceExplanations": [
+      "Correct. The correlated-normal transformation gives about -2.05%.",
+      "Incorrect. -2.40% does not follow from the method or calculation described.",
+      "Incorrect. -1.80% does not follow from the method or calculation described."
+    ],
+    "relatedFormulaIds": [
+      "correlated-normal-11"
+    ],
+    "tags": [
+      "simulation",
+      "monte-carlo-simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-34",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-03: Describe Monte Carlo simulation and explain its investment applications.",
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "Cholesky transformation primarily:",
+    "choices": [
+      "Makes uniforms",
+      "Imposes correlation",
+      "Removes parameter risk"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "It maps independent normals to correlated normals.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. Makes uniforms does not follow from the method or calculation described.",
+      "Correct. It maps independent normals to correlated normals.",
+      "Incorrect. Removes parameter risk does not follow from the method or calculation described."
+    ],
+    "relatedFormulaIds": [
+      "correlated-normal-11"
+    ],
+    "tags": [
+      "simulation",
+      "monte-carlo-simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-35",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-03: Describe Monte Carlo simulation and explain its investment applications.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Mean 120 and median 105 most likely indicate:",
+    "choices": [
+      "Symmetry",
+      "Half equal 105",
+      "Right-tail outcomes lift mean"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Large upper outcomes pull the mean above median.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. Symmetry does not follow from the method or calculation described.",
+      "Incorrect. Half equal 105 does not follow from the method or calculation described.",
+      "Correct. Large upper outcomes pull the mean above median."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simulation",
+      "monte-carlo-simulation"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-36",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-03: Describe Monte Carlo simulation and explain its investment applications.",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Mock-style challenge: 350 of 5,000 paths finish below initial value. Frequency:",
+    "choices": [
+      "7%",
+      "14%",
+      "93%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "350/5,000=7%.",
+    "incorrectChoiceExplanations": [
+      "Correct. 350/5,000=7%.",
+      "Incorrect. 14% does not follow from the method or calculation described.",
+      "Incorrect. 93% does not follow from the method or calculation described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simulation",
+      "monte-carlo-simulation",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-37",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-03: Describe Monte Carlo simulation and explain its investment applications.",
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "Mock-style challenge: A fixed seed primarily:",
+    "choices": [
+      "Validates assumptions",
+      "Reproduces draws",
+      "Guarantees convergence"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Seeded pseudorandom sequences support testing.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. Validates assumptions does not follow from the method or calculation described.",
+      "Correct. Seeded pseudorandom sequences support testing.",
+      "Incorrect. Guarantees convergence does not follow from the method or calculation described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simulation",
+      "monte-carlo-simulation",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-38",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-03: Describe Monte Carlo simulation and explain its investment applications.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Mock-style challenge: Constant volatility misses jumps and clustering. This is:",
+    "choices": [
+      "Rounding risk",
+      "Sampling noise",
+      "Model misspecification"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The assumed process omits relevant behavior.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. Rounding risk does not follow from the method or calculation described.",
+      "Incorrect. Sampling noise does not follow from the method or calculation described.",
+      "Correct. The assumed process omits relevant behavior."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simulation",
+      "monte-carlo-simulation",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-39",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-03: Describe Monte Carlo simulation and explain its investment applications.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Mock-style challenge: Strongest evidence of implementation error:",
+    "choices": [
+      "Zero-volatility benchmark fails",
+      "Seeds vary slightly",
+      "Output is skewed"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "A deterministic special case should match exactly.",
+    "incorrectChoiceExplanations": [
+      "Correct. A deterministic special case should match exactly.",
+      "Incorrect. Seeds vary slightly does not follow from the method or calculation described.",
+      "Incorrect. Output is skewed does not follow from the method or calculation described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simulation",
+      "monte-carlo-simulation",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-40",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-03: Describe Monte Carlo simulation and explain its investment applications.",
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "Mock-style challenge: Average payoff 8.61 discounted one year at 5% is:",
+    "choices": [
+      "8.61",
+      "8.20",
+      "9.04"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "8.61/1.05 is about 8.20.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 8.61 does not follow from the method or calculation described.",
+      "Correct. 8.61/1.05 is about 8.20.",
+      "Incorrect. 9.04 does not follow from the method or calculation described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simulation",
+      "monte-carlo-simulation",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-41",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-03: Describe Monte Carlo simulation and explain its investment applications.",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Mock-style challenge: Stress correlation widens the outcome interval. Best conclusion:",
+    "choices": [
+      "Dependence affects tails",
+      "Correlation never affects risk",
+      "Stress must occur"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Dependence assumptions can change diversification and tails.",
+    "incorrectChoiceExplanations": [
+      "Correct. Dependence assumptions can change diversification and tails.",
+      "Incorrect. Correlation never affects risk does not follow from the method or calculation described.",
+      "Incorrect. Stress must occur does not follow from the method or calculation described."
+    ],
+    "relatedFormulaIds": [
+      "correlated-normal-11"
+    ],
+    "tags": [
+      "simulation",
+      "monte-carlo-simulation",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-42",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-03: Describe Monte Carlo simulation and explain its investment applications.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Mock-style challenge: Monte Carlo versus analytical methods:",
+    "choices": [
+      "Always faster",
+      "Handles more complex/path-dependent problems",
+      "Produces exact answers"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Monte Carlo expands feasible problems but gives estimates.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. Always faster does not follow from the method or calculation described.",
+      "Correct. Monte Carlo expands feasible problems but gives estimates.",
+      "Incorrect. Produces exact answers does not follow from the method or calculation described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simulation",
+      "monte-carlo-simulation",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-43",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-03: Describe Monte Carlo simulation and explain its investment applications.",
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "Mock-style challenge: Percentile stable across run counts but sensitive to distribution. Dominant risk:",
+    "choices": [
+      "Sampling noise",
+      "Invalid seed",
+      "Model assumptions"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Run-count stability indicates convergence; assumption sensitivity indicates model risk.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. Sampling noise does not follow from the method or calculation described.",
+      "Incorrect. Invalid seed does not follow from the method or calculation described.",
+      "Correct. Run-count stability indicates convergence; assumption sensitivity indicates model risk."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simulation",
+      "monte-carlo-simulation",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-44",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-03: Describe Monte Carlo simulation and explain its investment applications.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Mock-style challenge: Best way to separate model risk from sampling noise:",
+    "choices": [
+      "Vary runs and assumptions separately",
+      "Use one configuration",
+      "Report only mean"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Run stability and assumption sensitivity diagnose different risks.",
+    "incorrectChoiceExplanations": [
+      "Correct. Run stability and assumption sensitivity diagnose different risks.",
+      "Incorrect. Use one configuration does not follow from the method or calculation described.",
+      "Incorrect. Report only mean does not follow from the method or calculation described."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simulation",
+      "monte-carlo-simulation",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q11-45",
+    "lessonId": "quant-simulation-11",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "SM-03: Describe Monte Carlo simulation and explain its investment applications.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Mock-style challenge: Why simulate correlated rather than independent factors?",
+    "choices": [
+      "Guarantee profits",
+      "Eliminate volatility",
+      "Match relevant joint dependence"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Joint outcomes require a defensible dependence structure.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. Guarantee profits does not follow from the method or calculation described.",
+      "Incorrect. Eliminate volatility does not follow from the method or calculation described.",
+      "Correct. Joint outcomes require a defensible dependence structure."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "simulation",
+      "monte-carlo-simulation",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-simulation-11",
+    "officialModuleId": "QM-LM9",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  }
+]

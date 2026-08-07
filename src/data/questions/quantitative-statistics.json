@@ -1,0 +1,1374 @@
+[
+  {
+    "id": "q05-01",
+    "lessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "A population is best described as:",
+    "choices": [
+      "A subset selected for study",
+      "A numerical summary of a sample",
+      "Every item relevant to the analysis"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "A population contains the complete group of interest.",
+    "incorrectChoiceExplanations": [
+      "A subset is a sample.",
+      "A sample statistic is a summary, not a group.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "definitions"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q05-02",
+    "lessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Which notation most commonly represents a population mean?",
+    "choices": [
+      "xÌ„",
+      "Î¼",
+      "sÂ²"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The Greek letter Î¼ denotes a population mean.",
+    "incorrectChoiceExplanations": [
+      "xÌ„ denotes a sample mean.",
+      "Correct.",
+      "sÂ² denotes sample variance."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "notation"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q05-03",
+    "lessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "A sample statistic is used primarily to:",
+    "choices": [
+      "Remove all sampling error",
+      "Guarantee the population value",
+      "Describe or estimate characteristics using sample data"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "A sample statistic summarizes the sample and may estimate a population parameter.",
+    "incorrectChoiceExplanations": [
+      "Sampling error remains possible.",
+      "An estimate is not a guarantee.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "sample"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q05-04",
+    "lessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Counts of observations in class intervals form a:",
+    "choices": [
+      "Frequency distribution",
+      "Geometric mean",
+      "Covariance matrix"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "A frequency distribution organizes counts by value or interval.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "A mean is a location measure.",
+      "Covariance describes joint variation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "frequency"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q05-05",
+    "lessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "A class contains 12 of 60 observations. Its relative frequency is:",
+    "choices": [
+      "12%",
+      "20%",
+      "48%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "12/60 = 0.20, or 20%.",
+    "incorrectChoiceExplanations": [
+      "12 is the count, not the percent.",
+      "Correct.",
+      "48% is not the class share."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "frequency",
+      "calculation"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q05-06",
+    "lessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Ordered class counts are 4, 7, and 9. Cumulative frequency through the second class is:",
+    "choices": [
+      "7",
+      "20",
+      "11"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Cumulative frequency through class two is 4+7=11.",
+    "incorrectChoiceExplanations": [
+      "7 is only the second-class count.",
+      "20 includes the third class.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "frequency"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q05-07",
+    "lessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "difficulty": "medium",
+    "estimatedSeconds": 65,
+    "stem": "Changing histogram bin widths can:",
+    "choices": [
+      "Change the visual impression of shape",
+      "Change the underlying observations",
+      "Guarantee normality"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Bin choices affect the displayed shape without changing raw data.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "The observations remain the same.",
+      "No bin choice guarantees a distribution."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "histogram"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q05-08",
+    "lessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "The arithmetic mean of 2%, 5%, âˆ’1%, and 6% is:",
+    "choices": [
+      "2%",
+      "3%",
+      "4%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "(2+5âˆ’1+6)/4 = 3%.",
+    "incorrectChoiceExplanations": [
+      "2% uses an incorrect sum.",
+      "Correct.",
+      "4% divides incorrectly."
+    ],
+    "relatedFormulaIds": [
+      "arithmetic-mean-05"
+    ],
+    "tags": [
+      "mean"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q05-09",
+    "lessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "A portfolio is 60% in an 8% asset and 40% in a 3% asset. Weighted mean return is:",
+    "choices": [
+      "5.0%",
+      "6.8%",
+      "6.0%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "0.60(8%)+0.40(3%)=6.0%.",
+    "incorrectChoiceExplanations": [
+      "5% is the unweighted midpoint.",
+      "6.8% uses incorrect contributions.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [
+      "weighted-mean-05"
+    ],
+    "tags": [
+      "weighted-mean"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q05-10",
+    "lessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "difficulty": "medium",
+    "estimatedSeconds": 65,
+    "stem": "Returns of +20% and âˆ’10% have a geometric mean closest to:",
+    "choices": [
+      "3.92%",
+      "5.00%",
+      "8.00%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "âˆš(1.20Ã—0.90)âˆ’1 = 3.923%.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "5% is the arithmetic mean.",
+      "8% is the two-period cumulative return."
+    ],
+    "relatedFormulaIds": [
+      "geometric-mean-05"
+    ],
+    "tags": [
+      "geometric-mean"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q05-11",
+    "lessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "difficulty": "medium",
+    "estimatedSeconds": 65,
+    "stem": "For equal-distance travel at 30 and 60 km/h, average speed is:",
+    "choices": [
+      "45 km/h",
+      "40 km/h",
+      "50 km/h"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The harmonic mean is 2/(1/30+1/60)=40.",
+    "incorrectChoiceExplanations": [
+      "45 is the arithmetic mean, inappropriate for equal distances.",
+      "Correct.",
+      "50 is not supported by travel times."
+    ],
+    "relatedFormulaIds": [
+      "harmonic-mean-05"
+    ],
+    "tags": [
+      "harmonic-mean"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q05-12",
+    "lessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "For ordered values 1, 3, 3, 7, 20, the median is:",
+    "choices": [
+      "7",
+      "6.8",
+      "3"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The middle of five ordered values is 3.",
+    "incorrectChoiceExplanations": [
+      "7 is above the middle position.",
+      "6.8 is the arithmetic mean.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "median"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q05-13",
+    "lessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "For values 1, 3, 3, 7, 20, the mode is:",
+    "choices": [
+      "3",
+      "1",
+      "20"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Three occurs most frequently.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "One occurs once.",
+      "Twenty occurs once."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "mode"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q05-14",
+    "lessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "The median of 2, 4, 8, and 10 is:",
+    "choices": [
+      "4",
+      "6",
+      "8"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "For even n, average the two middle values: (4+8)/2=6.",
+    "incorrectChoiceExplanations": [
+      "4 uses only the lower middle.",
+      "Correct.",
+      "8 uses only the upper middle."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "median"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q05-15",
+    "lessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "A 75th-percentile return of 9% means approximately:",
+    "choices": [
+      "9% of observations exceed 75%",
+      "75% equal exactly 9%",
+      "75% of observations are at or below 9%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "A percentile is an ordered boundary under the stated convention.",
+    "incorrectChoiceExplanations": [
+      "This reverses values and ranks.",
+      "A percentile does not imply equality.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "percentile"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q05-16",
+    "lessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Quartiles divide ordered data into:",
+    "choices": [
+      "Four groups",
+      "Five groups",
+      "Ten groups"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Quartiles create four ordered sections.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "Quintiles create five.",
+      "Deciles create ten."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "quantiles"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q05-17",
+    "lessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "The range of âˆ’4%, 2%, 5%, and 9% is:",
+    "choices": [
+      "5%",
+      "13%",
+      "9%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Range=maxâˆ’min=9%âˆ’(âˆ’4%)=13%.",
+    "incorrectChoiceExplanations": [
+      "5% ignores the minimum.",
+      "Correct.",
+      "9% is the maximum only."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "dispersion"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q05-18",
+    "lessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Mean absolute deviation differs from variance because it uses:",
+    "choices": [
+      "Only positive observations",
+      "Squared deviations",
+      "Absolute deviations"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "MAD averages absolute distances from a center.",
+    "incorrectChoiceExplanations": [
+      "Negative observations are retained.",
+      "Variance uses squared deviations.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "dispersion"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q05-19",
+    "lessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "difficulty": "medium",
+    "estimatedSeconds": 65,
+    "stem": "For the population 2, 4, 6, variance is closest to:",
+    "choices": [
+      "2.67",
+      "4.00",
+      "8.00"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Mean is 4; squared deviations sum to 8; divide by N=3.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "4 is sample variance.",
+      "8 is the unscaled squared-deviation sum."
+    ],
+    "relatedFormulaIds": [
+      "population-variance-05"
+    ],
+    "tags": [
+      "variance",
+      "population"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q05-20",
+    "lessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "difficulty": "medium",
+    "estimatedSeconds": 65,
+    "stem": "For the sample 2, 4, 6, sample variance is:",
+    "choices": [
+      "2.67",
+      "4.00",
+      "8.00"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Squared deviations sum to 8; divide by nâˆ’1=2 to get 4.",
+    "incorrectChoiceExplanations": [
+      "2.67 uses the population denominator.",
+      "Correct.",
+      "8 omits division."
+    ],
+    "relatedFormulaIds": [
+      "sample-variance-05"
+    ],
+    "tags": [
+      "variance",
+      "sample"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q05-21",
+    "lessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Population variance is 2.25. Population standard deviation is:",
+    "choices": [
+      "5.06",
+      "2.25",
+      "1.50"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Standard deviation is âˆš2.25=1.50.",
+    "incorrectChoiceExplanations": [
+      "5.06 squares the variance.",
+      "2.25 is variance.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [
+      "population-standard-deviation-05"
+    ],
+    "tags": [
+      "standard-deviation"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q05-22",
+    "lessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "A sample has variance 16. Its sample standard deviation is:",
+    "choices": [
+      "4",
+      "8",
+      "256"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "âˆš16=4.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "8 is not the square root.",
+      "256 squares the variance."
+    ],
+    "relatedFormulaIds": [
+      "sample-standard-deviation-05"
+    ],
+    "tags": [
+      "standard-deviation"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q05-23",
+    "lessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "difficulty": "medium",
+    "estimatedSeconds": 65,
+    "stem": "Why does sample variance divide by nâˆ’1?",
+    "choices": [
+      "To make variance smaller",
+      "To correct for estimating the mean from the same sample",
+      "Because one observation is discarded"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Estimating the sample mean consumes one degree of freedom.",
+    "incorrectChoiceExplanations": [
+      "nâˆ’1 usually makes the estimate larger than division by n.",
+      "Correct.",
+      "No observation is discarded."
+    ],
+    "relatedFormulaIds": [
+      "sample-variance-05"
+    ],
+    "tags": [
+      "sample",
+      "trap"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q05-24",
+    "lessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "A fund has mean return 8% and standard deviation 12%. Its coefficient of variation is:",
+    "choices": [
+      "0.67",
+      "20.00",
+      "1.50"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "12%/8%=1.50.",
+    "incorrectChoiceExplanations": [
+      "0.67 reverses numerator and denominator.",
+      "20 adds the percentages.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [
+      "coefficient-variation-05"
+    ],
+    "tags": [
+      "cv"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q05-25",
+    "lessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "difficulty": "medium",
+    "estimatedSeconds": 65,
+    "stem": "Coefficient of variation is least reliable when the mean is:",
+    "choices": [
+      "Near zero",
+      "Large and positive",
+      "Measured in percent"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Division by a near-zero mean makes CV unstable.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "A larger positive mean is generally more stable.",
+      "Consistent units cancel in the ratio."
+    ],
+    "relatedFormulaIds": [
+      "coefficient-variation-05"
+    ],
+    "tags": [
+      "cv",
+      "limitations"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q05-26",
+    "lessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "A portfolio earns 9%, the risk-free return is 3%, and standard deviation is 10%. Sharpe ratio is:",
+    "choices": [
+      "0.90",
+      "0.60",
+      "1.20"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "(9%âˆ’3%)/10%=0.60.",
+    "incorrectChoiceExplanations": [
+      "0.90 omits the risk-free return.",
+      "Correct.",
+      "1.20 uses an incorrect numerator."
+    ],
+    "relatedFormulaIds": [
+      "sharpe-ratio-05"
+    ],
+    "tags": [
+      "sharpe"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q05-27",
+    "lessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Mean 8, median 5, and mode 3 most strongly suggest:",
+    "choices": [
+      "Negative skew",
+      "Symmetry",
+      "Positive skew"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The typical positive-skew ordering is mean>median>mode.",
+    "incorrectChoiceExplanations": [
+      "Negative skew commonly reverses the ordering.",
+      "Symmetry would align the measures.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "skewness"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q05-28",
+    "lessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "A distribution with a long left tail is described as:",
+    "choices": [
+      "Negatively skewed",
+      "Positively skewed",
+      "Mesokurtic"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Negative skew refers to a longer left tail.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "Positive skew has a longer right tail.",
+      "Mesokurtic concerns kurtosis, not direction."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "skewness"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q05-29",
+    "lessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "A distribution has kurtosis 5.2 under the Pearson convention. Excess kurtosis is:",
+    "choices": [
+      "3.0",
+      "2.2",
+      "8.2"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Excess kurtosis=5.2âˆ’3=2.2.",
+    "incorrectChoiceExplanations": [
+      "Three is the normal-reference kurtosis.",
+      "Correct.",
+      "8.2 incorrectly adds three."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "kurtosis"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q05-30",
+    "lessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Positive excess kurtosis indicates a distribution is:",
+    "choices": [
+      "Platykurtic",
+      "Mesokurtic",
+      "Leptokurtic"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Positive excess indicates heavier-tail leptokurtic behavior relative to normal.",
+    "incorrectChoiceExplanations": [
+      "Platykurtic has negative excess.",
+      "Mesokurtic has excess near zero.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "kurtosis"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q05-31",
+    "lessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "difficulty": "medium",
+    "estimatedSeconds": 65,
+    "stem": "A platykurtic distribution is described relative to normal as having:",
+    "choices": [
+      "Lighter tails and a flatter peak",
+      "Heavier tails and a sharper peak",
+      "A necessarily positive skew"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Platykurtic describes lighter-tail, flatter behavior relative to normal.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "That is leptokurtic.",
+      "Kurtosis does not determine skew direction."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "kurtosis"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q05-32",
+    "lessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "One extreme negative return is likely to affect which location measure more?",
+    "choices": [
+      "Median",
+      "Arithmetic mean",
+      "Mode"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The arithmetic mean incorporates the magnitude of every observation.",
+    "incorrectChoiceExplanations": [
+      "Median depends primarily on order.",
+      "Correct.",
+      "Mode depends on frequency."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "outliers"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q05-33",
+    "lessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "difficulty": "medium",
+    "estimatedSeconds": 65,
+    "stem": "Winsorization differs from trimming because winsorization:",
+    "choices": [
+      "Leaves all values unchanged",
+      "Always increases sample size",
+      "Caps extreme values rather than removing them"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Winsorization replaces extremes at chosen boundaries; trimming removes them.",
+    "incorrectChoiceExplanations": [
+      "It changes extreme values.",
+      "It retains count rather than increasing it.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "outliers"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q05-34",
+    "lessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "For a highly skewed return distribution, the most robust typical-value measure is often:",
+    "choices": [
+      "Median",
+      "Arithmetic mean",
+      "Range"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Median is less sensitive to tail extremes.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "The mean can be pulled by the tail.",
+      "Range measures spread, not center."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "selection"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q05-35",
+    "lessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate, interpret, and evaluate various measures of central tendency and location and dispersion",
+    "difficulty": "medium",
+    "estimatedSeconds": 65,
+    "stem": "Which statement best reflects a limitation of descriptive statistics?",
+    "choices": [
+      "Standard deviation guarantees maximum loss",
+      "Historical summaries do not by themselves establish a future distribution",
+      "The median uses every distance from the center"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Descriptive measures summarize observed data and require judgment for forecasting.",
+    "incorrectChoiceExplanations": [
+      "Standard deviation does not bound loss.",
+      "Correct.",
+      "Median uses order, not every distance."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "limitations"
+    ],
+    "studyLessonId": "quant-statistics-05",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q-lm5r-01",
+    "lessonId": "quant-statistics-05",
+    "studyLessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate statistical characteristics of asset returns, including central tendency, dispersion, shape, covariance, correlation, semideviation, and coefficient of variation",
+    "lessonSectionId": "2027-official-scope-extensions",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Returns are 4%, −2%, 7%, and 3%. Their arithmetic mean is:",
+    "choices": [
+      "3.0%",
+      "12.0%",
+      "2.5%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The mean is (4−2+7+3)/4=3%.",
+    "incorrectChoiceExplanations": [
+      "Correct. The mean is (4−2+7+3)/4=3%.",
+      "Incorrect. 12.0% does not follow the required formula or interpretation. The mean is (4−2+7+3)/4=3%.",
+      "Incorrect. 2.5% does not follow the required formula or interpretation. The mean is (4−2+7+3)/4=3%."
+    ],
+    "relatedFormulaIds": [
+      "arithmetic-mean-05"
+    ],
+    "tags": [
+      "qm-lm5",
+      "checkpoint-2-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm5r-02",
+    "lessonId": "quant-statistics-05",
+    "studyLessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate statistical characteristics of asset returns, including central tendency, dispersion, shape, covariance, correlation, semideviation, and coefficient of variation",
+    "lessonSectionId": "2027-official-scope-extensions",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A portfolio is 25% in an asset returning 12% and 75% in an asset returning 4%. Portfolio return is:",
+    "choices": [
+      "8.0%",
+      "5.0%",
+      "6.0%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Weighted mean=0.25(12%)+0.75(4%)=6%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 8.0% does not follow the required formula or interpretation. Weighted mean=0.25(12%)+0.75(4%)=6%.",
+      "Incorrect. 5.0% does not follow the required formula or interpretation. Weighted mean=0.25(12%)+0.75(4%)=6%.",
+      "Correct. Weighted mean=0.25(12%)+0.75(4%)=6%."
+    ],
+    "relatedFormulaIds": [
+      "weighted-mean-05"
+    ],
+    "tags": [
+      "qm-lm5",
+      "checkpoint-2-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm5r-03",
+    "lessonId": "quant-statistics-05",
+    "studyLessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate statistical characteristics of asset returns, including central tendency, dispersion, shape, covariance, correlation, semideviation, and coefficient of variation",
+    "lessonSectionId": "2027-official-scope-extensions",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Returns are 2%, 3%, 4%, and 30%. Which statistic is least affected by the outlier?",
+    "choices": [
+      "Range",
+      "Median",
+      "Arithmetic mean"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The median uses rank and remains 3.5%; the mean and range respond strongly to 30%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. Range does not follow the required formula or interpretation. The median uses rank and remains 3.5%; the mean and range respond strongly to 30%.",
+      "Correct. The median uses rank and remains 3.5%; the mean and range respond strongly to 30%.",
+      "Incorrect. Arithmetic mean does not follow the required formula or interpretation. The median uses rank and remains 3.5%; the mean and range respond strongly to 30%."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm5",
+      "checkpoint-2-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm5r-04",
+    "lessonId": "quant-statistics-05",
+    "studyLessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate statistical characteristics of asset returns, including central tendency, dispersion, shape, covariance, correlation, semideviation, and coefficient of variation",
+    "lessonSectionId": "2027-official-scope-extensions",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "For the population 1, 3, and 5, variance is closest to:",
+    "choices": [
+      "2.67",
+      "4.00",
+      "1.63"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Mean=3; squared deviations sum to 8; population variance=8/3=2.67.",
+    "incorrectChoiceExplanations": [
+      "Correct. Mean=3; squared deviations sum to 8; population variance=8/3=2.67.",
+      "Incorrect. 4.00 does not follow the required formula or interpretation. Mean=3; squared deviations sum to 8; population variance=8/3=2.67.",
+      "Incorrect. 1.63 does not follow the required formula or interpretation. Mean=3; squared deviations sum to 8; population variance=8/3=2.67."
+    ],
+    "relatedFormulaIds": [
+      "population-variance-05"
+    ],
+    "tags": [
+      "qm-lm5",
+      "checkpoint-2-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm5r-05",
+    "lessonId": "quant-statistics-05",
+    "studyLessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate statistical characteristics of asset returns, including central tendency, dispersion, shape, covariance, correlation, semideviation, and coefficient of variation",
+    "lessonSectionId": "2027-official-scope-extensions",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "For the sample 1, 3, and 5, sample variance is:",
+    "choices": [
+      "2.67",
+      "2.00",
+      "4.00"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Squared deviations sum to 8 and sample variance divides by n−1=2, giving 4.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 2.67 does not follow the required formula or interpretation. Squared deviations sum to 8 and sample variance divides by n−1=2, giving 4.",
+      "Incorrect. 2.00 does not follow the required formula or interpretation. Squared deviations sum to 8 and sample variance divides by n−1=2, giving 4.",
+      "Correct. Squared deviations sum to 8 and sample variance divides by n−1=2, giving 4."
+    ],
+    "relatedFormulaIds": [
+      "sample-variance-05"
+    ],
+    "tags": [
+      "qm-lm5",
+      "checkpoint-2-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm5r-06",
+    "lessonId": "quant-statistics-05",
+    "studyLessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate statistical characteristics of asset returns, including central tendency, dispersion, shape, covariance, correlation, semideviation, and coefficient of variation",
+    "lessonSectionId": "2027-official-scope-extensions",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A return sample has variance 0.0025. Its standard deviation is:",
+    "choices": [
+      "2.5%",
+      "5.0%",
+      "0.25%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "sqrt(0.0025)=0.05=5%. Standard deviation restores the original return units.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 2.5% does not follow the required formula or interpretation. sqrt(0.0025)=0.05=5%. Standard deviation restores the original return units.",
+      "Correct. sqrt(0.0025)=0.05=5%. Standard deviation restores the original return units.",
+      "Incorrect. 0.25% does not follow the required formula or interpretation. sqrt(0.0025)=0.05=5%. Standard deviation restores the original return units."
+    ],
+    "relatedFormulaIds": [
+      "sample-standard-deviation-05"
+    ],
+    "tags": [
+      "qm-lm5",
+      "checkpoint-2-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm5r-07",
+    "lessonId": "quant-statistics-05",
+    "studyLessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate statistical characteristics of asset returns, including central tendency, dispersion, shape, covariance, correlation, semideviation, and coefficient of variation",
+    "lessonSectionId": "2027-official-scope-extensions",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Paired return deviations have cross-products 0.0006, −0.0001, and 0.0003. Sample covariance is:",
+    "choices": [
+      "0.0004",
+      "0.000267",
+      "0.0008"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Cross-products sum to 0.0008; divide by n−1=2 to obtain 0.0004.",
+    "incorrectChoiceExplanations": [
+      "Correct. Cross-products sum to 0.0008; divide by n−1=2 to obtain 0.0004.",
+      "Incorrect. 0.000267 does not follow the required formula or interpretation. Cross-products sum to 0.0008; divide by n−1=2 to obtain 0.0004.",
+      "Incorrect. 0.0008 does not follow the required formula or interpretation. Cross-products sum to 0.0008; divide by n−1=2 to obtain 0.0004."
+    ],
+    "relatedFormulaIds": [
+      "sample-covariance-05"
+    ],
+    "tags": [
+      "qm-lm5",
+      "checkpoint-2-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm5r-08",
+    "lessonId": "quant-statistics-05",
+    "studyLessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate statistical characteristics of asset returns, including central tendency, dispersion, shape, covariance, correlation, semideviation, and coefficient of variation",
+    "lessonSectionId": "2027-official-scope-extensions",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Covariance is 0.0012 and standard deviations are 10% and 20%. Correlation is:",
+    "choices": [
+      "0.60",
+      "6.00",
+      "0.06"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Correlation=0.0012/(0.10×0.20)=0.06. It must lie between −1 and +1.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 0.60 does not follow the required formula or interpretation. Correlation=0.0012/(0.10×0.20)=0.06. It must lie between −1 and +1.",
+      "Incorrect. 6.00 does not follow the required formula or interpretation. Correlation=0.0012/(0.10×0.20)=0.06. It must lie between −1 and +1.",
+      "Correct. Correlation=0.0012/(0.10×0.20)=0.06. It must lie between −1 and +1."
+    ],
+    "relatedFormulaIds": [
+      "correlation-05"
+    ],
+    "tags": [
+      "qm-lm5",
+      "checkpoint-2-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm5r-09",
+    "lessonId": "quant-statistics-05",
+    "studyLessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate statistical characteristics of asset returns, including central tendency, dispersion, shape, covariance, correlation, semideviation, and coefficient of variation",
+    "lessonSectionId": "2027-official-scope-extensions",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Against a 3% target, return shortfalls are 4%, 2%, and 0% across four observations. Using the sample target-semideviation convention, the result is closest to:",
+    "choices": [
+      "1.50%",
+      "2.58%",
+      "2.24%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "sqrt[(.04²+.02²)/(4−1)]=2.58%. Only downside deviations enter the numerator.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 1.50% does not follow the required formula or interpretation. sqrt[(.04²+.02²)/(4−1)]=2.58%. Only downside deviations enter the numerator.",
+      "Correct. sqrt[(.04²+.02²)/(4−1)]=2.58%. Only downside deviations enter the numerator.",
+      "Incorrect. 2.24% does not follow the required formula or interpretation. sqrt[(.04²+.02²)/(4−1)]=2.58%. Only downside deviations enter the numerator."
+    ],
+    "relatedFormulaIds": [
+      "target-semideviation-05"
+    ],
+    "tags": [
+      "qm-lm5",
+      "checkpoint-2-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm5r-10",
+    "lessonId": "quant-statistics-05",
+    "studyLessonId": "quant-statistics-05",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM5",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate, interpret, and evaluate statistical characteristics of asset returns, including central tendency, dispersion, shape, covariance, correlation, semideviation, and coefficient of variation",
+    "lessonSectionId": "2027-official-scope-extensions",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Fund A has mean 8% and standard deviation 12%; Fund B has mean 5% and standard deviation 6%. Which has lower relative dispersion?",
+    "choices": [
+      "Fund B",
+      "Fund A",
+      "They are equal"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "CV_A=12/8=1.50; CV_B=6/5=1.20, so Fund B has lower dispersion per unit of mean return.",
+    "incorrectChoiceExplanations": [
+      "Correct. CV_A=12/8=1.50; CV_B=6/5=1.20, so Fund B has lower dispersion per unit of mean return.",
+      "Incorrect. Fund A does not follow the required formula or interpretation. CV_A=12/8=1.50; CV_B=6/5=1.20, so Fund B has lower dispersion per unit of mean return.",
+      "Incorrect. They are equal does not follow the required formula or interpretation. CV_A=12/8=1.50; CV_B=6/5=1.20, so Fund B has lower dispersion per unit of mean return."
+    ],
+    "relatedFormulaIds": [
+      "coefficient-variation-05"
+    ],
+    "tags": [
+      "qm-lm5",
+      "checkpoint-2-verified",
+      "mock-style"
+    ]
+  }
+]

@@ -1,0 +1,1420 @@
+[
+  {
+    "id": "q09-01",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-01: Explain the purpose and structure of statistical hypothesis testing.",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "A manager claims mean excess return is positive. The appropriate alternative hypothesis is:",
+    "choices": [
+      "H₁: μ>0",
+      "H₁: μ≠0",
+      "H₁: μ<0"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "A directional positive claim requires an upper-tailed alternative.",
+    "incorrectChoiceExplanations": [
+      "Correct. A directional positive claim requires an upper-tailed alternative.",
+      "Incorrect. H₁: μ≠0 does not satisfy the stated calculation or interpretation. A directional positive claim requires an upper-tailed alternative.",
+      "Incorrect. H₁: μ<0 does not satisfy the stated calculation or interpretation. A directional positive claim requires an upper-tailed alternative."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm7",
+      "checkpoint-3-verified",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-02",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-03: Distinguish one-tailed and two-tailed tests and select the appropriate form for a stated research question.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "With known σ=10, n=25, sample mean 54, and H₀: μ=50, the z statistic is:",
+    "choices": [
+      "0.40",
+      "10.00",
+      "2.00"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "z=(54−50)/(10/√25)=2.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 0.40 does not satisfy the stated calculation or interpretation. z=(54−50)/(10/√25)=2.",
+      "Incorrect. 10.00 does not satisfy the stated calculation or interpretation. z=(54−50)/(10/√25)=2.",
+      "Correct. z=(54−50)/(10/√25)=2."
+    ],
+    "relatedFormulaIds": [
+      "z-mean-test-09"
+    ],
+    "tags": [
+      "qm-lm7",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-03",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-04: Explain significance level, critical value, rejection region, test statistic, and p-value.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "For an upper-tail 5% z test, z=1.72 leads to:",
+    "choices": [
+      "accept H₀ as true",
+      "reject H₀",
+      "fail to reject H₀"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "1.72 exceeds the 1.645 critical value.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. accept H₀ as true does not satisfy the stated calculation or interpretation. 1.72 exceeds the 1.645 critical value.",
+      "Correct. 1.72 exceeds the 1.645 critical value.",
+      "Incorrect. fail to reject H₀ does not satisfy the stated calculation or interpretation. 1.72 exceeds the 1.645 critical value."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm7",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-04",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-05: Make a hypothesis-test decision using either the critical-value method or the p-value method.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "For a two-tailed 5% z test, z=−1.80 leads to:",
+    "choices": [
+      "fail to reject H₀",
+      "reject H₀",
+      "prove H₀"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "|−1.80| is below 1.96, so evidence is insufficient to reject.",
+    "incorrectChoiceExplanations": [
+      "Correct. |−1.80| is below 1.96, so evidence is insufficient to reject.",
+      "Incorrect. reject H₀ does not satisfy the stated calculation or interpretation. |−1.80| is below 1.96, so evidence is insufficient to reject.",
+      "Incorrect. prove H₀ does not satisfy the stated calculation or interpretation. |−1.80| is below 1.96, so evidence is insufficient to reject."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm7",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-05",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-06: Explain Type I error, Type II error, and statistical power.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A test produces p=0.032 at α=0.05. The correct decision is:",
+    "choices": [
+      "fail to reject H₀",
+      "assign 3.2% probability to H₀",
+      "reject H₀"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Because p<α, reject H₀; the p-value is not P(H₀ true).",
+    "incorrectChoiceExplanations": [
+      "Incorrect. fail to reject H₀ does not satisfy the stated calculation or interpretation. Because p<α, reject H₀; the p-value is not P(H₀ true).",
+      "Incorrect. assign 3.2% probability to H₀ does not satisfy the stated calculation or interpretation. Because p<α, reject H₀; the p-value is not P(H₀ true).",
+      "Correct. Because p<α, reject H₀; the p-value is not P(H₀ true)."
+    ],
+    "relatedFormulaIds": [
+      "p-decision-09"
+    ],
+    "tags": [
+      "qm-lm7",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-06",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-09: Conduct and interpret a test of a population mean when population variance is known.",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "A test produces p=0.08 at α=0.05. The correct conclusion is:",
+    "choices": [
+      "prove no effect exists",
+      "fail to reject H₀",
+      "accept H₀"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "p>α means insufficient evidence to reject, not proof of the null.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. prove no effect exists does not satisfy the stated calculation or interpretation. p>α means insufficient evidence to reject, not proof of the null.",
+      "Correct. p>α means insufficient evidence to reject, not proof of the null.",
+      "Incorrect. accept H₀ does not satisfy the stated calculation or interpretation. p>α means insufficient evidence to reject, not proof of the null."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm7",
+      "checkpoint-3-verified",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-07",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-10: Conduct and interpret a test of a population mean when population variance is unknown.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A two-sided test has one-tail area 0.018 beyond |t|. Its p-value is:",
+    "choices": [
+      "0.036",
+      "0.018",
+      "0.982"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "For a symmetric two-sided test, double the one-tail area.",
+    "incorrectChoiceExplanations": [
+      "Correct. For a symmetric two-sided test, double the one-tail area.",
+      "Incorrect. 0.018 does not satisfy the stated calculation or interpretation. For a symmetric two-sided test, double the one-tail area.",
+      "Incorrect. 0.982 does not satisfy the stated calculation or interpretation. For a symmetric two-sided test, double the one-tail area."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm7",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-08",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-14: Interpret failure to reject the null hypothesis correctly without claiming that the null has been proven true.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A normal sample has n=16, unknown σ, x̄=12, s=4, and μ₀=10. The t statistic is:",
+    "choices": [
+      "0.50",
+      "8.00",
+      "2.00"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "t=(12−10)/(4/√16)=2 with 15 df.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 0.50 does not satisfy the stated calculation or interpretation. t=(12−10)/(4/√16)=2 with 15 df.",
+      "Incorrect. 8.00 does not satisfy the stated calculation or interpretation. t=(12−10)/(4/√16)=2 with 15 df.",
+      "Correct. t=(12−10)/(4/√16)=2 with 15 df."
+    ],
+    "relatedFormulaIds": [
+      "t-mean-test-09"
+    ],
+    "tags": [
+      "qm-lm7",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-09",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-01: Explain the purpose and structure of statistical hypothesis testing.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Rejecting a true null hypothesis is:",
+    "choices": [
+      "power",
+      "a Type I error",
+      "a Type II error"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Type I error is a false rejection.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. power does not satisfy the stated calculation or interpretation. Type I error is a false rejection.",
+      "Correct. Type I error is a false rejection.",
+      "Incorrect. a Type II error does not satisfy the stated calculation or interpretation. Type I error is a false rejection."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm7",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-10",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-03: Distinguish one-tailed and two-tailed tests and select the appropriate form for a stated research question.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Failing to reject a false null hypothesis is:",
+    "choices": [
+      "a Type II error",
+      "a Type I error",
+      "statistical power"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Type II error is a missed real effect.",
+    "incorrectChoiceExplanations": [
+      "Correct. Type II error is a missed real effect.",
+      "Incorrect. a Type I error does not satisfy the stated calculation or interpretation. Type II error is a missed real effect.",
+      "Incorrect. statistical power does not satisfy the stated calculation or interpretation. Type II error is a missed real effect."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm7",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-11",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-04: Explain significance level, critical value, rejection region, test statistic, and p-value.",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "If β=0.20, statistical power equals:",
+    "choices": [
+      "0.20",
+      "1.20",
+      "0.80"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Power=1−β=.80.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 0.20 does not satisfy the stated calculation or interpretation. Power=1−β=.80.",
+      "Incorrect. 1.20 does not satisfy the stated calculation or interpretation. Power=1−β=.80.",
+      "Correct. Power=1−β=.80."
+    ],
+    "relatedFormulaIds": [
+      "power-09"
+    ],
+    "tags": [
+      "qm-lm7",
+      "checkpoint-3-verified",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-12",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-05: Make a hypothesis-test decision using either the critical-value method or the p-value method.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "All else equal, increasing sample size generally:",
+    "choices": [
+      "makes economic significance certain",
+      "raises power by reducing standard error",
+      "raises Type I error above α automatically"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "A smaller standard error improves detection of a real effect.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. makes economic significance certain does not satisfy the stated calculation or interpretation. A smaller standard error improves detection of a real effect.",
+      "Correct. A smaller standard error improves detection of a real effect.",
+      "Incorrect. raises Type I error above α automatically does not satisfy the stated calculation or interpretation. A smaller standard error improves detection of a real effect."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm7",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-13",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-06: Explain Type I error, Type II error, and statistical power.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A 95% confidence interval for μ−μ₀ excludes zero. The corresponding two-sided 5% test should:",
+    "choices": [
+      "reject H₀",
+      "fail to reject H₀",
+      "switch to a one-sided test"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Exclusion of the null value matches rejection at the corresponding level.",
+    "incorrectChoiceExplanations": [
+      "Correct. Exclusion of the null value matches rejection at the corresponding level.",
+      "Incorrect. fail to reject H₀ does not satisfy the stated calculation or interpretation. Exclusion of the null value matches rejection at the corresponding level.",
+      "Incorrect. switch to a one-sided test does not satisfy the stated calculation or interpretation. Exclusion of the null value matches rejection at the corresponding level."
+    ],
+    "relatedFormulaIds": [
+      "ci-test-link-09"
+    ],
+    "tags": [
+      "qm-lm7",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-14",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-09: Conduct and interpret a test of a population mean when population variance is known.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A tiny return difference is statistically significant in a huge sample but smaller than trading costs. It is:",
+    "choices": [
+      "proof of a profitable strategy",
+      "evidence that α was too small",
+      "not necessarily economically significant"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Statistical detection does not establish practical profitability.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. proof of a profitable strategy does not satisfy the stated calculation or interpretation. Statistical detection does not establish practical profitability.",
+      "Incorrect. evidence that α was too small does not satisfy the stated calculation or interpretation. Statistical detection does not establish practical profitability.",
+      "Correct. Statistical detection does not establish practical profitability."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm7",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-15",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-10: Conduct and interpret a test of a population mean when population variance is unknown.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "An analyst chooses a one-tailed test only after seeing the sign of the sample result. This mainly:",
+    "choices": [
+      "proves the alternative",
+      "invalidates the pre-specified error control",
+      "increases degrees of freedom"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Tail direction must follow the research hypothesis, not the observed result.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. proves the alternative does not satisfy the stated calculation or interpretation. Tail direction must follow the research hypothesis, not the observed result.",
+      "Correct. Tail direction must follow the research hypothesis, not the observed result.",
+      "Incorrect. increases degrees of freedom does not satisfy the stated calculation or interpretation. Tail direction must follow the research hypothesis, not the observed result."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm7",
+      "checkpoint-3-verified"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-16",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-14: Interpret failure to reject the null hypothesis correctly without claiming that the null has been proven true.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "In hypothesis testing, which statement correctly describes known-variance mean statistic?",
+    "choices": [
+      "z=(x̄−μ0)/(σ/√n).",
+      "It proves the null claim with certainty.",
+      "It automatically establishes economic importance."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "z=(x̄−μ0)/(σ/√n).",
+    "incorrectChoiceExplanations": [
+      "Correct. z=(x̄−μ0)/(σ/√n).",
+      "Incorrect. It proves the null claim with certainty. overstates or contradicts the defined statistical meaning; z=(x̄−μ0)/(σ/√n).",
+      "Incorrect. It automatically establishes economic importance. overstates or contradicts the defined statistical meaning; z=(x̄−μ0)/(σ/√n)."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "hypothesis-testing",
+      "known-variance-mean-statistic"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-17",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-01: Explain the purpose and structure of statistical hypothesis testing.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "In hypothesis testing, which statement correctly describes unknown-variance mean statistic?",
+    "choices": [
+      "It automatically establishes economic importance.",
+      "It proves the null claim with certainty.",
+      "t=(x̄−μ0)/(s/√n)."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "t=(x̄−μ0)/(s/√n).",
+    "incorrectChoiceExplanations": [
+      "Incorrect. It automatically establishes economic importance. overstates or contradicts the defined statistical meaning; t=(x̄−μ0)/(s/√n).",
+      "Incorrect. It proves the null claim with certainty. overstates or contradicts the defined statistical meaning; t=(x̄−μ0)/(s/√n).",
+      "Correct. t=(x̄−μ0)/(s/√n)."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "hypothesis-testing",
+      "unknown-variance-mean-statistic"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-18",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-03: Distinguish one-tailed and two-tailed tests and select the appropriate form for a stated research question.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "In hypothesis testing, which statement correctly describes one-sample t degrees of freedom?",
+    "choices": [
+      "It proves the null claim with certainty.",
+      "n−1.",
+      "It automatically establishes economic importance."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "n−1.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. It proves the null claim with certainty. overstates or contradicts the defined statistical meaning; n−1.",
+      "Correct. n−1.",
+      "Incorrect. It automatically establishes economic importance. overstates or contradicts the defined statistical meaning; n−1."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "hypothesis-testing",
+      "one-sample-t-degrees-of-freedom"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-19",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-04: Explain significance level, critical value, rejection region, test statistic, and p-value.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "In hypothesis testing, which statement correctly describes z versus t?",
+    "choices": [
+      "Known σ supports Z; unknown σ estimated by s supports t under appropriate conditions.",
+      "It proves the null claim with certainty.",
+      "It automatically establishes economic importance."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Known σ supports Z; unknown σ estimated by s supports t under appropriate conditions.",
+    "incorrectChoiceExplanations": [
+      "Correct. Known σ supports Z; unknown σ estimated by s supports t under appropriate conditions.",
+      "Incorrect. It proves the null claim with certainty. overstates or contradicts the defined statistical meaning; Known σ supports Z; unknown σ estimated by s supports t under appropriate conditions.",
+      "Incorrect. It automatically establishes economic importance. overstates or contradicts the defined statistical meaning; Known σ supports Z; unknown σ estimated by s supports t under appropriate conditions."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "hypothesis-testing",
+      "z-versus-t"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-20",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-05: Make a hypothesis-test decision using either the critical-value method or the p-value method.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "In hypothesis testing, which statement correctly describes failure to reject?",
+    "choices": [
+      "It automatically establishes economic importance.",
+      "It proves the null claim with certainty.",
+      "Evidence is insufficient to reject H0; H0 has not been proven."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Evidence is insufficient to reject H0; H0 has not been proven.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. It automatically establishes economic importance. overstates or contradicts the defined statistical meaning; Evidence is insufficient to reject H0; H0 has not been proven.",
+      "Incorrect. It proves the null claim with certainty. overstates or contradicts the defined statistical meaning; Evidence is insufficient to reject H0; H0 has not been proven.",
+      "Correct. Evidence is insufficient to reject H0; H0 has not been proven."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "hypothesis-testing",
+      "failure-to-reject"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-21",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-06: Explain Type I error, Type II error, and statistical power.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "In hypothesis testing, which statement correctly describes type i error?",
+    "choices": [
+      "It proves the null claim with certainty.",
+      "Rejecting H0 when H0 is true.",
+      "It automatically establishes economic importance."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Rejecting H0 when H0 is true.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. It proves the null claim with certainty. overstates or contradicts the defined statistical meaning; Rejecting H0 when H0 is true.",
+      "Correct. Rejecting H0 when H0 is true.",
+      "Incorrect. It automatically establishes economic importance. overstates or contradicts the defined statistical meaning; Rejecting H0 when H0 is true."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "hypothesis-testing",
+      "type-i-error"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-22",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-09: Conduct and interpret a test of a population mean when population variance is known.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "In hypothesis testing, which statement correctly describes type ii error?",
+    "choices": [
+      "Failing to reject H0 when H0 is false.",
+      "It proves the null claim with certainty.",
+      "It automatically establishes economic importance."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Failing to reject H0 when H0 is false.",
+    "incorrectChoiceExplanations": [
+      "Correct. Failing to reject H0 when H0 is false.",
+      "Incorrect. It proves the null claim with certainty. overstates or contradicts the defined statistical meaning; Failing to reject H0 when H0 is false.",
+      "Incorrect. It automatically establishes economic importance. overstates or contradicts the defined statistical meaning; Failing to reject H0 when H0 is false."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "hypothesis-testing",
+      "type-ii-error"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-23",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-10: Conduct and interpret a test of a population mean when population variance is unknown.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "In hypothesis testing, which statement correctly describes power?",
+    "choices": [
+      "It automatically establishes economic importance.",
+      "It proves the null claim with certainty.",
+      "Probability of rejecting H0 at a specified false-null alternative; 1−β."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Probability of rejecting H0 at a specified false-null alternative; 1−β.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. It automatically establishes economic importance. overstates or contradicts the defined statistical meaning; Probability of rejecting H0 at a specified false-null alternative; 1−β.",
+      "Incorrect. It proves the null claim with certainty. overstates or contradicts the defined statistical meaning; Probability of rejecting H0 at a specified false-null alternative; 1−β.",
+      "Correct. Probability of rejecting H0 at a specified false-null alternative; 1−β."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "hypothesis-testing",
+      "power"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-24",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-14: Interpret failure to reject the null hypothesis correctly without claiming that the null has been proven true.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "In hypothesis testing, which statement correctly describes sample size and power?",
+    "choices": [
+      "It proves the null claim with certainty.",
+      "Larger n generally increases power, holding the model and other inputs fixed.",
+      "It automatically establishes economic importance."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Larger n generally increases power, holding the model and other inputs fixed.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. It proves the null claim with certainty. overstates or contradicts the defined statistical meaning; Larger n generally increases power, holding the model and other inputs fixed.",
+      "Correct. Larger n generally increases power, holding the model and other inputs fixed.",
+      "Incorrect. It automatically establishes economic importance. overstates or contradicts the defined statistical meaning; Larger n generally increases power, holding the model and other inputs fixed."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "hypothesis-testing",
+      "sample-size-and-power"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-25",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-01: Explain the purpose and structure of statistical hypothesis testing.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "In hypothesis testing, which statement correctly describes effect size and power?",
+    "choices": [
+      "A larger true departure from H0 is generally easier to detect.",
+      "It proves the null claim with certainty.",
+      "It automatically establishes economic importance."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "A larger true departure from H0 is generally easier to detect.",
+    "incorrectChoiceExplanations": [
+      "Correct. A larger true departure from H0 is generally easier to detect.",
+      "Incorrect. It proves the null claim with certainty. overstates or contradicts the defined statistical meaning; A larger true departure from H0 is generally easier to detect.",
+      "Incorrect. It automatically establishes economic importance. overstates or contradicts the defined statistical meaning; A larger true departure from H0 is generally easier to detect."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "hypothesis-testing",
+      "effect-size-and-power"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-26",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-03: Distinguish one-tailed and two-tailed tests and select the appropriate form for a stated research question.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "In hypothesis testing, which statement correctly describes variability and power?",
+    "choices": [
+      "It automatically establishes economic importance.",
+      "It proves the null claim with certainty.",
+      "Lower variability generally increases power, otherwise fixed."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Lower variability generally increases power, otherwise fixed.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. It automatically establishes economic importance. overstates or contradicts the defined statistical meaning; Lower variability generally increases power, otherwise fixed.",
+      "Incorrect. It proves the null claim with certainty. overstates or contradicts the defined statistical meaning; Lower variability generally increases power, otherwise fixed.",
+      "Correct. Lower variability generally increases power, otherwise fixed."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "hypothesis-testing",
+      "variability-and-power"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-27",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-04: Explain significance level, critical value, rejection region, test statistic, and p-value.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "In hypothesis testing, which statement correctly describes alpha trade-off?",
+    "choices": [
+      "It proves the null claim with certainty.",
+      "Higher alpha raises Type I risk and generally power, otherwise fixed.",
+      "It automatically establishes economic importance."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Higher alpha raises Type I risk and generally power, otherwise fixed.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. It proves the null claim with certainty. overstates or contradicts the defined statistical meaning; Higher alpha raises Type I risk and generally power, otherwise fixed.",
+      "Correct. Higher alpha raises Type I risk and generally power, otherwise fixed.",
+      "Incorrect. It automatically establishes economic importance. overstates or contradicts the defined statistical meaning; Higher alpha raises Type I risk and generally power, otherwise fixed."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "hypothesis-testing",
+      "alpha-trade-off"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-28",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-05: Make a hypothesis-test decision using either the critical-value method or the p-value method.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "In hypothesis testing, which statement correctly describes statistical significance?",
+    "choices": [
+      "Evidence strength relative to a sampling model and alpha.",
+      "It proves the null claim with certainty.",
+      "It automatically establishes economic importance."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Evidence strength relative to a sampling model and alpha.",
+    "incorrectChoiceExplanations": [
+      "Correct. Evidence strength relative to a sampling model and alpha.",
+      "Incorrect. It proves the null claim with certainty. overstates or contradicts the defined statistical meaning; Evidence strength relative to a sampling model and alpha.",
+      "Incorrect. It automatically establishes economic importance. overstates or contradicts the defined statistical meaning; Evidence strength relative to a sampling model and alpha."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "hypothesis-testing",
+      "statistical-significance"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-29",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-06: Explain Type I error, Type II error, and statistical power.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "In hypothesis testing, which statement correctly describes economic significance?",
+    "choices": [
+      "It automatically establishes economic importance.",
+      "It proves the null claim with certainty.",
+      "Whether effect magnitude matters after costs, risk, and context."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Whether effect magnitude matters after costs, risk, and context.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. It automatically establishes economic importance. overstates or contradicts the defined statistical meaning; Whether effect magnitude matters after costs, risk, and context.",
+      "Incorrect. It proves the null claim with certainty. overstates or contradicts the defined statistical meaning; Whether effect magnitude matters after costs, risk, and context.",
+      "Correct. Whether effect magnitude matters after costs, risk, and context."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "hypothesis-testing",
+      "economic-significance"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-30",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-09: Conduct and interpret a test of a population mean when population variance is known.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "In hypothesis testing, which statement correctly describes confidence-interval connection?",
+    "choices": [
+      "It proves the null claim with certainty.",
+      "A null value outside the matching two-sided interval implies rejection at the corresponding alpha.",
+      "It automatically establishes economic importance."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "A null value outside the matching two-sided interval implies rejection at the corresponding alpha.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. It proves the null claim with certainty. overstates or contradicts the defined statistical meaning; A null value outside the matching two-sided interval implies rejection at the corresponding alpha.",
+      "Correct. A null value outside the matching two-sided interval implies rejection at the corresponding alpha.",
+      "Incorrect. It automatically establishes economic importance. overstates or contradicts the defined statistical meaning; A null value outside the matching two-sided interval implies rejection at the corresponding alpha."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "hypothesis-testing",
+      "confidence-interval-connection"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-31",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-10: Conduct and interpret a test of a population mean when population variance is unknown.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "In hypothesis testing, which statement correctly describes upper-tail p-value?",
+    "choices": [
+      "1−CDF(test statistic).",
+      "It proves the null claim with certainty.",
+      "It automatically establishes economic importance."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "1−CDF(test statistic).",
+    "incorrectChoiceExplanations": [
+      "Correct. 1−CDF(test statistic).",
+      "Incorrect. It proves the null claim with certainty. overstates or contradicts the defined statistical meaning; 1−CDF(test statistic).",
+      "Incorrect. It automatically establishes economic importance. overstates or contradicts the defined statistical meaning; 1−CDF(test statistic)."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "hypothesis-testing",
+      "upper-tail-p-value"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-32",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-14: Interpret failure to reject the null hypothesis correctly without claiming that the null has been proven true.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "In hypothesis testing, which statement correctly describes lower-tail p-value?",
+    "choices": [
+      "It automatically establishes economic importance.",
+      "It proves the null claim with certainty.",
+      "CDF(test statistic)."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "CDF(test statistic).",
+    "incorrectChoiceExplanations": [
+      "Incorrect. It automatically establishes economic importance. overstates or contradicts the defined statistical meaning; CDF(test statistic).",
+      "Incorrect. It proves the null claim with certainty. overstates or contradicts the defined statistical meaning; CDF(test statistic).",
+      "Correct. CDF(test statistic)."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "hypothesis-testing",
+      "lower-tail-p-value"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-33",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-01: Explain the purpose and structure of statistical hypothesis testing.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "In hypothesis testing, which statement correctly describes two-tail symmetric p-value?",
+    "choices": [
+      "It proves the null claim with certainty.",
+      "Twice the smaller one-tail probability.",
+      "It automatically establishes economic importance."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Twice the smaller one-tail probability.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. It proves the null claim with certainty. overstates or contradicts the defined statistical meaning; Twice the smaller one-tail probability.",
+      "Correct. Twice the smaller one-tail probability.",
+      "Incorrect. It automatically establishes economic importance. overstates or contradicts the defined statistical meaning; Twice the smaller one-tail probability."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "hypothesis-testing",
+      "two-tail-symmetric-p-value"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-34",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-03: Distinguish one-tailed and two-tailed tests and select the appropriate form for a stated research question.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "In hypothesis testing, which statement correctly describes pre-specification?",
+    "choices": [
+      "Choose hypotheses, tail, alpha, and method before inspecting results.",
+      "It proves the null claim with certainty.",
+      "It automatically establishes economic importance."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Choose hypotheses, tail, alpha, and method before inspecting results.",
+    "incorrectChoiceExplanations": [
+      "Correct. Choose hypotheses, tail, alpha, and method before inspecting results.",
+      "Incorrect. It proves the null claim with certainty. overstates or contradicts the defined statistical meaning; Choose hypotheses, tail, alpha, and method before inspecting results.",
+      "Incorrect. It automatically establishes economic importance. overstates or contradicts the defined statistical meaning; Choose hypotheses, tail, alpha, and method before inspecting results."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "hypothesis-testing",
+      "pre-specification"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-35",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-04: Explain significance level, critical value, rejection region, test statistic, and p-value.",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "In hypothesis testing, which statement correctly describes normality and small samples?",
+    "choices": [
+      "It automatically establishes economic importance.",
+      "It proves the null claim with certainty.",
+      "Mean-test validity may require an approximately normal population when n is small."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Mean-test validity may require an approximately normal population when n is small.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. It automatically establishes economic importance. overstates or contradicts the defined statistical meaning; Mean-test validity may require an approximately normal population when n is small.",
+      "Incorrect. It proves the null claim with certainty. overstates or contradicts the defined statistical meaning; Mean-test validity may require an approximately normal population when n is small.",
+      "Correct. Mean-test validity may require an approximately normal population when n is small."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "hypothesis-testing",
+      "normality-and-small-samples"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-36",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-05: Make a hypothesis-test decision using either the critical-value method or the p-value method.",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "Mock-style challenge: In hypothesis testing, which statement correctly describes independence assumption?",
+    "choices": [
+      "It proves the null claim with certainty.",
+      "Dependence can invalidate conventional standard errors and decisions.",
+      "It automatically establishes economic importance."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Dependence can invalidate conventional standard errors and decisions.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. It proves the null claim with certainty. overstates or contradicts the defined statistical meaning; Dependence can invalidate conventional standard errors and decisions.",
+      "Correct. Dependence can invalidate conventional standard errors and decisions.",
+      "Incorrect. It automatically establishes economic importance. overstates or contradicts the defined statistical meaning; Dependence can invalidate conventional standard errors and decisions."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "hypothesis-testing",
+      "independence-assumption",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-37",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-06: Explain Type I error, Type II error, and statistical power.",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "Mock-style challenge: In hypothesis testing, which statement correctly describes random sampling?",
+    "choices": [
+      "Supports inference to the defined population when executed well.",
+      "It proves the null claim with certainty.",
+      "It automatically establishes economic importance."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Supports inference to the defined population when executed well.",
+    "incorrectChoiceExplanations": [
+      "Correct. Supports inference to the defined population when executed well.",
+      "Incorrect. It proves the null claim with certainty. overstates or contradicts the defined statistical meaning; Supports inference to the defined population when executed well.",
+      "Incorrect. It automatically establishes economic importance. overstates or contradicts the defined statistical meaning; Supports inference to the defined population when executed well."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "hypothesis-testing",
+      "random-sampling",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-38",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-09: Conduct and interpret a test of a population mean when population variance is known.",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "Mock-style challenge: In hypothesis testing, which statement correctly describes degrees of freedom role?",
+    "choices": [
+      "It automatically establishes economic importance.",
+      "It proves the null claim with certainty.",
+      "Lower df produces heavier t tails and larger critical magnitudes."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Lower df produces heavier t tails and larger critical magnitudes.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. It automatically establishes economic importance. overstates or contradicts the defined statistical meaning; Lower df produces heavier t tails and larger critical magnitudes.",
+      "Incorrect. It proves the null claim with certainty. overstates or contradicts the defined statistical meaning; Lower df produces heavier t tails and larger critical magnitudes.",
+      "Correct. Lower df produces heavier t tails and larger critical magnitudes."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "hypothesis-testing",
+      "degrees-of-freedom-role",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-39",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-10: Conduct and interpret a test of a population mean when population variance is unknown.",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "Mock-style challenge: In hypothesis testing, which statement correctly describes p-value trap?",
+    "choices": [
+      "It proves the null claim with certainty.",
+      "It is not the probability that H0 is true.",
+      "It automatically establishes economic importance."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "It is not the probability that H0 is true.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. It proves the null claim with certainty. overstates or contradicts the defined statistical meaning; It is not the probability that H0 is true.",
+      "Correct. It is not the probability that H0 is true.",
+      "Incorrect. It automatically establishes economic importance. overstates or contradicts the defined statistical meaning; It is not the probability that H0 is true."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "hypothesis-testing",
+      "p-value-trap",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-40",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-14: Interpret failure to reject the null hypothesis correctly without claiming that the null has been proven true.",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "Mock-style challenge: In hypothesis testing, which statement correctly describes alpha trap?",
+    "choices": [
+      "It is not the probability that this particular rejection is wrong.",
+      "It proves the null claim with certainty.",
+      "It automatically establishes economic importance."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "It is not the probability that this particular rejection is wrong.",
+    "incorrectChoiceExplanations": [
+      "Correct. It is not the probability that this particular rejection is wrong.",
+      "Incorrect. It proves the null claim with certainty. overstates or contradicts the defined statistical meaning; It is not the probability that this particular rejection is wrong.",
+      "Incorrect. It automatically establishes economic importance. overstates or contradicts the defined statistical meaning; It is not the probability that this particular rejection is wrong."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "hypothesis-testing",
+      "alpha-trap",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-41",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-01: Explain the purpose and structure of statistical hypothesis testing.",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "Mock-style challenge: In hypothesis testing, which statement correctly describes one-tail trap?",
+    "choices": [
+      "It automatically establishes economic importance.",
+      "It proves the null claim with certainty.",
+      "Do not choose a favorable tail after seeing the statistic."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Do not choose a favorable tail after seeing the statistic.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. It automatically establishes economic importance. overstates or contradicts the defined statistical meaning; Do not choose a favorable tail after seeing the statistic.",
+      "Incorrect. It proves the null claim with certainty. overstates or contradicts the defined statistical meaning; Do not choose a favorable tail after seeing the statistic.",
+      "Correct. Do not choose a favorable tail after seeing the statistic."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "hypothesis-testing",
+      "one-tail-trap",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-42",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-03: Distinguish one-tailed and two-tailed tests and select the appropriate form for a stated research question.",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "Mock-style challenge: In hypothesis testing, which statement correctly describes critical and p methods?",
+    "choices": [
+      "It proves the null claim with certainty.",
+      "They give the same decision when tail, alpha, and distribution match.",
+      "It automatically establishes economic importance."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "They give the same decision when tail, alpha, and distribution match.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. It proves the null claim with certainty. overstates or contradicts the defined statistical meaning; They give the same decision when tail, alpha, and distribution match.",
+      "Correct. They give the same decision when tail, alpha, and distribution match.",
+      "Incorrect. It automatically establishes economic importance. overstates or contradicts the defined statistical meaning; They give the same decision when tail, alpha, and distribution match."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "hypothesis-testing",
+      "critical-and-p-methods",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-43",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-04: Explain significance level, critical value, rejection region, test statistic, and p-value.",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "Mock-style challenge: In hypothesis testing, which statement correctly describes practical decision?",
+    "choices": [
+      "Combine statistical evidence with effect size, costs, risk, and model limitations.",
+      "It proves the null claim with certainty.",
+      "It automatically establishes economic importance."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Combine statistical evidence with effect size, costs, risk, and model limitations.",
+    "incorrectChoiceExplanations": [
+      "Correct. Combine statistical evidence with effect size, costs, risk, and model limitations.",
+      "Incorrect. It proves the null claim with certainty. overstates or contradicts the defined statistical meaning; Combine statistical evidence with effect size, costs, risk, and model limitations.",
+      "Incorrect. It automatically establishes economic importance. overstates or contradicts the defined statistical meaning; Combine statistical evidence with effect size, costs, risk, and model limitations."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "hypothesis-testing",
+      "practical-decision",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-44",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-05: Make a hypothesis-test decision using either the critical-value method or the p-value method.",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "Mock-style challenge: In hypothesis testing, which statement correctly describes investment application?",
+    "choices": [
+      "It automatically establishes economic importance.",
+      "It proves the null claim with certainty.",
+      "Test whether a population mean active return differs from zero while checking dependence and bias."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Test whether a population mean active return differs from zero while checking dependence and bias.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. It automatically establishes economic importance. overstates or contradicts the defined statistical meaning; Test whether a population mean active return differs from zero while checking dependence and bias.",
+      "Incorrect. It proves the null claim with certainty. overstates or contradicts the defined statistical meaning; Test whether a population mean active return differs from zero while checking dependence and bias.",
+      "Correct. Test whether a population mean active return differs from zero while checking dependence and bias."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "hypothesis-testing",
+      "investment-application",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q09-45",
+    "lessonId": "quant-hypothesis-09",
+    "topicId": "quantitative-methods",
+    "scopeStatement": "HT-06: Explain Type I error, Type II error, and statistical power.",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "Mock-style challenge: In hypothesis testing, which statement correctly describes model limitation?",
+    "choices": [
+      "It proves the null claim with certainty.",
+      "A correct calculation does not repair invalid data or assumptions.",
+      "It automatically establishes economic importance."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "A correct calculation does not repair invalid data or assumptions.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. It proves the null claim with certainty. overstates or contradicts the defined statistical meaning; A correct calculation does not repair invalid data or assumptions.",
+      "Correct. A correct calculation does not repair invalid data or assumptions.",
+      "Incorrect. It automatically establishes economic importance. overstates or contradicts the defined statistical meaning; A correct calculation does not repair invalid data or assumptions."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "hypothesis-testing",
+      "model-limitation",
+      "mock-style"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  }
+]

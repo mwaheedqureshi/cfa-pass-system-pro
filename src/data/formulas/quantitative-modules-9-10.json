@@ -1,0 +1,652 @@
+[
+  {
+    "id": "general-test-statistic-09",
+    "name": "General test statistic",
+    "expression": "(estimateâˆ’hypothesized value)/standard error",
+    "meaning": "Standardized distance from the null value",
+    "variables": {
+      "estimate": "sample estimate",
+      "standard error": "sampling spread under H0"
+    },
+    "intuition": "Places evidence on a reference distribution",
+    "workedExample": "Gap .04 and SE .02 gives 2",
+    "commonMistake": "Using an unstandardized gap",
+    "relatedLessonId": "quant-hypothesis-09",
+    "scopeStatement": "HT-04: Explain significance level, critical value, rejection region, test statistic, and p-value.",
+    "tags": [
+      "hypothesis-testing"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "relatedLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "z-mean-test-09",
+    "name": "Z test for a population mean",
+    "expression": "z=(xÌ„âˆ’Î¼0)/(Ïƒ/âˆšn)",
+    "meaning": "Mean test when population Ïƒ is known",
+    "variables": {
+      "xÌ„": "sample mean",
+      "Î¼0": "null mean",
+      "Ïƒ": "population SD",
+      "n": "sample size"
+    },
+    "intuition": "Measures mean gap in known-Ïƒ SE units",
+    "workedExample": "5.8 versus 5, Ïƒ=2,n=25 gives z=2",
+    "commonMistake": "Dividing Ïƒ by n",
+    "relatedLessonId": "quant-hypothesis-09",
+    "scopeStatement": "HT-09: Conduct and interpret a test of a population mean when population variance is known.",
+    "tags": [
+      "hypothesis-testing"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "relatedLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "t-mean-test-09",
+    "name": "t test for a population mean",
+    "expression": "t=(xÌ„âˆ’Î¼0)/(s/âˆšn)",
+    "meaning": "Mean test when Ïƒ is unknown",
+    "variables": {
+      "s": "sample SD",
+      "n": "sample size"
+    },
+    "intuition": "Uses estimated standard error",
+    "workedExample": "12 versus 10,s=4,n=16 gives t=2",
+    "commonMistake": "Using Z automatically",
+    "relatedLessonId": "quant-hypothesis-09",
+    "scopeStatement": "HT-10: Conduct and interpret a test of a population mean when population variance is unknown.",
+    "tags": [
+      "hypothesis-testing"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "relatedLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "test-df-09",
+    "name": "One-sample t degrees of freedom (hypothesis tests)",
+    "expression": "df=nâˆ’1",
+    "meaning": "Reference-distribution degrees of freedom",
+    "variables": {
+      "n": "sample size"
+    },
+    "intuition": "One constraint comes from estimating the mean",
+    "workedExample": "n=16 gives 15",
+    "commonMistake": "Using n",
+    "relatedLessonId": "quant-hypothesis-09",
+    "scopeStatement": "HT-10: Conduct and interpret a test of a population mean when population variance is unknown.",
+    "tags": [
+      "hypothesis-testing"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "relatedLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "power-09",
+    "name": "Statistical power",
+    "expression": "Power=1âˆ’Î²",
+    "meaning": "Probability of rejecting at a specified false-null alternative",
+    "variables": {
+      "Î²": "Type II error probability"
+    },
+    "intuition": "Complements miss probability at that alternative",
+    "workedExample": "Î²=.20 gives power .80",
+    "commonMistake": "Treating power as universal",
+    "relatedLessonId": "quant-hypothesis-09",
+    "scopeStatement": "HT-06: Explain Type I error, Type II error, and statistical power.",
+    "tags": [
+      "hypothesis-testing"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "relatedLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "p-decision-09",
+    "name": "P-value decision",
+    "expression": "Reject H0 when pâ‰¤Î±",
+    "meaning": "Decision using observed tail probability",
+    "variables": {
+      "p": "p-value",
+      "Î±": "significance level"
+    },
+    "intuition": "Small p means the result is unusually extreme under H0",
+    "workedExample": "p=.03,Î±=.05 rejects",
+    "commonMistake": "Reversing inequality",
+    "relatedLessonId": "quant-hypothesis-09",
+    "scopeStatement": "HT-05: Make a hypothesis-test decision using either the critical-value method or the p-value method.",
+    "tags": [
+      "hypothesis-testing"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "relatedLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "ci-test-link-09",
+    "name": "Confidence interval test connection",
+    "expression": "Reject H0:Î¸=Î¸0 iff Î¸0 is outside matching two-sided CI",
+    "meaning": "Equivalence of matched two-sided procedures",
+    "variables": {
+      "Î¸0": "null value",
+      "CI": "interval at confidence 1âˆ’Î±"
+    },
+    "intuition": "Both use the same critical boundary",
+    "workedExample": "0 outside [.1,.5] implies rejection",
+    "commonMistake": "Applying to a mismatched one-sided test",
+    "relatedLessonId": "quant-hypothesis-09",
+    "scopeStatement": "HT-05: Make a hypothesis-test decision using either the critical-value method or the p-value method.",
+    "tags": [
+      "hypothesis-testing"
+    ],
+    "studyLessonId": "quant-hypothesis-09",
+    "officialModuleId": "QM-LM7",
+    "subdivision": "B",
+    "supplementary": false,
+    "relatedLearningOutcome": "explain and apply hypothesis testing to financial questions"
+  },
+  {
+    "id": "population-regression-10",
+    "name": "Population regression",
+    "expression": "Yᵢ = β₀ + β₁Xᵢ + εᵢ",
+    "meaning": "Separates the conditional mean from the random error",
+    "variables": {
+      "Y": "dependent variable",
+      "X": "independent variable",
+      "β₀": "population intercept",
+      "β₁": "population slope",
+      "ε": "error"
+    },
+    "intuition": "Separates the conditional mean from the random error",
+    "workedExample": "If β₀=1 and β₁=2, conditional mean at X=3 is 7.",
+    "commonMistake": "Treating the unobserved error as a fitted residual.",
+    "relatedLessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-05: Describe, interpret, and explain simple linear regression and least-squares coefficient estimation.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "relatedLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "regression-equation-10",
+    "name": "Estimated regression",
+    "expression": "ŷᵢ = b₀ + b₁xᵢ",
+    "meaning": "Produces the fitted conditional value",
+    "variables": {
+      "ŷ": "fitted Y",
+      "b₀": "estimated intercept",
+      "b₁": "estimated slope",
+      "x": "predictor value"
+    },
+    "intuition": "Produces the fitted conditional value",
+    "workedExample": "ŷ=2+1.5(4)=8.",
+    "commonMistake": "Calling ŷ a guaranteed outcome.",
+    "relatedLessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-05: Describe, interpret, and explain simple linear regression and least-squares coefficient estimation.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "relatedLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "slope-10",
+    "name": "OLS slope",
+    "expression": "b₁ = SXY / SXX",
+    "meaning": "Estimates change in predicted Y per unit X",
+    "variables": {
+      "SXY": "Σ(xᵢ−x̄)(yᵢ−ȳ)",
+      "SXX": "Σ(xᵢ−x̄)²"
+    },
+    "intuition": "Estimates change in predicted Y per unit X",
+    "workedExample": "18/12=1.5.",
+    "commonMistake": "Using sample covariance without matching its denominator.",
+    "relatedLessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-05: Describe, interpret, and explain simple linear regression and least-squares coefficient estimation.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "relatedLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "intercept-10",
+    "name": "OLS intercept",
+    "expression": "b₀ = ȳ − b₁x̄",
+    "meaning": "Anchors the fitted line at the sample means",
+    "variables": {
+      "ȳ": "mean Y",
+      "x̄": "mean X",
+      "b₁": "slope"
+    },
+    "intuition": "Anchors the fitted line at the sample means",
+    "workedExample": "10−1.5(4)=4.",
+    "commonMistake": "Forcing the intercept to zero.",
+    "relatedLessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-05: Describe, interpret, and explain simple linear regression and least-squares coefficient estimation.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "relatedLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "residual-10",
+    "name": "Residual",
+    "expression": "eᵢ = yᵢ − ŷᵢ",
+    "meaning": "Measures an observation’s vertical fitted error",
+    "variables": {
+      "y": "actual value",
+      "ŷ": "fitted value"
+    },
+    "intuition": "Measures an observation’s vertical fitted error",
+    "workedExample": "14−13=1.",
+    "commonMistake": "Reversing actual and fitted.",
+    "relatedLessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-05: Describe, interpret, and explain simple linear regression and least-squares coefficient estimation.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "relatedLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "sse-10",
+    "name": "Error sum of squares",
+    "expression": "SSE = Σeᵢ²",
+    "meaning": "Unexplained sample variation",
+    "variables": {
+      "e": "residual"
+    },
+    "intuition": "Unexplained sample variation",
+    "workedExample": "Residuals 1,−2,1 give SSE=6.",
+    "commonMistake": "Adding residuals instead of squares.",
+    "relatedLessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-05: Describe, interpret, and explain simple linear regression and least-squares coefficient estimation.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "relatedLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "sst-10",
+    "name": "Total sum of squares",
+    "expression": "SST = Σ(yᵢ−ȳ)²",
+    "meaning": "Total sample variation in Y",
+    "variables": {
+      "y": "observed Y",
+      "ȳ": "mean Y"
+    },
+    "intuition": "Total sample variation in Y",
+    "workedExample": "Deviations −2,0,2 give SST=8.",
+    "commonMistake": "Centering on fitted values.",
+    "relatedLessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-05: Describe, interpret, and explain simple linear regression and least-squares coefficient estimation.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "relatedLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "ssr-10",
+    "name": "Regression sum of squares",
+    "expression": "SSR = Σ(ŷᵢ−ȳ)² = SST−SSE",
+    "meaning": "Variation explained by the fitted model",
+    "variables": {
+      "ŷ": "fitted Y",
+      "ȳ": "mean Y"
+    },
+    "intuition": "Variation explained by the fitted model",
+    "workedExample": "SST=100 and SSE=36 give SSR=64.",
+    "commonMistake": "Confusing SSR with residual variation.",
+    "relatedLessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-05: Describe, interpret, and explain simple linear regression and least-squares coefficient estimation.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "relatedLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "r-squared-10",
+    "name": "Coefficient of determination",
+    "expression": "R² = SSR/SST = 1−SSE/SST",
+    "meaning": "Proportion of sample Y variation explained",
+    "variables": {
+      "SSR": "explained variation",
+      "SSE": "unexplained variation",
+      "SST": "total variation"
+    },
+    "intuition": "Proportion of sample Y variation explained",
+    "workedExample": "1−36/100=0.64.",
+    "commonMistake": "Interpreting R² as causation or forecast accuracy.",
+    "relatedLessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-16: Evaluate regression assumptions, residuals, goodness of fit, coefficients, and ANOVA results.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "relatedLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "see-10",
+    "name": "Standard error of estimate",
+    "expression": "SEE = √[SSE/(n−2)]",
+    "meaning": "Residual dispersion in Y units",
+    "variables": {
+      "SSE": "error sum of squares",
+      "n": "observations"
+    },
+    "intuition": "Residual dispersion in Y units",
+    "workedExample": "SSE=18,n=5 gives √6=2.449.",
+    "commonMistake": "Dividing by n rather than n−2.",
+    "relatedLessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-08: Calculate and interpret predictions, standard error of estimate, prediction intervals, and functional forms.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "relatedLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "slope-se-10",
+    "name": "Slope standard error",
+    "expression": "SE(b₁) = SEE/√SXX",
+    "meaning": "Sampling uncertainty of the slope",
+    "variables": {
+      "SEE": "standard error of estimate",
+      "SXX": "X deviation sum of squares"
+    },
+    "intuition": "Sampling uncertainty of the slope",
+    "workedExample": "SEE=2,SXX=16 gives 0.5.",
+    "commonMistake": "Using SST in the denominator.",
+    "relatedLessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-16: Evaluate regression assumptions, residuals, goodness of fit, coefficients, and ANOVA results.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "relatedLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "slope-t-10",
+    "name": "Slope t statistic",
+    "expression": "t = (b₁−β₁,0)/SE(b₁)",
+    "meaning": "Tests a hypothesized population slope",
+    "variables": {
+      "b₁": "estimated slope",
+      "β₁,0": "null slope"
+    },
+    "intuition": "Tests a hypothesized population slope",
+    "workedExample": "1.2/0.4=3.",
+    "commonMistake": "Using n−1 rather than n−2 degrees of freedom.",
+    "relatedLessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-16: Evaluate regression assumptions, residuals, goodness of fit, coefficients, and ANOVA results.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "relatedLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "slope-ci-10",
+    "name": "Slope confidence interval",
+    "expression": "b₁ ± t*SE(b₁)",
+    "meaning": "Range of plausible population slopes",
+    "variables": {
+      "t*": "critical t with n−2 df"
+    },
+    "intuition": "Range of plausible population slopes",
+    "workedExample": "0.8±2.1(0.2)=[0.38,1.22].",
+    "commonMistake": "Using a z critical value automatically.",
+    "relatedLessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-16: Evaluate regression assumptions, residuals, goodness of fit, coefficients, and ANOVA results.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "relatedLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "anova-mse-10",
+    "name": "ANOVA mean square error",
+    "expression": "MSE = SSE/(n−2)",
+    "meaning": "Estimates error variance in simple regression",
+    "variables": {
+      "SSE": "error sum of squares",
+      "n": "observations"
+    },
+    "intuition": "Estimates error variance in simple regression",
+    "workedExample": "18/(5−2)=6.",
+    "commonMistake": "Using n as degrees of freedom.",
+    "relatedLessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-16: Evaluate regression assumptions, residuals, goodness of fit, coefficients, and ANOVA results.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "relatedLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "anova-f-10",
+    "name": "ANOVA F statistic",
+    "expression": "F = MSR/MSE = SSR/[SSE/(n−2)]",
+    "meaning": "Tests whether explained variation is large relative to noise",
+    "variables": {
+      "MSR": "regression mean square",
+      "MSE": "error mean square"
+    },
+    "intuition": "Tests whether explained variation is large relative to noise",
+    "workedExample": "SSR=54,SSE=18,n=8 gives F=18.",
+    "commonMistake": "Dividing SSE by n.",
+    "relatedLessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-16: Evaluate regression assumptions, residuals, goodness of fit, coefficients, and ANOVA results.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "relatedLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "prediction-leverage-10",
+    "name": "Prediction leverage",
+    "expression": "h₀ = 1/n + (x₀−x̄)²/SXX",
+    "meaning": "Measures estimation uncertainty at x₀",
+    "variables": {
+      "x₀": "prediction X",
+      "x̄": "sample mean X"
+    },
+    "intuition": "Measures estimation uncertainty at x₀",
+    "workedExample": "At x₀=x̄ and n=20, h₀=0.05.",
+    "commonMistake": "Omitting 1/n.",
+    "relatedLessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-08: Calculate and interpret predictions, standard error of estimate, prediction intervals, and functional forms.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "relatedLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "prediction-interval-10",
+    "name": "Individual prediction interval",
+    "expression": "ŷ₀ ± t*SEE√(1+h₀)",
+    "meaning": "Interval for one future Y at x₀",
+    "variables": {
+      "ŷ": "point prediction",
+      "h₀": "prediction leverage"
+    },
+    "intuition": "Interval for one future Y at x₀",
+    "workedExample": "ŷ=10,SEE=2,h=.25,t*=2 gives 10±4.472.",
+    "commonMistake": "Using √h₀, which is for the mean response.",
+    "relatedLessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-08: Calculate and interpret predictions, standard error of estimate, prediction intervals, and functional forms.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "relatedLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "log-linear-10",
+    "name": "Log–linear interpretation",
+    "expression": "ln(Y) = b₀ + b₁X",
+    "meaning": "A unit increase in X changes Y by approximately 100b₁%",
+    "variables": {
+      "Y": "positive dependent variable",
+      "X": "predictor"
+    },
+    "intuition": "A unit increase in X changes Y by approximately 100b₁%",
+    "workedExample": "b₁=0.03 implies about 3% higher Y.",
+    "commonMistake": "Calling b₁ a unit change in Y.",
+    "relatedLessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-08: Calculate and interpret predictions, standard error of estimate, prediction intervals, and functional forms.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "relatedLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "linear-log-10",
+    "name": "Linear–log interpretation",
+    "expression": "Y = b₀ + b₁ln(X)",
+    "meaning": "A 1% increase in X changes Y by approximately b₁/100 units",
+    "variables": {
+      "Y": "dependent variable",
+      "X": "positive predictor"
+    },
+    "intuition": "A 1% increase in X changes Y by approximately b₁/100 units",
+    "workedExample": "b₁=5 implies about 0.05 unit per 1% X increase.",
+    "commonMistake": "Interpreting b₁ as elasticity.",
+    "relatedLessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-08: Calculate and interpret predictions, standard error of estimate, prediction intervals, and functional forms.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "relatedLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "log-log-10",
+    "name": "Log–log interpretation",
+    "expression": "ln(Y) = b₀ + b₁ln(X)",
+    "meaning": "The slope is elasticity",
+    "variables": {
+      "Y": "positive dependent variable",
+      "X": "positive predictor"
+    },
+    "intuition": "The slope is elasticity",
+    "workedExample": "b₁=0.8 means 1% higher X predicts about 0.8% higher Y.",
+    "commonMistake": "Multiplying the elasticity by 100 twice.",
+    "relatedLessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-08: Calculate and interpret predictions, standard error of estimate, prediction intervals, and functional forms.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "relatedLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  },
+  {
+    "id": "capm-regression-10",
+    "name": "CAPM regression",
+    "expression": "Rᵢ−R_f = αᵢ + βᵢ(R_m−R_f) + εᵢ",
+    "meaning": "Estimates abnormal return and market sensitivity",
+    "variables": {
+      "α": "abnormal return per period",
+      "β": "market sensitivity",
+      "ε": "asset-specific residual"
+    },
+    "intuition": "Estimates abnormal return and market sensitivity",
+    "workedExample": "α=0.2%,β=1.3 means 0.2% intercept and above-market sensitivity.",
+    "commonMistake": "Regressing total asset return on total market return without consistent excess returns.",
+    "relatedLessonId": "quant-regression-10",
+    "studyLessonId": "quant-regression-10",
+    "officialModuleId": "QM-LM10",
+    "supplementary": false,
+    "scopeStatement": "CR-20: Calculate and interpret CAPM regression estimates.",
+    "tags": [
+      "simple-regression",
+      "checkpoint-4b-verified"
+    ],
+    "relatedLearningOutcome": "calculate and interpret a simple linear regression and evaluate its use in finance"
+  }
+]

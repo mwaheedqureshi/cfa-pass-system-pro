@@ -1,0 +1,1569 @@
+[
+  {
+    "id": "q04-01",
+    "lessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "difficulty": "easy",
+    "estimatedSeconds": 40,
+    "stem": "Money today is generally worth more than the same amount later primarily because it:",
+    "choices": [
+      "Has no inflation exposure",
+      "Can earn a return",
+      "Is guaranteed riskless"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Current money can be invested, creating opportunity cost for delayed receipt.",
+    "incorrectChoiceExplanations": [
+      "Today's money can still face inflation.",
+      "Correct.",
+      "Money is not automatically riskless."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "concept"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q04-02",
+    "lessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "difficulty": "easy",
+    "estimatedSeconds": 50,
+    "stem": "2,000 invested for three years at 5% simple interest grows to:",
+    "choices": [
+      "2,315.25",
+      "2,431.01",
+      "2,300"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "2,000(1 + 0.05×3) = 2,300.",
+    "incorrectChoiceExplanations": [
+      "2,315.25 uses compound interest.",
+      "2,431.01 uses too many periods.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [
+      "simple-interest-04"
+    ],
+    "tags": [
+      "simple"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q04-03",
+    "lessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "difficulty": "easy",
+    "estimatedSeconds": 50,
+    "stem": "2,000 invested for three years at 5% compounded annually grows to:",
+    "choices": [
+      "2,300",
+      "2,315.25",
+      "2,350"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "2,000(1.05)^3 = 2,315.25.",
+    "incorrectChoiceExplanations": [
+      "2,300 uses simple interest.",
+      "Correct.",
+      "2,350 does not apply compound growth."
+    ],
+    "relatedFormulaIds": [
+      "compound-fv-04"
+    ],
+    "tags": [
+      "compound"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q04-04",
+    "lessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "difficulty": "easy",
+    "estimatedSeconds": 50,
+    "stem": "The FV of 5,000 in four years at 6% is closest to:",
+    "choices": [
+      "5,300",
+      "6,200",
+      "6,312"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "5,000(1.06)^4 = 6,312.38.",
+    "incorrectChoiceExplanations": [
+      "This applies one year only.",
+      "This uses simple interest.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [
+      "compound-fv-04"
+    ],
+    "tags": [
+      "fv"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q04-05",
+    "lessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "PV of 10,000 due in six years at 7% is closest to:",
+    "choices": [
+      "7,000",
+      "15,007",
+      "6,663"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "10,000/1.07^6 = 6,663.42.",
+    "incorrectChoiceExplanations": [
+      "This is not the six-period discounted value.",
+      "This compounds rather than discounts.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [
+      "single-pv-04"
+    ],
+    "tags": [
+      "pv"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q04-06",
+    "lessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "difficulty": "easy",
+    "estimatedSeconds": 40,
+    "stem": "Holding FV and N constant, a higher discount rate causes PV to:",
+    "choices": [
+      "Rise",
+      "Fall",
+      "Remain unchanged"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "A larger denominator reduces present value.",
+    "incorrectChoiceExplanations": [
+      "A higher rate does not raise PV.",
+      "Correct.",
+      "PV depends on the discount rate."
+    ],
+    "relatedFormulaIds": [
+      "single-pv-04"
+    ],
+    "tags": [
+      "pv"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q04-07",
+    "lessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "difficulty": "easy",
+    "estimatedSeconds": 40,
+    "stem": "Compounding moves value:",
+    "choices": [
+      "Forward in time",
+      "Backward in time",
+      "Between currencies only"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Compounding applies growth to move a present amount forward.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "Discounting moves backward.",
+      "Compounding is not currency-specific."
+    ],
+    "relatedFormulaIds": [
+      "compound-fv-04"
+    ],
+    "tags": [
+      "concept"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q04-08",
+    "lessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "difficulty": "medium",
+    "estimatedSeconds": 55,
+    "stem": "The two-year discount factor at 10% is closest to:",
+    "choices": [
+      "0.8264",
+      "0.9000",
+      "1.2100"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "1/1.10^2 = 0.8264.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "0.90 is not the compound factor.",
+      "1.21 is a future-value factor."
+    ],
+    "relatedFormulaIds": [
+      "discount-factor-04"
+    ],
+    "tags": [
+      "discount"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q04-09",
+    "lessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "difficulty": "medium",
+    "estimatedSeconds": 65,
+    "stem": "A 12% stated rate compounded monthly has an EAR closest to:",
+    "choices": [
+      "12.00%",
+      "12.36%",
+      "12.68%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "(1 + 0.12/12)^12 − 1 = 12.6825%.",
+    "incorrectChoiceExplanations": [
+      "12% ignores within-year compounding.",
+      "12.36% uses an incorrect frequency.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [
+      "ear-04"
+    ],
+    "tags": [
+      "rates"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q04-10",
+    "lessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "difficulty": "medium",
+    "estimatedSeconds": 65,
+    "stem": "An EAR of 10.25% with semiannual compounding corresponds to a stated rate of:",
+    "choices": [
+      "10.00%",
+      "10.25%",
+      "20.00%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "2[(1.1025)^(1/2)−1] = 10%.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "EAR is not the stated rate here.",
+      "This doubles the wrong quantity."
+    ],
+    "relatedFormulaIds": [
+      "stated-rate-04"
+    ],
+    "tags": [
+      "rates"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q04-11",
+    "lessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "difficulty": "easy",
+    "estimatedSeconds": 40,
+    "stem": "For the same positive stated annual rate, EAR is highest with:",
+    "choices": [
+      "Annual compounding",
+      "Monthly compounding",
+      "Continuous compounding"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "More frequent compounding raises EAR toward the continuous limit.",
+    "incorrectChoiceExplanations": [
+      "Annual is the least frequent listed.",
+      "Monthly is below continuous.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [
+      "ear-04",
+      "continuous-fv-04"
+    ],
+    "tags": [
+      "rates"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q04-12",
+    "lessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "3,000 invested two years at 8% continuously compounded grows closest to:",
+    "choices": [
+      "3,480",
+      "3,521",
+      "3,560"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "3,000e^(0.08×2) = 3,520.53.",
+    "incorrectChoiceExplanations": [
+      "This uses simple interest.",
+      "Correct.",
+      "This is not the continuous result."
+    ],
+    "relatedFormulaIds": [
+      "continuous-fv-04"
+    ],
+    "tags": [
+      "continuous"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q04-13",
+    "lessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "difficulty": "easy",
+    "estimatedSeconds": 40,
+    "stem": "On a standard timeline, today is labeled:",
+    "choices": [
+      "t = 0",
+      "t = 1",
+      "t = N + 1"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Today is the origin, t=0.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "t=1 is one period from today.",
+      "N+1 is beyond the stated horizon."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "timeline"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q04-14",
+    "lessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "difficulty": "medium",
+    "estimatedSeconds": 70,
+    "stem": "At 5%, PV of 100 in one year and 200 in two years is closest to:",
+    "choices": [
+      "276.64",
+      "285.71",
+      "300.00"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "100/1.05 + 200/1.05^2 = 276.64.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "This discounts both for one period.",
+      "This ignores discounting."
+    ],
+    "relatedFormulaIds": [
+      "multiple-cf-pv-04"
+    ],
+    "tags": [
+      "multiple"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q04-15",
+    "lessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Uneven future cash flows should be valued by:",
+    "choices": [
+      "Adding them before discounting",
+      "Discounting each to a common date then adding",
+      "Averaging their dates"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Cash flows on different dates must first be moved to one focal date.",
+    "incorrectChoiceExplanations": [
+      "This ignores timing differences.",
+      "Correct.",
+      "Average dates do not produce value."
+    ],
+    "relatedFormulaIds": [
+      "multiple-cf-pv-04"
+    ],
+    "tags": [
+      "multiple"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q04-16",
+    "lessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "difficulty": "easy",
+    "estimatedSeconds": 40,
+    "stem": "An ordinary annuity pays at the:",
+    "choices": [
+      "Beginning of each period",
+      "End of each period",
+      "Middle of each period"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Ordinary annuity payments occur at period-end.",
+    "incorrectChoiceExplanations": [
+      "Beginning payments define an annuity due.",
+      "Correct.",
+      "Mid-period is not the standard convention."
+    ],
+    "relatedFormulaIds": [
+      "ordinary-annuity-pv-04"
+    ],
+    "tags": [
+      "annuity"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q04-17",
+    "lessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "difficulty": "medium",
+    "estimatedSeconds": 70,
+    "stem": "PV of five year-end payments of 1,000 at 6% is closest to:",
+    "choices": [
+      "4,212",
+      "4,465",
+      "5,000"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "1,000[1−1.06^−5]/0.06 = 4,212.36.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "This is not the ordinary factor.",
+      "This ignores discounting."
+    ],
+    "relatedFormulaIds": [
+      "ordinary-annuity-pv-04"
+    ],
+    "tags": [
+      "annuity"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q04-18",
+    "lessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "difficulty": "medium",
+    "estimatedSeconds": 70,
+    "stem": "FV of four year-end deposits of 2,000 at 5% is closest to:",
+    "choices": [
+      "8,000",
+      "8,620",
+      "9,051"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "2,000[(1.05^4−1)/0.05] = 8,620.25.",
+    "incorrectChoiceExplanations": [
+      "8,000 ignores interest.",
+      "Correct.",
+      "9,051 is the annuity-due value."
+    ],
+    "relatedFormulaIds": [
+      "ordinary-annuity-fv-04"
+    ],
+    "tags": [
+      "annuity"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q04-19",
+    "lessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "If an ordinary-annuity FV is 8,620.25 at 5%, the corresponding annuity-due FV is closest to:",
+    "choices": [
+      "8,189",
+      "8,620",
+      "9,051"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "8,620.25×1.05 = 9,051.26.",
+    "incorrectChoiceExplanations": [
+      "This divides by 1.05.",
+      "This ignores earlier timing.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [
+      "annuity-due-04"
+    ],
+    "tags": [
+      "annuity-due"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q04-20",
+    "lessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "difficulty": "easy",
+    "estimatedSeconds": 40,
+    "stem": "Rent paid at the beginning of every month resembles a:",
+    "choices": [
+      "Perpetuity",
+      "Ordinary annuity",
+      "Annuity due"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Beginning-of-period equal payments form an annuity due.",
+    "incorrectChoiceExplanations": [
+      "A perpetuity has no finite endpoint.",
+      "Ordinary payments occur at period-end.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [
+      "annuity-due-04"
+    ],
+    "tags": [
+      "annuity-due"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q04-21",
+    "lessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "difficulty": "easy",
+    "estimatedSeconds": 50,
+    "stem": "A perpetuity paying 50 annually at a 5% required return is worth:",
+    "choices": [
+      "250",
+      "1,000",
+      "2,500"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "50/0.05 = 1,000.",
+    "incorrectChoiceExplanations": [
+      "This multiplies rather than divides.",
+      "Correct.",
+      "This uses a 2% denominator."
+    ],
+    "relatedFormulaIds": [
+      "perpetuity-04"
+    ],
+    "tags": [
+      "perpetuity"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q04-22",
+    "lessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "A growing perpetuity has CF1=40, r=8%, and g=3%. PV is:",
+    "choices": [
+      "500",
+      "800",
+      "1,333"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "40/(0.08−0.03) = 800.",
+    "incorrectChoiceExplanations": [
+      "This divides by r only.",
+      "Correct.",
+      "This divides by g."
+    ],
+    "relatedFormulaIds": [
+      "growing-perpetuity-04"
+    ],
+    "tags": [
+      "perpetuity"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q04-23",
+    "lessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "The standard growing-perpetuity formula requires:",
+    "choices": [
+      "g > r",
+      "r > g",
+      "r = g"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "A finite standard value requires the discount rate to exceed growth.",
+    "incorrectChoiceExplanations": [
+      "This does not converge.",
+      "Correct.",
+      "Equal rates make the denominator zero."
+    ],
+    "relatedFormulaIds": [
+      "growing-perpetuity-04"
+    ],
+    "tags": [
+      "perpetuity"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q04-24",
+    "lessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "difficulty": "medium",
+    "estimatedSeconds": 55,
+    "stem": "Compared with a growing perpetuity with identical CF1, r, and g, a finite growing annuity has:",
+    "choices": [
+      "Lower PV",
+      "Equal PV",
+      "Higher PV"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The finite annuity omits all cash flows after N.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "Values differ because one stream ends.",
+      "Removing future positive flows cannot raise PV."
+    ],
+    "relatedFormulaIds": [
+      "growing-annuity-04"
+    ],
+    "tags": [
+      "growing-annuity"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q04-30",
+    "lessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A bond's value is most accurately the PV of:",
+    "choices": [
+      "Coupons only",
+      "Principal only",
+      "Coupons plus principal"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "A plain bond combines an annuity of coupons and discounted face value.",
+    "incorrectChoiceExplanations": [
+      "This omits principal repayment.",
+      "This omits coupons.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [
+      "bond-value-04"
+    ],
+    "tags": [
+      "bond"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q04-31",
+    "lessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "When required return exceeds a fixed bond's coupon rate, value is generally:",
+    "choices": [
+      "Above par",
+      "At par",
+      "Below par"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The below-market coupon requires a price discount.",
+    "incorrectChoiceExplanations": [
+      "Above par occurs when coupon rate is higher.",
+      "At par requires matching rates under standard conditions.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [
+      "bond-value-04"
+    ],
+    "tags": [
+      "bond"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q04-32",
+    "lessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "An investment is attractive on a PV basis when expected benefits' PV is:",
+    "choices": [
+      "Below price",
+      "Above price",
+      "Unrelated to price"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "PV above cost indicates positive value at the required return.",
+    "incorrectChoiceExplanations": [
+      "PV below price indicates value shortfall.",
+      "Correct.",
+      "Price is the comparison cost."
+    ],
+    "relatedFormulaIds": [
+      "multiple-cf-pv-04"
+    ],
+    "tags": [
+      "investment"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q04-34",
+    "lessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "50,000 of current purchasing power in 15 years at 2.5% inflation requires closest to:",
+    "choices": [
+      "34,526",
+      "50,000",
+      "72,415"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "50,000(1.025)^15 = 72,415.",
+    "incorrectChoiceExplanations": [
+      "This discounts rather than inflates.",
+      "This ignores inflation.",
+      "Correct."
+    ],
+    "relatedFormulaIds": [
+      "inflation-target-04"
+    ],
+    "tags": [
+      "inflation"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q04-35",
+    "lessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "The TVM discount rate represents primarily:",
+    "choices": [
+      "Opportunity cost for comparable risk",
+      "Past accounting profit",
+      "A guaranteed inflation rate"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The rate reflects the return forgone on a comparable alternative.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "Historical profit is not the TVM rate.",
+      "The rate may include more than inflation and is not guaranteed."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "opportunity-cost"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q04-36",
+    "lessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "difficulty": "easy",
+    "estimatedSeconds": 40,
+    "stem": "Which BA II Plus operation clears stored TVM values?",
+    "choices": [
+      "CLR TVM",
+      "CPT",
+      "ENTER only"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "2nd followed by CLR TVM resets the TVM worksheet.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "CPT solves a variable.",
+      "ENTER stores input but does not clear all TVM values."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "calculator"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q04-37",
+    "lessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "difficulty": "easy",
+    "estimatedSeconds": 40,
+    "stem": "The BA II Plus key used to compute a missing TVM variable is:",
+    "choices": [
+      "CPT",
+      "CLR TVM",
+      "BGN"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Press CPT then the desired TVM key.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "CLR TVM resets values.",
+      "BGN changes payment timing."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "calculator"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q04-38",
+    "lessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "difficulty": "medium",
+    "estimatedSeconds": 50,
+    "stem": "In a TVM calculation, PV and FV are normally entered with opposite signs because they represent:",
+    "choices": [
+      "Different cash-flow directions",
+      "Different currencies",
+      "Rounding conventions"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The calculator uses signs to distinguish cash paid from cash received.",
+    "incorrectChoiceExplanations": [
+      "Correct.",
+      "Signs are not currency labels.",
+      "They are not a rounding rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "calculator"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q04-39",
+    "lessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "difficulty": "medium",
+    "estimatedSeconds": 50,
+    "stem": "Using BGN mode and also multiplying an ordinary-annuity value by (1+r) will:",
+    "choices": [
+      "Correctly value an ordinary annuity",
+      "Double-adjust payment timing",
+      "Clear the worksheet"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Each method independently converts ordinary timing to due timing.",
+    "incorrectChoiceExplanations": [
+      "Ordinary timing needs neither adjustment.",
+      "Correct.",
+      "Timing settings do not clear values."
+    ],
+    "relatedFormulaIds": [
+      "annuity-due-04"
+    ],
+    "tags": [
+      "calculator"
+    ],
+    "studyLessonId": "quant-tvm-04",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "lessonSectionId": "introduction"
+  },
+  {
+    "id": "q-lm4x-01",
+    "lessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "lessonSectionId": "finance-specific-official-application-lab",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A two-year zero-coupon bond pays 1,000 at maturity. At a 6% annual required return, its present value is closest to:",
+    "choices": [
+      "890.00",
+      "943.40",
+      "1,123.60"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "PV=1,000/(1.06)^2=890.00. 943.40 discounts only one year; 1,123.60 compounds instead of discounts.",
+    "incorrectChoiceExplanations": [
+      "Correct. PV=1,000/(1.06)^2=890.00. 943.40 discounts only one year; 1,123.60 compounds instead of discounts.",
+      "Incorrect. 943.40 does not follow the required formula or interpretation. PV=1,000/(1.06)^2=890.00. 943.40 discounts only one year; 1,123.60 compounds instead of discounts.",
+      "Incorrect. 1,123.60 does not follow the required formula or interpretation. PV=1,000/(1.06)^2=890.00. 943.40 discounts only one year; 1,123.60 compounds instead of discounts."
+    ],
+    "relatedFormulaIds": [
+      "single-pv-04"
+    ],
+    "tags": [
+      "qm-lm4",
+      "checkpoint-2-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm4x-02",
+    "lessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "lessonSectionId": "finance-specific-official-application-lab",
+    "difficulty": "hard",
+    "estimatedSeconds": 120,
+    "stem": "A stock is expected to pay dividends of 2.00 and 2.20 in Years 1 and 2 and sell for 42 at Year 2. At 10%, value is closest to:",
+    "choices": [
+      "38.18",
+      "46.20",
+      "37.82"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "PV=2/1.10+(2.20+42)/1.10^2=37.82. Every dated cash flow must be discounted to today.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 38.18 does not follow the required formula or interpretation. PV=2/1.10+(2.20+42)/1.10^2=37.82. Every dated cash flow must be discounted to today.",
+      "Incorrect. 46.20 does not follow the required formula or interpretation. PV=2/1.10+(2.20+42)/1.10^2=37.82. Every dated cash flow must be discounted to today.",
+      "Correct. PV=2/1.10+(2.20+42)/1.10^2=37.82. Every dated cash flow must be discounted to today."
+    ],
+    "relatedFormulaIds": [
+      "multiple-cf-pv-04"
+    ],
+    "tags": [
+      "qm-lm4",
+      "checkpoint-2-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm4x-03",
+    "lessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "explain cash flow additivity and no-arbitrage and use them to calculate implied forward rates, forward exchange rates, and option values",
+    "lessonSectionId": "finance-specific-official-application-lab",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Two riskless strategies have identical cash flows at every date but different prices. The most defensible conclusion is:",
+    "choices": [
+      "both prices can persist because their labels differ",
+      "the price difference creates an arbitrage opportunity",
+      "the higher-priced strategy must have lower risk"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Cash-flow additivity and no-arbitrage require identical dated cash flows to have identical present values.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. both prices can persist because their labels differ does not follow the required formula or interpretation. Cash-flow additivity and no-arbitrage require identical dated cash flows to have identical present values.",
+      "Correct. Cash-flow additivity and no-arbitrage require identical dated cash flows to have identical present values.",
+      "Incorrect. the higher-priced strategy must have lower risk does not follow the required formula or interpretation. Cash-flow additivity and no-arbitrage require identical dated cash flows to have identical present values."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm4",
+      "checkpoint-2-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm4x-04",
+    "lessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret an implied return for fixed-income instruments and required return and implied growth for equity instruments given present values and cash flows",
+    "lessonSectionId": "finance-specific-official-application-lab",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "A five-year zero-coupon bond costs 78 and pays 100 at maturity. Its annual implied return is closest to:",
+    "choices": [
+      "5.09%",
+      "4.40%",
+      "28.21%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "r=(100/78)^(1/5)−1=5.09%. 28.21% is the unannualized gain; 4.40% divides that gain by five.",
+    "incorrectChoiceExplanations": [
+      "Correct. r=(100/78)^(1/5)−1=5.09%. 28.21% is the unannualized gain; 4.40% divides that gain by five.",
+      "Incorrect. 4.40% does not follow the required formula or interpretation. r=(100/78)^(1/5)−1=5.09%. 28.21% is the unannualized gain; 4.40% divides that gain by five.",
+      "Incorrect. 28.21% does not follow the required formula or interpretation. r=(100/78)^(1/5)−1=5.09%. 28.21% is the unannualized gain; 4.40% divides that gain by five."
+    ],
+    "relatedFormulaIds": [
+      "single-pv-04"
+    ],
+    "tags": [
+      "qm-lm4",
+      "checkpoint-2-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm4x-05",
+    "lessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret an implied return for fixed-income instruments and required return and implied growth for equity instruments given present values and cash flows",
+    "lessonSectionId": "finance-specific-official-application-lab",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A stock costs 50, its next dividend is 2, and dividends are expected to grow 3% indefinitely. Required return is:",
+    "choices": [
+      "5.0%",
+      "9.0%",
+      "7.0%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "From P0=D1/(r−g), r=D1/P0+g=2/50+3%=7%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 5.0% does not follow the required formula or interpretation. From P0=D1/(r−g), r=D1/P0+g=2/50+3%=7%.",
+      "Incorrect. 9.0% does not follow the required formula or interpretation. From P0=D1/(r−g), r=D1/P0+g=2/50+3%=7%.",
+      "Correct. From P0=D1/(r−g), r=D1/P0+g=2/50+3%=7%."
+    ],
+    "relatedFormulaIds": [
+      "growing-perpetuity-04"
+    ],
+    "tags": [
+      "qm-lm4",
+      "checkpoint-2-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm4x-06",
+    "lessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret an implied return for fixed-income instruments and required return and implied growth for equity instruments given present values and cash flows",
+    "lessonSectionId": "finance-specific-official-application-lab",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A stock costs 40, its next dividend is 1.60, and required return is 9%. Implied perpetual dividend growth is:",
+    "choices": [
+      "13.0%",
+      "5.0%",
+      "4.0%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "g=r−D1/P0=9%−1.60/40=5%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 13.0% does not follow the required formula or interpretation. g=r−D1/P0=9%−1.60/40=5%.",
+      "Correct. g=r−D1/P0=9%−1.60/40=5%.",
+      "Incorrect. 4.0% does not follow the required formula or interpretation. g=r−D1/P0=9%−1.60/40=5%."
+    ],
+    "relatedFormulaIds": [
+      "implied-equity-growth-04"
+    ],
+    "tags": [
+      "qm-lm4",
+      "checkpoint-2-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm4x-07",
+    "lessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "explain cash flow additivity and no-arbitrage and use them to calculate implied forward rates, forward exchange rates, and option values",
+    "lessonSectionId": "finance-specific-official-application-lab",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "The one-year spot rate is 3% and the two-year spot rate is 4%. The one-year forward rate one year from now is closest to:",
+    "choices": [
+      "5.01%",
+      "4.50%",
+      "1.00%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "f=(1.04)^2/1.03−1=5.01%. Averaging or subtracting spot rates violates compound equivalence.",
+    "incorrectChoiceExplanations": [
+      "Correct. f=(1.04)^2/1.03−1=5.01%. Averaging or subtracting spot rates violates compound equivalence.",
+      "Incorrect. 4.50% does not follow the required formula or interpretation. f=(1.04)^2/1.03−1=5.01%. Averaging or subtracting spot rates violates compound equivalence.",
+      "Incorrect. 1.00% does not follow the required formula or interpretation. f=(1.04)^2/1.03−1=5.01%. Averaging or subtracting spot rates violates compound equivalence."
+    ],
+    "relatedFormulaIds": [
+      "implied-forward-rate-04"
+    ],
+    "tags": [
+      "qm-lm4",
+      "checkpoint-2-verified",
+      "core"
+    ]
+  },
+  {
+    "id": "q-lm4r-01",
+    "lessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "lessonSectionId": "finance-specific-official-application-lab",
+    "difficulty": "medium",
+    "estimatedSeconds": 105,
+    "stem": "A three-year 5% annual coupon bond with face value 100 is discounted at 6%. Its value is closest to:",
+    "choices": [
+      "100.00",
+      "94.34",
+      "97.33"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "PV=5/1.06+5/1.06^2+105/1.06^3=97.33. A coupon below required return produces a discount.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 100.00 does not follow the required formula or interpretation. PV=5/1.06+5/1.06^2+105/1.06^3=97.33. A coupon below required return produces a discount.",
+      "Incorrect. 94.34 does not follow the required formula or interpretation. PV=5/1.06+5/1.06^2+105/1.06^3=97.33. A coupon below required return produces a discount.",
+      "Correct. PV=5/1.06+5/1.06^2+105/1.06^3=97.33. A coupon below required return produces a discount."
+    ],
+    "relatedFormulaIds": [
+      "bond-value-04"
+    ],
+    "tags": [
+      "qm-lm4",
+      "checkpoint-2-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm4r-02",
+    "lessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret the present value of fixed-income and equity instruments based on expected future cash flows",
+    "lessonSectionId": "finance-specific-official-application-lab",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A share pays a constant dividend of 3 beginning next year. At a 12% required return, value is:",
+    "choices": [
+      "36.00",
+      "25.00",
+      "27.27"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "A level perpetual equity cash flow has PV=3/.12=25.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 36.00 does not follow the required formula or interpretation. A level perpetual equity cash flow has PV=3/.12=25.",
+      "Correct. A level perpetual equity cash flow has PV=3/.12=25.",
+      "Incorrect. 27.27 does not follow the required formula or interpretation. A level perpetual equity cash flow has PV=3/.12=25."
+    ],
+    "relatedFormulaIds": [
+      "perpetuity-04"
+    ],
+    "tags": [
+      "qm-lm4",
+      "checkpoint-2-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm4r-03",
+    "lessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret an implied return for fixed-income instruments and required return and implied growth for equity instruments given present values and cash flows",
+    "lessonSectionId": "finance-specific-official-application-lab",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "A four-year bond has price 95, annual coupon 4, and face value 100. Its implied yield is the rate that:",
+    "choices": [
+      "equates 95 to the PV of four coupons and principal",
+      "makes the undiscounted cash flows total 95",
+      "equals the coupon divided by face value"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The implied yield is the IRR that discounts all promised cash flows to the observed price.",
+    "incorrectChoiceExplanations": [
+      "Correct. The implied yield is the IRR that discounts all promised cash flows to the observed price.",
+      "Incorrect. makes the undiscounted cash flows total 95 does not follow the required formula or interpretation. The implied yield is the IRR that discounts all promised cash flows to the observed price.",
+      "Incorrect. equals the coupon divided by face value does not follow the required formula or interpretation. The implied yield is the IRR that discounts all promised cash flows to the observed price."
+    ],
+    "relatedFormulaIds": [
+      "bond-value-04"
+    ],
+    "tags": [
+      "qm-lm4",
+      "checkpoint-2-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm4r-04",
+    "lessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret an implied return for fixed-income instruments and required return and implied growth for equity instruments given present values and cash flows",
+    "lessonSectionId": "finance-specific-official-application-lab",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A stock costs 64, next dividend is 2.40, and constant growth is 3.5%. Its required return is closest to:",
+    "choices": [
+      "3.75%",
+      "6.90%",
+      "7.25%"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "r=D1/P0+g=2.40/64+3.5%=7.25%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 3.75% does not follow the required formula or interpretation. r=D1/P0+g=2.40/64+3.5%=7.25%.",
+      "Incorrect. 6.90% does not follow the required formula or interpretation. r=D1/P0+g=2.40/64+3.5%=7.25%.",
+      "Correct. r=D1/P0+g=2.40/64+3.5%=7.25%."
+    ],
+    "relatedFormulaIds": [
+      "growing-perpetuity-04"
+    ],
+    "tags": [
+      "qm-lm4",
+      "checkpoint-2-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm4r-05",
+    "lessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "calculate and interpret an implied return for fixed-income instruments and required return and implied growth for equity instruments given present values and cash flows",
+    "lessonSectionId": "finance-specific-official-application-lab",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A stock costs 80, next dividend is 3.20, and required return is 8.5%. Implied growth is:",
+    "choices": [
+      "4.0%",
+      "4.5%",
+      "12.5%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "g=r−D1/P0=8.5%−4.0%=4.5%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 4.0% does not follow the required formula or interpretation. g=r−D1/P0=8.5%−4.0%=4.5%.",
+      "Correct. g=r−D1/P0=8.5%−4.0%=4.5%.",
+      "Incorrect. 12.5% does not follow the required formula or interpretation. g=r−D1/P0=8.5%−4.0%=4.5%."
+    ],
+    "relatedFormulaIds": [
+      "implied-equity-growth-04"
+    ],
+    "tags": [
+      "qm-lm4",
+      "checkpoint-2-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm4r-06",
+    "lessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "explain cash flow additivity and no-arbitrage and use them to calculate implied forward rates, forward exchange rates, and option values",
+    "lessonSectionId": "finance-specific-official-application-lab",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "One-year and two-year spot rates are 2% and 3.5%. The one-year forward rate one year ahead is closest to:",
+    "choices": [
+      "5.02%",
+      "2.75%",
+      "1.50%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "f=(1.035)^2/1.02−1=5.02%.",
+    "incorrectChoiceExplanations": [
+      "Correct. f=(1.035)^2/1.02−1=5.02%.",
+      "Incorrect. 2.75% does not follow the required formula or interpretation. f=(1.035)^2/1.02−1=5.02%.",
+      "Incorrect. 1.50% does not follow the required formula or interpretation. f=(1.035)^2/1.02−1=5.02%."
+    ],
+    "relatedFormulaIds": [
+      "implied-forward-rate-04"
+    ],
+    "tags": [
+      "qm-lm4",
+      "checkpoint-2-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm4r-07",
+    "lessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "explain cash flow additivity and no-arbitrage and use them to calculate implied forward rates, forward exchange rates, and option values",
+    "lessonSectionId": "finance-specific-official-application-lab",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "Spot is 1.20 domestic currency per foreign unit. One-year domestic and foreign rates are 5% and 2%. The no-arbitrage forward rate is closest to:",
+    "choices": [
+      "1.1647",
+      "1.2360",
+      "1.2353"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "F=1.20(1.05)/(1.02)=1.2353 domestic per foreign unit. Reversing the rate ratio gives 1.1647.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 1.1647 does not follow the required formula or interpretation. F=1.20(1.05)/(1.02)=1.2353 domestic per foreign unit. Reversing the rate ratio gives 1.1647.",
+      "Incorrect. 1.2360 does not follow the required formula or interpretation. F=1.20(1.05)/(1.02)=1.2353 domestic per foreign unit. Reversing the rate ratio gives 1.1647.",
+      "Correct. F=1.20(1.05)/(1.02)=1.2353 domestic per foreign unit. Reversing the rate ratio gives 1.1647."
+    ],
+    "relatedFormulaIds": [
+      "forward-fx-rate-04"
+    ],
+    "tags": [
+      "qm-lm4",
+      "checkpoint-2-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm4r-08",
+    "lessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "explain cash flow additivity and no-arbitrage and use them to calculate implied forward rates, forward exchange rates, and option values",
+    "lessonSectionId": "finance-specific-official-application-lab",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "A non-income-producing asset costs 90 today. With a 4% one-year risk-free rate, its prepaid forward value is:",
+    "choices": [
+      "86.54",
+      "90.00",
+      "93.60"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "A prepaid forward is paid today, so its value equals the spot value for a non-income-producing asset; 93.60 is the delivery price at maturity.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. 86.54 does not follow the required formula or interpretation. A prepaid forward is paid today, so its value equals the spot value for a non-income-producing asset; 93.60 is the delivery price at maturity.",
+      "Correct. A prepaid forward is paid today, so its value equals the spot value for a non-income-producing asset; 93.60 is the delivery price at maturity.",
+      "Incorrect. 93.60 does not follow the required formula or interpretation. A prepaid forward is paid today, so its value equals the spot value for a non-income-producing asset; 93.60 is the delivery price at maturity."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm4",
+      "checkpoint-2-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm4r-09",
+    "lessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "explain cash flow additivity and no-arbitrage and use them to calculate implied forward rates, forward exchange rates, and option values",
+    "lessonSectionId": "finance-specific-official-application-lab",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "A stock will be 60 or 36 in one year. A call with strike 48 will pay 12 or 0. The replicating hedge ratio is:",
+    "choices": [
+      "0.50",
+      "0.25",
+      "2.00"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Delta=(12−0)/(60−36)=0.50. The hedge ratio matches payoff changes, not price levels.",
+    "incorrectChoiceExplanations": [
+      "Correct. Delta=(12−0)/(60−36)=0.50. The hedge ratio matches payoff changes, not price levels.",
+      "Incorrect. 0.25 does not follow the required formula or interpretation. Delta=(12−0)/(60−36)=0.50. The hedge ratio matches payoff changes, not price levels.",
+      "Incorrect. 2.00 does not follow the required formula or interpretation. Delta=(12−0)/(60−36)=0.50. The hedge ratio matches payoff changes, not price levels."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "qm-lm4",
+      "checkpoint-2-verified",
+      "mock-style"
+    ]
+  },
+  {
+    "id": "q-lm4r-10",
+    "lessonId": "quant-tvm-04",
+    "studyLessonId": "quant-tvm-04",
+    "topicId": "quantitative-methods",
+    "officialModuleId": "QM-LM4",
+    "supplementary": false,
+    "officialLearningOutcome": "explain cash flow additivity and no-arbitrage and use them to calculate implied forward rates, forward exchange rates, and option values",
+    "lessonSectionId": "finance-specific-official-application-lab",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "A stock costs 50, a put costs 4, a call costs 6, and the present value of strike is 48. Which trade reflects put–call parity?",
+    "choices": [
+      "Stock plus call equals put plus present value of strike",
+      "Put minus call equals stock plus present value of strike",
+      "Stock plus put equals call plus present value of strike"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "S0+p0=c0+PV(X): 50+4=6+48=54. Reordering signs breaks the matched terminal cash flows.",
+    "incorrectChoiceExplanations": [
+      "Incorrect. Stock plus call equals put plus present value of strike does not follow the required formula or interpretation. S0+p0=c0+PV(X): 50+4=6+48=54. Reordering signs breaks the matched terminal cash flows.",
+      "Incorrect. Put minus call equals stock plus present value of strike does not follow the required formula or interpretation. S0+p0=c0+PV(X): 50+4=6+48=54. Reordering signs breaks the matched terminal cash flows.",
+      "Correct. S0+p0=c0+PV(X): 50+4=6+48=54. Reordering signs breaks the matched terminal cash flows."
+    ],
+    "relatedFormulaIds": [
+      "put-call-parity-04"
+    ],
+    "tags": [
+      "qm-lm4",
+      "checkpoint-2-verified",
+      "mock-style"
+    ]
+  }
+]
