@@ -124,6 +124,25 @@ Shutdown is a short-run operating decision. Fixed cost may remain payable whethe
 
 **Exam insight.** ATC is irrelevant to the immediate shutdown test once fixed costs are unavoidable.
 
+### Decision flow — operate or shut down in the short run
+
+```text
+                 Is price ≥ minimum ATC?
+                        │
+              ┌─────────┴─────────┐
+             YES                  NO
+              │                    │
+     Operate; economic     Is price ≥ minimum AVC?
+     profit ≥ 0 (breakeven          │
+     at P = ATC)             ┌──────┴──────┐
+                             YES            NO
+                              │              │
+                     Operate at a loss   SHUT DOWN
+                     smaller than TFC;   (lose TFC only;
+                     contributes toward  do not produce)
+                     fixed cost
+```
+
 ## 3. Scale and the planning horizon
 
 In the short run, at least one input is fixed. In the long run, the firm can change all inputs and choose plant scale. Economies of scale exist when long-run average total cost falls as output expands. Constant returns to scale produce a flat range. Diseconomies of scale occur when long-run average cost rises.
@@ -164,6 +183,23 @@ The classification depends on number of sellers, product differentiation, entry 
 | Pure monopoly | One; no close substitute | Very high | Market demand; substantial, constrained by demand/regulation | No direct product-market rival |
 
 Under perfect competition, the individual firm is a price taker, so `P = MR`. For an imperfect competitor with downward-sloping demand, selling more normally requires lowering price; therefore marginal revenue is below price. All structures still use marginal analysis, but strategic behavior and the shape of demand differ.
+
+### Decision flow — identifying market structure
+
+```text
+How many meaningful sellers supply the relevant market?
+
+  MANY                                   FEW                    ONE
+   │                                      │                       │
+Is the product                    High barriers and       No close substitute
+homogeneous, with          strategic interdependence?     and high barriers?
+no real differentiation?            │                       │
+   │            │                  YES                     YES
+  YES           NO                  │                       │
+   │             │              OLIGOPOLY                MONOPOLY
+PERFECT      MONOPOLISTIC
+COMPETITION  COMPETITION
+```
 
 ### Worked example 7 — Identify perfect competition
 
@@ -272,13 +308,27 @@ A Nash equilibrium is a set of strategies in which no participant benefits from 
 
 **Exam insight.** Do not maximize the two firms’ combined profit unless the question describes coordinated behavior.
 
+### Worked example 13 — Cournot equilibrium from demand and cost parameters
+
+**Problem.** Aggregate demand is `P = 450 − Q` and each of two symmetric firms has constant marginal cost `MC = 30`. Find each firm's equilibrium output, aggregate output, and market price.
+
+**Method.** Apply the symmetric Cournot formulas `qi* = (a − c)/(3b)`, `Q* = 2(a − c)/(3b)`, and `P* = (a + 2c)/3` with `a = 450`, `b = 1`, `c = 30`.
+
+**Step-by-step solution.** Each firm produces `(450 − 30)/3 = 140`. Aggregate output is `280`. Price is `450 − 280 = 170` (equivalently `(450 + 60)/3 = 170`).
+
+**Final answer.** Each firm produces 140 units; aggregate output is 280 units; price is 170.
+
+**Interpretation.** Aggregate Cournot output of 280 lies between the monopoly output of 210 and the competitive output of 420 for the same demand and cost, consistent with Cournot equilibrium sitting strictly between the monopoly and competitive outcomes.
+
+**Exam insight.** Solve the two reaction functions simultaneously; do not treat the rival's output as literally fixed forever, only fixed for the purpose of each firm's own optimization step.
+
 > **Knowledge check 6.** Does observing stable prices prove a cartel exists? **Answer:** No. Repeated interaction, kinked-demand incentives, contracts, regulation, or similar costs can also produce stability.
 
 ## 7. Concentration measures
 
 The N-firm concentration ratio adds the market shares of the N largest firms: `CR_N = Σ s_i`. The Herfindahl–Hirschman Index sums squared market shares: `HHI = Σ s_i²`. When shares are percentages, HHI ranges toward 10,000 for a single firm; when shares are decimals, it ranges toward 1. Squaring gives greater weight to large firms.
 
-### Worked example 13 — Concentration ratio and HHI
+### Worked example 14 — Concentration ratio and HHI
 
 **Problem.** Five firms have shares of 35%, 25%, 18%, 12%, and 10%. Calculate CR4 and HHI using percentage shares.
 
@@ -292,7 +342,7 @@ The N-firm concentration ratio adds the market shares of the N largest firms: `C
 
 **Exam insight.** State the share convention; 2,418 and 0.2418 describe the same structure under different scaling.
 
-### Worked example 14 — Merger effect on HHI
+### Worked example 15 — Merger effect on HHI
 
 **Problem.** In the preceding market, the 12% and 10% firms merge. What is the change in HHI?
 
@@ -305,6 +355,30 @@ The N-firm concentration ratio adds the market shares of the N largest firms: `C
 **Interpretation.** Combining previously separate shares increases the weight on concentration.
 
 **Exam insight.** The shortcut works because `(a+b)² − a² − b² = 2ab`.
+
+### Worked example 16 — HHI equal-share benchmark
+
+**Problem.** An analyst reports a market HHI of 0.20 on a decimal scale. Approximately how many equal-sized competitors would produce that index?
+
+**Method.** Apply `M = 1/HHI` on a decimal share scale.
+
+**Step-by-step solution.** `M = 1/0.20 = 5`.
+
+**Final answer.** An HHI of 0.20 is analogous to five equal-sized competitors.
+
+**Interpretation.** This benchmark gives an intuitive read on an abstract index, but it assumes equal shares; the same 0.20 could instead come from one 40% firm and many tiny rivals, which is a much more concentrated structure in practice.
+
+**Exam insight.** Confirm the share scale before applying the shortcut: on a percentage scale the equivalent relationship is `M = 10,000/HHI`.
+
+### Choosing between CR_N and HHI
+
+| Question | CR_N (N-firm concentration ratio) | HHI |
+|---|---|---|
+| What it needs | The N largest shares only | Every included firm's share |
+| Sensitivity to distribution within the top group | None | High — squaring weights large firms |
+| Effect of a merger between two top-group firms | Often barely moves | Always rises by `2ab` |
+| Ease of calculation | Simplest | Slightly more computation |
+| Common regulatory use | Quick screen | Primary quantitative screen in many merger-review frameworks |
 
 Concentration is evidence, not a verdict. Results depend on defining the product and geographic market. A high statistic may coexist with vigorous potential entry, rapid innovation, buyer power, or import competition. A low statistic may conceal coordinated behavior or common ownership. Historical accounting shares can lag current competitive conditions.
 
@@ -321,6 +395,40 @@ Concentration is evidence, not a verdict. Results depend on defining the product
 7. Stress-test the conclusion against regulation, technology, buyer power, and market-definition alternatives.
 
 > **Knowledge check 8.** What is the most dangerous shortcut in structure analysis? **Answer:** Inferring pricing power from seller count or concentration alone without testing entry, substitutes, and strategic conditions.
+
+## Glossary
+
+| Term | Definition |
+|---|---|
+| Accounting profit | Total revenue minus recorded explicit costs. |
+| Economic profit | Total revenue minus all opportunity costs, explicit and implicit. |
+| Normal profit | The zero-economic-profit condition; a return exactly equal to the opportunity cost of capital and labor. |
+| Breakeven point | The output or price at which total revenue equals total cost (`P = ATC` for a price taker). |
+| Shutdown point | The short-run price or output below which operating revenue fails to cover variable cost (`P = minimum AVC` for a price taker). |
+| Sunk cost | A cost already incurred that cannot be recovered and is irrelevant to a forward-looking operate-or-shut-down decision. |
+| Economies of scale | Falling long-run average total cost as output increases. |
+| Diseconomies of scale | Rising long-run average total cost as output increases. |
+| Minimum efficient scale | The smallest output at which long-run average total cost reaches its minimum. |
+| Perfect competition | A market structure with many sellers of a homogeneous product, negligible entry barriers, and no individual pricing power. |
+| Monopolistic competition | A market structure with many sellers of differentiated substitutes, low entry barriers, and limited pricing power. |
+| Oligopoly | A market structure with few sellers whose pricing and output decisions are strategically interdependent. |
+| Pure monopoly | A market structure with one seller, no close substitute, and high entry barriers. |
+| Marginal revenue (MR) | The change in total revenue from selling one additional unit. |
+| Marginal cost (MC) | The change in total cost from producing one additional unit. |
+| Nash equilibrium | A set of strategies in which no participant can improve its own payoff by unilaterally changing strategy. |
+| Cournot assumption | Each oligopolist chooses its profit-maximizing quantity while treating rivals' quantities as fixed. |
+| Kinked demand curve | A model of oligopoly pricing in which rivals are assumed to match price cuts but not price increases. |
+| Cartel | A group of firms that formally or informally coordinate price or output to increase joint profit. |
+| Concentration ratio (CR_N) | The combined market share of the N largest firms in a market. |
+| Herfindahl–Hirschman Index (HHI) | The sum of squared market shares across firms in a market, weighting larger firms more heavily than CR_N does. |
+
+## Interactive tools
+
+Three tools accompany this lesson and are available directly below it on the lesson page:
+
+- **Supply, Cost, and Market Structure Explorer** — set a linear demand curve and marginal cost, switch between perfect competition and an imperfect-competition (MR = MC) firm, and see the optimal price, quantity, and profit rectangle update live.
+- **Breakeven and Shutdown Explorer** — enter price, variable cost, fixed cost, and output to see the breakeven quantity, the operate-or-shut-down test, and the resulting short-run profit or loss.
+- **Concentration Measure Explorer** — enter up to eight market shares to compute CR_N and HHI, classify the market's concentration, and simulate the HHI effect of merging any two firms.
 
 ## Common mistakes and exam traps
 
@@ -367,8 +475,10 @@ Concentration is evidence, not a verdict. Results depend on defining the product
 | Monopoly | one seller, no close substitute, high barriers |
 | Imperfect-competition price | find Q where `MR = MC`; read P from demand |
 | Nash equilibrium | no profitable unilateral deviation |
+| Cournot symmetric duopoly | `qi* = (a−c)/(3b)`; `P* = (a+2c)/3` |
 | Concentration ratio | sum of largest N market shares |
 | HHI | sum of squared shares; weights large firms more heavily |
+| HHI equal-share benchmark | `M = 1/HHI` (decimal scale) |
 | Concentration caveat | sensitive to market definition; not proof of conduct or profitability |
 
 ## 30-second summary

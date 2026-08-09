@@ -6,7 +6,7 @@ This is the permanent project issue register. Future sessions should add or upda
 
 None. KI-C01 was resolved by the v1.6.6 source, mathematical, assessment, tool, migration, and integration certification.
 
-Economics v1.7.0 is mapping-only. Seven modules have no public lesson assets, and the existing preliminary firm/market lesson requires a full 2027 production audit before it can be called verified.
+Economics v1.7.1 has produced and verified 1 of 8 official modules (ECO-LM1, The Firm and Market Structures). The remaining seven modules (ECO-LM2–ECO-LM8) have no public lesson assets and remain mapping-only pending their own production releases.
 
 ## High
 
@@ -23,6 +23,7 @@ Economics v1.7.0 is mapping-only. Seven modules have no public lesson assets, an
 
 - **KI-L01 — Documentation history contains older release assumptions.** Archive or reconcile superseded statements when their related release is revisited.
 - **KI-L02 — Bundle reporting is manual.** Add an automated size budget and historical report when performance work is scheduled.
+- **KI-L03 — One local 2027 Schweser volume has no extractable text layer.** `Schweser (2027)/CFA level 1 book 1.pdf` is scanned/image-only in the environment used for v1.7.1; OCR tooling (tesseract/ocrmypdf) exists only inside a WSL environment that was not exercised. It was not consulted for ECO-LM1 and is not required, since the official 2027 curriculum and three other secondary providers (IFT, Zell, FinTree) were available. Revisit only if a future Economics production release specifically needs Schweser cross-referencing.
 
 ## Technical Debt
 

@@ -26,7 +26,12 @@ export default tseslint.config(
     languageOptions: { globals: globals.node },
   },
   {
-    files: ['src/components/lessons/TVMCalculator.tsx'],
+    files: [
+      'src/components/lessons/TVMCalculator.tsx',
+      'src/components/lessons/BreakevenShutdownExplorer.tsx',
+      'src/components/lessons/MarketStructureSupplyExplorer.tsx',
+      'src/components/lessons/ConcentrationMeasureExplorer.tsx',
+    ],
     rules: { 'react-refresh/only-export-components': 'off' },
   },
 );

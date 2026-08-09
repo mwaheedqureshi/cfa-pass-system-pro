@@ -10,7 +10,7 @@ Roadmap entries define release boundaries, not permission to implement later wor
 | v1.6.5 | Quantitative Remediation Part 2 | Complete: LM6-LM11 structural remediation and progress migration |
 | v1.6.6 | Quantitative Verification | Complete: verified and content-frozen across 11 official modules and 12 study lessons |
 | v1.7.0 | Economics — Official 2027 Curriculum Mapping | Complete: 8-module official map and production design; no new learning assets |
-| v1.7.1 | Economics Module Production Sprint 1 | Build and verify ECO-LM1 The Firm and Market Structures |
+| v1.7.1 | Economics Module Production Sprint 1 | Complete: ECO-LM1 The Firm and Market Structures produced and verified — 45 official + 15 supplementary questions and flashcards, 12 formulas, 3 interactive tools |
 | v2.0 | Economics | Complete the Economics topic after mapping approval |
 | v3.0 | Financial Statement Analysis | Complete the FSA topic |
 | v4.0 | Corporate Issuers | Complete the Corporate Issuers topic |

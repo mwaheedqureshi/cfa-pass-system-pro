@@ -12,31 +12,31 @@ Build a reliable, premium-quality study system in deliberate, verifiable release
 
 ## Release state
 
-- **Current release:** v1.7.0 — Economics Official 2027 Curriculum Mapping
-- **Current status:** Economics has 8 officially mapped modules; public module production has not started. Quantitative remains verified and content-frozen.
-- **Next release:** Economics — Module Production Sprint 1
+- **Current release:** v1.7.1 — Economics Module Production Sprint 1 (ECO-LM1 The Firm and Market Structures)
+- **Current status:** ECO-LM1 is produced and verified (45 official + 15 supplementary questions and flashcards, 12 formulas, 3 interactive tools). Seven Economics modules remain mapping-only. Quantitative remains verified and content-frozen.
+- **Next release:** Economics — Module Production Sprint 2
 
-- **Current version:** v1.7.0 — Economics Official 2027 Curriculum Mapping
-- **Current sprint:** Mapping complete; no new Economics learning assets generated.
-- **Next sprint:** ECO-LM1 — The Firm and Market Structures.
+- **Current version:** v1.7.1 — Economics Module Production Sprint 1
+- **Current sprint:** ECO-LM1 produced and verified.
+- **Next sprint:** ECO-LM2 — Understanding Business Cycles.
 - **Long-term roadmap:** See `ROADMAP.md`.
 
 ## Current repository statistics
 
-Measured on 2026-08-06 after the v1.6.2 check suite.
+Measured on 2026-08-09 after the v1.7.1 check suite.
 
 | Measure | Current value |
 |---|---:|
 | Published lessons | 13 |
 | Quantitative study lessons | 12 |
 | Economics lessons | 1 |
-| Questions | 595 total; 555 Quantitative |
-| Flashcards | 585 total; 555 Quantitative |
-| Formulas | 175 total; 165 Quantitative |
-| Registered interactive tools | 27 |
-| Automated tests | 177 |
-| Test files | 33 |
-| Initial JavaScript bundle | 285.13 kB |
+| Questions | 615 total; 555 Quantitative; 60 Economics (45 official / 15 supplementary) |
+| Flashcards | 615 total; 555 Quantitative; 60 Economics (45 official / 15 supplementary) |
+| Formulas | 177 total; 165 Quantitative; 12 Economics |
+| Registered interactive tools | 30 |
+| Automated tests | 198 |
+| Test files | 36 |
+| Initial JavaScript bundle | 286.15 kB |
 | Initial JavaScript gzip | 88.89 kB |
 | Documentation | Foundation set complete; curriculum and verification records remain iterative |
 
@@ -45,7 +45,7 @@ Measured on 2026-08-06 after the v1.6.2 check suite.
 | Topic | Published lessons | State |
 |---|---:|---|
 | Quantitative Methods | 12 | VERIFIED AND CONTENT-FROZEN |
-| Economics | 1 | In progress |
+| Economics | 1 (1 of 8 official modules verified: ECO-LM1) | In progress |
 | Financial Statement Analysis | 0 | Planned |
 | Corporate Issuers | 0 | Planned |
 | Equity Investments | 0 | Planned |

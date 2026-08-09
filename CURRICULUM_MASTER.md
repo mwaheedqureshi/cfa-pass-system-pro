@@ -6,7 +6,7 @@ This document tracks mapping, content, verification, and freeze state without tr
 |---:|---|---:|---:|---|---|---|---|---|---|
 | 1 | Ethical and Professional Standards | Pending mapping | 0 | Pending | Pending | Pending | No | 0 / 0 / 0 / 0 | Available locally; unmapped |
 | 2 | Quantitative Methods | 11 | 12 | Verified | Complete | Fully verified | **VERIFIED AND CONTENT-FROZEN** | 555 / 555 / 165 / 27 | Integrated |
-| 3 | Economics | 8 | 1 existing; 8 future targets | **Mapped v1.7.0** | Existing preliminary LM1 only; production pending | Mapping verified only | No | 40 / 30 / 10 / 0 existing | 79 Economics questions discovered for future targeting |
+| 3 | Economics | 8 | 1 (covers ECO-LM1; 7 future targets remain) | **Mapped v1.7.0** | ECO-LM1 produced v1.7.1; ECO-LM2–ECO-LM8 pending | ECO-LM1 content-verified; ECO-LM2–ECO-LM8 mapping verified only | No | 60 (45 official/15 supp) / 60 (45/15) / 12 / 3 | 79 Economics questions discovered locally; 3 keyword-classified to ECO-LM1 at medium confidence |
 | 4 | Corporate Issuers | Pending mapping | 0 | Pending | Pending | Pending | No | 0 / 0 / 0 / 0 | Available locally; unmapped |
 | 5 | Financial Statement Analysis | Pending mapping | 0 | Pending | Pending | Pending | No | 0 / 0 / 0 / 0 | Available locally; unmapped |
 | 6 | Equity Investments | Pending mapping | 0 | Pending | Pending | Pending | No | 0 / 0 / 0 / 0 | Available locally; unmapped |
@@ -15,6 +15,6 @@ This document tracks mapping, content, verification, and freeze state without tr
 | 9 | Alternative Investments | Pending mapping | 0 | Pending | Pending | Pending | No | 0 / 0 / 0 / 0 | Available locally; unmapped |
 | 10 | Portfolio Management | Pending mapping | 0 | Pending | Pending | Pending | No | 0 / 0 / 0 / 0 | Available locally; unmapped |
 
-Current release: **v1.7.0 — Economics Official 2027 Curriculum Mapping**.
+Current release: **v1.7.1 — Economics Module Production Sprint 1 (ECO-LM1 The Firm and Market Structures, produced and verified)**.
 
-Next release: **Economics Module Production Sprint 1 — ECO-LM1 The Firm and Market Structures**.
+Next release: **Economics Module Production Sprint 2 — ECO-LM2 Understanding Business Cycles**.

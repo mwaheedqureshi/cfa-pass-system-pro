@@ -24,9 +24,11 @@ Future Quantitative changes are limited to verified defects, official curriculum
 
 ## Economics
 
-Economics is **MAPPING VERIFIED / CONTENT PENDING** in v1.7.0. The official 2027 source contains eight modules, with one future study lesson planned per module. The repository's existing preliminary firm/market lesson is not certified by this mapping release, and no new Economics lessons, questions, flashcards, formulas, tools, routes, or chapter exams were generated.
+Economics has 1 of 8 official modules produced and verified as of v1.7.1: **ECO-LM1 (The Firm and Market Structures)** is content-verified against the official 2027 source, with 45 official and 15 supplementary questions, 45 official and 15 supplementary flashcards, 12 formulas, and 3 registered interactive tools (Supply, Cost, and Market Structure Explorer; Breakeven and Shutdown Explorer; Concentration Measure Explorer). The lesson keeps its stable ID, `economics-firm-market-01`.
 
-Next release: **Economics Module Production Sprint 1 — ECO-LM1 The Firm and Market Structures**.
+The remaining seven modules (ECO-LM2–ECO-LM8) remain **MAPPING VERIFIED / CONTENT PENDING**, unchanged from v1.7.0. No new lessons, questions, flashcards, formulas, tools, routes, or chapter exams were generated for them.
+
+Next release: **Economics Module Production Sprint 2 — ECO-LM2 Understanding Business Cycles**.
 
 ## Other topics
 
