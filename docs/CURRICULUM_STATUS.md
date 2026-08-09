@@ -24,11 +24,15 @@ Future Quantitative changes are limited to verified defects, official curriculum
 
 ## Economics
 
-Economics has 1 of 8 official modules produced and verified as of v1.7.1: **ECO-LM1 (The Firm and Market Structures)** is content-verified against the official 2027 source, with 45 official and 15 supplementary questions, 45 official and 15 supplementary flashcards, 12 formulas, and 3 registered interactive tools (Supply, Cost, and Market Structure Explorer; Breakeven and Shutdown Explorer; Concentration Measure Explorer). The lesson keeps its stable ID, `economics-firm-market-01`.
+Economics has 3 of 8 official modules produced and verified as of v1.7.3:
 
-The remaining seven modules (ECO-LM2–ECO-LM8) remain **MAPPING VERIFIED / CONTENT PENDING**, unchanged from v1.7.0. No new lessons, questions, flashcards, formulas, tools, routes, or chapter exams were generated for them.
+- **ECO-LM1 (The Firm and Market Structures)** is content-verified against the official 2027 source, with 45 official and 15 supplementary questions, 45 official and 15 supplementary flashcards, 12 formulas, and 3 registered interactive tools (Supply, Cost, and Market Structure Explorer; Breakeven and Shutdown Explorer; Concentration Measure Explorer). The lesson keeps its stable ID, `economics-firm-market-01`.
+- **ECO-LM2 (Understanding Business Cycles)** is content-verified against the official 2027 source (confirmed a word-for-word zero-change carryover from the 2026 curriculum), with 40 official and 10 supplementary questions, 40 official and 10 supplementary flashcards, 4 formulas, and 2 registered interactive tools (Business Cycle Indicator Timeline; Credit Cycle Explorer). The lesson uses the planned stable ID from the v1.7.0 target manifest, `economics-02-understanding-business-cycles`.
+- **ECO-LM3 (Fiscal Policy)** is content-verified against the official 2027 source (body text and worked examples identical to 2026, aside from an exhibit-numbering shift), with 40 official and 10 supplementary questions, 40 official and 10 supplementary flashcards, 7 formulas, and 2 registered interactive tools (Fiscal Multiplier Explorer; Fiscal Policy Stance Comparator). The lesson uses the planned stable ID from the v1.7.0 target manifest, `economics-03-fiscal-policy`.
 
-Next release: **Economics Module Production Sprint 2 — ECO-LM2 Understanding Business Cycles**.
+The remaining five modules (ECO-LM4–ECO-LM8) remain **MAPPING VERIFIED / CONTENT PENDING**, unchanged from v1.7.0. No new lessons, questions, flashcards, formulas, tools, routes, or chapter exams were generated for them.
+
+Next release: **Economics Module Production Sprint 4 — ECO-LM4 Monetary Policy**.
 
 ## Other topics
 

@@ -6,7 +6,7 @@ This is the permanent project issue register. Future sessions should add or upda
 
 None. KI-C01 was resolved by the v1.6.6 source, mathematical, assessment, tool, migration, and integration certification.
 
-Economics v1.7.1 has produced and verified 1 of 8 official modules (ECO-LM1, The Firm and Market Structures). The remaining seven modules (ECO-LM2–ECO-LM8) have no public lesson assets and remain mapping-only pending their own production releases.
+Economics v1.7.3 has produced and verified 3 of 8 official modules (ECO-LM1, The Firm and Market Structures; ECO-LM2, Understanding Business Cycles; ECO-LM3, Fiscal Policy). The remaining five modules (ECO-LM4–ECO-LM8) have no public lesson assets and remain mapping-only pending their own production releases.
 
 ## High
 
@@ -23,7 +23,9 @@ Economics v1.7.1 has produced and verified 1 of 8 official modules (ECO-LM1, The
 
 - **KI-L01 — Documentation history contains older release assumptions.** Archive or reconcile superseded statements when their related release is revisited.
 - **KI-L02 — Bundle reporting is manual.** Add an automated size budget and historical report when performance work is scheduled.
-- **KI-L03 — One local 2027 Schweser volume has no extractable text layer.** `Schweser (2027)/CFA level 1 book 1.pdf` is scanned/image-only in the environment used for v1.7.1; OCR tooling (tesseract/ocrmypdf) exists only inside a WSL environment that was not exercised. It was not consulted for ECO-LM1 and is not required, since the official 2027 curriculum and three other secondary providers (IFT, Zell, FinTree) were available. Revisit only if a future Economics production release specifically needs Schweser cross-referencing.
+- **KI-L03 — Local 2027 Schweser volumes have no extractable text layer.** The `Schweser (2027)` books are scanned/image-only in the environment used for v1.7.1 and confirmed still scanned/image-only in v1.7.2 and v1.7.3; OCR tooling (tesseract/ocrmypdf) exists only inside a WSL environment that was not exercised. They were not consulted for ECO-LM1, ECO-LM2, or ECO-LM3 and are not required, since the official 2027 curriculum and other secondary providers (IFT, Zell, FinTree) were available. Revisit only if a future Economics production release specifically needs Schweser cross-referencing.
+
+- **KI-L04 — Official ECO-LM2 source gives housing and external-trade activity thin coverage relative to its LOS wording.** The official 2027/2026 reading for Understanding Business Cycles treats the housing and external-trade clause of LOS 3 mainly through two indicator mentions (building permits, house prices) rather than a dedicated framework. ECO-LM2's lesson discloses this explicitly and builds general, original open-economy content for that clause rather than asserting detailed official-source backing beyond what the curriculum states. Not a defect; recorded for transparency.
 
 ## Technical Debt
 
