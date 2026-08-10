@@ -12,32 +12,32 @@ Build a reliable, premium-quality study system in deliberate, verifiable release
 
 ## Release state
 
-- **Current release:** v1.7.5 — Economics Module Production Sprint 5 (ECO-LM5 Introduction to Geopolitics)
-- **Current status:** ECO-LM1 through ECO-LM5 are produced and verified. ECO-LM1: 45 official + 15 supplementary questions and flashcards, 12 formulas, 3 interactive tools. ECO-LM2: 40 official + 10 supplementary questions and flashcards, 4 formulas, 2 interactive tools. ECO-LM3: 40 official + 10 supplementary questions and flashcards, 7 formulas, 2 interactive tools. ECO-LM4: 45 official + 10 supplementary questions and flashcards, 2 formulas, 2 interactive tools. ECO-LM5: 40 official + 10 supplementary questions and flashcards, 0 formulas (source-verified: the official reading contains no symbolic formula), 1 interactive tool. Three Economics modules remain mapping-only. Quantitative remains verified and content-frozen.
-- **Next release:** Economics — Module Production Sprint 6
+- **Current release:** v1.7.6 — Economics Module Production Sprint 6 (ECO-LM6 International Trade)
+- **Current status:** ECO-LM1 through ECO-LM6 are produced and verified. ECO-LM1: 45 official + 15 supplementary questions and flashcards, 12 formulas, 3 interactive tools. ECO-LM2: 40 official + 10 supplementary questions and flashcards, 4 formulas, 2 interactive tools. ECO-LM3: 40 official + 10 supplementary questions and flashcards, 7 formulas, 2 interactive tools. ECO-LM4: 45 official + 10 supplementary questions and flashcards, 2 formulas, 2 interactive tools. ECO-LM5: 40 official + 10 supplementary questions and flashcards, 0 formulas (source-verified: the official reading contains no symbolic formula), 1 interactive tool. ECO-LM6: 35 official + 10 supplementary questions and flashcards, 4 formulas (source-verified: honest formalizations of the reading's own worked welfare-calculation method against a 5-formula mapping-stage estimate), 2 interactive tools. Two Economics modules remain mapping-only. Quantitative remains verified and content-frozen.
+- **Next release:** Economics — Module Production Sprint 7
 
-- **Current version:** v1.7.5 — Economics Module Production Sprint 5
-- **Current sprint:** ECO-LM5 produced and verified.
-- **Next sprint:** ECO-LM6.
+- **Current version:** v1.7.6 — Economics Module Production Sprint 6
+- **Current sprint:** ECO-LM6 produced and verified.
+- **Next sprint:** ECO-LM7.
 - **Long-term roadmap:** See `ROADMAP.md`.
 
 ## Current repository statistics
 
-Measured on 2026-08-10 after the v1.7.5 check suite.
+Measured on 2026-08-10 after the v1.7.6 check suite.
 
 | Measure | Current value |
 |---|---:|
-| Published lessons | 17 |
+| Published lessons | 18 |
 | Quantitative study lessons | 12 |
-| Economics lessons | 5 |
-| Questions | 820 total; 555 Quantitative; 265 Economics (210 official / 55 supplementary) |
-| Flashcards | 820 total; 555 Quantitative; 265 Economics (210 official / 55 supplementary) |
-| Formulas | 190 total; 165 Quantitative; 25 Economics |
-| Registered interactive tools | 37 |
-| Automated tests | 284 |
-| Test files | 48 |
-| Initial JavaScript bundle | 297.11 kB |
-| Initial JavaScript gzip | 91.31 kB |
+| Economics lessons | 6 |
+| Questions | 865 total; 555 Quantitative; 310 Economics (245 official / 65 supplementary) |
+| Flashcards | 865 total; 555 Quantitative; 310 Economics (245 official / 65 supplementary) |
+| Formulas | 194 total; 165 Quantitative; 29 Economics |
+| Registered interactive tools | 39 |
+| Automated tests | 310 |
+| Test files | 51 |
+| Initial JavaScript bundle | 299.22 kB |
+| Initial JavaScript gzip | 91.84 kB |
 | Documentation | Foundation set complete; curriculum and verification records remain iterative |
 
 ## Topic completion
@@ -45,7 +45,7 @@ Measured on 2026-08-10 after the v1.7.5 check suite.
 | Topic | Published lessons | State |
 |---|---:|---|
 | Quantitative Methods | 12 | VERIFIED AND CONTENT-FROZEN |
-| Economics | 5 (5 of 8 official modules verified: ECO-LM1, ECO-LM2, ECO-LM3, ECO-LM4, ECO-LM5) | In progress |
+| Economics | 6 (6 of 8 official modules verified: ECO-LM1, ECO-LM2, ECO-LM3, ECO-LM4, ECO-LM5, ECO-LM6) | In progress |
 | Financial Statement Analysis | 0 | Planned |
 | Corporate Issuers | 0 | Planned |
 | Equity Investments | 0 | Planned |

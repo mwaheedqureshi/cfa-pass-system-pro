@@ -15,6 +15,7 @@ Roadmap entries define release boundaries, not permission to implement later wor
 | v1.7.3 | Economics Module Production Sprint 3 | Complete: ECO-LM3 Fiscal Policy produced and verified — 40 official + 10 supplementary questions and flashcards, 7 formulas, 2 interactive tools |
 | v1.7.4 | Economics Module Production Sprint 4 | Complete: ECO-LM4 Monetary Policy produced and verified — 45 official + 10 supplementary questions and flashcards, 2 formulas, 2 interactive tools |
 | v1.7.5 | Economics Module Production Sprint 5 | Complete: ECO-LM5 Introduction to Geopolitics produced and verified — 40 official + 10 supplementary questions and flashcards, 0 formulas (source-verified: no symbolic formula in the official reading), 1 interactive tool |
+| v1.7.6 | Economics Module Production Sprint 6 | Complete: ECO-LM6 International Trade produced and verified — 35 official + 10 supplementary questions and flashcards, 4 formulas (source-verified honest formalization of the reading's own worked welfare-calculation method), 2 interactive tools |
 | v2.0 | Economics | Complete the Economics topic after mapping approval |
 | v3.0 | Financial Statement Analysis | Complete the FSA topic |
 | v4.0 | Corporate Issuers | Complete the Corporate Issuers topic |
