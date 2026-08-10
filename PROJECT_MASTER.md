@@ -12,32 +12,32 @@ Build a reliable, premium-quality study system in deliberate, verifiable release
 
 ## Release state
 
-- **Current release:** v1.7.3 — Economics Module Production Sprint 3 (ECO-LM3 Fiscal Policy)
-- **Current status:** ECO-LM1, ECO-LM2, and ECO-LM3 are produced and verified. ECO-LM1: 45 official + 15 supplementary questions and flashcards, 12 formulas, 3 interactive tools. ECO-LM2: 40 official + 10 supplementary questions and flashcards, 4 formulas, 2 interactive tools. ECO-LM3: 40 official + 10 supplementary questions and flashcards, 7 formulas, 2 interactive tools. Five Economics modules remain mapping-only. Quantitative remains verified and content-frozen.
-- **Next release:** Economics — Module Production Sprint 4
+- **Current release:** v1.7.4 — Economics Module Production Sprint 4 (ECO-LM4 Monetary Policy)
+- **Current status:** ECO-LM1 through ECO-LM4 are produced and verified. ECO-LM1: 45 official + 15 supplementary questions and flashcards, 12 formulas, 3 interactive tools. ECO-LM2: 40 official + 10 supplementary questions and flashcards, 4 formulas, 2 interactive tools. ECO-LM3: 40 official + 10 supplementary questions and flashcards, 7 formulas, 2 interactive tools. ECO-LM4: 45 official + 10 supplementary questions and flashcards, 2 formulas, 2 interactive tools. Four Economics modules remain mapping-only. Quantitative remains verified and content-frozen.
+- **Next release:** Economics — Module Production Sprint 5
 
-- **Current version:** v1.7.3 — Economics Module Production Sprint 3
-- **Current sprint:** ECO-LM3 produced and verified.
-- **Next sprint:** ECO-LM4 — Monetary Policy.
+- **Current version:** v1.7.4 — Economics Module Production Sprint 4
+- **Current sprint:** ECO-LM4 produced and verified.
+- **Next sprint:** ECO-LM5 — Introduction to Geopolitics.
 - **Long-term roadmap:** See `ROADMAP.md`.
 
 ## Current repository statistics
 
-Measured on 2026-08-09 after the v1.7.3 check suite.
+Measured on 2026-08-10 after the v1.7.4 check suite.
 
 | Measure | Current value |
 |---|---:|
-| Published lessons | 15 |
+| Published lessons | 16 |
 | Quantitative study lessons | 12 |
-| Economics lessons | 3 |
-| Questions | 715 total; 555 Quantitative; 160 Economics (125 official / 35 supplementary) |
-| Flashcards | 715 total; 555 Quantitative; 160 Economics (125 official / 35 supplementary) |
-| Formulas | 188 total; 165 Quantitative; 23 Economics |
-| Registered interactive tools | 34 |
-| Automated tests | 249 |
-| Test files | 43 |
-| Initial JavaScript bundle | 293.03 kB |
-| Initial JavaScript gzip | 90.41 kB |
+| Economics lessons | 4 |
+| Questions | 770 total; 555 Quantitative; 215 Economics (170 official / 45 supplementary) |
+| Flashcards | 770 total; 555 Quantitative; 215 Economics (170 official / 45 supplementary) |
+| Formulas | 190 total; 165 Quantitative; 25 Economics |
+| Registered interactive tools | 36 |
+| Automated tests | 270 |
+| Test files | 46 |
+| Initial JavaScript bundle | 295.24 kB |
+| Initial JavaScript gzip | 90.86 kB |
 | Documentation | Foundation set complete; curriculum and verification records remain iterative |
 
 ## Topic completion
@@ -45,7 +45,7 @@ Measured on 2026-08-09 after the v1.7.3 check suite.
 | Topic | Published lessons | State |
 |---|---:|---|
 | Quantitative Methods | 12 | VERIFIED AND CONTENT-FROZEN |
-| Economics | 3 (3 of 8 official modules verified: ECO-LM1, ECO-LM2, ECO-LM3) | In progress |
+| Economics | 4 (4 of 8 official modules verified: ECO-LM1, ECO-LM2, ECO-LM3, ECO-LM4) | In progress |
 | Financial Statement Analysis | 0 | Planned |
 | Corporate Issuers | 0 | Planned |
 | Equity Investments | 0 | Planned |
@@ -60,7 +60,7 @@ Measured on 2026-08-09 after the v1.7.3 check suite.
 - Quantitative Methods currently uses 11 official modules presented through 12 stable study lessons because LM7 is split into Estimation and Hypothesis Testing.
 - v1.6.3 verifies the source-backed official map and classifies all current Quantitative learning assets; lesson/item remediation remains pending v1.6.4 and v1.6.5.
 - The future progress migration and target manifest are designed but are not executed by v1.6.3.
-- Economics has three published lessons; the remaining official inventory is not yet implemented.
+- Economics has four published lessons; the remaining official inventory is not yet implemented.
 - Other topics remain intentionally unpublished.
 - Detailed status belongs in `docs/CURRICULUM_STATUS.md`.
 - Source alignment and mathematical verification are distinct gates. “Published” never means “fully verified” unless the verification column explicitly says so.
