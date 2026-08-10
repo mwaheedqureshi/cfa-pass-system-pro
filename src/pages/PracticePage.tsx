@@ -15,6 +15,7 @@ import economicsQuestions from '../data/questions/economics-firm-market-01.json'
 import economicsQuestions02 from '../data/questions/economics-02-understanding-business-cycles.json';
 import economicsQuestions03 from '../data/questions/economics-03-fiscal-policy.json';
 import economicsQuestions04 from '../data/questions/economics-04-monetary-policy.json';
+import economicsQuestions05 from '../data/questions/economics-05-introduction-to-geopolitics.json';
 import {ComprehensiveAssessment} from '../components/practice/ComprehensiveAssessment';
 import {ChapterExam} from '../components/practice/ChapterExam';
 import {QuizEngine} from '../components/practice/QuizEngine';
@@ -22,7 +23,7 @@ import {lessons} from '../content/lessonManifest';
 import type {Question} from '../data/types';
 
 const quantitative=[...returnsQuestions,...benchmarkQuestions,...tvmQuestions,...statisticsQuestions,...probabilityQuestions,...distributionQuestions,...samplingQuestions,...hypothesisQuestions,...regressionQuestions,...simulationQuestions,...dataAiQuestions] as unknown as Question[];
-const questions=[...quantitative,...economicsQuestions,...economicsQuestions02,...economicsQuestions03,...economicsQuestions04] as Question[];
+const questions=[...quantitative,...economicsQuestions,...economicsQuestions02,...economicsQuestions03,...economicsQuestions04,...economicsQuestions05] as Question[];
 
 export function PracticePage(){
  const[params]=useSearchParams();

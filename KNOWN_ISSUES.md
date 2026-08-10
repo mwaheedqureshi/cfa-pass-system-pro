@@ -6,7 +6,7 @@ This is the permanent project issue register. Future sessions should add or upda
 
 None. KI-C01 was resolved by the v1.6.6 source, mathematical, assessment, tool, migration, and integration certification.
 
-Economics v1.7.4 has produced and verified 4 of 8 official modules (ECO-LM1, The Firm and Market Structures; ECO-LM2, Understanding Business Cycles; ECO-LM3, Fiscal Policy; ECO-LM4, Monetary Policy). The remaining four modules (ECO-LM5–ECO-LM8) have no public lesson assets and remain mapping-only pending their own production releases.
+Economics v1.7.5 has produced and verified 5 of 8 official modules (ECO-LM1, The Firm and Market Structures; ECO-LM2, Understanding Business Cycles; ECO-LM3, Fiscal Policy; ECO-LM4, Monetary Policy; ECO-LM5, Introduction to Geopolitics). The remaining three modules (ECO-LM6–ECO-LM8) have no public lesson assets and remain mapping-only pending their own production releases.
 
 ## High
 
@@ -27,6 +27,7 @@ Economics v1.7.4 has produced and verified 4 of 8 official modules (ECO-LM1, The
 
 - **KI-L05 — Official ECO-LM4 source contains only one explicit formula, well below its 10-formula mapping-stage estimate.** Source research confirmed the official Monetary Policy reading gives exactly one symbolic formula (the neutral policy rate); money-multiplier, Fisher-relationship, Taylor-rule, and quantity-theory-of-money content — all present in secondary providers' notes — are not part of this official reading. ECO-LM4 delivers 2 formulas (the neutral rate plus a direct formalization of its own stance-comparison rule), not 10, per the standing rule against inventing formulas to meet a target count. Not a defect; recorded for transparency.
 - **KI-L04 — Official ECO-LM2 source gives housing and external-trade activity thin coverage relative to its LOS wording.** The official 2027/2026 reading for Understanding Business Cycles treats the housing and external-trade clause of LOS 3 mainly through two indicator mentions (building permits, house prices) rather than a dedicated framework. ECO-LM2's lesson discloses this explicitly and builds general, original open-economy content for that clause rather than asserting detailed official-source backing beyond what the curriculum states. Not a defect; recorded for transparency.
+- **KI-L06 — Official ECO-LM5 source contains zero explicit symbolic formulas, against a 2-formula mapping-stage estimate.** Source research (52-page official reading, PDF pp. 149-200) confirmed Introduction to Geopolitics is a purely conceptual/framework-based reading with no symbolic formula anywhere in its text or exhibits. ECO-LM5 delivers 0 formulas, is correctly exempted from the lesson-manifest formula check (`lessonManifest.test.ts`), and is correctly omitted from the Formula Explorer integration, per the standing rule against inventing formulas to meet a target count. Not a defect; recorded for transparency.
 
 ## Technical Debt
 
