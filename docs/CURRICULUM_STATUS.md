@@ -24,7 +24,7 @@ Future Quantitative changes are limited to verified defects, official curriculum
 
 ## Economics
 
-Economics has 6 of 8 official modules produced and verified as of v1.7.6:
+Economics has 7 of 8 official modules produced and verified as of v1.7.7:
 
 - **ECO-LM1 (The Firm and Market Structures)** is content-verified against the official 2027 source, with 45 official and 15 supplementary questions, 45 official and 15 supplementary flashcards, 12 formulas, and 3 registered interactive tools (Supply, Cost, and Market Structure Explorer; Breakeven and Shutdown Explorer; Concentration Measure Explorer). The lesson keeps its stable ID, `economics-firm-market-01`.
 - **ECO-LM2 (Understanding Business Cycles)** is content-verified against the official 2027 source (confirmed a word-for-word zero-change carryover from the 2026 curriculum), with 40 official and 10 supplementary questions, 40 official and 10 supplementary flashcards, 4 formulas, and 2 registered interactive tools (Business Cycle Indicator Timeline; Credit Cycle Explorer). The lesson uses the planned stable ID from the v1.7.0 target manifest, `economics-02-understanding-business-cycles`.
@@ -33,10 +33,11 @@ Economics has 6 of 8 official modules produced and verified as of v1.7.6:
 - **ECO-LM5 (Introduction to Geopolitics)** is content-verified against the official 2027 source (52-page module, the longest Economics module produced so far, with no exhibit-numbering shift and no substantive 2026->2027 change), with 40 official and 10 supplementary questions, 40 official and 10 supplementary flashcards, 0 formulas (source-verified: the official reading contains no explicit symbolic formula), and 1 registered interactive tool (Geopolitical Risk Scenario Map). The lesson uses the planned stable ID from the v1.7.0 target manifest, `economics-05-introduction-to-geopolitics`. This module covers a politically sensitive subject; content was authored strictly from the official source's own descriptive, non-judgmental framing, and a secondary provider's unsourced current-events political framing was identified and excluded.
 
 - **ECO-LM6 (International Trade)** is content-verified against the official 2027 source (zero substantive 2026->2027 content change), with 35 official and 10 supplementary questions, 35 official and 10 supplementary flashcards, 4 formulas, and 2 registered interactive tools (Trade Restriction Welfare Diagram; Trading Bloc Comparator). The lesson uses the planned stable ID from the v1.7.0 target manifest, `economics-06-international-trade`.
+- **ECO-LM7 (Capital Flows and the FX Market)** is content-verified against the official 2027 source (38-page module, the longest Economics module produced so far, effectively zero substantive 2026->2027 content change aside from one confirmed terminology update), with 45 official and 10 supplementary questions, 45 official and 10 supplementary flashcards, 5 formulas, and 1 registered interactive tool (FX Quote and Regime Explorer). The lesson uses the planned stable ID from the v1.7.0 target manifest, `economics-07-capital-flows-and-the-fx-market`. Given this module's high sensitivity to currency-quotation-direction errors, the lesson opens with a dedicated, explicit notation-convention section, and every calculation states its A/B (price/base) convention consistently.
 
-The remaining two modules (ECO-LM7–ECO-LM8) remain **MAPPING VERIFIED / CONTENT PENDING**, unchanged from v1.7.0. No new lessons, questions, flashcards, formulas, tools, routes, or chapter exams were generated for them.
+The remaining module (ECO-LM8) remains **MAPPING VERIFIED / CONTENT PENDING**, unchanged from v1.7.0. No new lessons, questions, flashcards, formulas, tools, routes, or chapter exams were generated for it.
 
-Next release: **Economics Module Production Sprint 7 — ECO-LM7**.
+Next release: **Economics Module Production Sprint 8 — ECO-LM8**.
 
 ## Other topics
 

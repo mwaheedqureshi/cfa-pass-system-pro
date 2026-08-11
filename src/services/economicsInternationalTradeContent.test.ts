@@ -46,11 +46,10 @@ describe('Economics international trade content',()=>{
   expect(lesson?.filePath).toBe('content/economics/06-international-trade.md');
   expect(lesson?.formulaIds).toEqual(['cs-loss-tariff-quota-eco-06','ps-gain-tariff-quota-eco-06','revenue-or-rent-eco-06','deadweight-loss-eco-06']);
  });
- it('marks Economics completion at exactly ECO-LM1 through ECO-LM6 verified (6 of 8)',()=>{
-  expect(verifiedOfficialEconomicsModules.map(m=>m.id)).toEqual(['ECO-LM1','ECO-LM2','ECO-LM3','ECO-LM4','ECO-LM5','ECO-LM6']);
+ it('keeps ECO-LM6 verified with its stable study lesson id as later modules are added',()=>{
+  expect(verifiedOfficialEconomicsModules.map(m=>m.id)).toContain('ECO-LM6');
   const lm6=officialEconomicsModules.find(m=>m.id==='ECO-LM6');
   expect(lm6?.studyLessonId).toBe('economics-06-international-trade');
-  const remaining=officialEconomicsModules.filter(m=>m.status==='pending');
-  expect(remaining.map(m=>m.id)).toEqual(['ECO-LM7','ECO-LM8']);
+  expect(lm6?.status).toBe('verified');
  });
 });
