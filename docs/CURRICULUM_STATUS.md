@@ -24,7 +24,7 @@ Future Quantitative changes are limited to verified defects, official curriculum
 
 ## Economics
 
-Economics has 7 of 8 official modules produced and verified as of v1.7.7:
+Economics has 8 of 8 official modules produced and verified as of v1.7.8. All official modules are now content-verified, but Economics is **not yet content-frozen**; full Economics-wide certification (mirroring the v1.6.6 Quantitative certification) is deferred to a subsequent release (v1.7.9):
 
 - **ECO-LM1 (The Firm and Market Structures)** is content-verified against the official 2027 source, with 45 official and 15 supplementary questions, 45 official and 15 supplementary flashcards, 12 formulas, and 3 registered interactive tools (Supply, Cost, and Market Structure Explorer; Breakeven and Shutdown Explorer; Concentration Measure Explorer). The lesson keeps its stable ID, `economics-firm-market-01`.
 - **ECO-LM2 (Understanding Business Cycles)** is content-verified against the official 2027 source (confirmed a word-for-word zero-change carryover from the 2026 curriculum), with 40 official and 10 supplementary questions, 40 official and 10 supplementary flashcards, 4 formulas, and 2 registered interactive tools (Business Cycle Indicator Timeline; Credit Cycle Explorer). The lesson uses the planned stable ID from the v1.7.0 target manifest, `economics-02-understanding-business-cycles`.
@@ -35,9 +35,11 @@ Economics has 7 of 8 official modules produced and verified as of v1.7.7:
 - **ECO-LM6 (International Trade)** is content-verified against the official 2027 source (zero substantive 2026->2027 content change), with 35 official and 10 supplementary questions, 35 official and 10 supplementary flashcards, 4 formulas, and 2 registered interactive tools (Trade Restriction Welfare Diagram; Trading Bloc Comparator). The lesson uses the planned stable ID from the v1.7.0 target manifest, `economics-06-international-trade`.
 - **ECO-LM7 (Capital Flows and the FX Market)** is content-verified against the official 2027 source (38-page module, the longest Economics module produced so far, effectively zero substantive 2026->2027 content change aside from one confirmed terminology update), with 45 official and 10 supplementary questions, 45 official and 10 supplementary flashcards, 5 formulas, and 1 registered interactive tool (FX Quote and Regime Explorer). The lesson uses the planned stable ID from the v1.7.0 target manifest, `economics-07-capital-flows-and-the-fx-market`. Given this module's high sensitivity to currency-quotation-direction errors, the lesson opens with a dedicated, explicit notation-convention section, and every calculation states its A/B (price/base) convention consistently.
 
-The remaining module (ECO-LM8) remains **MAPPING VERIFIED / CONTENT PENDING**, unchanged from v1.7.0. No new lessons, questions, flashcards, formulas, tools, routes, or chapter exams were generated for it.
+- **ECO-LM8 (Exchange Rate Calculations)** is content-verified against the official 2027 source (20-page module, PDF pp. 259-278, of which pp. 275-278 are the book-wide Economics glossary rather than module content; zero substantive 2026->2027 content difference), with 35 official and 10 supplementary questions, 35 official and 10 supplementary flashcards, 8 formulas (matching its mapping-stage target exactly — the only Economics module requiring no downward formula-count revision), and 1 registered interactive tool (Cross-Rate and Forward-Rate Calculator). The lesson uses the planned stable ID from the v1.7.0 target manifest, `economics-08-exchange-rate-calculations`. This module preserves the identical A/B (price/base) currency-quotation convention established in ECO-LM7 without restatement, adding only a generic f/d (foreign/domestic) relabeling for the arbitrage-relationship derivation. Independent recalculation of every worked example caught and corrected a hedged-return arbitrage formula-direction error before release; see `KNOWN_ISSUES.md` KI-L09.
 
-Next release: **Economics Module Production Sprint 8 — ECO-LM8**.
+All 8 official Economics modules — ECO-LM1 through ECO-LM8 — are now content-verified. Economics-wide certification (source cross-check across all 8 modules together, full mock-coverage reconciliation, and content-freeze) is a separate, subsequent release.
+
+Next release: **Economics Full Verification and Content Freeze — v1.7.9**.
 
 ## Other topics
 

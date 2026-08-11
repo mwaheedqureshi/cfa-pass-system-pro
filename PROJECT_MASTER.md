@@ -12,32 +12,32 @@ Build a reliable, premium-quality study system in deliberate, verifiable release
 
 ## Release state
 
-- **Current release:** v1.7.7 — Economics Module Production Sprint 7 (ECO-LM7 Capital Flows and the FX Market)
-- **Current status:** ECO-LM1 through ECO-LM7 are produced and verified. ECO-LM1: 45 official + 15 supplementary questions and flashcards, 12 formulas, 3 interactive tools. ECO-LM2: 40 official + 10 supplementary questions and flashcards, 4 formulas, 2 interactive tools. ECO-LM3: 40 official + 10 supplementary questions and flashcards, 7 formulas, 2 interactive tools. ECO-LM4: 45 official + 10 supplementary questions and flashcards, 2 formulas, 2 interactive tools. ECO-LM5: 40 official + 10 supplementary questions and flashcards, 0 formulas (source-verified: the official reading contains no symbolic formula), 1 interactive tool. ECO-LM6: 35 official + 10 supplementary questions and flashcards, 4 formulas (source-verified: honest formalizations of the reading's own worked welfare-calculation method against a 5-formula mapping-stage estimate), 2 interactive tools. ECO-LM7: 45 official + 10 supplementary questions and flashcards, 5 formulas (source-verified against a 7-formula mapping-stage estimate), 1 interactive tool. One Economics module remains mapping-only. Quantitative remains verified and content-frozen.
-- **Next release:** Economics — Module Production Sprint 8
+- **Current release:** v1.7.8 — Economics Module Production Sprint 8 (ECO-LM8 Exchange Rate Calculations)
+- **Current status:** ECO-LM1 through ECO-LM8 — all 8 official Economics modules — are produced and verified. ECO-LM1: 45 official + 15 supplementary questions and flashcards, 12 formulas, 3 interactive tools. ECO-LM2: 40 official + 10 supplementary questions and flashcards, 4 formulas, 2 interactive tools. ECO-LM3: 40 official + 10 supplementary questions and flashcards, 7 formulas, 2 interactive tools. ECO-LM4: 45 official + 10 supplementary questions and flashcards, 2 formulas, 2 interactive tools. ECO-LM5: 40 official + 10 supplementary questions and flashcards, 0 formulas (source-verified: the official reading contains no symbolic formula), 1 interactive tool. ECO-LM6: 35 official + 10 supplementary questions and flashcards, 4 formulas (source-verified against a 5-formula mapping-stage estimate), 2 interactive tools. ECO-LM7: 45 official + 10 supplementary questions and flashcards, 5 formulas (source-verified against a 7-formula mapping-stage estimate), 1 interactive tool. ECO-LM8: 35 official + 10 supplementary questions and flashcards, 8 formulas (matching its mapping-stage target exactly), 1 interactive tool. Economics is now content-complete across all 8 modules but **not yet content-frozen**; full Economics-wide certification is a separate, subsequent release. Quantitative remains verified and content-frozen.
+- **Next release:** Economics Full Verification and Content Freeze
 
-- **Current version:** v1.7.7 — Economics Module Production Sprint 7
-- **Current sprint:** ECO-LM7 produced and verified.
-- **Next sprint:** ECO-LM8.
+- **Current version:** v1.7.8 — Economics Module Production Sprint 8
+- **Current sprint:** ECO-LM8 produced and verified — the final Economics module.
+- **Next sprint:** Economics-wide certification and content freeze (v1.7.9).
 - **Long-term roadmap:** See `ROADMAP.md`.
 
 ## Current repository statistics
 
-Measured on 2026-08-11 after the v1.7.7 check suite.
+Measured on 2026-08-11 after the v1.7.8 check suite.
 
 | Measure | Current value |
 |---|---:|
-| Published lessons | 19 |
+| Published lessons | 20 |
 | Quantitative study lessons | 12 |
-| Economics lessons | 7 |
-| Questions | 920 total; 555 Quantitative; 365 Economics (290 official / 75 supplementary) |
-| Flashcards | 920 total; 555 Quantitative; 365 Economics (290 official / 75 supplementary) |
-| Formulas | 199 total; 165 Quantitative; 34 Economics |
-| Registered interactive tools | 40 |
-| Automated tests | 336 |
-| Test files | 53 |
-| Initial JavaScript bundle | 301.61 kB |
-| Initial JavaScript gzip | 92.35 kB |
+| Economics lessons | 8 |
+| Questions | 965 total; 555 Quantitative; 410 Economics (325 official / 85 supplementary) |
+| Flashcards | 965 total; 555 Quantitative; 410 Economics (325 official / 85 supplementary) |
+| Formulas | 207 total; 165 Quantitative; 42 Economics |
+| Registered interactive tools | 41 |
+| Automated tests | 364 |
+| Test files | 55 |
+| Initial JavaScript bundle | 303.77 kB |
+| Initial JavaScript gzip | 92.78 kB |
 | Documentation | Foundation set complete; curriculum and verification records remain iterative |
 
 ## Topic completion
@@ -45,7 +45,7 @@ Measured on 2026-08-11 after the v1.7.7 check suite.
 | Topic | Published lessons | State |
 |---|---:|---|
 | Quantitative Methods | 12 | VERIFIED AND CONTENT-FROZEN |
-| Economics | 7 (7 of 8 official modules verified: ECO-LM1, ECO-LM2, ECO-LM3, ECO-LM4, ECO-LM5, ECO-LM6, ECO-LM7) | In progress |
+| Economics | 8 (8 of 8 official modules verified: ECO-LM1, ECO-LM2, ECO-LM3, ECO-LM4, ECO-LM5, ECO-LM6, ECO-LM7, ECO-LM8) | CONTENT COMPLETE — FINAL CERTIFICATION PENDING |
 | Financial Statement Analysis | 0 | Planned |
 | Corporate Issuers | 0 | Planned |
 | Equity Investments | 0 | Planned |

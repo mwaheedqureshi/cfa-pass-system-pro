@@ -45,11 +45,10 @@ describe('Economics capital flows and FX market content',()=>{
   expect(lesson?.filePath).toBe('content/economics/07-capital-flows-and-the-fx-market.md');
   expect(lesson?.formulaIds).toEqual(['reciprocal-quote-eco-07','real-exchange-rate-eco-07','real-exchange-rate-pct-change-eco-07','base-currency-appreciation-eco-07','trade-balance-identity-eco-07']);
  });
- it('marks Economics completion at exactly ECO-LM1 through ECO-LM7 verified (7 of 8)',()=>{
-  expect(verifiedOfficialEconomicsModules.map(m=>m.id)).toEqual(['ECO-LM1','ECO-LM2','ECO-LM3','ECO-LM4','ECO-LM5','ECO-LM6','ECO-LM7']);
+ it('keeps ECO-LM7 verified with its stable study lesson id as later modules are added',()=>{
+  expect(verifiedOfficialEconomicsModules.map(m=>m.id)).toContain('ECO-LM7');
   const lm7=officialEconomicsModules.find(m=>m.id==='ECO-LM7');
   expect(lm7?.studyLessonId).toBe('economics-07-capital-flows-and-the-fx-market');
-  const remaining=officialEconomicsModules.filter(m=>m.status==='pending');
-  expect(remaining.map(m=>m.id)).toEqual(['ECO-LM8']);
+  expect(lm7?.status).toBe('verified');
  });
 });

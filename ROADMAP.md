@@ -17,6 +17,8 @@ Roadmap entries define release boundaries, not permission to implement later wor
 | v1.7.5 | Economics Module Production Sprint 5 | Complete: ECO-LM5 Introduction to Geopolitics produced and verified — 40 official + 10 supplementary questions and flashcards, 0 formulas (source-verified: no symbolic formula in the official reading), 1 interactive tool |
 | v1.7.6 | Economics Module Production Sprint 6 | Complete: ECO-LM6 International Trade produced and verified — 35 official + 10 supplementary questions and flashcards, 4 formulas (source-verified honest formalization of the reading's own worked welfare-calculation method), 2 interactive tools |
 | v1.7.7 | Economics Module Production Sprint 7 | Complete: ECO-LM7 Capital Flows and the FX Market produced and verified — 45 official + 10 supplementary questions and flashcards, 5 formulas (source-verified against a 7-formula mapping-stage estimate), 1 interactive tool |
+| v1.7.8 | Economics Module Production Sprint 8 | Complete: ECO-LM8 Exchange Rate Calculations produced and verified — the final official Economics module — 35 official + 10 supplementary questions and flashcards, 8 formulas (matching its mapping-stage target exactly), 1 interactive tool. All 8 of 8 official Economics modules are now content-verified; Economics is not yet content-frozen |
+| v1.7.9 | Economics Full Verification and Content Freeze | Certify all 8 Economics modules together and mark the topic content-frozen, mirroring the v1.6.6 Quantitative certification |
 | v2.0 | Economics | Complete the Economics topic after mapping approval |
 | v3.0 | Financial Statement Analysis | Complete the FSA topic |
 | v4.0 | Corporate Issuers | Complete the Corporate Issuers topic |
