@@ -13,7 +13,9 @@ An independent, offline-first CFA Level I study platform built with React, TypeS
 
 The application models all ten Level I topic groups. Quantitative Methods v1.6.6 is verified and content-frozen across 11 official modules presented through 12 study lessons. Its public banks contain 545 official and 10 supplementary questions, 545 official and 10 supplementary flashcards, and 155 official and 10 supplementary formulas.
 
-Economics v1.7.9 is verified and content-frozen across all 8 official 2027 modules (ECO-LM1 through ECO-LM8) presented through 8 study lessons, mirroring the Quantitative certification. Its public banks contain 325 official and 85 supplementary questions, 325 official and 85 supplementary flashcards, and 42 official formulas, plus 14 registered interactive tools, 8 chapter exams, and a 60-question comprehensive assessment balanced across all 8 modules. Other topics remain pending or in progress.
+Economics v1.7.9 is verified and content-frozen across all 8 official 2027 modules (ECO-LM1 through ECO-LM8) presented through 8 study lessons, mirroring the Quantitative certification. Its public banks contain 325 official and 85 supplementary questions, 325 official and 85 supplementary flashcards, and 42 official formulas, plus 14 registered interactive tools, 8 chapter exams, and a 60-question comprehensive assessment balanced across all 8 modules.
+
+Financial Statement Analysis v1.8.0 is mapped (official 2027 module map, production targets, and private verification scaffolding) across all 12 official modules (FSA-LM1 through FSA-LM12), with no content produced yet. Other topics remain pending or in progress.
 
 The original plain-HTML application is preserved under `legacy/html-prototype/`.
 
@@ -57,10 +59,11 @@ npm run test
 npm run validate-content
 npm run validate-quant-verification
 npm run validate-economics-verification
+npm run validate-fsa-mapping
 npm run check
 ```
 
-`npm run check` validates mocks, content, curriculum mapping, and Quantitative and Economics verification evidence; then it lints source, runs unit tests, and creates a production build.
+`npm run check` validates mocks, content, curriculum mapping, and Quantitative, Economics, and FSA verification evidence; then it lints source, runs unit tests, and creates a production build.
 
 ## GitHub Pages deployment
 

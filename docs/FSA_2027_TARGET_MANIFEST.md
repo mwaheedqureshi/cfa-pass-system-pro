@@ -1,0 +1,44 @@
+# Financial Statement Analysis 2027 target manifest
+
+Mapping-only design for all 12 official FSA modules. No public lessons, questions, flashcards, formulas, or tools are implemented by this release. One future study lesson is proposed per official module (no split is currently justified — see the FSA-LM8 note below for the one module flagged for a possible internal subdivision study during production, without splitting the official module count).
+
+| Module | Official title | Future lesson ID | Questions | Flashcards | Formulas/ratios | Exhibits |
+|---|---|---|---:|---:|---:|---:|
+| FSA-LM1 | Introduction to Financial Statement Analysis | `fsa-01-introduction-to-financial-statement-analysis` | 35 | 35 | 2 | 6 |
+| FSA-LM2 | Analyzing Income Statements | `fsa-02-analyzing-income-statements` | 50 | 50 | 10 | 10 |
+| FSA-LM3 | Analyzing Balance Sheets | `fsa-03-analyzing-balance-sheets` | 40 | 40 | 6 | 8 |
+| FSA-LM4 | Analyzing Statements of Cash Flows I | `fsa-04-analyzing-statements-of-cash-flows-i` | 45 | 45 | 8 | 10 |
+| FSA-LM5 | Analyzing Statements of Cash Flows II | `fsa-05-analyzing-statements-of-cash-flows-ii` | 35 | 35 | 8 | 6 |
+| FSA-LM6 | Analysis of Inventories | `fsa-06-analysis-of-inventories` | 40 | 40 | 8 | 8 |
+| FSA-LM7 | Analysis of Long-Term Assets | `fsa-07-analysis-of-long-term-assets` | 35 | 35 | 5 | 6 |
+| FSA-LM8 | Topics in Long-Term Liabilities and Equity | `fsa-08-topics-in-long-term-liabilities-and-equity` | 45 | 45 | 8 | 8 |
+| FSA-LM9 | Analysis of Income Taxes | `fsa-09-analysis-of-income-taxes` | 40 | 40 | 8 | 8 |
+| FSA-LM10 | Financial Reporting Quality | `fsa-10-financial-reporting-quality` | 45 | 45 | 2 | 10 |
+| FSA-LM11 | Financial Analysis Techniques | `fsa-11-financial-analysis-techniques` | 55 | 55 | 20 | 12 |
+| FSA-LM12 | Introduction to Financial Statement Modeling | `fsa-12-introduction-to-financial-statement-modeling` | 40 | 40 | 6 | 10 |
+| **Total** | | | **505** | **505** | **91** | **102** |
+
+These are planning-stage estimates only, derived from each module's page length, LOS count, and qualitative calculation/statement-analysis intensity (see `.local-research/fsa-verification/official-module-map.json`). Per the project's standing rule, no future production release may invent formulas, ratios, or graphics to force these counts — every module's actual delivered count must be source-verified, and any shortfall must be documented honestly (the pattern already established across all 8 Economics modules; see `KNOWN_ISSUES.md` KI-L04 through KI-L09).
+
+## Per-module notes
+
+- **FSA-LM1 (Introduction to Financial Statement Analysis):** conceptual/framework module (regulatory filings, reporting systems, information sources). Low calculation intensity; formula target kept low rather than invented.
+- **FSA-LM2 (Analyzing Income Statements):** the topic's first calculation-heavy module (revenue/expense recognition, non-recurring items, basic and diluted EPS including the treasury-stock and if-converted methods). Highest question/formula target of the "individual statement" modules alongside LM11.
+- **FSA-LM3 (Analyzing Balance Sheets):** disclosure-heavy (intangibles, goodwill, financial instruments, non-current liabilities) with common-size balance-sheet calculations.
+- **FSA-LM4 (Analyzing Statements of Cash Flows I):** direct/indirect cash flow statement preparation and conversion mechanics; the official source's most exhibit-dense module by page-ratio.
+- **FSA-LM5 (Analyzing Statements of Cash Flows II):** shorter module (18 official pages) building directly on LM4; free cash flow to the firm/equity and cash flow ratios.
+- **FSA-LM6 (Analysis of Inventories):** FIFO/LIFO/weighted-average mechanics and inflation/deflation effects on ratios; highest formula-line density of any module in the source research's automated proxy scan.
+- **FSA-LM7 (Analysis of Long-Term Assets):** intangible asset reporting, impairment and derecognition, PP&E and intangible disclosures.
+- **FSA-LM8 (Topics in Long-Term Liabilities and Equity):** spans three fairly distinct sub-topics (leases; defined contribution/benefit and stock-based compensation plans; long-term liability and equity disclosures) under one official module identity. Production should assess whether internal study subdivisions are warranted, the way Quantitative LM7 (Estimation/Hypothesis Testing) used two study lessons under one official module, counted once. This is a note for later production judgment, not a decision made in this mapping release.
+- **FSA-LM9 (Analysis of Income Taxes):** deferred tax asset/liability mechanics and effective/statutory/cash tax rate reconciliation; very high exhibit density in the source.
+- **FSA-LM10 (Financial Reporting Quality):** the longest module (70 official pages) and the one with the most learning outcomes (8). Mostly qualitative (quality spectrum, red flags, manipulation detection) rather than formula-driven; formula target kept low rather than invented, consistent with the project's honest-reconciliation discipline already applied to Economics LM5/LM6.
+- **FSA-LM11 (Financial Analysis Techniques):** the core ratio-analysis module (activity, liquidity, solvency, profitability ratios; DuPont decomposition; industry-specific ratios; forecasting applications). Highest targets of any FSA module across every category, consistent with its role as the topic's synthesis/ratio-formula center.
+- **FSA-LM12 (Introduction to Financial Statement Modeling):** pro forma model construction, behavioral forecasting biases, Porter's five forces, inflation/deflation forecasting. Highest exhibit density in the source (consistent with spreadsheet-model content).
+
+## Display order and prerequisites
+
+Display order follows official module number 1-12. Prerequisites (informational only, not enforced by routing): LM2-LM9 each build on LM1's framework and the relevant prior statement-mechanics modules (see `official-module-map.json` `prerequisiteConcepts` per module); LM10 and LM11 are synthesis modules drawing on LM2-LM9; LM12 builds on LM11's ratio and forecasting foundations.
+
+## Related modules
+
+FSA has natural cross-references to Quantitative Methods (time value of money, for present-value-based liability/lease measurement) and forward references to Corporate Issuers and Equity Investments (valuation applications of ratio analysis and forecasting), which remain out of scope until those topics are mapped.

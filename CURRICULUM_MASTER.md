@@ -8,13 +8,13 @@ This document tracks mapping, content, verification, and freeze state without tr
 | 2 | Quantitative Methods | 11 | 12 | Verified | Complete | Fully verified | **VERIFIED AND CONTENT-FROZEN** | 555 / 555 / 165 / 27 | Integrated |
 | 3 | Economics | 8 | 8 (covers ECO-LM1–ECO-LM8; all official modules produced) | **Mapped v1.7.0** | ECO-LM1 produced v1.7.1; ECO-LM2 produced v1.7.2; ECO-LM3 produced v1.7.3; ECO-LM4 produced v1.7.4; ECO-LM5 produced v1.7.5; ECO-LM6 produced v1.7.6; ECO-LM7 produced v1.7.7; ECO-LM8 produced v1.7.8 | ECO-LM1–ECO-LM8 content-verified (8 of 8); release-wide certified v1.7.9 | **VERIFIED AND CONTENT-FROZEN** | 410 (325 official/85 supp) / 410 (325/85) / 42 / 14 | 79 Economics questions discovered locally; 57 keyword-classified to ECO-LM1–ECO-LM4 at medium confidence; 0 additional questions confidently classified to ECO-LM5; 4 additional questions confidently classified to ECO-LM6; 6 additional questions confidently classified to ECO-LM7; 7 additional questions confidently classified to ECO-LM8; 74 total mapped mock items confirmed at v1.7.9 certification |
 | 4 | Corporate Issuers | Pending mapping | 0 | Pending | Pending | Pending | No | 0 / 0 / 0 / 0 | Available locally; unmapped |
-| 5 | Financial Statement Analysis | Pending mapping | 0 | Pending | Pending | Pending | No | 0 / 0 / 0 / 0 | Available locally; unmapped |
+| 5 | Financial Statement Analysis | 12 | 12 (planned; none produced yet) | **Mapped v1.8.0** | Not started | Not started | No | 0 / 0 / 0 / 0 | 62 items fully mapped across the 2025 mocks; 29 items confirmed in a partial (unOCR'd) 2026 mock sample; 85 items mapped from a 100-question topic-wise question bank; 130 and 122+ FSA questions confirmed by boundary in two CFA Premium Pack volumes (not yet individually classified) |
 | 6 | Equity Investments | Pending mapping | 0 | Pending | Pending | Pending | No | 0 / 0 / 0 / 0 | Available locally; unmapped |
 | 7 | Fixed Income | Pending mapping | 0 | Pending | Pending | Pending | No | 0 / 0 / 0 / 0 | Available locally; unmapped |
 | 8 | Derivatives | Pending mapping | 0 | Pending | Pending | Pending | No | 0 / 0 / 0 / 0 | Available locally; unmapped |
 | 9 | Alternative Investments | Pending mapping | 0 | Pending | Pending | Pending | No | 0 / 0 / 0 / 0 | Available locally; unmapped |
 | 10 | Portfolio Management | Pending mapping | 0 | Pending | Pending | Pending | No | 0 / 0 / 0 / 0 | Available locally; unmapped |
 
-Current release: **v1.7.9 — Economics Full Verification and Content Freeze (all 8 official modules certified together; Economics is now VERIFIED AND CONTENT-FROZEN)**.
+Current release: **v1.8.0 — Financial Statement Analysis Official 2027 Curriculum Mapping (12 official modules mapped; no content produced yet)**.
 
-Next release: **Financial Statement Analysis — Official 2027 Curriculum Mapping**.
+Next release: **FSA Module Production Sprint 1 — FSA-LM1 (Introduction to Financial Statement Analysis)**.

@@ -19,9 +19,22 @@ Roadmap entries define release boundaries, not permission to implement later wor
 | v1.7.7 | Economics Module Production Sprint 7 | Complete: ECO-LM7 Capital Flows and the FX Market produced and verified — 45 official + 10 supplementary questions and flashcards, 5 formulas (source-verified against a 7-formula mapping-stage estimate), 1 interactive tool |
 | v1.7.8 | Economics Module Production Sprint 8 | Complete: ECO-LM8 Exchange Rate Calculations produced and verified — the final official Economics module — 35 official + 10 supplementary questions and flashcards, 8 formulas (matching its mapping-stage target exactly), 1 interactive tool. All 8 of 8 official Economics modules are now content-verified; Economics is not yet content-frozen |
 | v1.7.9 | Economics Full Verification and Content Freeze | Complete: certified all 8 Economics modules together (fresh recursive library rescan, cross-module terminology and FX-notation review, full asset/tool/chapter-exam audits, a new 60-question comprehensive assessment, mock-coverage consolidation, and a new `validate-economics-verification` release gate) and marked the topic **VERIFIED AND CONTENT-FROZEN**, mirroring the v1.6.6 Quantitative certification |
-| v1.8.0 | Financial Statement Analysis — Official 2027 Curriculum Mapping | Mapping only, following the same pattern as v1.7.0 for Economics; no new learning assets |
+| v1.8.0 | Financial Statement Analysis — Official 2027 Curriculum Mapping | Complete: 12-module official map (FSA-LM1 through FSA-LM12, official 2027 source directly confirmed, essentially unchanged from 2026) and production design (505 planned questions/flashcards, 91 formula/ratio targets, 102 exhibit targets, 21 planned tools); no new learning assets |
+| v1.8.1 | FSA Module Production Sprint 1 | FSA-LM1 Introduction to Financial Statement Analysis |
+| v1.8.2 | FSA Module Production Sprint 2 | FSA-LM2 Analyzing Income Statements |
+| v1.8.3 | FSA Module Production Sprint 3 | FSA-LM3 Analyzing Balance Sheets |
+| v1.8.4 | FSA Module Production Sprint 4 | FSA-LM4 Analyzing Statements of Cash Flows I |
+| v1.8.5 | FSA Module Production Sprint 5 | FSA-LM5 Analyzing Statements of Cash Flows II |
+| v1.8.6 | FSA Module Production Sprint 6 | FSA-LM6 Analysis of Inventories |
+| v1.8.7 | FSA Module Production Sprint 7 | FSA-LM7 Analysis of Long-Term Assets |
+| v1.8.8 | FSA Module Production Sprint 8 | FSA-LM8 Topics in Long-Term Liabilities and Equity |
+| v1.8.9 | FSA Module Production Sprint 9 | FSA-LM9 Analysis of Income Taxes |
+| v1.8.10 | FSA Module Production Sprint 10 | FSA-LM10 Financial Reporting Quality |
+| v1.8.11 | FSA Module Production Sprint 11 | FSA-LM11 Financial Analysis Techniques |
+| v1.8.12 | FSA Module Production Sprint 12 | FSA-LM12 Introduction to Financial Statement Modeling — completes all 12 of 12 official FSA modules |
+| v1.8.13 | FSA Full Verification and Content Freeze | Certify all 12 FSA modules together and mark the topic content-frozen, mirroring the v1.6.6 Quantitative and v1.7.9 Economics certifications |
 | v2.0 | Economics | Superseded — Economics was completed and certified across v1.7.0-v1.7.9 rather than as a single v2.0 milestone; row retained for historical sequencing only |
-| v3.0 | Financial Statement Analysis | Complete the FSA topic after v1.8.0 mapping approval |
+| v3.0 | Financial Statement Analysis | Superseded — FSA is planned to complete across v1.8.0-v1.8.13 rather than as a single v3.0 milestone, mirroring the Economics sequencing; row retained for historical sequencing only |
 | v4.0 | Corporate Issuers | Complete the Corporate Issuers topic |
 | v5.0 | Equity | Complete Equity Investments |
 | v6.0 | Fixed Income | Complete Fixed Income |

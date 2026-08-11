@@ -41,7 +41,28 @@ All 8 official Economics modules — ECO-LM1 through ECO-LM8 — are content-ver
 
 Future Economics changes are limited to verified defects, official curriculum changes, mathematical corrections, accessibility fixes, and security or compatibility fixes.
 
-Next release: **Financial Statement Analysis — Official 2027 Curriculum Mapping**.
+## Financial Statement Analysis
+
+Financial Statement Analysis is **mapped (v1.8.0)** for the official CFA Level I 2027 structure. No content has been produced yet.
+
+| Official module | Future study lesson | Status |
+|---|---|---|
+| FSA-LM1 Introduction to Financial Statement Analysis | `fsa-01-introduction-to-financial-statement-analysis` | Mapped |
+| FSA-LM2 Analyzing Income Statements | `fsa-02-analyzing-income-statements` | Mapped |
+| FSA-LM3 Analyzing Balance Sheets | `fsa-03-analyzing-balance-sheets` | Mapped |
+| FSA-LM4 Analyzing Statements of Cash Flows I | `fsa-04-analyzing-statements-of-cash-flows-i` | Mapped |
+| FSA-LM5 Analyzing Statements of Cash Flows II | `fsa-05-analyzing-statements-of-cash-flows-ii` | Mapped |
+| FSA-LM6 Analysis of Inventories | `fsa-06-analysis-of-inventories` | Mapped |
+| FSA-LM7 Analysis of Long-Term Assets | `fsa-07-analysis-of-long-term-assets` | Mapped |
+| FSA-LM8 Topics in Long-Term Liabilities and Equity | `fsa-08-topics-in-long-term-liabilities-and-equity` | Mapped |
+| FSA-LM9 Analysis of Income Taxes | `fsa-09-analysis-of-income-taxes` | Mapped |
+| FSA-LM10 Financial Reporting Quality | `fsa-10-financial-reporting-quality` | Mapped |
+| FSA-LM11 Financial Analysis Techniques | `fsa-11-financial-analysis-techniques` | Mapped |
+| FSA-LM12 Introduction to Financial Statement Modeling | `fsa-12-introduction-to-financial-statement-modeling` | Mapped |
+
+The official 2027 FSA source (`FSA 2027.pdf`, 518 pages) was directly extracted and confirmed to have exactly 12 modules, identical in count, title, order, and page anchors to the 2026 edition, with word-for-word identical learning outcomes across all 12 modules — essentially no substantive 2026->2027 change. Secondary providers (Schweser, IFT, FinTree, Zell, CFA Premium) and the local mock library were surveyed for future production planning; see `docs/FSA_2027_TARGET_MANIFEST.md`, `docs/FSA_INTERACTIVE_PLAN.md`, `docs/FSA_ASSESSMENT_PLAN.md`, and `docs/FSA_RELEASE_PLAN.md`. The local 2027 Schweser FSA volume remains scanned/image-only and was not consulted for content (`KNOWN_ISSUES.md` KI-L11); the 2026 mock exams' FSA coverage count is a disclosed partial lower bound pending OCR tooling (KI-L12).
+
+Next release: **FSA Module Production Sprint 1 — FSA-LM1 (Introduction to Financial Statement Analysis)**.
 
 ## Other topics
 

@@ -12,27 +12,28 @@ Build a reliable, premium-quality study system in deliberate, verifiable release
 
 ## Release state
 
-- **Current release:** v1.7.9 — Economics Full Verification and Content Freeze
-- **Current status:** Economics is now **VERIFIED AND CONTENT-FROZEN** across all 8 official 2027 modules, mirroring the v1.6.6 Quantitative certification. This release performed release-level certification across the whole topic: a fresh recursive two-pass library rescan (zero new/changed sources), per-module evidence-completeness audit (backfilled ECO-LM1's evidence trail), an 8-module cross-terminology consistency review (pass, no contradictions), an FX-notation certification for ECO-LM7/ECO-LM8 with a KI-L09 regression check (pass), full question/flashcard/formula/graph/tool audits computed directly from the shipped datasets, chapter-exam certification for all 8 modules, a new 60-question Economics comprehensive assessment (balanced across all 8 modules, reusing the Quantitative assessment engine), topic-page/search/navigation/progress verification, mock-coverage consolidation (74 mapped items across 2025-2026), and a new `scripts/validate-economics-verification.mjs` release gate. Quantitative remains verified and content-frozen, unmodified.
-- **Next release:** Financial Statement Analysis — Official 2027 Curriculum Mapping
+- **Current release:** v1.8.0 — Financial Statement Analysis Official 2027 Curriculum Mapping
+- **Current status:** All 12 official 2027 FSA modules (FSA-LM1 through FSA-LM12) are mapped and source-verified. This is a mapping-only release: a fresh recursive two-pass library rescan (zero changes since the prior scan), direct extraction of the official 2027 FSA source (`FSA 2027.pdf`, 518 pages) confirming exact module count/titles/order/page ranges/LOS, a full 2026->2027 comparison (essentially unchanged — identical module structure, word-for-word identical LOS across all 12 modules), secondary-provider and mock/practice coverage surveys, a future study-lesson/route/target design (505 planned questions/flashcards, 91 formula/ratio targets, 102 exhibit targets, 21 planned tools), a private verification scaffold for all 12 modules, and a new `scripts/validate-fsa-mapping.mjs` release gate. No FSA lesson, question, flashcard, formula, exhibit, or tool content was produced. Quantitative and Economics remain verified and content-frozen, unmodified.
+- **Next release:** FSA Module Production Sprint 1 — FSA-LM1 (Introduction to Financial Statement Analysis)
 
-- **Current version:** v1.7.9 — Economics Full Verification and Content Freeze
-- **Current sprint:** Economics-wide certification complete; topic frozen.
-- **Next sprint:** Financial Statement Analysis official 2027 curriculum mapping (mapping only; no content production).
+- **Current version:** v1.8.0 — Financial Statement Analysis Official 2027 Curriculum Mapping
+- **Current sprint:** FSA topic-wide mapping complete.
+- **Next sprint:** FSA-LM1 production (first FSA module).
 - **Long-term roadmap:** See `ROADMAP.md`.
 
 ## Current repository statistics
 
-Measured on 2026-08-11 after the v1.7.9 check suite.
+Measured on 2026-08-11 after the v1.8.0 check suite.
 
 | Measure | Current value |
 |---|---:|
 | Published lessons | 20 |
 | Quantitative study lessons | 12 |
 | Economics lessons | 8 |
-| Questions | 965 total; 555 Quantitative; 410 Economics (325 official / 85 supplementary) |
-| Flashcards | 965 total; 555 Quantitative; 410 Economics (325 official / 85 supplementary) |
-| Formulas | 207 total; 165 Quantitative; 42 Economics |
+| FSA study lessons | 0 (12 planned; mapping-only) |
+| Questions | 965 total; 555 Quantitative; 410 Economics (325 official / 85 supplementary); 0 FSA |
+| Flashcards | 965 total; 555 Quantitative; 410 Economics (325 official / 85 supplementary); 0 FSA |
+| Formulas | 207 total; 165 Quantitative; 42 Economics; 0 FSA |
 | Registered interactive tools | 41 |
 | Comprehensive assessments | 2 (Quantitative 90-question; Economics 60-question) |
 | Automated tests | 371 |
@@ -47,7 +48,7 @@ Measured on 2026-08-11 after the v1.7.9 check suite.
 |---|---:|---|
 | Quantitative Methods | 12 | VERIFIED AND CONTENT-FROZEN |
 | Economics | 8 (8 of 8 official modules verified: ECO-LM1, ECO-LM2, ECO-LM3, ECO-LM4, ECO-LM5, ECO-LM6, ECO-LM7, ECO-LM8) | VERIFIED AND CONTENT-FROZEN |
-| Financial Statement Analysis | 0 | Planned |
+| Financial Statement Analysis | 0 (12 official modules mapped, none produced) | Mapped |
 | Corporate Issuers | 0 | Planned |
 | Equity Investments | 0 | Planned |
 | Fixed Income | 0 | Planned |
@@ -62,6 +63,7 @@ Measured on 2026-08-11 after the v1.7.9 check suite.
 - v1.6.3 verifies the source-backed official map and classifies all current Quantitative learning assets; lesson/item remediation remains pending v1.6.4 and v1.6.5.
 - The future progress migration and target manifest are designed but are not executed by v1.6.3.
 - Economics is VERIFIED AND CONTENT-FROZEN as of v1.7.9 across all 8 official 2027 modules, presented through 8 stable study lessons.
+- Financial Statement Analysis is mapped as of v1.8.0 across all 12 official 2027 modules; no content is produced yet.
 - Other topics remain intentionally unpublished.
 - Detailed status belongs in `docs/CURRICULUM_STATUS.md`.
 - Source alignment and mathematical verification are distinct gates. “Published” never means “fully verified” unless the verification column explicitly says so.
