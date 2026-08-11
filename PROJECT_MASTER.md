@@ -12,18 +12,18 @@ Build a reliable, premium-quality study system in deliberate, verifiable release
 
 ## Release state
 
-- **Current release:** v1.7.8 — Economics Module Production Sprint 8 (ECO-LM8 Exchange Rate Calculations)
-- **Current status:** ECO-LM1 through ECO-LM8 — all 8 official Economics modules — are produced and verified. ECO-LM1: 45 official + 15 supplementary questions and flashcards, 12 formulas, 3 interactive tools. ECO-LM2: 40 official + 10 supplementary questions and flashcards, 4 formulas, 2 interactive tools. ECO-LM3: 40 official + 10 supplementary questions and flashcards, 7 formulas, 2 interactive tools. ECO-LM4: 45 official + 10 supplementary questions and flashcards, 2 formulas, 2 interactive tools. ECO-LM5: 40 official + 10 supplementary questions and flashcards, 0 formulas (source-verified: the official reading contains no symbolic formula), 1 interactive tool. ECO-LM6: 35 official + 10 supplementary questions and flashcards, 4 formulas (source-verified against a 5-formula mapping-stage estimate), 2 interactive tools. ECO-LM7: 45 official + 10 supplementary questions and flashcards, 5 formulas (source-verified against a 7-formula mapping-stage estimate), 1 interactive tool. ECO-LM8: 35 official + 10 supplementary questions and flashcards, 8 formulas (matching its mapping-stage target exactly), 1 interactive tool. Economics is now content-complete across all 8 modules but **not yet content-frozen**; full Economics-wide certification is a separate, subsequent release. Quantitative remains verified and content-frozen.
-- **Next release:** Economics Full Verification and Content Freeze
+- **Current release:** v1.7.9 — Economics Full Verification and Content Freeze
+- **Current status:** Economics is now **VERIFIED AND CONTENT-FROZEN** across all 8 official 2027 modules, mirroring the v1.6.6 Quantitative certification. This release performed release-level certification across the whole topic: a fresh recursive two-pass library rescan (zero new/changed sources), per-module evidence-completeness audit (backfilled ECO-LM1's evidence trail), an 8-module cross-terminology consistency review (pass, no contradictions), an FX-notation certification for ECO-LM7/ECO-LM8 with a KI-L09 regression check (pass), full question/flashcard/formula/graph/tool audits computed directly from the shipped datasets, chapter-exam certification for all 8 modules, a new 60-question Economics comprehensive assessment (balanced across all 8 modules, reusing the Quantitative assessment engine), topic-page/search/navigation/progress verification, mock-coverage consolidation (74 mapped items across 2025-2026), and a new `scripts/validate-economics-verification.mjs` release gate. Quantitative remains verified and content-frozen, unmodified.
+- **Next release:** Financial Statement Analysis — Official 2027 Curriculum Mapping
 
-- **Current version:** v1.7.8 — Economics Module Production Sprint 8
-- **Current sprint:** ECO-LM8 produced and verified — the final Economics module.
-- **Next sprint:** Economics-wide certification and content freeze (v1.7.9).
+- **Current version:** v1.7.9 — Economics Full Verification and Content Freeze
+- **Current sprint:** Economics-wide certification complete; topic frozen.
+- **Next sprint:** Financial Statement Analysis official 2027 curriculum mapping (mapping only; no content production).
 - **Long-term roadmap:** See `ROADMAP.md`.
 
 ## Current repository statistics
 
-Measured on 2026-08-11 after the v1.7.8 check suite.
+Measured on 2026-08-11 after the v1.7.9 check suite.
 
 | Measure | Current value |
 |---|---:|
@@ -34,10 +34,11 @@ Measured on 2026-08-11 after the v1.7.8 check suite.
 | Flashcards | 965 total; 555 Quantitative; 410 Economics (325 official / 85 supplementary) |
 | Formulas | 207 total; 165 Quantitative; 42 Economics |
 | Registered interactive tools | 41 |
-| Automated tests | 364 |
-| Test files | 55 |
-| Initial JavaScript bundle | 303.77 kB |
-| Initial JavaScript gzip | 92.78 kB |
+| Comprehensive assessments | 2 (Quantitative 90-question; Economics 60-question) |
+| Automated tests | 371 |
+| Test files | 56 |
+| Initial JavaScript bundle | 304.20 kB |
+| Initial JavaScript gzip | 92.85 kB |
 | Documentation | Foundation set complete; curriculum and verification records remain iterative |
 
 ## Topic completion
@@ -45,7 +46,7 @@ Measured on 2026-08-11 after the v1.7.8 check suite.
 | Topic | Published lessons | State |
 |---|---:|---|
 | Quantitative Methods | 12 | VERIFIED AND CONTENT-FROZEN |
-| Economics | 8 (8 of 8 official modules verified: ECO-LM1, ECO-LM2, ECO-LM3, ECO-LM4, ECO-LM5, ECO-LM6, ECO-LM7, ECO-LM8) | CONTENT COMPLETE — FINAL CERTIFICATION PENDING |
+| Economics | 8 (8 of 8 official modules verified: ECO-LM1, ECO-LM2, ECO-LM3, ECO-LM4, ECO-LM5, ECO-LM6, ECO-LM7, ECO-LM8) | VERIFIED AND CONTENT-FROZEN |
 | Financial Statement Analysis | 0 | Planned |
 | Corporate Issuers | 0 | Planned |
 | Equity Investments | 0 | Planned |
@@ -60,7 +61,7 @@ Measured on 2026-08-11 after the v1.7.8 check suite.
 - Quantitative Methods currently uses 11 official modules presented through 12 stable study lessons because LM7 is split into Estimation and Hypothesis Testing.
 - v1.6.3 verifies the source-backed official map and classifies all current Quantitative learning assets; lesson/item remediation remains pending v1.6.4 and v1.6.5.
 - The future progress migration and target manifest are designed but are not executed by v1.6.3.
-- Economics has four published lessons; the remaining official inventory is not yet implemented.
+- Economics is VERIFIED AND CONTENT-FROZEN as of v1.7.9 across all 8 official 2027 modules, presented through 8 stable study lessons.
 - Other topics remain intentionally unpublished.
 - Detailed status belongs in `docs/CURRICULUM_STATUS.md`.
 - Source alignment and mathematical verification are distinct gates. “Published” never means “fully verified” unless the verification column explicitly says so.

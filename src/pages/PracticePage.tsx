@@ -20,18 +20,21 @@ import economicsQuestions06 from '../data/questions/economics-06-international-t
 import economicsQuestions07 from '../data/questions/economics-07-capital-flows-and-the-fx-market.json';
 import economicsQuestions08 from '../data/questions/economics-08-exchange-rate-calculations.json';
 import {ComprehensiveAssessment} from '../components/practice/ComprehensiveAssessment';
+import {EconomicsComprehensiveAssessment} from '../components/practice/EconomicsComprehensiveAssessment';
 import {ChapterExam} from '../components/practice/ChapterExam';
 import {QuizEngine} from '../components/practice/QuizEngine';
 import {lessons} from '../content/lessonManifest';
 import type {Question} from '../data/types';
 
 const quantitative=[...returnsQuestions,...benchmarkQuestions,...tvmQuestions,...statisticsQuestions,...probabilityQuestions,...distributionQuestions,...samplingQuestions,...hypothesisQuestions,...regressionQuestions,...simulationQuestions,...dataAiQuestions] as unknown as Question[];
-const questions=[...quantitative,...economicsQuestions,...economicsQuestions02,...economicsQuestions03,...economicsQuestions04,...economicsQuestions05,...economicsQuestions06,...economicsQuestions07,...economicsQuestions08] as Question[];
+const economics=[...economicsQuestions,...economicsQuestions02,...economicsQuestions03,...economicsQuestions04,...economicsQuestions05,...economicsQuestions06,...economicsQuestions07,...economicsQuestions08] as Question[];
+const questions=[...quantitative,...economics] as Question[];
 
 export function PracticePage(){
  const[params]=useSearchParams();
  const[lessonId,setLessonId]=useState(params.get('lesson')??'all');
  if(params.get('mode')==='quantitative')return <><h1>Quantitative comprehensive assessment</h1><p className="muted mt-2">90 official-scope questions balanced across 11 official modules, with both LM7 study subdivisions represented. Your timer and progress persist locally.</p><div className="mt-6"><ComprehensiveAssessment questions={quantitative}/></div></>;
+ if(params.get('mode')==='economics')return <><h1>Economics comprehensive assessment</h1><p className="muted mt-2">60 official-scope questions balanced across all 8 official Economics modules. Your timer and progress persist locally.</p><div className="mt-6"><EconomicsComprehensiveAssessment questions={economics}/></div></>;
  if(params.get('mode')==='chapter-exam'&&lessonId!=='all'){const chapterQuestions=questions.filter(q=>q.lessonId===lessonId);return <><h1>{lessons.find(l=>l.id===lessonId)?.title} chapter exam</h1><p className="muted mt-2">A persistent 30-question assessment with outcome and confidence diagnostics.</p><div className="mt-6"><ChapterExam questions={chapterQuestions} lessonId={lessonId}/></div></>}
  const filtered=lessonId==='all'?questions:questions.filter(q=>q.lessonId===lessonId);
  return <><h1>Practice centre</h1><p className="muted mt-2">Original questions covering every available learning module.</p><label className="label mt-5 max-w-md" htmlFor="practice-module">Question module<select id="practice-module" className="mt-1 w-full rounded-lg border bg-white px-3 py-2 dark:border-slate-600 dark:bg-slate-800" value={lessonId} onChange={e=>setLessonId(e.target.value)}><option value="all">All modules ({questions.length})</option>{lessons.map(l=><option key={l.id} value={l.id}>{l.title} ({questions.filter(q=>q.lessonId===l.id).length})</option>)}</select></label><div className="mt-6" key={lessonId}><QuizEngine questions={filtered}/></div></>

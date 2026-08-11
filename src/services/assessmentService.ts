@@ -1,9 +1,10 @@
 import type {Confidence,Question} from '../data/types';
-import {officialModuleForLesson} from '../content/quantitativeCurriculum';
+import {officialModuleForLesson as officialQuantModuleForLesson} from '../content/quantitativeCurriculum';
+import {officialModuleForLesson as officialEconomicsModuleForLesson} from '../content/economicsCurriculum';
 
 export type AssessmentAnswer={questionId:string;lessonId:string;correct:boolean;confidence:Confidence};
 const seededRandom=(seed:number)=>()=>((seed=Math.imul(48271,seed)%2147483647)&2147483647)/2147483647;
-const moduleId=(q:Question)=>q.officialModuleId??officialModuleForLesson(q.lessonId)?.id??q.lessonId;
+const moduleId=(q:Question)=>q.officialModuleId??officialQuantModuleForLesson(q.lessonId)?.id??officialEconomicsModuleForLesson(q.lessonId)?.id??q.lessonId;
 
 /** Selects official questions evenly across official modules. LM7 alternates both study subdivisions. */
 export function selectBalancedAssessment(questions:Question[],count=90,seed=2027,includeSupplementary=false){
@@ -23,5 +24,5 @@ export function selectBalancedAssessment(questions:Question[],count=90,seed=2027
  return shuffle(result);
 }
 export const assessmentScore=(answers:AssessmentAnswer[])=>answers.length?answers.filter(a=>a.correct).length/answers.length:0;
-export function moduleBreakdown(answers:AssessmentAnswer[]){return answers.reduce<Record<string,{answered:number;correct:number}>>((out,a)=>{const id=officialModuleForLesson(a.lessonId)?.id??a.lessonId;out[id]??={answered:0,correct:0};out[id].answered++;if(a.correct)out[id].correct++;return out},{})}
+export function moduleBreakdown(answers:AssessmentAnswer[]){return answers.reduce<Record<string,{answered:number;correct:number}>>((out,a)=>{const id=officialQuantModuleForLesson(a.lessonId)?.id??officialEconomicsModuleForLesson(a.lessonId)?.id??a.lessonId;out[id]??={answered:0,correct:0};out[id].answered++;if(a.correct)out[id].correct++;return out},{})}
 export function confidenceBreakdown(answers:AssessmentAnswer[]){return answers.reduce<Record<Confidence,{answered:number;correct:number}>>((out,a)=>{out[a.confidence].answered++;if(a.correct)out[a.confidence].correct++;return out},{guess:{answered:0,correct:0},unsure:{answered:0,correct:0},confident:{answered:0,correct:0}})}

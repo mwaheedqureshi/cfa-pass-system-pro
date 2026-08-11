@@ -6,7 +6,7 @@ This document tracks mapping, content, verification, and freeze state without tr
 |---:|---|---:|---:|---|---|---|---|---|---|
 | 1 | Ethical and Professional Standards | Pending mapping | 0 | Pending | Pending | Pending | No | 0 / 0 / 0 / 0 | Available locally; unmapped |
 | 2 | Quantitative Methods | 11 | 12 | Verified | Complete | Fully verified | **VERIFIED AND CONTENT-FROZEN** | 555 / 555 / 165 / 27 | Integrated |
-| 3 | Economics | 8 | 8 (covers ECO-LM1–ECO-LM8; all official modules produced) | **Mapped v1.7.0** | ECO-LM1 produced v1.7.1; ECO-LM2 produced v1.7.2; ECO-LM3 produced v1.7.3; ECO-LM4 produced v1.7.4; ECO-LM5 produced v1.7.5; ECO-LM6 produced v1.7.6; ECO-LM7 produced v1.7.7; ECO-LM8 produced v1.7.8 | ECO-LM1–ECO-LM8 content-verified (8 of 8) | No — content-complete, final certification pending (v1.7.9) | 410 (325 official/85 supp) / 410 (325/85) / 42 / 14 | 79 Economics questions discovered locally; 57 keyword-classified to ECO-LM1–ECO-LM4 at medium confidence; 0 additional questions confidently classified to ECO-LM5; 4 additional questions confidently classified to ECO-LM6; 6 additional questions confidently classified to ECO-LM7; 7 additional questions confidently classified to ECO-LM8 |
+| 3 | Economics | 8 | 8 (covers ECO-LM1–ECO-LM8; all official modules produced) | **Mapped v1.7.0** | ECO-LM1 produced v1.7.1; ECO-LM2 produced v1.7.2; ECO-LM3 produced v1.7.3; ECO-LM4 produced v1.7.4; ECO-LM5 produced v1.7.5; ECO-LM6 produced v1.7.6; ECO-LM7 produced v1.7.7; ECO-LM8 produced v1.7.8 | ECO-LM1–ECO-LM8 content-verified (8 of 8); release-wide certified v1.7.9 | **VERIFIED AND CONTENT-FROZEN** | 410 (325 official/85 supp) / 410 (325/85) / 42 / 14 | 79 Economics questions discovered locally; 57 keyword-classified to ECO-LM1–ECO-LM4 at medium confidence; 0 additional questions confidently classified to ECO-LM5; 4 additional questions confidently classified to ECO-LM6; 6 additional questions confidently classified to ECO-LM7; 7 additional questions confidently classified to ECO-LM8; 74 total mapped mock items confirmed at v1.7.9 certification |
 | 4 | Corporate Issuers | Pending mapping | 0 | Pending | Pending | Pending | No | 0 / 0 / 0 / 0 | Available locally; unmapped |
 | 5 | Financial Statement Analysis | Pending mapping | 0 | Pending | Pending | Pending | No | 0 / 0 / 0 / 0 | Available locally; unmapped |
 | 6 | Equity Investments | Pending mapping | 0 | Pending | Pending | Pending | No | 0 / 0 / 0 / 0 | Available locally; unmapped |
@@ -15,6 +15,6 @@ This document tracks mapping, content, verification, and freeze state without tr
 | 9 | Alternative Investments | Pending mapping | 0 | Pending | Pending | Pending | No | 0 / 0 / 0 / 0 | Available locally; unmapped |
 | 10 | Portfolio Management | Pending mapping | 0 | Pending | Pending | Pending | No | 0 / 0 / 0 / 0 | Available locally; unmapped |
 
-Current release: **v1.7.8 — Economics Module Production Sprint 8 (ECO-LM8 Exchange Rate Calculations, produced and verified — final official Economics module)**.
+Current release: **v1.7.9 — Economics Full Verification and Content Freeze (all 8 official modules certified together; Economics is now VERIFIED AND CONTENT-FROZEN)**.
 
-Next release: **Economics Full Verification and Content Freeze — v1.7.9**.
+Next release: **Financial Statement Analysis — Official 2027 Curriculum Mapping**.

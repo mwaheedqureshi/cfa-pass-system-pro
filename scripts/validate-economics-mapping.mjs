@@ -18,6 +18,6 @@ const declaredVerified=new Set(status.fullyVerifiedModules??[]);
 if(declaredVerified.size!==producedModules.size||[...producedModules].some(id=>!declaredVerified.has(id)))fail('Economics fullyVerifiedModules must exactly match the modules with verified production content for this release');
 if(status.contentGenerated!==(producedModules.size>0))fail('Economics contentGenerated flag must reflect whether any module has verified production content');
 for(const m of map.modules){const expectedModuleStatus=producedModules.has(m.officialModuleId)?'content_verified':'mapping_verified';if(status.moduleStatuses?.[m.officialModuleId]!==expectedModuleStatus)fail(`${m.officialModuleId}: verification-status module status must be '${expectedModuleStatus}'`)}
-if(!['mapping_verified','production_in_progress'].includes(status.status))fail('Economics overall status must be mapping_verified or production_in_progress');
+if(!['mapping_verified','production_in_progress','verified_and_content_frozen'].includes(status.status))fail('Economics overall status must be mapping_verified, production_in_progress, or verified_and_content_frozen');
 const tracked=execFileSync('git',['ls-files','.local-research'],{encoding:'utf8'}).trim();if(tracked)fail('Private source artifacts are tracked by Git');
 if(failures.length){console.error(failures.join('\n'));process.exit(1)}console.log(`Economics mapping valid: ${expected} official modules, 8 planned lessons, ${formulas.count} formula targets, ${graphs.count} graph targets.`);

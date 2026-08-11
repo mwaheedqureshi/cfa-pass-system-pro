@@ -24,7 +24,7 @@ Future Quantitative changes are limited to verified defects, official curriculum
 
 ## Economics
 
-Economics has 8 of 8 official modules produced and verified as of v1.7.8. All official modules are now content-verified, but Economics is **not yet content-frozen**; full Economics-wide certification (mirroring the v1.6.6 Quantitative certification) is deferred to a subsequent release (v1.7.9):
+Economics is **VERIFIED AND CONTENT-FROZEN** for the official CFA Level I 2027 structure, effective v1.7.9. All 8 official modules were individually produced and content-verified across v1.7.1-v1.7.8, then certified together in v1.7.9: a fresh recursive two-pass library rescan found zero new or changed sources; a cross-module terminology and FX-notation review found no contradictions across all 8 lessons; question/flashcard/formula/graph/tool audits were recomputed directly from the shipped datasets; all 8 chapter exams and a new 60-question comprehensive assessment (balanced across all 8 modules) were verified; and mock coverage was consolidated (74 mapped items across 2025-2026). See `docs/ECONOMICS_VERIFICATION_SUMMARY.md` for the full certification record.
 
 - **ECO-LM1 (The Firm and Market Structures)** is content-verified against the official 2027 source, with 45 official and 15 supplementary questions, 45 official and 15 supplementary flashcards, 12 formulas, and 3 registered interactive tools (Supply, Cost, and Market Structure Explorer; Breakeven and Shutdown Explorer; Concentration Measure Explorer). The lesson keeps its stable ID, `economics-firm-market-01`.
 - **ECO-LM2 (Understanding Business Cycles)** is content-verified against the official 2027 source (confirmed a word-for-word zero-change carryover from the 2026 curriculum), with 40 official and 10 supplementary questions, 40 official and 10 supplementary flashcards, 4 formulas, and 2 registered interactive tools (Business Cycle Indicator Timeline; Credit Cycle Explorer). The lesson uses the planned stable ID from the v1.7.0 target manifest, `economics-02-understanding-business-cycles`.
@@ -37,9 +37,11 @@ Economics has 8 of 8 official modules produced and verified as of v1.7.8. All of
 
 - **ECO-LM8 (Exchange Rate Calculations)** is content-verified against the official 2027 source (20-page module, PDF pp. 259-278, of which pp. 275-278 are the book-wide Economics glossary rather than module content; zero substantive 2026->2027 content difference), with 35 official and 10 supplementary questions, 35 official and 10 supplementary flashcards, 8 formulas (matching its mapping-stage target exactly — the only Economics module requiring no downward formula-count revision), and 1 registered interactive tool (Cross-Rate and Forward-Rate Calculator). The lesson uses the planned stable ID from the v1.7.0 target manifest, `economics-08-exchange-rate-calculations`. This module preserves the identical A/B (price/base) currency-quotation convention established in ECO-LM7 without restatement, adding only a generic f/d (foreign/domestic) relabeling for the arbitrage-relationship derivation. Independent recalculation of every worked example caught and corrected a hedged-return arbitrage formula-direction error before release; see `KNOWN_ISSUES.md` KI-L09.
 
-All 8 official Economics modules — ECO-LM1 through ECO-LM8 — are now content-verified. Economics-wide certification (source cross-check across all 8 modules together, full mock-coverage reconciliation, and content-freeze) is a separate, subsequent release.
+All 8 official Economics modules — ECO-LM1 through ECO-LM8 — are content-verified and the topic is content-frozen as of v1.7.9. Final Economics inventory: 325 official and 85 supplementary questions; 325 official and 85 supplementary flashcards; 42 official formulas; 14 registered tools; 8 chapter exams; a 60-question comprehensive assessment. Supplementary material is excluded from official assessments.
 
-Next release: **Economics Full Verification and Content Freeze — v1.7.9**.
+Future Economics changes are limited to verified defects, official curriculum changes, mathematical corrections, accessibility fixes, and security or compatibility fixes.
+
+Next release: **Financial Statement Analysis — Official 2027 Curriculum Mapping**.
 
 ## Other topics
 

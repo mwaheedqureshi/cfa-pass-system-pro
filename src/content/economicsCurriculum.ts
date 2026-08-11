@@ -12,3 +12,4 @@ export const officialEconomicsModules:OfficialEconomicsModule[]=[
 export const officialEconomicsModuleCount=officialEconomicsModules.length;
 export const verifiedOfficialEconomicsModules=officialEconomicsModules.filter(m=>m.status==='verified');
 export const economicsLessonIds=officialEconomicsModules.map(m=>m.studyLessonId).filter((id):id is string=>id!==null);
+export const officialModuleForLesson=(lessonId:string)=>officialEconomicsModules.find(module=>module.studyLessonId===lessonId);
