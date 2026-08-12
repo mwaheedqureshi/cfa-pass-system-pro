@@ -3,6 +3,7 @@ import {getTopic} from '../content/curriculum';
 import {lessons} from '../content/lessonManifest';
 import {completedOfficialQuantModules} from '../content/quantitativeCurriculum';
 import {officialEconomicsModules,officialEconomicsModuleCount,verifiedOfficialEconomicsModules} from '../content/economicsCurriculum';
+import {officialFsaModules,officialFsaModuleCount,verifiedOfficialFsaModules} from '../content/fsaCurriculum';
 import {useProgress} from '../hooks/useProgress';
 import {useContentStats} from '../hooks/useContentStats';
 import {quizScore} from '../services/progressService';
@@ -21,6 +22,11 @@ export function TopicPage(){
  <div className="stats-grid mt-4"><div className="stat-card"><strong>{stats.loading?'…':stats.officialEconomicsQuestions}</strong><span>Official questions</span></div><div className="stat-card"><strong>{stats.loading?'…':stats.officialEconomicsFlashcards}</strong><span>Official flashcards</span></div><div className="stat-card"><strong>{stats.loading?'…':stats.officialEconomicsFormulas}</strong><span>Official formulas</span></div></div>
  <ul className="mt-4 grid gap-2 sm:grid-cols-2">{officialEconomicsModules.map(module=><li key={module.id} className="flex items-center justify-between gap-2"><span>{module.id} — {module.title}</span><span className={`badge ${module.status==='verified'?'':'opacity-70'}`}>{module.status==='verified'?'Verified':'Coming soon'}</span></li>)}</ul>
  <div className="mt-5 flex flex-wrap gap-2"><Link className="btn btn-primary" to="/practice?mode=economics">Start Economics comprehensive assessment</Link><Link className="btn" to="/flashcards">Start Economics flashcards</Link><Link className="btn" to="/formulas">Open Economics formula sheet</Link></div>
+ </section>}
+ {topic.id==='financial-statement-analysis'&&<section className="card mt-6"><h2>Official CFA 2027 Financial Statement Analysis</h2><p className="mt-2 text-2xl font-bold">{verifiedOfficialFsaModules.length} / {officialFsaModuleCount} official modules published</p><p className="muted mt-1">Each verified module is produced and content-verified against the official 2027 curriculum before publication; unpublished modules remain mapping-only.</p>
+ <div className="stats-grid mt-4"><div className="stat-card"><strong>{stats.loading?'…':stats.officialFsaQuestions}</strong><span>Official questions</span></div><div className="stat-card"><strong>{stats.loading?'…':stats.officialFsaFlashcards}</strong><span>Official flashcards</span></div><div className="stat-card"><strong>{stats.loading?'…':stats.officialFsaFormulas}</strong><span>Official formulas</span></div></div>
+ <ul className="mt-4 grid gap-2 sm:grid-cols-2">{officialFsaModules.map(module=><li key={module.id} className="flex items-center justify-between gap-2"><span>{module.id} — {module.title}</span><span className={`badge ${module.status==='verified'?'':'opacity-70'}`}>{module.status==='verified'?'Verified':'Coming soon'}</span></li>)}</ul>
+ <div className="mt-5 flex flex-wrap gap-2"><Link className="btn btn-primary" to="/practice?lesson=fsa-01-introduction-to-financial-statement-analysis&mode=chapter-exam">Start FSA-LM1 chapter exam</Link><Link className="btn" to="/flashcards?lesson=fsa-01-introduction-to-financial-statement-analysis">Start FSA flashcards</Link><Link className="btn" to="/formulas">Open Formula Explorer</Link></div>
  </section>}
  <div className="mt-6 grid gap-3">{available.length?available.map(lesson=><Link className="card card-hover block" key={lesson.id} to={`/lessons/${lesson.id}`}><span className="badge">Study lesson {lesson.order}{lesson.subdivision?` · Official LM7${lesson.subdivision}`:''}</span><h2 className="mt-3">{lesson.title}</h2><p className="muted mt-2">{lesson.officialModuleTitle} · {lesson.estimatedMinutes} minutes · {lesson.difficulty}</p></Link>):<div className="card"><h2>Content pending</h2><p className="muted mt-2">No completed lessons are published for this topic yet.</p></div>}</div></>;
 }

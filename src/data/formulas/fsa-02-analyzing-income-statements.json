@@ -1,0 +1,163 @@
+[
+{
+  "id": "basic-eps-fsa-02",
+  "name": "Basic earnings per share",
+  "expression": "Basic EPS = (Net income − Preferred dividends) ÷ Weighted average common shares outstanding",
+  "meaning": "Earnings attributable to common shareholders, spread across the weighted average number of common shares outstanding during the period.",
+  "variables": {
+    "Net income": "Total net income for the period",
+    "Preferred dividends": "Dividends declared on preferred shares during the period",
+    "Weighted average common shares outstanding": "Time-weighted average number of common shares outstanding during the period"
+  },
+  "intuition": "Only common shareholders' claim on earnings matters for EPS, so preferred dividends (which belong to preferred shareholders) are removed from the numerator before dividing by the common share base.",
+  "workedExample": "Palisade Corp: net income $9,000,000, preferred dividends $500,000, weighted average shares 4,750,000 (4,000,000 for 3 months + 5,000,000 for 9 months after a mid-year issuance). Basic EPS = ($9,000,000 − $500,000) ÷ 4,750,000 ≈ $1.79.",
+  "commonMistake": "Subtracting common-stock dividends from the numerator, or using the year-end share count instead of a properly time-weighted average.",
+  "relatedLessonId": "fsa-02-analyzing-income-statements",
+  "relatedLearningOutcome": "describe how earnings per share is calculated and calculate and interpret a company's basic and diluted earnings per share for companies with simple and complex capital structures including those with antidilutive securities",
+  "tags": ["EPS", "basic EPS", "calculation"]
+},
+{
+  "id": "weighted-average-shares-fsa-02",
+  "name": "Weighted average common shares outstanding",
+  "expression": "WASO = Σ (Shares outstanding in sub-period_i × Fraction of the period the shares were outstanding_i)",
+  "meaning": "The time-weighted average number of common shares outstanding during a reporting period, used as the EPS denominator base.",
+  "variables": {
+    "Shares outstanding in sub-period_i": "Number of common shares outstanding during a given stretch of the period",
+    "Fraction of the period the shares were outstanding_i": "The portion of the full period that share count applied for"
+  },
+  "intuition": "Shares issued or repurchased partway through the year did not generate earnings for the full year, so each share count is weighted only for the fraction of the period it was actually outstanding. Stock splits and stock dividends are the one exception: they are applied retroactively to the start of the earliest period presented, never time-weighted.",
+  "workedExample": "Palisade Corp: 4,000,000 shares for 3/12 of the year plus 5,000,000 shares for 9/12 of the year = (4,000,000 × 0.25) + (5,000,000 × 0.75) = 1,000,000 + 3,750,000 = 4,750,000.",
+  "commonMistake": "Time-weighting a stock split or stock dividend as if it were a genuine issuance, instead of restating all prior share counts retroactively.",
+  "relatedLessonId": "fsa-02-analyzing-income-statements",
+  "relatedLearningOutcome": "describe how earnings per share is calculated and calculate and interpret a company's basic and diluted earnings per share for companies with simple and complex capital structures including those with antidilutive securities",
+  "tags": ["EPS", "weighted average shares", "calculation"]
+},
+{
+  "id": "diluted-eps-if-converted-preferred-fsa-02",
+  "name": "Diluted EPS — if-converted method (convertible preferred stock)",
+  "expression": "Diluted EPS = Net income ÷ (Weighted average common shares + As-converted shares from convertible preferred)",
+  "meaning": "Diluted EPS assuming all convertible preferred stock is converted into common shares at the start of the period.",
+  "variables": {
+    "Net income": "Total net income (no preferred-dividend subtraction, since the preferred dividend is added back for the assumed-converted shares)",
+    "As-converted shares from convertible preferred": "Common shares issuable upon conversion of the convertible preferred stock"
+  },
+  "intuition": "If the preferred stock is assumed converted to common at the start of the period, it no longer earns a preferred dividend, so the dividend that reduced the basic-EPS numerator is added back, and the as-converted shares join the denominator.",
+  "workedExample": "Cobalt Mining Co: net income $5,000,000, weighted average shares 2,000,000, convertible preferred paying $200,000 total dividends convertible into 300,000 shares. Basic EPS = ($5,000,000 − $200,000) ÷ 2,000,000 = $2.40. Diluted EPS = $5,000,000 ÷ (2,000,000 + 300,000) ≈ $2.17.",
+  "commonMistake": "Continuing to subtract the preferred dividend from the numerator after adding the as-converted shares to the denominator, double-penalizing the calculation.",
+  "relatedLessonId": "fsa-02-analyzing-income-statements",
+  "relatedLearningOutcome": "describe how earnings per share is calculated and calculate and interpret a company's basic and diluted earnings per share for companies with simple and complex capital structures including those with antidilutive securities",
+  "tags": ["EPS", "diluted EPS", "if-converted method", "convertible preferred"]
+},
+{
+  "id": "diluted-eps-if-converted-debt-fsa-02",
+  "name": "Diluted EPS — if-converted method (convertible debt)",
+  "expression": "Diluted EPS = (Net income + After-tax interest on convertible debt − Preferred dividends) ÷ (Weighted average common shares + As-converted shares from convertible debt)",
+  "meaning": "Diluted EPS assuming all convertible debt is converted into common shares at the start of the period.",
+  "variables": {
+    "After-tax interest on convertible debt": "Interest expense on the convertible bonds, net of the tax shield the company would lose upon conversion: Interest × (1 − tax rate)",
+    "As-converted shares from convertible debt": "Common shares issuable upon conversion of the bonds"
+  },
+  "intuition": "If the debt is assumed converted to equity, the company no longer pays (or deducts for tax purposes) the related interest, so net income is higher by the after-tax interest saved, and the as-converted shares join the denominator.",
+  "workedExample": "Driftwood Airlines: net income $8,000,000, weighted average shares 3,000,000, convertible bonds with $1,200,000 annual interest convertible into 500,000 shares, tax rate 30%. After-tax interest add-back = $1,200,000 × (1 − 0.30) = $840,000. Diluted EPS = ($8,000,000 + $840,000) ÷ (3,000,000 + 500,000) ≈ $2.53.",
+  "commonMistake": "Adding back the pretax interest instead of the after-tax interest, which overstates the numerator adjustment.",
+  "relatedLessonId": "fsa-02-analyzing-income-statements",
+  "relatedLearningOutcome": "describe how earnings per share is calculated and calculate and interpret a company's basic and diluted earnings per share for companies with simple and complex capital structures including those with antidilutive securities",
+  "tags": ["EPS", "diluted EPS", "if-converted method", "convertible debt"]
+},
+{
+  "id": "diluted-eps-treasury-stock-fsa-02",
+  "name": "Diluted EPS — treasury-stock method (options and warrants)",
+  "expression": "Diluted EPS = (Net income − Preferred dividends) ÷ (Weighted average common shares + Shares issuable on exercise − Shares repurchasable with exercise proceeds at the average market price)",
+  "meaning": "Diluted EPS assuming all in-the-money options/warrants are exercised and the proceeds are used to repurchase shares at the average market price during the period.",
+  "variables": {
+    "Shares issuable on exercise": "Number of shares the options/warrants would create if exercised",
+    "Shares repurchasable with exercise proceeds": "(Exercise price × shares issuable) ÷ average market price during the period"
+  },
+  "intuition": "Net income is unaffected by an assumed option exercise, so only the denominator changes — and only by the net new shares, since the exercise proceeds are assumed used to buy back shares at market, partially offsetting the new issuance.",
+  "workedExample": "Solander Tech: net income $4,000,000, weighted average shares 1,800,000, 100,000 options with a $20 exercise price and a $32 average market price. Proceeds = 100,000 × $20 = $2,000,000. Repurchasable shares = $2,000,000 ÷ $32 = 62,500. Incremental shares = 100,000 − 62,500 = 37,500. Diluted EPS = $4,000,000 ÷ (1,800,000 + 37,500) ≈ $2.18.",
+  "commonMistake": "Repurchasing the assumed shares at the exercise price instead of the average market price, which produces a materially wrong incremental-share count.",
+  "relatedLessonId": "fsa-02-analyzing-income-statements",
+  "relatedLearningOutcome": "describe how earnings per share is calculated and calculate and interpret a company's basic and diluted earnings per share for companies with simple and complex capital structures including those with antidilutive securities",
+  "tags": ["EPS", "diluted EPS", "treasury-stock method", "options"]
+},
+{
+  "id": "gross-profit-margin-fsa-02",
+  "name": "Gross profit margin",
+  "expression": "Gross profit margin = Gross profit ÷ Revenue",
+  "meaning": "The percentage of revenue remaining after direct cost of goods sold.",
+  "variables": {
+    "Gross profit": "Revenue minus cost of goods sold",
+    "Revenue": "Total revenue for the period"
+  },
+  "intuition": "A higher gross margin means a company retains more of each revenue dollar before overhead, financing, and tax costs are considered — useful for comparing pricing power and production efficiency across companies of any size.",
+  "workedExample": "Everline Industries: revenue $20,000,000, COGS $12,000,000, gross profit $8,000,000. Gross profit margin = $8,000,000 ÷ $20,000,000 = 40%.",
+  "commonMistake": "Comparing raw dollar gross profit across companies of very different sizes instead of the margin percentage.",
+  "relatedLessonId": "fsa-02-analyzing-income-statements",
+  "relatedLearningOutcome": "evaluate a company's financial performance using common-size income statements and financial ratios based on the income statement",
+  "tags": ["ratios", "margin", "common-size"]
+},
+{
+  "id": "operating-profit-margin-fsa-02",
+  "name": "Operating profit margin",
+  "expression": "Operating profit margin = Operating profit (EBIT) ÷ Revenue",
+  "meaning": "The percentage of revenue remaining after both direct costs and operating expenses, before non-operating items and tax.",
+  "variables": {
+    "Operating profit (EBIT)": "Gross profit minus operating expenses",
+    "Revenue": "Total revenue for the period"
+  },
+  "intuition": "Operating margin isolates core business profitability from financing and tax decisions, making it useful for comparing companies with different capital structures.",
+  "workedExample": "Everline Industries: gross profit $8,000,000, operating expenses $5,000,000, operating profit $3,000,000. Operating margin = $3,000,000 ÷ $20,000,000 = 15%.",
+  "commonMistake": "Confusing operating profit (EBIT) with net income, which also reflects non-operating items and taxes.",
+  "relatedLessonId": "fsa-02-analyzing-income-statements",
+  "relatedLearningOutcome": "evaluate a company's financial performance using common-size income statements and financial ratios based on the income statement",
+  "tags": ["ratios", "margin", "common-size"]
+},
+{
+  "id": "pretax-margin-fsa-02",
+  "name": "Pretax margin",
+  "expression": "Pretax margin = Pretax profit ÷ Revenue",
+  "meaning": "The percentage of revenue remaining after both operating and non-operating items, before income tax.",
+  "variables": {
+    "Pretax profit": "Operating profit adjusted for non-operating items such as interest expense/income",
+    "Revenue": "Total revenue for the period"
+  },
+  "intuition": "Comparing pretax margin to operating margin isolates the effect of financing costs and other non-operating items on profitability.",
+  "workedExample": "Everline Industries: operating profit $3,000,000, non-operating expense $500,000, pretax profit $2,500,000. Pretax margin = $2,500,000 ÷ $20,000,000 = 12.5%.",
+  "commonMistake": "Comparing pretax margin across companies without accounting for differences in leverage, which drives non-operating interest expense.",
+  "relatedLessonId": "fsa-02-analyzing-income-statements",
+  "relatedLearningOutcome": "evaluate a company's financial performance using common-size income statements and financial ratios based on the income statement",
+  "tags": ["ratios", "margin", "common-size"]
+},
+{
+  "id": "net-profit-margin-fsa-02",
+  "name": "Net profit margin",
+  "expression": "Net profit margin = Net income ÷ Revenue",
+  "meaning": "The percentage of revenue that ultimately becomes net income after all expenses, including tax.",
+  "variables": {
+    "Net income": "Pretax profit minus income tax expense",
+    "Revenue": "Total revenue for the period"
+  },
+  "intuition": "Net margin is the bottom-line profitability measure, but because it bundles operating, financing, and tax effects together, an analyst typically also reviews gross, operating, and pretax margins to see where a change in net margin actually originated.",
+  "workedExample": "Everline Industries: pretax profit $2,500,000, tax (25%) $625,000, net income $1,875,000. Net profit margin = $1,875,000 ÷ $20,000,000 ≈ 9.38%.",
+  "commonMistake": "Diagnosing a net-margin decline as an operating problem without first checking whether gross margin, operating expenses, non-operating items, or the tax rate actually drove the change.",
+  "relatedLessonId": "fsa-02-analyzing-income-statements",
+  "relatedLearningOutcome": "evaluate a company's financial performance using common-size income statements and financial ratios based on the income statement",
+  "tags": ["ratios", "margin", "common-size"]
+},
+{
+  "id": "common-size-line-item-fsa-02",
+  "name": "Common-size income statement line item",
+  "expression": "Common-size % = Income statement line item ÷ Revenue",
+  "meaning": "Restates every income-statement line as a percentage of revenue, removing the effect of company size for comparison.",
+  "variables": {
+    "Income statement line item": "Any individual income-statement line (COGS, operating expenses, non-operating items, tax, net income, etc.)",
+    "Revenue": "Total revenue for the period, the common base for every line"
+  },
+  "intuition": "Because every line is divided by the same base (revenue), a common-size statement lets an analyst compare a small company to a much larger one, or the same company across years of very different revenue, without dollar-scale distorting the comparison.",
+  "workedExample": "Northgate Apparel (revenue $10,000,000, COGS $6,000,000) has a COGS common-size figure of 60%; a competitor with revenue $50,000,000 and COGS $32,000,000 has a COGS common-size figure of 64% — directly comparable despite the five-times difference in company size.",
+  "commonMistake": "Common-sizing the balance sheet against revenue instead of total assets, or common-sizing the income statement against something other than revenue.",
+  "relatedLessonId": "fsa-02-analyzing-income-statements",
+  "relatedLearningOutcome": "evaluate a company's financial performance using common-size income statements and financial ratios based on the income statement",
+  "tags": ["ratios", "common-size"]
+}
+]

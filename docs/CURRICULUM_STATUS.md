@@ -43,12 +43,15 @@ Future Economics changes are limited to verified defects, official curriculum ch
 
 ## Financial Statement Analysis
 
-Financial Statement Analysis is **mapped (v1.8.0)** for the official CFA Level I 2027 structure. No content has been produced yet.
+Financial Statement Analysis is **mapped (v1.8.0)** for the official CFA Level I 2027 structure, with production underway: FSA-LM1 is produced and content-verified as of v1.8.1; FSA-LM2 is produced and content-verified as of v1.8.2.
+
+- **FSA-LM1 (Introduction to Financial Statement Analysis)** is content-verified against the official 2027 source (PDF pp.15-48 of a 518-page volume; zero substantive 2026->2027 content difference, confirmed via a dedicated line-by-line comparison), with 35 official and 10 supplementary questions, 35 official and 10 supplementary flashcards, 0 formulas (source-verified: the official reading contains no symbolic formula or numeric worked calculation), and 1 registered interactive tool (Financial Statement Analysis Framework Navigator). The lesson uses the planned stable ID from the v1.8.0 target manifest, `fsa-01-introduction-to-financial-statement-analysis`.
+- **FSA-LM2 (Analyzing Income Statements)** is content-verified against the official 2027 source (PDF pp.49-102 of a 518-page volume; zero substantive 2026->2027 content difference), with 50 official and 10 supplementary questions, 50 official and 10 supplementary flashcards, 10 formulas (matching the mapping-stage target exactly by count, with an honest reconciliation of the placeholder category labels — see `KNOWN_ISSUES.md` KI-L15), and 2 registered interactive tools (Income Statement EPS Explorer, Revenue and Expense Recognition Classifier). EPS mechanics received deliberately extensive coverage (8 of 25 worked examples, 16 of 50 official questions) per the explicit EPS-calculation-safety priority, including full sequential most-dilutive-first complex-capital-structure testing. The lesson uses the planned stable ID from the v1.8.0 target manifest, `fsa-02-analyzing-income-statements`.
 
 | Official module | Future study lesson | Status |
 |---|---|---|
-| FSA-LM1 Introduction to Financial Statement Analysis | `fsa-01-introduction-to-financial-statement-analysis` | Mapped |
-| FSA-LM2 Analyzing Income Statements | `fsa-02-analyzing-income-statements` | Mapped |
+| FSA-LM1 Introduction to Financial Statement Analysis | `fsa-01-introduction-to-financial-statement-analysis` | Verified |
+| FSA-LM2 Analyzing Income Statements | `fsa-02-analyzing-income-statements` | Verified |
 | FSA-LM3 Analyzing Balance Sheets | `fsa-03-analyzing-balance-sheets` | Mapped |
 | FSA-LM4 Analyzing Statements of Cash Flows I | `fsa-04-analyzing-statements-of-cash-flows-i` | Mapped |
 | FSA-LM5 Analyzing Statements of Cash Flows II | `fsa-05-analyzing-statements-of-cash-flows-ii` | Mapped |
@@ -62,7 +65,11 @@ Financial Statement Analysis is **mapped (v1.8.0)** for the official CFA Level I
 
 The official 2027 FSA source (`FSA 2027.pdf`, 518 pages) was directly extracted and confirmed to have exactly 12 modules, identical in count, title, order, and page anchors to the 2026 edition, with word-for-word identical learning outcomes across all 12 modules — essentially no substantive 2026->2027 change. Secondary providers (Schweser, IFT, FinTree, Zell, CFA Premium) and the local mock library were surveyed for future production planning; see `docs/FSA_2027_TARGET_MANIFEST.md`, `docs/FSA_INTERACTIVE_PLAN.md`, `docs/FSA_ASSESSMENT_PLAN.md`, and `docs/FSA_RELEASE_PLAN.md`. The local 2027 Schweser FSA volume remains scanned/image-only and was not consulted for content (`KNOWN_ISSUES.md` KI-L11); the 2026 mock exams' FSA coverage count is a disclosed partial lower bound pending OCR tooling (KI-L12).
 
-Next release: **FSA Module Production Sprint 1 — FSA-LM1 (Introduction to Financial Statement Analysis)**.
+FSA-LM1 delivers 1 registered interactive tool and 0 formulas against 12 official modules total; final FSA-LM1 inventory: 35 official and 10 supplementary questions; 35 official and 10 supplementary flashcards; 0 official formulas (honest downward revision, see `KNOWN_ISSUES.md` KI-L14); 1 registered tool; 1 chapter exam.
+
+FSA-LM2 delivers 2 registered interactive tools and 10 formulas against 12 official modules total; final FSA-LM2 inventory: 50 official and 10 supplementary questions; 50 official and 10 supplementary flashcards; 10 official formulas (count matches the mapping-stage target exactly, category labels honestly reconciled, see `KNOWN_ISSUES.md` KI-L15); 2 registered tools; 1 chapter exam. FSA completion after v1.8.2: 2 of 12 official modules verified.
+
+Next release: **FSA Module Production Sprint 3 — FSA-LM3**.
 
 ## Other topics
 

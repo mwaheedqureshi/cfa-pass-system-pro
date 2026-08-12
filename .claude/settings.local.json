@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "permissions": {
+    "allow": [
+      "Bash(python *)",
+      "Bash(python.exe *)",
+      "Bash(npm run *)",
+      "Bash(npx *)",
+      "Bash(powershell *)",
+      "Bash(Get-ChildItem *)",
+      "Bash(pdftotext *)",
+      "Read(C:/Users/Z4 G4/Documents/CFA/**)",
+      "Read(C:/Users/Z4 G4/Documents/CFA_PROCESSED/**)",
+      "Read(C:/Users/Z4 G4/Documents/cfa-pass-system-pro/**)"
+    ],
+    "deny": [
+      "Bash(git push --force *)",
+      "Bash(git reset --hard *)",
+      "Bash(git clean -fd *)"
+    ]
+  }
+}
