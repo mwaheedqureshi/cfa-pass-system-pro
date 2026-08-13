@@ -54,7 +54,7 @@ Financial Statement Analysis is **mapped (v1.8.0)** for the official CFA Level I
 | FSA-LM1 Introduction to Financial Statement Analysis | `fsa-01-introduction-to-financial-statement-analysis` | Verified |
 | FSA-LM2 Analyzing Income Statements | `fsa-02-analyzing-income-statements` | Verified |
 | FSA-LM3 Analyzing Balance Sheets | `fsa-03-analyzing-balance-sheets` | Verified |
-| FSA-LM4 Analyzing Statements of Cash Flows I | `fsa-04-analyzing-statements-of-cash-flows-i` | Mapped |
+| FSA-LM4 Analyzing Statements of Cash Flows I | `fsa-04-analyzing-statements-of-cash-flows-i` | Verified v1.8.4 |
 | FSA-LM5 Analyzing Statements of Cash Flows II | `fsa-05-analyzing-statements-of-cash-flows-ii` | Mapped |
 | FSA-LM6 Analysis of Inventories | `fsa-06-analysis-of-inventories` | Mapped |
 | FSA-LM7 Analysis of Long-Term Assets | `fsa-07-analysis-of-long-term-assets` | Mapped |
@@ -72,7 +72,9 @@ FSA-LM2 delivers 2 registered interactive tools and 10 formulas against 12 offic
 
 FSA-LM3 delivers 2 registered interactive tools and 9 formulas against 12 official modules total; final FSA-LM3 inventory: 40 official and 10 supplementary questions; 40 official and 10 supplementary flashcards; 9 official formulas (an organic overage over the 6-formula mapping-stage target, see `KNOWN_ISSUES.md` KI-L17); 2 registered tools; 1 chapter exam. FSA completion after v1.8.3: 3 of 12 official modules verified.
 
-Next release: **FSA Module Production Sprint 4 — FSA-LM4**.
+FSA-LM4 adds 45 official + 10 supplementary questions and flashcards, 8 formulas, 10 original exhibits, and 2 tools. FSA completion after v1.8.4: **4 of 12 (33.3%)**.
+
+Next release: **FSA Module Production Sprint 5 — FSA-LM5**.
 
 ## Other topics
 

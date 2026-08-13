@@ -5,6 +5,7 @@ const producedModules=[
  {officialModuleId:'FSA-LM1',lessonId:'fsa-01-introduction-to-financial-statement-analysis',contentPath:'public/content/fsa/01-introduction-to-financial-statement-analysis.md',hasFormulas:false,officialQuestionCount:35,supplementaryQuestionCount:10,tools:['FSAFrameworkNavigator']},
  {officialModuleId:'FSA-LM2',lessonId:'fsa-02-analyzing-income-statements',contentPath:'public/content/fsa/02-analyzing-income-statements.md',hasFormulas:true,formulaCount:10,officialQuestionCount:50,supplementaryQuestionCount:10,tools:['IncomeStatementEPSExplorer','RevenueExpenseRecognitionClassifier']},
  {officialModuleId:'FSA-LM3',lessonId:'fsa-03-analyzing-balance-sheets',contentPath:'public/content/fsa/03-analyzing-balance-sheets.md',hasFormulas:true,formulaCount:9,officialQuestionCount:40,supplementaryQuestionCount:10,tools:['CommonSizeBalanceSheetBuilder','FinancialInstrumentAndIntangibleDisclosureExplorer']},
+ {officialModuleId:'FSA-LM4',lessonId:'fsa-04-analyzing-statements-of-cash-flows-i',contentPath:'public/content/fsa/04-analyzing-statements-of-cash-flows-i.md',hasFormulas:true,formulaCount:8,officialQuestionCount:45,supplementaryQuestionCount:10,tools:['FinancialStatementLinkageExplorer','DirectIndirectCashFlowTrainer']},
 ];
 const allModules=await read('.local-research/fsa-verification/official-module-map.json');
 const unproducedLessonIds=allModules.modules.map(m=>m.futureStudyLessonId).filter(id=>!producedModules.some(p=>p.lessonId===id));
@@ -46,6 +47,8 @@ for(const m of producedModules){
  const mf=formulas.filter(f=>f.relatedLessonId===m.lessonId);
  if(!m.hasFormulas&&mf.length!==0)fail(`${m.officialModuleId} is documented as zero-formula; formulas array should be empty`);
  if(m.hasFormulas&&mf.length!==m.formulaCount)fail(`${m.officialModuleId}: expected exactly ${m.formulaCount} formulas (found ${mf.length})`);
+ const answerCounts=[0,1,2].map(index=>mq.filter(q=>q.correctChoiceIndex===index).length);
+ if(Math.max(...answerCounts)-Math.min(...answerCounts)>3)fail(`${m.officialModuleId}: answer-position distribution is materially imbalanced (${answerCounts.join('/')})`);
 }
 
 // --- no duplicate IDs / stems / fronts; exactly 3 choices; valid indexes; explanations present ---

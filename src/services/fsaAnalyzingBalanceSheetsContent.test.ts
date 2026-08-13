@@ -79,16 +79,17 @@ describe('FSA analyzing balance sheets content', () => {
   expect(lesson?.formulaIds).toHaveLength(9);
   expect(lesson?.topicId).toBe('financial-statement-analysis');
  });
- it('marks FSA-LM1, FSA-LM2, and FSA-LM3 verified, with FSA-LM4 through FSA-LM12 remaining pending, and completion at 3 of 12', () => {
-  expect(verifiedOfficialFsaModules.map(m => m.id).sort()).toEqual(['FSA-LM1', 'FSA-LM2', 'FSA-LM3']);
+ it('preserves FSA-LM1 through FSA-LM3 while recognizing LM4 as the next verified module', () => {
+  expect(verifiedOfficialFsaModules.map(m => m.id).sort()).toEqual(['FSA-LM1', 'FSA-LM2', 'FSA-LM3', 'FSA-LM4']);
   const lm3 = officialFsaModules.find(m => m.id === 'FSA-LM3');
   expect(lm3?.studyLessonId).toBe('fsa-03-analyzing-balance-sheets');
   expect(lm3?.status).toBe('verified');
-  expect(officialFsaModules.filter(m => m.status === 'pending')).toHaveLength(9);
+  expect(officialFsaModules.filter(m => m.status === 'pending')).toHaveLength(8);
   expect(fsaLessonIds.slice().sort()).toEqual([
    'fsa-01-introduction-to-financial-statement-analysis',
    'fsa-02-analyzing-income-statements',
    'fsa-03-analyzing-balance-sheets',
+   'fsa-04-analyzing-statements-of-cash-flows-i',
   ]);
  });
 });

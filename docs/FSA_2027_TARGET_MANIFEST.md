@@ -1,5 +1,7 @@
 # Financial Statement Analysis 2027 target manifest
 
+> **v1.8.4 status:** FSA-LM1 through FSA-LM4 are produced and verified; FSA-LM5 through FSA-LM12 remain mapping-only. LM4 delivered its planned 45 official questions/flashcards, 8 source-grounded formulas, and 10 original exhibits, plus 10 supplementary items of each asset type and 2 tools. Answer positions were assigned at generation time (19/18/18 overall). The normalized 2026/2027 comparison found no LOS, treatment, terminology, or numerical-example change (99.91% similarity); only editorial/typographic changes and one corrected example date.
+
 Mapping-only design for all 12 official FSA modules, established in v1.8.0. FSA-LM1 was produced in v1.8.1, FSA-LM2 was produced in v1.8.2, and FSA-LM3 was produced in v1.8.3 (see the delivery notes below); FSA-LM4 through FSA-LM12 remain mapping-only, with no public lessons, questions, flashcards, formulas, or tools implemented for them yet. One future study lesson is proposed per official module (no split is currently justified — see the FSA-LM8 note below for the one module flagged for a possible internal subdivision study during production, without splitting the official module count).
 
 | Module | Official title | Future lesson ID | Questions | Flashcards | Formulas/ratios | Exhibits |

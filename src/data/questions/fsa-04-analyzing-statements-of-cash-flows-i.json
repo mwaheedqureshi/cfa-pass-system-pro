@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "fsa-lm4-q-001",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe how the cash flow statement is linked to the income statement and the balance sheet",
+    "difficulty": "hard",
+    "estimatedSeconds": 60,
+    "stem": "Aster sells goods on account. Revenue exceeds cash collected by $12 million. Which balance-sheet change completes the linkage?",
+    "choices": [
+      "Accounts receivable increases by $12 million.",
+      "Accounts payable increases by $12 million.",
+      "Inventory increases by $12 million."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Accrual revenue not yet collected increases receivables.",
+    "incorrectChoiceExplanations": [
+      "Correct: Accrual revenue not yet collected increases receivables.",
+      "Incorrect: Accounts payable increases by $12 million. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: Inventory increases by $12 million. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-002",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe how the cash flow statement is linked to the income statement and the balance sheet",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Beginning cash is $18 million, CFO is $24 million, CFI is −$31 million, and CFF is $9 million. Ending cash is:",
+    "choices": [
+      "$2 million.",
+      "$20 million.",
+      "$82 million."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Ending cash equals beginning cash plus CFO, CFI, and CFF: 18 + 24 − 31 + 9 = 20.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: $2 million. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: Ending cash equals beginning cash plus CFO, CFI, and CFF: 18 + 24 − 31 + 9 = 20.",
+      "Incorrect: $82 million. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-003",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe how the cash flow statement is linked to the income statement and the balance sheet",
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "A company records depreciation expense. Its immediate cash-flow-statement consequence is best described as:",
+    "choices": [
+      "an investing cash outflow.",
+      "a financing cash outflow.",
+      "no cash flow; the expense is added back under the indirect method."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Depreciation reduces accrual income but does not itself use cash.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: an investing cash outflow. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: a financing cash outflow. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: Depreciation reduces accrual income but does not itself use cash."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-004",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe how the cash flow statement is linked to the income statement and the balance sheet",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Sales on account rise sharply while collections do not. Which pattern is most concerning?",
+    "choices": [
+      "Net income rises while CFO lags and receivables expand.",
+      "CFO rises faster than revenue while receivables fall.",
+      "Cash and retained earnings both remain unchanged."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The divergence may signal weak collection or aggressive revenue recognition.",
+    "incorrectChoiceExplanations": [
+      "Correct: The divergence may signal weak collection or aggressive revenue recognition.",
+      "Incorrect: CFO rises faster than revenue while receivables fall. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: Cash and retained earnings both remain unchanged. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-005",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe how the cash flow statement is linked to the income statement and the balance sheet",
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "Cash received before a service is provided initially creates:",
+    "choices": [
+      "revenue and accounts receivable.",
+      "cash and deferred revenue.",
+      "an investing inflow and retained earnings."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The advance is cash received with a liability until performance occurs.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: revenue and accounts receivable. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: The advance is cash received with a liability until performance occurs.",
+      "Incorrect: an investing inflow and retained earnings. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-006",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe how the cash flow statement is linked to the income statement and the balance sheet",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Net income links most directly to ending retained earnings through:",
+    "choices": [
+      "beginning cash + net income − dividends.",
+      "revenue − CFO + dividends.",
+      "beginning retained earnings + net income − dividends."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The statement of changes in equity bridges retained earnings.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: beginning cash + net income − dividends. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: revenue − CFO + dividends. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: The statement of changes in equity bridges retained earnings."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-007",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe how the cash flow statement is linked to the income statement and the balance sheet",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Equipment purchased for cash affects the statements by:",
+    "choices": [
+      "increasing equipment and reducing cash, with a CFI outflow.",
+      "reducing net income immediately and creating CFO.",
+      "increasing debt and producing CFF automatically."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "A cash asset purchase is investing; it is not an immediate expense.",
+    "incorrectChoiceExplanations": [
+      "Correct: A cash asset purchase is investing; it is not an immediate expense.",
+      "Incorrect: reducing net income immediately and creating CFO. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: increasing debt and producing CFF automatically. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-008",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe how the cash flow statement is linked to the income statement and the balance sheet",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Borrowing $40 million from a bank most directly produces:",
+    "choices": [
+      "a $40 million operating inflow and revenue.",
+      "a $40 million financing inflow and a $40 million liability increase.",
+      "a $40 million investing inflow and gain."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Debt proceeds are financing cash and increase borrowings.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: a $40 million operating inflow and revenue. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: Debt proceeds are financing cash and increase borrowings.",
+      "Incorrect: a $40 million investing inflow and gain. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-009",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe how the cash flow statement is linked to the income statement and the balance sheet",
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "A cash dividend of $6 million most directly:",
+    "choices": [
+      "reduces cash and net income.",
+      "increases CFO and reduces revenue.",
+      "reduces cash and retained earnings."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Dividends are distributions, not income-statement expenses.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: reduces cash and net income. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: increases CFO and reduces revenue. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: Dividends are distributions, not income-statement expenses."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-010",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe how the cash flow statement is linked to the income statement and the balance sheet",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "A decrease in an operating current asset is generally:",
+    "choices": [
+      "added to net income in the indirect CFO reconciliation.",
+      "deducted from net income in all cases.",
+      "reported as CFI."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The decrease releases cash tied up in the operating asset.",
+    "incorrectChoiceExplanations": [
+      "Correct: The decrease releases cash tied up in the operating asset.",
+      "Incorrect: deducted from net income in all cases. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: reported as CFI. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-011",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe how the cash flow statement is linked to the income statement and the balance sheet",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "An increase in an operating current liability is generally:",
+    "choices": [
+      "deducted because liabilities always consume cash.",
+      "added to net income in the indirect CFO reconciliation.",
+      "excluded from the cash flow statement."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The increase represents expense not yet paid in cash.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: deducted because liabilities always consume cash. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: The increase represents expense not yet paid in cash.",
+      "Incorrect: excluded from the cash flow statement. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-012",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe how the cash flow statement is linked to the income statement and the balance sheet",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "The cash flow statement reconciles:",
+    "choices": [
+      "beginning revenue to ending revenue.",
+      "gross profit to retained earnings.",
+      "beginning cash and cash equivalents to ending cash and cash equivalents."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Its bottom-line bridge explains the period change in cash.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: beginning revenue to ending revenue. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: gross profit to retained earnings. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: Its bottom-line bridge explains the period change in cash."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-013",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe how the cash flow statement is linked to the income statement and the balance sheet",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Revenue is $86 million and accounts receivable increases by $7 million. Cash collected is:",
+    "choices": [
+      "$79 million.",
+      "$93 million.",
+      "$86 million."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Cash collected = revenue − increase in receivables = 79.",
+    "incorrectChoiceExplanations": [
+      "Correct: Cash collected = revenue − increase in receivables = 79.",
+      "Incorrect: $93 million. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: $86 million. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 1"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm4-q-014",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe how the cash flow statement is linked to the income statement and the balance sheet",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "COGS is $52 million, inventory increases $5 million, and accounts payable increases $3 million. Cash paid to suppliers is:",
+    "choices": [
+      "$50 million.",
+      "$54 million.",
+      "$60 million."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Purchases are 57; the $3 payable increase was not paid, so cash paid is 54.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: $50 million. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: Purchases are 57; the $3 payable increase was not paid, so cash paid is 54.",
+      "Incorrect: $60 million. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 1"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm4-q-015",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe how the cash flow statement is linked to the income statement and the balance sheet",
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "Wage expense is $18 million and wages payable decreases by $2 million. Cash paid to employees is:",
+    "choices": [
+      "$16 million.",
+      "$18 million.",
+      "$20 million."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Paying down the accrued liability makes cash paid exceed expense by 2.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: $16 million. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: $18 million. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: Paying down the accrued liability makes cash paid exceed expense by 2."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 1"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm4-q-016",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the steps in the preparation of direct and indirect cash flow statements, including how cash flows can be computed using income statement and balance sheet data",
+    "difficulty": "hard",
+    "estimatedSeconds": 60,
+    "stem": "Interest expense is $9 million and interest payable increases by $1 million. Interest paid is:",
+    "choices": [
+      "$8 million.",
+      "$10 million.",
+      "$9 million."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The payable increase is expense not yet paid: 9 − 1 = 8.",
+    "incorrectChoiceExplanations": [
+      "Correct: The payable increase is expense not yet paid: 9 − 1 = 8.",
+      "Incorrect: $10 million. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: $9 million. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-017",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the steps in the preparation of direct and indirect cash flow statements, including how cash flows can be computed using income statement and balance sheet data",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Tax expense is $14 million and taxes payable decreases by $3 million. Cash taxes paid are:",
+    "choices": [
+      "$11 million.",
+      "$17 million.",
+      "$14 million."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "A liability decrease means cash paid exceeded expense: 14 + 3 = 17.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: $11 million. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: A liability decrease means cash paid exceeded expense: 14 + 3 = 17.",
+      "Incorrect: $14 million. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-018",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the steps in the preparation of direct and indirect cash flow statements, including how cash flows can be computed using income statement and balance sheet data",
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "Other operating expense is $30 million; prepaid expense rises $4 million and accrued expense rises $2 million. Cash paid is:",
+    "choices": [
+      "$24 million.",
+      "$36 million.",
+      "$32 million."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Cash paid = expense + increase in prepaid − increase in accrued = 32.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: $24 million. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: $36 million. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: Cash paid = expense + increase in prepaid − increase in accrued = 32."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-019",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the steps in the preparation of direct and indirect cash flow statements, including how cash flows can be computed using income statement and balance sheet data",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Under the direct method, CFO is presented primarily as:",
+    "choices": [
+      "major classes of operating cash receipts and payments.",
+      "net income followed only by depreciation.",
+      "investing and financing flows netted together."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The direct format displays gross operating cash sources and uses.",
+    "incorrectChoiceExplanations": [
+      "Correct: The direct format displays gross operating cash sources and uses.",
+      "Incorrect: net income followed only by depreciation. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: investing and financing flows netted together. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-020",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the steps in the preparation of direct and indirect cash flow statements, including how cash flows can be computed using income statement and balance sheet data",
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "Under the indirect method, the starting point is generally:",
+    "choices": [
+      "cash received from customers.",
+      "net income.",
+      "ending cash."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Indirect CFO reconciles accrual net income to operating cash.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: cash received from customers. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: Indirect CFO reconciles accrual net income to operating cash.",
+      "Incorrect: ending cash. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-021",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the steps in the preparation of direct and indirect cash flow statements, including how cash flows can be computed using income statement and balance sheet data",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Which item is added back to net income under the indirect method?",
+    "choices": [
+      "A gain on sale of equipment.",
+      "An increase in accounts receivable.",
+      "Depreciation expense."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Depreciation is a noncash expense and is added back.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: A gain on sale of equipment. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: An increase in accounts receivable. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: Depreciation is a noncash expense and is added back."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-022",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the steps in the preparation of direct and indirect cash flow statements, including how cash flows can be computed using income statement and balance sheet data",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Which item is deducted from net income under the indirect method?",
+    "choices": [
+      "A gain on sale of equipment.",
+      "Depreciation expense.",
+      "A decrease in inventory."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The cash proceeds belong in CFI, so the included gain is removed from CFO.",
+    "incorrectChoiceExplanations": [
+      "Correct: The cash proceeds belong in CFI, so the included gain is removed from CFO.",
+      "Incorrect: Depreciation expense. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: A decrease in inventory. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-023",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the steps in the preparation of direct and indirect cash flow statements, including how cash flows can be computed using income statement and balance sheet data",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A loss on sale of equipment in net income is:",
+    "choices": [
+      "reported as a CFO cash payment.",
+      "added back in indirect CFO.",
+      "deducted twice from CFO."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The non-operating loss is removed from the CFO reconciliation by adding it back.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: reported as a CFO cash payment. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: The non-operating loss is removed from the CFO reconciliation by adding it back.",
+      "Incorrect: deducted twice from CFO. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-024",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the steps in the preparation of direct and indirect cash flow statements, including how cash flows can be computed using income statement and balance sheet data",
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "Cash paid to acquire a building is normally:",
+    "choices": [
+      "an operating outflow.",
+      "a financing outflow.",
+      "an investing outflow."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Purchasing a long-lived asset is investing activity.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: an operating outflow. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: a financing outflow. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: Purchasing a long-lived asset is investing activity."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-025",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the steps in the preparation of direct and indirect cash flow statements, including how cash flows can be computed using income statement and balance sheet data",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Cash proceeds from issuing ordinary shares are normally:",
+    "choices": [
+      "a financing inflow.",
+      "an operating inflow.",
+      "an investing inflow."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Transactions with capital providers are financing.",
+    "incorrectChoiceExplanations": [
+      "Correct: Transactions with capital providers are financing.",
+      "Incorrect: an operating inflow. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: an investing inflow. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-026",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the steps in the preparation of direct and indirect cash flow statements, including how cash flows can be computed using income statement and balance sheet data",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A noncash exchange of debt for equity is:",
+    "choices": [
+      "included in both CFI and CFF.",
+      "disclosed separately, not included in the three cash-flow totals.",
+      "included in CFO."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "A material noncash transaction is disclosed but does not enter cash totals.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: included in both CFI and CFF. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: A material noncash transaction is disclosed but does not enter cash totals.",
+      "Incorrect: included in CFO. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-027",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the steps in the preparation of direct and indirect cash flow statements, including how cash flows can be computed using income statement and balance sheet data",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "The direct and indirect methods differ in presentation of:",
+    "choices": [
+      "investing activities only.",
+      "financing activities only.",
+      "operating activities only."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "CFI and CFF use direct presentation under either choice.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: investing activities only. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: financing activities only. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: CFI and CFF use direct presentation under either choice."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-028",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the steps in the preparation of direct and indirect cash flow statements, including how cash flows can be computed using income statement and balance sheet data",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A complete cash-flow preparation should first:",
+    "choices": [
+      "identify balance-sheet changes and classify cash effects.",
+      "force every balance-sheet change into CFO.",
+      "ignore noncash transactions."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Changes, supporting details, and classifications are the preparation foundation.",
+    "incorrectChoiceExplanations": [
+      "Correct: Changes, supporting details, and classifications are the preparation foundation.",
+      "Incorrect: force every balance-sheet change into CFO. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: ignore noncash transactions. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 2"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm4-q-029",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the steps in the preparation of direct and indirect cash flow statements, including how cash flows can be computed using income statement and balance sheet data",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Net income is $40 million, depreciation $8 million, receivables increase $5 million, inventory falls $3 million, and payables rise $2 million. CFO is:",
+    "choices": [
+      "$42 million.",
+      "$48 million.",
+      "$58 million."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "40 + 8 − 5 + 3 + 2 = 48.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: $42 million. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: 40 + 8 − 5 + 3 + 2 = 48.",
+      "Incorrect: $58 million. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 2"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm4-q-030",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the steps in the preparation of direct and indirect cash flow statements, including how cash flows can be computed using income statement and balance sheet data",
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "A $12 million equipment sale includes a $2 million gain. Under indirect reporting, the company should:",
+    "choices": [
+      "report $10 million CFI inflow only.",
+      "add $12 million to CFO.",
+      "deduct the $2 million gain from CFO and report $12 million CFI inflow."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The gain is removed from CFO; total cash proceeds appear in CFI.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: report $10 million CFI inflow only. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: add $12 million to CFO. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: The gain is removed from CFO; total cash proceeds appear in CFI."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 2"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm4-q-031",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the conversion of cash flows from the indirect to direct method",
+    "difficulty": "hard",
+    "estimatedSeconds": 60,
+    "stem": "To convert indirect CFO to direct format, an analyst should first:",
+    "choices": [
+      "aggregate all revenue and expense accounts.",
+      "reclassify all CFI as CFO.",
+      "replace cash with net income."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The official three-step process begins with aggregating income-statement accounts.",
+    "incorrectChoiceExplanations": [
+      "Correct: The official three-step process begins with aggregating income-statement accounts.",
+      "Incorrect: reclassify all CFI as CFO. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: replace cash with net income. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-032",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the conversion of cash flows from the indirect to direct method",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "The second conversion step is to:",
+    "choices": [
+      "add investing proceeds to revenue.",
+      "remove noncash items and separate remaining operating items.",
+      "eliminate working-capital information."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Noncash items must be stripped from the aggregated accrual accounts.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: add investing proceeds to revenue. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: Noncash items must be stripped from the aggregated accrual accounts.",
+      "Incorrect: eliminate working-capital information. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-033",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the conversion of cash flows from the indirect to direct method",
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "The final conversion step uses:",
+    "choices": [
+      "only retained earnings.",
+      "only the ending cash balance.",
+      "related balance-sheet changes to derive cash receipts and payments."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Working-capital account changes convert accrual lines to cash lines.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: only retained earnings. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: only the ending cash balance. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: Working-capital account changes convert accrual lines to cash lines."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-034",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the conversion of cash flows from the indirect to direct method",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Revenue is $120 million, receivables decrease $9 million, and deferred revenue increases $4 million. Cash received from customers is:",
+    "choices": [
+      "$133 million.",
+      "$115 million.",
+      "$125 million."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Cash received = revenue + AR decrease + deferred-revenue increase = 133.",
+    "incorrectChoiceExplanations": [
+      "Correct: Cash received = revenue + AR decrease + deferred-revenue increase = 133.",
+      "Incorrect: $115 million. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: $125 million. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-035",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the conversion of cash flows from the indirect to direct method",
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "COGS is $75 million, inventory decreases $6 million, and payables decrease $2 million. Cash paid to suppliers is:",
+    "choices": [
+      "$83 million.",
+      "$71 million.",
+      "$67 million."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Purchases = 75 − 6 = 69; paying down payables adds 2, giving 71.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: $83 million. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: Purchases = 75 − 6 = 69; paying down payables adds 2, giving 71.",
+      "Incorrect: $67 million. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-036",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the conversion of cash flows from the indirect to direct method",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Salary expense is $25 million and salary payable increases $4 million. Direct-method cash paid to employees is:",
+    "choices": [
+      "$29 million.",
+      "$25 million.",
+      "$21 million."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The $4 million increase remains unpaid: cash paid = 25 − 4.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: $29 million. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: $25 million. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: The $4 million increase remains unpaid: cash paid = 25 − 4."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-037",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the conversion of cash flows from the indirect to direct method",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "If the indirect reconciliation arrives at CFO of $36 million, the converted direct receipts less direct payments must equal:",
+    "choices": [
+      "$36 million.",
+      "net income, regardless of adjustments.",
+      "ending cash."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Presentation changes, but total CFO cannot change.",
+    "incorrectChoiceExplanations": [
+      "Correct: Presentation changes, but total CFO cannot change.",
+      "Incorrect: net income, regardless of adjustments. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: ending cash. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-038",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the conversion of cash flows from the indirect to direct method",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Why might an analyst prefer the direct format?",
+    "choices": [
+      "It changes the economic CFO total.",
+      "It reveals trends in gross operating receipts and payments.",
+      "It eliminates classification judgment."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Gross cash lines provide information hidden by the net reconciliation.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: It changes the economic CFO total. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: Gross cash lines provide information hidden by the net reconciliation.",
+      "Incorrect: It eliminates classification judgment. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-039",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the conversion of cash flows from the indirect to direct method",
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "A rise in prepaid expenses is treated in converting expense to cash paid by:",
+    "choices": [
+      "subtracting the rise from expense.",
+      "ignoring it.",
+      "adding the rise to expense."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Buying more prepaid benefits uses cash beyond current-period expense.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: subtracting the rise from expense. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: ignoring it. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: Buying more prepaid benefits uses cash beyond current-period expense."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-040",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the conversion of cash flows from the indirect to direct method",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "A rise in accrued operating liabilities is treated in converting expense to cash paid by:",
+    "choices": [
+      "subtracting the rise from expense.",
+      "adding the rise to expense.",
+      "classifying it as investing."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The accrued increase is current expense not yet paid.",
+    "incorrectChoiceExplanations": [
+      "Correct: The accrued increase is current expense not yet paid.",
+      "Incorrect: adding the rise to expense. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: classifying it as investing. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-041",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the conversion of cash flows from the indirect to direct method",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Under US GAAP, interest paid is classified as:",
+    "choices": [
+      "financing.",
+      "operating.",
+      "investing."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "US GAAP requires operating classification for interest paid.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: financing. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: US GAAP requires operating classification for interest paid.",
+      "Incorrect: investing. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-042",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the conversion of cash flows from the indirect to direct method",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Under IFRS, interest paid may be classified consistently as:",
+    "choices": [
+      "operating or investing.",
+      "financing only.",
+      "operating or financing."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "IFRS permits operating or financing classification.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: operating or investing. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: financing only. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: IFRS permits operating or financing classification."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-043",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the conversion of cash flows from the indirect to direct method",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Under US GAAP, dividends paid are classified as:",
+    "choices": [
+      "financing.",
+      "operating.",
+      "investing."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "US GAAP treats distributions to owners as financing.",
+    "incorrectChoiceExplanations": [
+      "Correct: US GAAP treats distributions to owners as financing.",
+      "Incorrect: operating. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: investing. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-044",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the conversion of cash flows from the indirect to direct method",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Under IFRS, dividends paid may be classified consistently as:",
+    "choices": [
+      "operating or investing.",
+      "operating or financing.",
+      "investing only."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "IFRS permits operating or financing classification.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: operating or investing. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: IFRS permits operating or financing classification.",
+      "Incorrect: investing only. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm4-q-045",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the conversion of cash flows from the indirect to direct method",
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "Under US GAAP, interest and dividends received are generally:",
+    "choices": [
+      "financing cash flows.",
+      "excluded from cash flows.",
+      "operating cash flows."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "US GAAP classifies both as operating.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: financing cash flows. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: excluded from cash flows. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: US GAAP classifies both as operating."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm4-q-046",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "contrast cash flow statements prepared under International Financial Reporting Standards (IFRS) and US generally accepted accounting principles (US GAAP)",
+    "difficulty": "hard",
+    "estimatedSeconds": 60,
+    "stem": "Under IFRS, interest and dividends received may be classified consistently as:",
+    "choices": [
+      "operating or investing.",
+      "operating or financing.",
+      "financing only."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "IFRS permits operating or investing classification.",
+    "incorrectChoiceExplanations": [
+      "Correct: IFRS permits operating or investing classification.",
+      "Incorrect: operating or financing. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: financing only. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-047",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "contrast cash flow statements prepared under International Financial Reporting Standards (IFRS) and US generally accepted accounting principles (US GAAP)",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Income taxes under IFRS are normally operating unless:",
+    "choices": [
+      "management prefers financing.",
+      "specifically identifiable with an investing or financing transaction.",
+      "the direct method is used."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "IFRS allows classification with the related transaction when specifically identifiable.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: management prefers financing. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: IFRS allows classification with the related transaction when specifically identifiable.",
+      "Incorrect: the direct method is used. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-048",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "contrast cash flow statements prepared under International Financial Reporting Standards (IFRS) and US generally accepted accounting principles (US GAAP)",
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "Under US GAAP, income taxes are generally:",
+    "choices": [
+      "always financing.",
+      "always investing.",
+      "operating, with specific allocation rules for certain identifiable effects."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Operating is the general classification under US GAAP.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: always financing. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: always investing. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: Operating is the general classification under US GAAP."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-049",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "contrast cash flow statements prepared under International Financial Reporting Standards (IFRS) and US generally accepted accounting principles (US GAAP)",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "An IFRS bank overdraft repayable on demand and integral to cash management may be:",
+    "choices": [
+      "included in cash and cash equivalents.",
+      "reported as revenue.",
+      "excluded from every statement."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "IFRS can include qualifying overdrafts in cash equivalents.",
+    "incorrectChoiceExplanations": [
+      "Correct: IFRS can include qualifying overdrafts in cash equivalents.",
+      "Incorrect: reported as revenue. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: excluded from every statement. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-050",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "contrast cash flow statements prepared under International Financial Reporting Standards (IFRS) and US generally accepted accounting principles (US GAAP)",
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "Under US GAAP, a bank overdraft is generally:",
+    "choices": [
+      "part of cash equivalents.",
+      "a financing liability rather than a cash equivalent.",
+      "an investing asset."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "US GAAP does not net the overdraft into cash equivalents.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: part of cash equivalents. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: US GAAP does not net the overdraft into cash equivalents.",
+      "Incorrect: an investing asset. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-051",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "contrast cash flow statements prepared under International Financial Reporting Standards (IFRS) and US generally accepted accounting principles (US GAAP)",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Which standards comparison is correct?",
+    "choices": [
+      "US GAAP permits every IFRS alternative plus more.",
+      "The standards never differ on cash-flow classification.",
+      "IFRS generally offers more classification flexibility than US GAAP."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "IFRS permits alternatives for interest and dividends that US GAAP fixes.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: US GAAP permits every IFRS alternative plus more. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: The standards never differ on cash-flow classification. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: IFRS permits alternatives for interest and dividends that US GAAP fixes."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-052",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "contrast cash flow statements prepared under International Financial Reporting Standards (IFRS) and US generally accepted accounting principles (US GAAP)",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A company switching its IFRS interest-paid classification each year would violate:",
+    "choices": [
+      "the consistency requirement.",
+      "the direct-method requirement.",
+      "the prohibition on financing cash flows."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Permitted IFRS alternatives must be applied consistently.",
+    "incorrectChoiceExplanations": [
+      "Correct: Permitted IFRS alternatives must be applied consistently.",
+      "Incorrect: the direct-method requirement. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: the prohibition on financing cash flows. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-053",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "contrast cash flow statements prepared under International Financial Reporting Standards (IFRS) and US generally accepted accounting principles (US GAAP)",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Under US GAAP, cash paid to acquire an interest in an associate is most likely:",
+    "choices": [
+      "operating.",
+      "investing.",
+      "financing."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Acquiring an investment is an investing use of cash.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: operating. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: Acquiring an investment is an investing use of cash.",
+      "Incorrect: financing. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm4-q-054",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "contrast cash flow statements prepared under International Financial Reporting Standards (IFRS) and US generally accepted accounting principles (US GAAP)",
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "Under both standards, cash proceeds from issuing debt are normally:",
+    "choices": [
+      "operating inflows.",
+      "investing inflows.",
+      "financing inflows."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Borrowing from capital providers is financing.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: operating inflows. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: investing inflows. does not follow the applicable cash-flow linkage or classification rule.",
+      "Correct: Borrowing from capital providers is financing."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 4"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm4-q-055",
+    "lessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "contrast cash flow statements prepared under International Financial Reporting Standards (IFRS) and US generally accepted accounting principles (US GAAP)",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "When comparing IFRS and US GAAP CFO, an analyst should first:",
+    "choices": [
+      "normalize classification choices before interpreting operating performance.",
+      "assume reported CFO is automatically comparable.",
+      "move all interest to investing."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Different permitted classifications can create artificial CFO differences.",
+    "incorrectChoiceExplanations": [
+      "Correct: Different permitted classifications can create artificial CFO differences.",
+      "Incorrect: assume reported CFO is automatically comparable. does not follow the applicable cash-flow linkage or classification rule.",
+      "Incorrect: move all interest to investing. does not follow the applicable cash-flow linkage or classification rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "cash flow statement",
+      "LOS 4"
+    ],
+    "supplementary": true
+  }
+]

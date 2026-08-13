@@ -59,3 +59,7 @@ Financial Statement Analysis v1.8.0 mapped all 12 official 2027 modules (FSA-LM1
 - Learner-controlled progress export and import.
 - Stronger source-verification metadata surfaced in authoring tools.
 - Mock-exam analytics and the later AI Study Coach, according to `ROADMAP.md`.
+# v1.8.4 transparency notes
+
+- **KI-L19 — FSA-LM4 2026/2027 editorial date correction:** the official 2027 module changes one illustrative transaction date from 30 September to 30 November. LOS, accounting treatment, terminology, and all numerical calculations are unchanged; normalized full-module similarity is 99.91%.
+- **KI-L20 — FSA-LM4 mock coverage is intentionally narrow:** only one item in the shared 100-question topic-wise FRA bank maps unambiguously to LM4. Broad cash-flow mentions, FCFF (LM5), impairment (LM7), and lease items were not forced into LM4.

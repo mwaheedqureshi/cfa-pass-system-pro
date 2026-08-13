@@ -1,0 +1,146 @@
+[
+  {
+    "id": "cash-received-customers-fsa-04",
+    "name": "Cash received from customers",
+    "expression": "Cash received = Revenue − Increase in accounts receivable + Increase in deferred revenue",
+    "meaning": "Converts an accrual-accounting amount into its cash-flow equivalent using the related balance-sheet change.",
+    "variables": {
+      "Increase": "Ending balance minus beginning balance"
+    },
+    "intuition": "Asset increases generally consume cash; operating-liability increases generally preserve cash.",
+    "workedExample": "Revenue is $86 million and accounts receivable increases by $7 million. Cash collected is:",
+    "commonMistake": "Reversing the sign of the related working-capital change.",
+    "relatedLessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "relatedLearningOutcome": "describe the steps in the preparation of direct and indirect cash flow statements, including how cash flows can be computed using income statement and balance sheet data",
+    "tags": [
+      "cash flow",
+      "conversion"
+    ]
+  },
+  {
+    "id": "purchases-from-suppliers-fsa-04",
+    "name": "Purchases from suppliers",
+    "expression": "Purchases = Cost of goods sold + Increase in inventory",
+    "meaning": "Converts an accrual-accounting amount into its cash-flow equivalent using the related balance-sheet change.",
+    "variables": {
+      "Increase": "Ending balance minus beginning balance"
+    },
+    "intuition": "Asset increases generally consume cash; operating-liability increases generally preserve cash.",
+    "workedExample": "COGS is $52 million, inventory increases $5 million, and accounts payable increases $3 million. Cash paid to suppliers is:",
+    "commonMistake": "Reversing the sign of the related working-capital change.",
+    "relatedLessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "relatedLearningOutcome": "describe the steps in the preparation of direct and indirect cash flow statements, including how cash flows can be computed using income statement and balance sheet data",
+    "tags": [
+      "cash flow",
+      "conversion"
+    ]
+  },
+  {
+    "id": "cash-paid-suppliers-fsa-04",
+    "name": "Cash paid to suppliers",
+    "expression": "Cash paid = Purchases − Increase in accounts payable",
+    "meaning": "Converts an accrual-accounting amount into its cash-flow equivalent using the related balance-sheet change.",
+    "variables": {
+      "Increase": "Ending balance minus beginning balance"
+    },
+    "intuition": "Asset increases generally consume cash; operating-liability increases generally preserve cash.",
+    "workedExample": "Wage expense is $18 million and wages payable decreases by $2 million. Cash paid to employees is:",
+    "commonMistake": "Reversing the sign of the related working-capital change.",
+    "relatedLessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "relatedLearningOutcome": "describe the steps in the preparation of direct and indirect cash flow statements, including how cash flows can be computed using income statement and balance sheet data",
+    "tags": [
+      "cash flow",
+      "conversion"
+    ]
+  },
+  {
+    "id": "cash-paid-employees-fsa-04",
+    "name": "Cash paid to employees",
+    "expression": "Cash paid = Wage expense − Increase in wages payable",
+    "meaning": "Converts an accrual-accounting amount into its cash-flow equivalent using the related balance-sheet change.",
+    "variables": {
+      "Increase": "Ending balance minus beginning balance"
+    },
+    "intuition": "Asset increases generally consume cash; operating-liability increases generally preserve cash.",
+    "workedExample": "Interest expense is $9 million and interest payable increases by $1 million. Interest paid is:",
+    "commonMistake": "Reversing the sign of the related working-capital change.",
+    "relatedLessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "relatedLearningOutcome": "describe the steps in the preparation of direct and indirect cash flow statements, including how cash flows can be computed using income statement and balance sheet data",
+    "tags": [
+      "cash flow",
+      "conversion"
+    ]
+  },
+  {
+    "id": "cash-paid-other-operating-fsa-04",
+    "name": "Cash paid for other operating expenses",
+    "expression": "Cash paid = Expense + Increase in prepaid expenses − Increase in accrued liabilities",
+    "meaning": "Converts an accrual-accounting amount into its cash-flow equivalent using the related balance-sheet change.",
+    "variables": {
+      "Increase": "Ending balance minus beginning balance"
+    },
+    "intuition": "Asset increases generally consume cash; operating-liability increases generally preserve cash.",
+    "workedExample": "Tax expense is $14 million and taxes payable decreases by $3 million. Cash taxes paid are:",
+    "commonMistake": "Reversing the sign of the related working-capital change.",
+    "relatedLessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "relatedLearningOutcome": "describe the steps in the preparation of direct and indirect cash flow statements, including how cash flows can be computed using income statement and balance sheet data",
+    "tags": [
+      "cash flow",
+      "conversion"
+    ]
+  },
+  {
+    "id": "cash-interest-paid-fsa-04",
+    "name": "Cash interest paid",
+    "expression": "Cash interest paid = Interest expense − Increase in interest payable",
+    "meaning": "Converts an accrual-accounting amount into its cash-flow equivalent using the related balance-sheet change.",
+    "variables": {
+      "Increase": "Ending balance minus beginning balance"
+    },
+    "intuition": "Asset increases generally consume cash; operating-liability increases generally preserve cash.",
+    "workedExample": "Other operating expense is $30 million; prepaid expense rises $4 million and accrued expense rises $2 million. Cash paid is:",
+    "commonMistake": "Reversing the sign of the related working-capital change.",
+    "relatedLessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "relatedLearningOutcome": "describe the steps in the preparation of direct and indirect cash flow statements, including how cash flows can be computed using income statement and balance sheet data",
+    "tags": [
+      "cash flow",
+      "conversion"
+    ]
+  },
+  {
+    "id": "cash-taxes-paid-fsa-04",
+    "name": "Cash taxes paid",
+    "expression": "Cash taxes paid = Tax expense − Increase in taxes payable",
+    "meaning": "Converts an accrual-accounting amount into its cash-flow equivalent using the related balance-sheet change.",
+    "variables": {
+      "Increase": "Ending balance minus beginning balance"
+    },
+    "intuition": "Asset increases generally consume cash; operating-liability increases generally preserve cash.",
+    "workedExample": "Under the direct method, CFO is presented primarily as:",
+    "commonMistake": "Reversing the sign of the related working-capital change.",
+    "relatedLessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "relatedLearningOutcome": "describe the steps in the preparation of direct and indirect cash flow statements, including how cash flows can be computed using income statement and balance sheet data",
+    "tags": [
+      "cash flow",
+      "conversion"
+    ]
+  },
+  {
+    "id": "indirect-cfo-fsa-04",
+    "name": "Indirect-method operating cash flow",
+    "expression": "CFO = Net income + Noncash charges − Non-operating gains + Non-operating losses − Increase in operating assets + Increase in operating liabilities",
+    "meaning": "Converts an accrual-accounting amount into its cash-flow equivalent using the related balance-sheet change.",
+    "variables": {
+      "Increase": "Ending balance minus beginning balance"
+    },
+    "intuition": "Asset increases generally consume cash; operating-liability increases generally preserve cash.",
+    "workedExample": "Under the indirect method, the starting point is generally:",
+    "commonMistake": "Reversing the sign of the related working-capital change.",
+    "relatedLessonId": "fsa-04-analyzing-statements-of-cash-flows-i",
+    "relatedLearningOutcome": "demonstrate the conversion of cash flows from the indirect to direct method",
+    "tags": [
+      "cash flow",
+      "conversion"
+    ]
+  }
+]
