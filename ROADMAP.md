@@ -22,7 +22,7 @@ Roadmap entries define release boundaries, not permission to implement later wor
 | v1.8.0 | Financial Statement Analysis — Official 2027 Curriculum Mapping | Complete: 12-module official map (FSA-LM1 through FSA-LM12, official 2027 source directly confirmed, essentially unchanged from 2026) and production design (505 planned questions/flashcards, 91 formula/ratio targets, 102 exhibit targets, 21 planned tools); no new learning assets |
 | v1.8.1 | FSA Module Production Sprint 1 | Complete: FSA-LM1 Introduction to Financial Statement Analysis produced and verified — 35 official + 10 supplementary questions and flashcards, 0 formulas (source-verified: no symbolic formula in the official reading), 1 interactive tool |
 | v1.8.2 | FSA Module Production Sprint 2 | Complete: FSA-LM2 Analyzing Income Statements produced and verified — 50 official + 10 supplementary questions and flashcards, 10 formulas (matching its mapping-stage target exactly, with placeholder category labels honestly reconciled), 2 interactive tools |
-| v1.8.3 | FSA Module Production Sprint 3 | FSA-LM3 Analyzing Balance Sheets |
+| v1.8.3 | FSA Module Production Sprint 3 | Complete: FSA-LM3 Analyzing Balance Sheets produced and verified — 40 official + 10 supplementary questions and flashcards, 9 formulas (an organic overage over its 6-formula mapping-stage target, matching the official source's 7 individually named balance-sheet ratios), 2 interactive tools |
 | v1.8.4 | FSA Module Production Sprint 4 | FSA-LM4 Analyzing Statements of Cash Flows I |
 | v1.8.5 | FSA Module Production Sprint 5 | FSA-LM5 Analyzing Statements of Cash Flows II |
 | v1.8.6 | FSA Module Production Sprint 6 | FSA-LM6 Analysis of Inventories |

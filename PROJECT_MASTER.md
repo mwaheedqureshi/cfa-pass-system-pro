@@ -12,34 +12,34 @@ Build a reliable, premium-quality study system in deliberate, verifiable release
 
 ## Release state
 
-- **Current release:** v1.8.2 — FSA Module Production Sprint 2 (FSA-LM2 Analyzing Income Statements)
-- **Current status:** FSA-LM2 (Analyzing Income Statements) is produced and content-verified — the second of 12 official FSA modules. A dedicated deep-extraction research pass confirmed all 5 official LOS, exactly 10 formulas and 10 original exhibits (both matching the mapping-stage targets by count, with an honest reconciliation of the placeholder category labels), and essentially no 2026->2027 change. Delivered: a complete original lesson with 25 worked examples (8 on EPS mechanics specifically, per the EPS-calculation-safety priority) and 10 original exhibits, 50 official + 10 supplementary questions and flashcards (answer-balance required a documented post-hoc correction), 2 interactive tools (Income Statement EPS Explorer and Revenue and Expense Recognition Classifier, 28 passing tests combined, including full sequential most-dilutive-first complex-capital-structure EPS regression coverage), a working chapter exam, full search/navigation/progress integration, and updated `scripts/validate-fsa-content.mjs` / `scripts/validate-fsa-mapping.mjs` release gates generalized to track multiple produced modules. FSA-LM3 through FSA-LM12 remain mapping-only. FSA-LM1, Quantitative, and Economics remain verified and unmodified.
-- **Next release:** FSA Module Production Sprint 3 — FSA-LM3
+- **Current release:** v1.8.3 — FSA Module Production Sprint 3 (FSA-LM3 Analyzing Balance Sheets)
+- **Current status:** FSA-LM3 (Analyzing Balance Sheets) is produced and content-verified — the third of 12 official FSA modules. A dedicated deep-extraction research pass confirmed all 5 official LOS, essentially no 2026->2027 change (99.9% byte-identical text at the same page anchor), 8 original exhibits (matching the mapping-stage target exactly), and 9 formulas (an organic, source-justified overage over the 6-formula mapping-stage target, since the official Exhibit 13 individually names 7 distinct balance-sheet ratios). Delivered: a complete original lesson with 21 worked examples evenly spread across all 5 LOS, 40 official + 10 supplementary questions and flashcards (answer positions balanced via a deterministic round-robin assignment at generation time, avoiding the post-hoc correction FSA-LM2 required), 2 interactive tools (Common-Size Statement Builder and Financial Instrument and Intangible Disclosure Explorer, 26 passing tests combined), a working chapter exam, full search/navigation/progress integration, and further-generalized `scripts/validate-fsa-content.mjs` / `scripts/validate-fsa-mapping.mjs` release gates. FSA-LM4 through FSA-LM12 remain mapping-only. FSA-LM1, FSA-LM2, Quantitative, and Economics remain verified and unmodified.
+- **Next release:** FSA Module Production Sprint 4 — FSA-LM4
 
-- **Current version:** v1.8.2 — FSA Module Production Sprint 2
-- **Current sprint:** FSA-LM2 produced and verified.
-- **Next sprint:** FSA-LM3 production.
+- **Current version:** v1.8.3 — FSA Module Production Sprint 3
+- **Current sprint:** FSA-LM3 produced and verified.
+- **Next sprint:** FSA-LM4 production.
 - **Long-term roadmap:** See `ROADMAP.md`.
 
 ## Current repository statistics
 
-Measured on 2026-08-11 after the v1.8.2 check suite.
+Measured on 2026-08-12 after the v1.8.3 check suite.
 
 | Measure | Current value |
 |---|---:|
-| Published lessons | 22 |
+| Published lessons | 23 |
 | Quantitative study lessons | 12 |
 | Economics lessons | 8 |
-| FSA study lessons | 2 (10 remain planned; mapping-only) |
-| Questions | 1,070 total; 555 Quantitative; 410 Economics (325 official / 85 supplementary); 105 FSA (85 official / 20 supplementary) |
-| Flashcards | 1,070 total; 555 Quantitative; 410 Economics (325 official / 85 supplementary); 105 FSA (85 official / 20 supplementary) |
-| Formulas | 217 total; 165 Quantitative; 42 Economics; 10 FSA (all in FSA-LM2; FSA-LM1 remains source-verified zero-formula) |
-| Registered interactive tools | 44 |
+| FSA study lessons | 3 (9 remain planned; mapping-only) |
+| Questions | 1,120 total; 555 Quantitative; 410 Economics (325 official / 85 supplementary); 155 FSA (125 official / 30 supplementary) |
+| Flashcards | 1,120 total; 555 Quantitative; 410 Economics (325 official / 85 supplementary); 155 FSA (125 official / 30 supplementary) |
+| Formulas | 226 total; 165 Quantitative; 42 Economics; 19 FSA (0 in FSA-LM1, 10 in FSA-LM2, 9 in FSA-LM3) |
+| Registered interactive tools | 46 |
 | Comprehensive assessments | 2 (Quantitative 90-question; Economics 60-question) |
-| Automated tests | 434 |
-| Test files | 61 |
-| Initial JavaScript bundle | 312.97 kB |
-| Initial JavaScript gzip | 94.47 kB |
+| Automated tests | 472 |
+| Test files | 64 |
+| Initial JavaScript bundle | 315.35 kB |
+| Initial JavaScript gzip | 94.97 kB |
 | Documentation | Foundation set complete; curriculum and verification records remain iterative |
 
 ## Topic completion
@@ -48,7 +48,7 @@ Measured on 2026-08-11 after the v1.8.2 check suite.
 |---|---:|---|
 | Quantitative Methods | 12 | VERIFIED AND CONTENT-FROZEN |
 | Economics | 8 (8 of 8 official modules verified: ECO-LM1, ECO-LM2, ECO-LM3, ECO-LM4, ECO-LM5, ECO-LM6, ECO-LM7, ECO-LM8) | VERIFIED AND CONTENT-FROZEN |
-| Financial Statement Analysis | 2 (2 of 12 official modules verified: FSA-LM1, FSA-LM2; 10 mapped, not yet produced) | In progress |
+| Financial Statement Analysis | 3 (3 of 12 official modules verified: FSA-LM1, FSA-LM2, FSA-LM3; 9 mapped, not yet produced) | In progress |
 | Corporate Issuers | 0 | Planned |
 | Equity Investments | 0 | Planned |
 | Fixed Income | 0 | Planned |
@@ -63,7 +63,7 @@ Measured on 2026-08-11 after the v1.8.2 check suite.
 - v1.6.3 verifies the source-backed official map and classifies all current Quantitative learning assets; lesson/item remediation remains pending v1.6.4 and v1.6.5.
 - The future progress migration and target manifest are designed but are not executed by v1.6.3.
 - Economics is VERIFIED AND CONTENT-FROZEN as of v1.7.9 across all 8 official 2027 modules, presented through 8 stable study lessons.
-- Financial Statement Analysis is mapped across all 12 official 2027 modules as of v1.8.0; FSA-LM1 is produced and content-verified as of v1.8.1; FSA-LM2 is produced and content-verified as of v1.8.2; FSA-LM3 through FSA-LM12 remain mapping-only.
+- Financial Statement Analysis is mapped across all 12 official 2027 modules as of v1.8.0; FSA-LM1 is produced and content-verified as of v1.8.1; FSA-LM2 is produced and content-verified as of v1.8.2; FSA-LM3 is produced and content-verified as of v1.8.3; FSA-LM4 through FSA-LM12 remain mapping-only.
 - Other topics remain intentionally unpublished.
 - Detailed status belongs in `docs/CURRICULUM_STATUS.md`.
 - Source alignment and mathematical verification are distinct gates. “Published” never means “fully verified” unless the verification column explicitly says so.

@@ -75,12 +75,11 @@ describe('FSA analyzing income statements content',()=>{
   expect(lesson?.formulaIds).toHaveLength(10);
   expect(lesson?.topicId).toBe('financial-statement-analysis');
  });
- it('marks FSA-LM1 and FSA-LM2 verified, with FSA-LM3 through FSA-LM12 remaining pending, and completion at 2 of 12',()=>{
-  expect(verifiedOfficialFsaModules.map(m=>m.id).sort()).toEqual(['FSA-LM1','FSA-LM2']);
+ it('marks FSA-LM2 verified, with FSA-LM2 content remaining unchanged now that FSA-LM3 is also produced',()=>{
+  expect(verifiedOfficialFsaModules.map(m=>m.id)).toContain('FSA-LM2');
   const lm2=officialFsaModules.find(m=>m.id==='FSA-LM2');
   expect(lm2?.studyLessonId).toBe('fsa-02-analyzing-income-statements');
   expect(lm2?.status).toBe('verified');
-  expect(officialFsaModules.filter(m=>m.status==='pending')).toHaveLength(10);
-  expect(fsaLessonIds.slice().sort()).toEqual(['fsa-01-introduction-to-financial-statement-analysis','fsa-02-analyzing-income-statements']);
+  expect(fsaLessonIds).toContain('fsa-02-analyzing-income-statements');
  });
 });

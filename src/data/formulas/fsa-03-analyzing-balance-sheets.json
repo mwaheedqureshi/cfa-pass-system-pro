@@ -1,0 +1,149 @@
+[
+{
+  "id": "goodwill-fsa-03",
+  "name": "Goodwill",
+  "expression": "Goodwill = Purchase price − Fair value of identifiable net assets acquired",
+  "meaning": "The excess an acquirer pays above the fair value of everything it can separately identify and value in a business combination.",
+  "variables": {
+    "Purchase price": "Total consideration paid by the acquirer in the business combination",
+    "Fair value of identifiable net assets acquired": "Fair value of all identifiable assets acquired minus liabilities assumed, excluding goodwill itself"
+  },
+  "intuition": "Goodwill captures the value of everything an acquirer is willing to pay for that cannot be separately identified and measured — synergies, assembled workforce, market position — and is only recognized when it is actually purchased in a transaction, never when it is built internally.",
+  "workedExample": "Ironclad Logistics acquires Brightwell Energy's transport division for $50,000,000; the fair value of identifiable net assets acquired is $38,000,000. Goodwill = $50,000,000 − $38,000,000 = $12,000,000.",
+  "commonMistake": "Recognizing goodwill for an internally built brand or reputation that was never acquired in a transaction, or forgetting that goodwill is never amortized and, once impaired, can never be written back up.",
+  "relatedLessonId": "fsa-03-analyzing-balance-sheets",
+  "relatedLearningOutcome": "explain the financial reporting and disclosures related to goodwill",
+  "tags": ["goodwill", "business combination", "intangibles"]
+},
+{
+  "id": "common-size-balance-sheet-line-item-fsa-03",
+  "name": "Common-size balance sheet line item",
+  "expression": "Common-size % = Balance sheet line item ÷ Total assets",
+  "meaning": "Restates every balance-sheet line item as a percentage of total assets so companies of different sizes can be compared directly.",
+  "variables": {
+    "Balance sheet line item": "Any individual asset, liability, or equity account",
+    "Total assets": "The company's total reported assets for the same period"
+  },
+  "intuition": "Raw dollar figures cannot be compared across companies of very different sizes; converting every line item to a percentage of total assets isolates structural composition from pure scale.",
+  "workedExample": "Duskwood Timber: total assets $40,000,000, inventory $10,000,000. Common-size inventory = $10,000,000 ÷ $40,000,000 = 25%.",
+  "commonMistake": "Dividing by total liabilities and equity for asset-side line items when total assets is the correct, equal denominator (total assets always equals total liabilities plus equity, so either works numerically, but using total assets is the standard convention for every line item including liabilities and equity).",
+  "relatedLessonId": "fsa-03-analyzing-balance-sheets",
+  "relatedLearningOutcome": "calculate and interpret common-size balance sheets and related financial ratios",
+  "tags": ["common-size", "vertical analysis", "balance sheet ratio"]
+},
+{
+  "id": "current-ratio-fsa-03",
+  "name": "Current ratio",
+  "expression": "Current ratio = Current assets ÷ Current liabilities",
+  "meaning": "Measures a company's ability to meet its current liabilities using all of its current assets.",
+  "variables": {
+    "Current assets": "Cash, marketable securities, receivables, inventory, and other assets expected to convert to cash within one year",
+    "Current liabilities": "Obligations due within one year"
+  },
+  "intuition": "The broadest liquidity measure, including inventory, which is the least liquid current asset — a high current ratio does not guarantee near-term cash availability if inventory is slow-moving.",
+  "workedExample": "Windmere Foods: current assets $12,000,000, current liabilities $8,000,000. Current ratio = $12,000,000 ÷ $8,000,000 = 1.50.",
+  "commonMistake": "Treating the current ratio alone as sufficient evidence of liquidity without also checking the quick and cash ratios, which strip out less-liquid current assets.",
+  "relatedLessonId": "fsa-03-analyzing-balance-sheets",
+  "relatedLearningOutcome": "calculate and interpret common-size balance sheets and related financial ratios",
+  "tags": ["liquidity ratio", "current ratio", "balance sheet ratio"]
+},
+{
+  "id": "quick-ratio-fsa-03",
+  "name": "Quick (acid-test) ratio",
+  "expression": "Quick ratio = (Cash + Marketable securities + Receivables) ÷ Current liabilities",
+  "meaning": "Measures a company's ability to meet its current liabilities without relying on selling inventory.",
+  "variables": {
+    "Cash": "Cash and cash equivalents",
+    "Marketable securities": "Short-term investments readily convertible to cash",
+    "Receivables": "Amounts owed to the company by customers, expected to be collected within one year",
+    "Current liabilities": "Obligations due within one year"
+  },
+  "intuition": "Excluding inventory (and other less-liquid current assets) gives a stricter, more conservative view of near-term liquidity than the current ratio.",
+  "workedExample": "Windmere Foods: cash $2,000,000, marketable securities $1,000,000, receivables $3,000,000, current liabilities $8,000,000. Quick ratio = ($2,000,000 + $1,000,000 + $3,000,000) ÷ $8,000,000 = 0.75.",
+  "commonMistake": "Including inventory or prepaid expenses in the numerator, which defeats the purpose of the quick ratio's stricter liquidity test.",
+  "relatedLessonId": "fsa-03-analyzing-balance-sheets",
+  "relatedLearningOutcome": "calculate and interpret common-size balance sheets and related financial ratios",
+  "tags": ["liquidity ratio", "quick ratio", "balance sheet ratio"]
+},
+{
+  "id": "cash-ratio-fsa-03",
+  "name": "Cash ratio",
+  "expression": "Cash ratio = (Cash + Marketable securities) ÷ Current liabilities",
+  "meaning": "Measures a company's ability to meet its current liabilities using only its most liquid assets.",
+  "variables": {
+    "Cash": "Cash and cash equivalents",
+    "Marketable securities": "Short-term investments readily convertible to cash",
+    "Current liabilities": "Obligations due within one year"
+  },
+  "intuition": "The most conservative liquidity ratio, excluding even receivables, since collection of receivables is not guaranteed or immediate.",
+  "workedExample": "Windmere Foods: cash $2,000,000, marketable securities $1,000,000, current liabilities $8,000,000. Cash ratio = ($2,000,000 + $1,000,000) ÷ $8,000,000 = 0.375.",
+  "commonMistake": "Confusing the cash ratio with the quick ratio and mistakenly including receivables in the cash ratio's numerator.",
+  "relatedLessonId": "fsa-03-analyzing-balance-sheets",
+  "relatedLearningOutcome": "calculate and interpret common-size balance sheets and related financial ratios",
+  "tags": ["liquidity ratio", "cash ratio", "balance sheet ratio"]
+},
+{
+  "id": "long-term-debt-to-equity-fsa-03",
+  "name": "Long-term debt-to-equity ratio",
+  "expression": "Long-term debt-to-equity = Total long-term debt ÷ Total equity",
+  "meaning": "Measures financial risk and leverage arising specifically from long-term debt financing, relative to the owners' equity claim.",
+  "variables": {
+    "Total long-term debt": "All interest-bearing debt due beyond one year",
+    "Total equity": "Total shareholders' equity"
+  },
+  "intuition": "Isolates the leverage contributed by long-term financing decisions, excluding short-term borrowings that may reflect working-capital timing rather than a deliberate capital-structure choice.",
+  "workedExample": "Cascade Pharmaceuticals: long-term debt $15,000,000, total equity $22,000,000. Long-term debt-to-equity = $15,000,000 ÷ $22,000,000 ≈ 0.68.",
+  "commonMistake": "Using total debt (including short-term borrowings) in the numerator instead of long-term debt only, which conflates this ratio with the debt-to-equity ratio.",
+  "relatedLessonId": "fsa-03-analyzing-balance-sheets",
+  "relatedLearningOutcome": "calculate and interpret common-size balance sheets and related financial ratios",
+  "tags": ["solvency ratio", "leverage", "balance sheet ratio"]
+},
+{
+  "id": "debt-to-equity-fsa-03",
+  "name": "Debt-to-equity ratio",
+  "expression": "Debt-to-equity = Total debt ÷ Total equity",
+  "meaning": "Measures financial risk and leverage from all interest-bearing debt (short-term and long-term combined) relative to the owners' equity claim.",
+  "variables": {
+    "Total debt": "All interest-bearing debt, both short-term and long-term",
+    "Total equity": "Total shareholders' equity"
+  },
+  "intuition": "The most commonly cited solvency ratio; a higher ratio signals a capital structure more reliant on debt financing relative to equity, which increases financial risk to shareholders.",
+  "workedExample": "Cascade Pharmaceuticals: total debt $18,000,000, total equity $22,000,000. Debt-to-equity = $18,000,000 ÷ $22,000,000 ≈ 0.82.",
+  "commonMistake": "Using total liabilities (including non-interest-bearing operating liabilities such as accounts payable) instead of total interest-bearing debt in the numerator.",
+  "relatedLessonId": "fsa-03-analyzing-balance-sheets",
+  "relatedLearningOutcome": "calculate and interpret common-size balance sheets and related financial ratios",
+  "tags": ["solvency ratio", "leverage", "balance sheet ratio"]
+},
+{
+  "id": "total-debt-ratio-fsa-03",
+  "name": "Total debt ratio",
+  "expression": "Total debt ratio = Total debt ÷ Total assets",
+  "meaning": "Measures the proportion of a company's total assets financed with debt.",
+  "variables": {
+    "Total debt": "All interest-bearing debt, both short-term and long-term",
+    "Total assets": "Total reported assets"
+  },
+  "intuition": "Shows what fraction of the asset base is funded by creditors rather than by owners' equity or non-interest-bearing liabilities.",
+  "workedExample": "Cascade Pharmaceuticals: total debt $18,000,000, total assets $45,000,000. Total debt ratio = $18,000,000 ÷ $45,000,000 = 0.40.",
+  "commonMistake": "Dividing total debt by total equity instead of total assets, which produces the debt-to-equity ratio, not the total debt ratio.",
+  "relatedLessonId": "fsa-03-analyzing-balance-sheets",
+  "relatedLearningOutcome": "calculate and interpret common-size balance sheets and related financial ratios",
+  "tags": ["solvency ratio", "leverage", "balance sheet ratio"]
+},
+{
+  "id": "financial-leverage-fsa-03",
+  "name": "Financial leverage ratio",
+  "expression": "Financial leverage = Total assets ÷ Total equity",
+  "meaning": "Measures the overall use of leverage: how many dollars of assets are supported by each dollar of equity.",
+  "variables": {
+    "Total assets": "Total reported assets",
+    "Total equity": "Total shareholders' equity"
+  },
+  "intuition": "Because total assets always equal total liabilities plus total equity, financial leverage will always be at least 1.0 and rises as liabilities make up a larger share of the balance sheet.",
+  "workedExample": "Cascade Pharmaceuticals: total assets $45,000,000, total equity $22,000,000. Financial leverage = $45,000,000 ÷ $22,000,000 ≈ 2.05.",
+  "commonMistake": "Assuming financial leverage can fall below 1.0; it cannot for any company with any liabilities, since assets always exceed equity by the amount of total liabilities.",
+  "relatedLessonId": "fsa-03-analyzing-balance-sheets",
+  "relatedLearningOutcome": "calculate and interpret common-size balance sheets and related financial ratios",
+  "tags": ["solvency ratio", "leverage", "balance sheet ratio"]
+}
+]

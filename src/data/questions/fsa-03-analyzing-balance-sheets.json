@@ -1,0 +1,1359 @@
+[
+  {
+    "id": "fsa-lm3-q-001",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to intangible assets",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Solander Robotics purchases a customer relationship list from another company for $600,000 in an arm's-length transaction. Under both IFRS and US GAAP, this cost is most likely:",
+    "choices": [
+      "capitalized as an intangible asset, since it was separately purchased with a reliably measurable cost.",
+      "expensed immediately, since customer relationships are never recognized as intangible assets.",
+      "recorded as goodwill, since it represents future economic benefit from customer relationships."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "A separately purchased intangible asset with a reliably measurable cost is capitalized, regardless of the acquirer's intended use.",
+    "incorrectChoiceExplanations": [
+      "Correct: A separately purchased intangible asset with a reliably measurable cost is capitalized, regardless of the acquirer's intended use.",
+      "Purchased customer relationships with a reliably measurable cost are capitalized, not expensed.",
+      "Goodwill arises only in a business combination; a separately purchased identifiable intangible is not goodwill."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "intangible assets",
+      "purchased intangible"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-002",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to intangible assets",
+    "difficulty": "easy",
+    "estimatedSeconds": 55,
+    "stem": "Larkfield Media spends $700,000 during the year on general advertising intended to strengthen its own brand recognition. The most likely accounting treatment of this cost is to:",
+    "choices": [
+      "capitalize the cost as an intangible asset and amortize it over the brand's estimated useful life.",
+      "expense the cost as incurred, since internally generated brand value is never recognized as an intangible asset.",
+      "capitalize the cost only if the brand later proves valuable enough to be reliably measured."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Internally generated brand-building costs are expensed as incurred; brand value built organically is never recognized as an intangible asset.",
+    "incorrectChoiceExplanations": [
+      "Internally generated brand value, including the cost of advertising to build it, is never capitalized under either IFRS or US GAAP.",
+      "Correct: Internally generated brand-building costs are expensed as incurred; brand value built organically is never recognized as an intangible asset.",
+      "Internally generated brands are excluded from recognition regardless of subsequent value, not conditionally recognized after the fact."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "intangible assets",
+      "internally generated"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-003",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to intangible assets",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Under IFRS, a company incurs research costs of $1,200,000 and, after establishing technical and commercial feasibility, incurs an additional $2,500,000 of development costs on the same project. The amount most likely capitalized as an intangible asset is:",
+    "choices": [
+      "$3,700,000, since both the research and development costs relate to the same successful project.",
+      "$0, since IFRS requires all research and development costs to be expensed as incurred.",
+      "$2,500,000, since only the post-feasibility development costs qualify for capitalization."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Under IFRS, research costs are always expensed, while development costs incurred after feasibility criteria are met are capitalized — here, only the $2,500,000 of post-feasibility development costs qualify.",
+    "incorrectChoiceExplanations": [
+      "Research costs are always expensed under IFRS, regardless of whether the related project later succeeds.",
+      "IFRS permits capitalization of development costs incurred after feasibility criteria are met; only research costs are always expensed.",
+      "Correct: Under IFRS, research costs are always expensed, while development costs incurred after feasibility criteria are met are capitalized — here, only the $2,500,000 of post-feasibility development costs qualify."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "intangible assets",
+      "research and development",
+      "IFRS"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-004",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to intangible assets",
+    "difficulty": "medium",
+    "estimatedSeconds": 65,
+    "stem": "Compared with IFRS, US GAAP treatment of research and development costs is best described as:",
+    "choices": [
+      "generally expensing both research and development costs as incurred, with only narrow exceptions.",
+      "capitalizing all development costs incurred after technical feasibility is established, identically to IFRS.",
+      "capitalizing all research and development costs as incurred, regardless of feasibility."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "US GAAP generally requires both research and development costs to be expensed as incurred, with only narrow exceptions such as certain software-development costs, unlike IFRS's post-feasibility development capitalization.",
+    "incorrectChoiceExplanations": [
+      "Correct: US GAAP generally requires both research and development costs to be expensed as incurred, with only narrow exceptions such as certain software-development costs, unlike IFRS's post-feasibility development capitalization.",
+      "This describes the IFRS treatment; US GAAP generally expenses development costs as well, with narrow exceptions.",
+      "US GAAP generally expenses research and development costs; it does not capitalize them broadly."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "intangible assets",
+      "US GAAP",
+      "IFRS comparison"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-005",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to intangible assets",
+    "difficulty": "easy",
+    "estimatedSeconds": 55,
+    "stem": "Windmere Foods holds a trademark with an indefinite useful life. The most appropriate subsequent accounting treatment is to:",
+    "choices": [
+      "amortize the trademark over a default 20-year period, per both IFRS and US GAAP.",
+      "not amortize the trademark, but test it for impairment at least annually.",
+      "amortize the trademark straight-line over its estimated remaining useful life, reassessed each year."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "An intangible with an indefinite useful life is never amortized, but must be tested for impairment at least annually and whenever indicators of impairment arise.",
+    "incorrectChoiceExplanations": [
+      "Neither framework prescribes a default amortization period for indefinite-life intangibles; they are simply not amortized.",
+      "Correct: An intangible with an indefinite useful life is never amortized, but must be tested for impairment at least annually and whenever indicators of impairment arise.",
+      "Amortization applies to finite-life intangibles; an indefinite-life intangible is not amortized at all."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "intangible assets",
+      "indefinite life",
+      "impairment"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-006",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to intangible assets",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "A patent with an 8-year finite useful life is carried at $800,000. Assuming straight-line amortization and no residual value, the annual amortization expense is closest to:",
+    "choices": [
+      "$80,000.",
+      "$800,000.",
+      "$100,000."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Straight-line annual amortization = $800,000 ÷ 8 years = $100,000.",
+    "incorrectChoiceExplanations": [
+      "This divides by 10, not the patent's actual 8-year useful life.",
+      "This is the full carrying value, not the annual amortization expense spread over 8 years.",
+      "Correct: Straight-line annual amortization = $800,000 ÷ 8 years = $100,000."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "intangible assets",
+      "amortization",
+      "calculation"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-007",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to intangible assets",
+    "difficulty": "medium",
+    "estimatedSeconds": 65,
+    "stem": "Cascade Pharmaceuticals holds an intangible right, at a cost of $400,000, that trades in an active market with a current fair value of $550,000. Under IFRS's revaluation model, the $150,000 difference between fair value and cost is most likely recognized:",
+    "choices": [
+      "in other comprehensive income, as a revaluation surplus.",
+      "in net income, as an unrealized holding gain.",
+      "as an adjustment to retained earnings, bypassing both net income and other comprehensive income."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Under the IFRS revaluation model, an upward revaluation of an intangible asset is recognized in other comprehensive income as a revaluation surplus.",
+    "incorrectChoiceExplanations": [
+      "Correct: Under the IFRS revaluation model, an upward revaluation of an intangible asset is recognized in other comprehensive income as a revaluation surplus.",
+      "A revaluation surplus under the IFRS revaluation model for intangibles is recognized in other comprehensive income, not net income.",
+      "The revaluation surplus flows through other comprehensive income, not directly to retained earnings."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "intangible assets",
+      "revaluation model",
+      "IFRS"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-008",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to intangible assets",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Under US GAAP, an intangible asset carried using the cost model, when its fair value has risen well above its carrying amount, would most likely be:",
+    "choices": [
+      "written up to fair value with the gain recognized in other comprehensive income, mirroring IFRS.",
+      "left at its cost-based carrying amount, since US GAAP permits only the cost model for intangibles.",
+      "written up to fair value with the gain recognized directly in net income."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "US GAAP permits only the cost model for intangible assets, so a rise in fair value above carrying amount is not recognized at all.",
+    "incorrectChoiceExplanations": [
+      "US GAAP does not permit the revaluation model for intangible assets under any circumstances.",
+      "Correct: US GAAP permits only the cost model for intangible assets, so a rise in fair value above carrying amount is not recognized at all.",
+      "US GAAP prohibits upward revaluation of intangible assets entirely; fair-value gains are not recognized."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "intangible assets",
+      "US GAAP",
+      "cost model"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-009",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to goodwill",
+    "difficulty": "easy",
+    "estimatedSeconds": 55,
+    "stem": "Ironclad Logistics acquires a competitor for a purchase price of $50,000,000. An independent valuation determines that the fair value of the identifiable net assets acquired is $38,000,000. The goodwill recognized from this acquisition is closest to:",
+    "choices": [
+      "$50,000,000.",
+      "$38,000,000.",
+      "$12,000,000."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Goodwill = Purchase price − Fair value of identifiable net assets acquired = $50,000,000 − $38,000,000 = $12,000,000.",
+    "incorrectChoiceExplanations": [
+      "This is the total purchase price, not the goodwill, which equals purchase price minus fair value of identifiable net assets acquired.",
+      "This is the fair value of the identifiable net assets acquired, not the goodwill.",
+      "Correct: Goodwill = Purchase price − Fair value of identifiable net assets acquired = $50,000,000 − $38,000,000 = $12,000,000."
+    ],
+    "relatedFormulaIds": [
+      "goodwill-fsa-03"
+    ],
+    "tags": [
+      "goodwill",
+      "calculation"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-010",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to goodwill",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A reporting unit has a total carrying amount of $60,000,000, including $12,000,000 of goodwill. The reporting unit's fair value falls to $53,000,000. The goodwill impairment loss recognized is closest to:",
+    "choices": [
+      "$7,000,000.",
+      "$12,000,000.",
+      "$53,000,000."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The impairment indicated is $60,000,000 − $53,000,000 = $7,000,000, which is less than the $12,000,000 goodwill balance, so the full $7,000,000 is recognized as impairment (limited to, and fully absorbed by, goodwill).",
+    "incorrectChoiceExplanations": [
+      "Correct: The impairment indicated is $60,000,000 − $53,000,000 = $7,000,000, which is less than the $12,000,000 goodwill balance, so the full $7,000,000 is recognized as impairment (limited to, and fully absorbed by, goodwill).",
+      "This is the full goodwill balance, but the impairment is limited to the $7,000,000 excess of carrying amount over fair value, which is less than the goodwill balance.",
+      "This is the reporting unit's new fair value, not the impairment loss."
+    ],
+    "relatedFormulaIds": [
+      "goodwill-fsa-03"
+    ],
+    "tags": [
+      "goodwill",
+      "impairment",
+      "calculation"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-011",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to goodwill",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "A company's reporting unit, which suffered a goodwill impairment in the prior year, has recovered such that its fair value now exceeds its carrying amount by a wide margin. The most likely accounting treatment is to:",
+    "choices": [
+      "write goodwill back up to its pre-impairment balance, since the recovery reverses the impairment indicator.",
+      "leave the goodwill balance unchanged, since goodwill impairment losses are never reversed.",
+      "write goodwill back up, but only to the extent of the previously recognized impairment loss."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Once a goodwill impairment loss is recognized, it can never be reversed under either IFRS or US GAAP, even if the reporting unit's fair value later recovers substantially.",
+    "incorrectChoiceExplanations": [
+      "Goodwill impairment losses are never reversed under either IFRS or US GAAP, regardless of subsequent recovery in fair value.",
+      "Correct: Once a goodwill impairment loss is recognized, it can never be reversed under either IFRS or US GAAP, even if the reporting unit's fair value later recovers substantially.",
+      "No reversal of goodwill impairment is permitted at all, not even a partial one."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "goodwill",
+      "impairment",
+      "reversal prohibition"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-012",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to goodwill",
+    "difficulty": "easy",
+    "estimatedSeconds": 55,
+    "stem": "A company has built a strong internal reputation entirely through its own operations, estimated by internal analysts to be worth $20,000,000, with no acquisition involved. The amount of goodwill the company most likely recognizes on its balance sheet for this reputation is:",
+    "choices": [
+      "$20,000,000, matching the internal valuation estimate.",
+      "An amount equal to the present value of expected future benefits from the reputation.",
+      "$0, since internally generated goodwill is never recognized."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Internally generated goodwill is never recognized on the balance sheet under either framework; goodwill is recognized only when it arises from an actual business combination.",
+    "incorrectChoiceExplanations": [
+      "Internally generated goodwill is excluded from recognition under both IFRS and US GAAP, regardless of any internal valuation.",
+      "No discounted or estimated value of internally generated reputation is recognized as goodwill; it is excluded entirely.",
+      "Correct: Internally generated goodwill is never recognized on the balance sheet under either framework; goodwill is recognized only when it arises from an actual business combination."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "goodwill",
+      "internally generated"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-013",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to goodwill",
+    "difficulty": "medium",
+    "estimatedSeconds": 65,
+    "stem": "Under IFRS, the goodwill impairment test for a cash-generating unit compares the unit's carrying amount (including goodwill) to its:",
+    "choices": [
+      "recoverable amount, the higher of fair value less costs to sell and value in use.",
+      "historical cost, adjusted for cumulative amortization.",
+      "net realizable value alone, ignoring value in use."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Under IFRS, the carrying amount of a cash-generating unit (including goodwill) is compared to its recoverable amount, defined as the higher of fair value less costs to sell and value in use.",
+    "incorrectChoiceExplanations": [
+      "Correct: Under IFRS, the carrying amount of a cash-generating unit (including goodwill) is compared to its recoverable amount, defined as the higher of fair value less costs to sell and value in use.",
+      "Goodwill is not amortized, and the IFRS test uses recoverable amount, not a historical-cost-based figure.",
+      "The IFRS test uses the higher of fair value less costs to sell and value in use, not net realizable value alone."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "goodwill",
+      "impairment test",
+      "IFRS"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-014",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to goodwill",
+    "difficulty": "medium",
+    "estimatedSeconds": 65,
+    "stem": "Under US GAAP, a company may first perform which of the following before proceeding to a quantitative goodwill impairment test?",
+    "choices": [
+      "A mandatory five-year discounted cash flow forecast for every reporting unit.",
+      "A qualitative assessment of whether it is more likely than not that a reporting unit's fair value is below its carrying amount.",
+      "A comparison of goodwill to the total market capitalization of the entire company."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "US GAAP permits an optional qualitative assessment first; if it indicates impairment is more likely than not, the company proceeds to the quantitative test comparing the reporting unit's fair value to its carrying amount.",
+    "incorrectChoiceExplanations": [
+      "US GAAP permits an optional qualitative assessment first, not a mandatory detailed discounted cash flow forecast.",
+      "Correct: US GAAP permits an optional qualitative assessment first; if it indicates impairment is more likely than not, the company proceeds to the quantitative test comparing the reporting unit's fair value to its carrying amount.",
+      "The US GAAP test is performed at the reporting-unit level, not by comparing goodwill to total company market capitalization."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "goodwill",
+      "impairment test",
+      "US GAAP"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-015",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to goodwill",
+    "difficulty": "hard",
+    "estimatedSeconds": 70,
+    "stem": "An analyst comparing two otherwise identical companies notes that Company A has $15,000,000 of goodwill on its balance sheet from a past acquisition, while Company B, which grew entirely organically, has none. This difference in reported goodwill most likely reflects:",
+    "choices": [
+      "Company A being a fundamentally stronger business than Company B.",
+      "a reporting error, since both companies should show comparable goodwill if their operations are similar.",
+      "differences in growth strategy (acquisition versus organic growth), not necessarily differences in underlying economic value."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Because goodwill is recognized only in business combinations and never for internally generated value, its presence or absence on the balance sheet reflects growth strategy, not necessarily a difference in underlying economic strength.",
+    "incorrectChoiceExplanations": [
+      "The presence of goodwill reflects how growth was achieved (via acquisition), not necessarily which company has stronger underlying economics.",
+      "This is not an error; goodwill is only recognized when acquired in a transaction, so organic growth never generates recognized goodwill.",
+      "Correct: Because goodwill is recognized only in business combinations and never for internally generated value, its presence or absence on the balance sheet reflects growth strategy, not necessarily a difference in underlying economic strength."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "goodwill",
+      "analyst interpretation"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-016",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to goodwill",
+    "difficulty": "medium",
+    "estimatedSeconds": 65,
+    "stem": "A reporting unit's carrying amount (including goodwill) exceeds its fair value by an amount that is greater than the entire goodwill balance on the balance sheet. The goodwill impairment loss recognized is most likely:",
+    "choices": [
+      "limited to the full goodwill balance, since the impairment loss cannot reduce goodwill below zero.",
+      "equal to the full excess of carrying amount over fair value, even if that exceeds the goodwill balance.",
+      "zero, since an impairment exceeding the goodwill balance indicates a measurement error rather than a real loss."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The goodwill impairment loss recognized can never exceed the goodwill carrying amount, since goodwill cannot be reduced below zero through an impairment charge.",
+    "incorrectChoiceExplanations": [
+      "Correct: The goodwill impairment loss recognized can never exceed the goodwill carrying amount, since goodwill cannot be reduced below zero through an impairment charge.",
+      "The goodwill impairment loss is limited to the goodwill balance; it does not create a negative goodwill balance.",
+      "A real impairment is still recognized; it is simply capped at the existing goodwill balance rather than being disregarded."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "goodwill",
+      "impairment",
+      "measurement"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-017",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to financial instruments",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A company buys a bond intending to hold it to collect coupon and principal at maturity, with cash flows that are solely payments of principal and interest, and never intends to sell it before maturity. The most appropriate measurement classification is:",
+    "choices": [
+      "fair value through profit or loss (FVPL).",
+      "amortized cost.",
+      "fair value through other comprehensive income (FVOCI)."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "A debt instrument held under a hold-to-collect business model, with cash flows solely of principal and interest, is measured at amortized cost.",
+    "incorrectChoiceExplanations": [
+      "FVPL is the default/trading classification; a hold-to-collect business model with qualifying cash flows is measured at amortized cost instead.",
+      "Correct: A debt instrument held under a hold-to-collect business model, with cash flows solely of principal and interest, is measured at amortized cost.",
+      "FVOCI applies to a hold-to-collect-and-sell business model, not a pure hold-to-collect model."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial instruments",
+      "amortized cost",
+      "classification"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-018",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to financial instruments",
+    "difficulty": "easy",
+    "estimatedSeconds": 55,
+    "stem": "An investment desk actively trades a bond portfolio to profit from short-term price movements rather than to collect contractual cash flows. The most appropriate measurement classification for this portfolio is:",
+    "choices": [
+      "amortized cost, since the underlying instruments are bonds.",
+      "fair value through other comprehensive income (FVOCI), since bonds are debt instruments.",
+      "fair value through profit or loss (FVPL)."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "A trading business model, regardless of the type of instrument held, results in classification at fair value through profit or loss.",
+    "incorrectChoiceExplanations": [
+      "Classification depends on business model, not instrument type; a trading business model results in FVPL regardless of instrument type.",
+      "FVOCI requires a hold-to-collect-and-sell business model; an actively traded portfolio does not meet that model.",
+      "Correct: A trading business model, regardless of the type of instrument held, results in classification at fair value through profit or loss."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial instruments",
+      "FVPL",
+      "classification"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-019",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to financial instruments",
+    "difficulty": "medium",
+    "estimatedSeconds": 70,
+    "stem": "A company buys a $2,000,000 equity stake in a supplier for strategic (non-trading) reasons and irrevocably elects fair value through other comprehensive income (FVOCI) treatment at initial recognition. When the investment is later sold at a gain, that realized gain is most likely:",
+    "choices": [
+      "never reclassified to net income, remaining permanently within equity.",
+      "reclassified to net income upon sale, identically to a debt instrument held at FVOCI.",
+      "split evenly between net income and other comprehensive income upon sale."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Unlike debt instruments held at FVOCI, gains and losses on an equity investment elected into FVOCI are never recycled to net income, even when the investment is sold.",
+    "incorrectChoiceExplanations": [
+      "Correct: Unlike debt instruments held at FVOCI, gains and losses on an equity investment elected into FVOCI are never recycled to net income, even when the investment is sold.",
+      "Unlike debt FVOCI, gains and losses on an equity FVOCI election are never recycled to net income, even upon sale.",
+      "No portion of an equity FVOCI gain is recycled to net income upon sale; it remains entirely within equity."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial instruments",
+      "FVOCI",
+      "equity election"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-020",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to financial instruments",
+    "difficulty": "medium",
+    "estimatedSeconds": 65,
+    "stem": "A $10,000,000 bond investment's fair value rises to $10,300,000 during the period. If the bond is classified at amortized cost, the effect of this $300,000 fair-value increase on net income is:",
+    "choices": [
+      "an increase of $300,000 in net income.",
+      "none, since amortized-cost instruments are not remeasured to fair value.",
+      "an increase of $300,000 in other comprehensive income only."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "A financial instrument classified at amortized cost is not remeasured to fair value, so the $300,000 fair-value increase has no effect on net income (or on other comprehensive income).",
+    "incorrectChoiceExplanations": [
+      "Amortized-cost instruments are not remeasured to fair value at all, so this gain does not affect net income.",
+      "Correct: A financial instrument classified at amortized cost is not remeasured to fair value, so the $300,000 fair-value increase has no effect on net income (or on other comprehensive income).",
+      "Amortized-cost instruments bypass both net income and other comprehensive income for fair-value changes; they are simply not remeasured."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial instruments",
+      "amortized cost",
+      "calculation"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-021",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to financial instruments",
+    "difficulty": "easy",
+    "estimatedSeconds": 55,
+    "stem": "The same $10,000,000 bond investment from the prior scenario, if instead classified at fair value through profit or loss (FVPL), would recognize the $300,000 fair-value increase:",
+    "choices": [
+      "in other comprehensive income, bypassing net income entirely.",
+      "as a direct adjustment to retained earnings, bypassing the income statement.",
+      "directly in net income."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Under FVPL classification, all fair-value changes — including this $300,000 increase — are recognized directly in net income.",
+    "incorrectChoiceExplanations": [
+      "FVPL classification routes all fair-value changes through net income, not other comprehensive income.",
+      "FVPL gains flow through net income (and from there into retained earnings via the normal closing process), not as a direct equity adjustment.",
+      "Correct: Under FVPL classification, all fair-value changes — including this $300,000 increase — are recognized directly in net income."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial instruments",
+      "FVPL",
+      "calculation"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-022",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to financial instruments",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A company's business model for a bond portfolio genuinely changes, triggering reclassification from amortized cost to FVPL, and a $400,000 unrealized loss is newly recognized on the reclassified bonds. This event most likely:",
+    "choices": [
+      "reduces net income and equity without any change in the company's actual debt levels or cash flows.",
+      "has no effect on any reported financial ratio, since it is purely a classification change.",
+      "requires the company to restate all prior-period financial statements retrospectively."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The reclassification-driven unrealized loss reduces reported net income and equity, which can move solvency ratios such as debt-to-equity, even though the company's actual debt and cash flows are unchanged.",
+    "incorrectChoiceExplanations": [
+      "Correct: The reclassification-driven unrealized loss reduces reported net income and equity, which can move solvency ratios such as debt-to-equity, even though the company's actual debt and cash flows are unchanged.",
+      "The newly recognized unrealized loss does reduce net income and equity, which can move ratios such as debt-to-equity even though nothing economic has changed.",
+      "A genuine business-model change and resulting reclassification is applied prospectively, not through retrospective restatement."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial instruments",
+      "reclassification",
+      "analyst interpretation"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-023",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to financial instruments",
+    "difficulty": "medium",
+    "estimatedSeconds": 70,
+    "stem": "Under the general classification framework for debt financial instruments, an instrument held under a business model of both collecting contractual cash flows and selling the instrument, with cash flows that are solely principal and interest, is most appropriately classified as:",
+    "choices": [
+      "amortized cost, since the cash flows are solely principal and interest.",
+      "fair value through other comprehensive income (FVOCI).",
+      "fair value through profit or loss (FVPL), since selling is contemplated."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "A debt instrument held under a business model combining collecting contractual cash flows and selling, with cash flows solely of principal and interest, is classified at fair value through other comprehensive income.",
+    "incorrectChoiceExplanations": [
+      "Amortized cost requires a pure hold-to-collect business model; a hold-to-collect-and-sell model instead results in FVOCI.",
+      "Correct: A debt instrument held under a business model combining collecting contractual cash flows and selling, with cash flows solely of principal and interest, is classified at fair value through other comprehensive income.",
+      "A hold-to-collect-and-sell model with qualifying cash flows results in FVOCI, not FVPL, which is the default/trading category."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial instruments",
+      "FVOCI",
+      "business model"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-024",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to financial instruments",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "By default, without any special election, a newly purchased equity investment is most likely classified as:",
+    "choices": [
+      "amortized cost, since equity investments have no contractual maturity date.",
+      "fair value through other comprehensive income (FVOCI), unless the company elects otherwise.",
+      "fair value through profit or loss (FVPL)."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Equity investments default to fair value through profit or loss unless the holder makes an irrevocable election at initial recognition to classify them as FVOCI.",
+    "incorrectChoiceExplanations": [
+      "The amortized-cost category is reserved for qualifying debt instruments; equity investments are never eligible for amortized-cost classification.",
+      "FVOCI treatment for equity requires an irrevocable election; the default classification without any election is FVPL.",
+      "Correct: Equity investments default to fair value through profit or loss unless the holder makes an irrevocable election at initial recognition to classify them as FVOCI."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial instruments",
+      "equity investments",
+      "classification"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-025",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to non-current liabilities",
+    "difficulty": "easy",
+    "estimatedSeconds": 50,
+    "stem": "Amaranth Biotech issues $10,000,000 face-value bonds at 97.50% of par because the market rate exceeds the bonds' stated coupon rate. The issuance proceeds are closest to:",
+    "choices": [
+      "$9,750,000.",
+      "$10,000,000.",
+      "$9,500,000."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Issuance proceeds = $10,000,000 × 0.975 = $9,750,000.",
+    "incorrectChoiceExplanations": [
+      "Correct: Issuance proceeds = $10,000,000 × 0.975 = $9,750,000.",
+      "This is the face value, not the issuance proceeds, which reflect the discounted issue price.",
+      "This understates the proceeds; 97.50% of $10,000,000 face value is $9,750,000, not $9,500,000."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "non-current liabilities",
+      "bond discount",
+      "calculation"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-026",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to non-current liabilities",
+    "difficulty": "medium",
+    "estimatedSeconds": 65,
+    "stem": "Using the same $10,000,000 face-value bond issued at 97.50% of par, amortized straight-line over its 5-year term, the annual amortization of the discount is closest to:",
+    "choices": [
+      "$250,000.",
+      "$50,000.",
+      "$9,750,000."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The discount is $10,000,000 − $9,750,000 = $250,000; amortized straight-line over 5 years = $250,000 ÷ 5 = $50,000 per year.",
+    "incorrectChoiceExplanations": [
+      "This is the total discount over the full 5-year term, not the annual amortization amount.",
+      "Correct: The discount is $10,000,000 − $9,750,000 = $250,000; amortized straight-line over 5 years = $250,000 ÷ 5 = $50,000 per year.",
+      "This is the issuance proceeds, not the annual discount amortization."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "non-current liabilities",
+      "bond discount",
+      "calculation"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-027",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to non-current liabilities",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Yellowridge Mining issues $8,000,000 face-value bonds at 103% of par because the bonds' coupon rate exceeds the market rate. Over the life of the bonds, the liability's carrying amount will most likely:",
+    "choices": [
+      "rise from the issuance proceeds toward a value above face value by maturity.",
+      "remain constant at the issuance proceeds for the entire term.",
+      "decline from the issuance proceeds toward the $8,000,000 face value by maturity."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "A bond issued at a premium has its carrying amount decline over time as the premium is amortized, converging to face value by maturity.",
+    "incorrectChoiceExplanations": [
+      "A bond issued at a premium has its carrying amount decline toward face value by maturity, not rise further above it.",
+      "The premium is amortized over the bond's term, so the carrying amount changes; it does not remain constant.",
+      "Correct: A bond issued at a premium has its carrying amount decline over time as the premium is amortized, converging to face value by maturity."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "non-current liabilities",
+      "bond premium"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-028",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to non-current liabilities",
+    "difficulty": "medium",
+    "estimatedSeconds": 65,
+    "stem": "Cinderpeak Airlines carries bonds at an amortized-cost carrying amount of $9,750,000 and repurchases them in the open market for $9,500,000 cash to retire the debt ahead of schedule. The gain or loss recognized on this retirement is closest to:",
+    "choices": [
+      "a gain of $250,000.",
+      "a loss of $250,000.",
+      "no gain or loss, since the bonds were simply retired early."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Gain on retirement = Carrying amount − Reacquisition price = $9,750,000 − $9,500,000 = $250,000 gain.",
+    "incorrectChoiceExplanations": [
+      "Correct: Gain on retirement = Carrying amount − Reacquisition price = $9,750,000 − $9,500,000 = $250,000 gain.",
+      "Reacquiring debt for less than its carrying amount produces a gain, not a loss.",
+      "A gain or loss is recognized whenever the reacquisition price differs from the carrying amount, which is the case here."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "non-current liabilities",
+      "debt retirement",
+      "calculation"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-029",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to non-current liabilities",
+    "difficulty": "easy",
+    "estimatedSeconds": 55,
+    "stem": "A company's credit agreement requires it to maintain a minimum working capital balance and to deliver audited financial statements within 90 days of year-end. This type of covenant is best described as:",
+    "choices": [
+      "a negative covenant, since it restricts financial flexibility.",
+      "an affirmative covenant, since it requires the borrower to take specific actions.",
+      "a subordination clause, since it ranks the lender's claim relative to other creditors."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "A covenant that requires the borrower to take specific actions, such as maintaining minimum working capital or delivering timely financial statements, is an affirmative covenant.",
+    "incorrectChoiceExplanations": [
+      "Negative covenants prohibit specific actions; this covenant instead requires the borrower to take specific actions, making it affirmative.",
+      "Correct: A covenant that requires the borrower to take specific actions, such as maintaining minimum working capital or delivering timely financial statements, is an affirmative covenant.",
+      "A subordination clause addresses claim priority among creditors, not required borrower actions."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "non-current liabilities",
+      "covenants"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-030",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to non-current liabilities",
+    "difficulty": "medium",
+    "estimatedSeconds": 70,
+    "stem": "A company has never missed a scheduled interest or principal payment, but its debt-to-EBITDA ratio has drifted above the maximum level specified in a negative covenant. The most likely consequence is that:",
+    "choices": [
+      "no consequence occurs, since payment history is the only factor lenders monitor.",
+      "the debt is automatically forgiven, since the company has demonstrated an unblemished payment history.",
+      "the company may be in technical default, which can trigger accelerated repayment demands regardless of its payment history."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Breaching a negative covenant, such as a maximum leverage ratio, can trigger technical default and accelerated repayment demands, even when the borrower has never missed a scheduled payment.",
+    "incorrectChoiceExplanations": [
+      "A covenant breach can trigger technical default independently of payment history; lenders monitor covenant compliance, not just payments.",
+      "Debt is never automatically forgiven due to a covenant breach; instead, the breach creates default risk and potential renegotiation.",
+      "Correct: Breaching a negative covenant, such as a maximum leverage ratio, can trigger technical default and accelerated repayment demands, even when the borrower has never missed a scheduled payment."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "non-current liabilities",
+      "covenants",
+      "default risk"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-031",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to non-current liabilities",
+    "difficulty": "easy",
+    "estimatedSeconds": 55,
+    "stem": "When a bond's stated coupon rate is below the market rate demanded by investors at issuance, the bond will most likely:",
+    "choices": [
+      "issue at a discount, with proceeds below face value.",
+      "issue at a premium, with proceeds above face value.",
+      "issue at par, since the coupon rate difference does not affect the issuance price."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "When the coupon rate is below the market rate, investors demand a lower price to earn a market-competitive return, so the bond issues at a discount.",
+    "incorrectChoiceExplanations": [
+      "Correct: When the coupon rate is below the market rate, investors demand a lower price to earn a market-competitive return, so the bond issues at a discount.",
+      "A coupon rate below the market rate produces a discount, not a premium; a premium arises when the coupon rate exceeds the market rate.",
+      "The coupon-versus-market-rate relationship directly determines whether a bond issues at par, a discount, or a premium; it is not irrelevant."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "non-current liabilities",
+      "bond issuance"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-032",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to non-current liabilities",
+    "difficulty": "hard",
+    "estimatedSeconds": 70,
+    "stem": "Compared with the effective interest method, straight-line amortization of a bond discount or premium is best described as:",
+    "choices": [
+      "the only method permitted under either IFRS or US GAAP.",
+      "permitted under US GAAP when the result is not materially different from the effective interest method.",
+      "prohibited under both IFRS and US GAAP in all circumstances."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The effective interest method is the theoretically preferred approach for amortizing a bond discount or premium; straight-line amortization is permitted under US GAAP only when it does not produce a materially different result.",
+    "incorrectChoiceExplanations": [
+      "The effective interest method is the theoretically preferred approach under both frameworks; straight-line is only a permitted simplification under US GAAP in limited circumstances.",
+      "Correct: The effective interest method is the theoretically preferred approach for amortizing a bond discount or premium; straight-line amortization is permitted under US GAAP only when it does not produce a materially different result.",
+      "Straight-line amortization is not prohibited outright; US GAAP permits it when it does not produce a materially different result."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "non-current liabilities",
+      "amortization method"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-033",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "calculate and interpret common-size balance sheets and related financial ratios",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Duskwood Timber reports total assets of $40,000,000 and inventory of $10,000,000. The common-size percentage for inventory is closest to:",
+    "choices": [
+      "10%.",
+      "40%.",
+      "25%."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Common-size % = $10,000,000 ÷ $40,000,000 = 25%.",
+    "incorrectChoiceExplanations": [
+      "This does not match $10,000,000 ÷ $40,000,000; it appears to divide by a larger, incorrect base.",
+      "This inverts the calculation; the correct common-size percentage divides inventory by total assets, not the reverse.",
+      "Correct: Common-size % = $10,000,000 ÷ $40,000,000 = 25%."
+    ],
+    "relatedFormulaIds": [
+      "common-size-balance-sheet-line-item-fsa-03"
+    ],
+    "tags": [
+      "common-size",
+      "calculation"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-034",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "calculate and interpret common-size balance sheets and related financial ratios",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Two companies, one with total assets of $40,000,000 and the other with total assets of $400,000,000, are compared on a common-size basis. This comparison approach is most useful because it:",
+    "choices": [
+      "removes the effect of scale, allowing structural composition to be compared directly regardless of company size.",
+      "converts both companies' financial statements into a single reporting currency.",
+      "eliminates the need to review each company's accounting policy choices."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Common-size analysis restates each line item as a percentage of total assets, which removes the effect of scale and allows structural composition to be compared directly across companies of very different sizes.",
+    "incorrectChoiceExplanations": [
+      "Correct: Common-size analysis restates each line item as a percentage of total assets, which removes the effect of scale and allows structural composition to be compared directly across companies of very different sizes.",
+      "Common-size analysis addresses scale differences within a statement, not currency translation between statements.",
+      "Common-size analysis does not eliminate the need to review accounting policies; classification differences can still distort common-size comparisons."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "common-size",
+      "cross-sectional analysis"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-035",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "calculate and interpret common-size balance sheets and related financial ratios",
+    "difficulty": "easy",
+    "estimatedSeconds": 45,
+    "stem": "Windmere Foods reports current assets of $12,000,000 and current liabilities of $8,000,000. The current ratio is closest to:",
+    "choices": [
+      "0.67.",
+      "1.50.",
+      "4,000,000."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Current ratio = $12,000,000 ÷ $8,000,000 = 1.50.",
+    "incorrectChoiceExplanations": [
+      "This inverts the ratio; the current ratio divides current assets by current liabilities, not the reverse.",
+      "Correct: Current ratio = $12,000,000 ÷ $8,000,000 = 1.50.",
+      "This is the dollar difference between current assets and current liabilities, not the current ratio."
+    ],
+    "relatedFormulaIds": [
+      "current-ratio-fsa-03"
+    ],
+    "tags": [
+      "liquidity ratio",
+      "calculation"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-036",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "calculate and interpret common-size balance sheets and related financial ratios",
+    "difficulty": "medium",
+    "estimatedSeconds": 65,
+    "stem": "Using Windmere Foods' current assets of cash $2,000,000, marketable securities $1,000,000, receivables $3,000,000, and inventory $6,000,000, against current liabilities of $8,000,000, the quick ratio is closest to:",
+    "choices": [
+      "1.50.",
+      "0.375.",
+      "0.75."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Quick ratio = ($2,000,000 + $1,000,000 + $3,000,000) ÷ $8,000,000 = $6,000,000 ÷ $8,000,000 = 0.75.",
+    "incorrectChoiceExplanations": [
+      "This is the current ratio (which includes inventory), not the quick ratio, which excludes inventory from the numerator.",
+      "This is the cash ratio, which excludes receivables as well as inventory; the quick ratio includes receivables.",
+      "Correct: Quick ratio = ($2,000,000 + $1,000,000 + $3,000,000) ÷ $8,000,000 = $6,000,000 ÷ $8,000,000 = 0.75."
+    ],
+    "relatedFormulaIds": [
+      "quick-ratio-fsa-03"
+    ],
+    "tags": [
+      "liquidity ratio",
+      "calculation"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-037",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "calculate and interpret common-size balance sheets and related financial ratios",
+    "difficulty": "easy",
+    "estimatedSeconds": 50,
+    "stem": "Cascade Pharmaceuticals reports total debt of $18,000,000 and total equity of $22,000,000. The debt-to-equity ratio is closest to:",
+    "choices": [
+      "0.82.",
+      "1.22.",
+      "0.40."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Debt-to-equity = $18,000,000 ÷ $22,000,000 ≈ 0.82.",
+    "incorrectChoiceExplanations": [
+      "Correct: Debt-to-equity = $18,000,000 ÷ $22,000,000 ≈ 0.82.",
+      "This inverts the ratio; debt-to-equity divides total debt by total equity, not the reverse.",
+      "This matches the total debt ratio (debt ÷ total assets), not the debt-to-equity ratio (debt ÷ equity)."
+    ],
+    "relatedFormulaIds": [
+      "debt-to-equity-fsa-03"
+    ],
+    "tags": [
+      "solvency ratio",
+      "calculation"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-038",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "calculate and interpret common-size balance sheets and related financial ratios",
+    "difficulty": "medium",
+    "estimatedSeconds": 55,
+    "stem": "Using Cascade Pharmaceuticals' total assets of $45,000,000 and total equity of $22,000,000, the financial leverage ratio is closest to:",
+    "choices": [
+      "0.49.",
+      "2.05.",
+      "1.00."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Financial leverage = $45,000,000 ÷ $22,000,000 ≈ 2.05.",
+    "incorrectChoiceExplanations": [
+      "This inverts the ratio; financial leverage divides total assets by total equity, not the reverse.",
+      "Correct: Financial leverage = $45,000,000 ÷ $22,000,000 ≈ 2.05.",
+      "Financial leverage equals 1.00 only for a company with zero liabilities; a leveraged company's ratio always exceeds 1.00."
+    ],
+    "relatedFormulaIds": [
+      "financial-leverage-fsa-03"
+    ],
+    "tags": [
+      "solvency ratio",
+      "calculation"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-039",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "calculate and interpret common-size balance sheets and related financial ratios",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Ironclad Logistics' total assets grew from $30,000,000 in a base year to $36,000,000 in the current year, while its inventory grew from $5,000,000 to $8,000,000 over the same period. Compared with the growth in total assets, inventory growth is best described as:",
+    "choices": [
+      "roughly the same rate, indicating proportionate growth.",
+      "slower than total-asset growth, suggesting inventory efficiency improved.",
+      "about three times faster, a disproportionate increase worth investigating."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Total assets grew 20% (($36,000,000 − $30,000,000) ÷ $30,000,000) while inventory grew 60% (($8,000,000 − $5,000,000) ÷ $5,000,000) — three times the total-asset growth rate, a disproportionate increase worth investigating.",
+    "incorrectChoiceExplanations": [
+      "Total assets grew 20% while inventory grew 60% — three times faster, not a proportionate increase.",
+      "Inventory grew faster than total assets (60% versus 20%), not slower, which would instead raise efficiency concerns.",
+      "Correct: Total assets grew 20% (($36,000,000 − $30,000,000) ÷ $30,000,000) while inventory grew 60% (($8,000,000 − $5,000,000) ÷ $5,000,000) — three times the total-asset growth rate, a disproportionate increase worth investigating."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "horizontal analysis",
+      "calculation"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-040",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "calculate and interpret common-size balance sheets and related financial ratios",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "An analyst observes that a company's current ratio is 1.50 but its quick ratio is only 0.60. This steep drop between the two ratios most likely indicates that:",
+    "choices": [
+      "a large share of current assets is tied up in inventory (or other assets excluded from the quick ratio).",
+      "the company has understated its current liabilities.",
+      "the company's cash balance is unusually high relative to its peers."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Since the quick ratio excludes inventory (and other less-liquid current assets) from the numerator, a steep drop from the current ratio to the quick ratio signals that a large proportion of current assets is tied up in inventory.",
+    "incorrectChoiceExplanations": [
+      "Correct: Since the quick ratio excludes inventory (and other less-liquid current assets) from the numerator, a steep drop from the current ratio to the quick ratio signals that a large proportion of current assets is tied up in inventory.",
+      "A gap between the current and quick ratios reflects the composition of current assets (inventory-heavy), not a liability measurement issue.",
+      "A high cash balance would narrow, not widen, the gap between the current and quick ratios."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "liquidity ratio",
+      "analyst interpretation"
+    ]
+  },
+  {
+    "id": "fsa-lm3-q-041",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to intangible assets",
+    "difficulty": "hard",
+    "estimatedSeconds": 70,
+    "stem": "A company acquires a patent with a legal life of 20 years but expects to derive economic benefit from it for only 12 years due to anticipated technological obsolescence. The most appropriate amortization period is:",
+    "choices": [
+      "12 years, the shorter of the legal life and the expected economic useful life.",
+      "20 years, matching the patent's full legal life.",
+      "an indefinite period, since the patent has legal protection."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "An intangible asset is amortized over its useful economic life, which here is the shorter 12-year period expected to generate economic benefit, not the longer 20-year legal life.",
+    "incorrectChoiceExplanations": [
+      "Correct: An intangible asset is amortized over its useful economic life, which here is the shorter 12-year period expected to generate economic benefit, not the longer 20-year legal life.",
+      "Amortization should reflect the expected useful economic life, not the legal life, when the two differ.",
+      "Legal protection alone does not make a useful life indefinite when a finite economic benefit period is expected."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "intangible assets",
+      "useful life",
+      "amortization"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm3-q-042",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to intangible assets",
+    "difficulty": "hard",
+    "estimatedSeconds": 70,
+    "stem": "Which of the following is least likely required for an internally developed intangible asset to qualify for capitalization under IFRS?",
+    "choices": [
+      "Technical feasibility of completing the intangible asset must be demonstrated.",
+      "The project must have already generated positive cash flow.",
+      "The company must intend and have the ability to complete and use or sell the asset."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "IFRS capitalization criteria focus on feasibility, intent, ability, and reliable cost measurement — not on whether the project has already generated positive cash flow, which is not one of the required criteria.",
+    "incorrectChoiceExplanations": [
+      "Technical feasibility is one of the required criteria for capitalizing development costs under IFRS.",
+      "Correct: IFRS capitalization criteria focus on feasibility, intent, ability, and reliable cost measurement — not on whether the project has already generated positive cash flow, which is not one of the required criteria.",
+      "Intent and ability to complete and use or sell the asset is one of the required IFRS capitalization criteria."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "intangible assets",
+      "capitalization criteria",
+      "IFRS"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm3-q-043",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to goodwill",
+    "difficulty": "hard",
+    "estimatedSeconds": 80,
+    "stem": "An acquirer pays $30,000,000 for a target whose identifiable assets have a fair value of $28,000,000 and whose identifiable liabilities have a fair value of $6,000,000. The goodwill recognized is closest to:",
+    "choices": [
+      "$2,000,000.",
+      "$30,000,000.",
+      "$8,000,000."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Fair value of identifiable net assets = $28,000,000 − $6,000,000 = $22,000,000; Goodwill = $30,000,000 − $22,000,000 = $8,000,000.",
+    "incorrectChoiceExplanations": [
+      "This only compares the purchase price to identifiable assets, ignoring the identifiable liabilities assumed.",
+      "This is the full purchase price, not the goodwill, which nets identifiable assets and liabilities against the purchase price.",
+      "Correct: Fair value of identifiable net assets = $28,000,000 − $6,000,000 = $22,000,000; Goodwill = $30,000,000 − $22,000,000 = $8,000,000."
+    ],
+    "relatedFormulaIds": [
+      "goodwill-fsa-03"
+    ],
+    "tags": [
+      "goodwill",
+      "calculation",
+      "net assets"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm3-q-044",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to goodwill",
+    "difficulty": "hard",
+    "estimatedSeconds": 70,
+    "stem": "Which of the following best describes why goodwill impairment testing, rather than amortization, is used for goodwill under current IFRS and US GAAP?",
+    "choices": [
+      "Goodwill does not have a determinable finite useful life, so periodic amortization would not reflect an economically meaningful pattern of consumption.",
+      "Amortization of goodwill is prohibited only under IFRS, while US GAAP still requires it.",
+      "Goodwill impairment testing is simpler and less costly to perform than straight-line amortization."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Because goodwill lacks a determinable finite useful life, both frameworks use an impairment-only approach rather than periodic amortization, which would not meaningfully reflect any pattern of value consumption.",
+    "incorrectChoiceExplanations": [
+      "Correct: Because goodwill lacks a determinable finite useful life, both frameworks use an impairment-only approach rather than periodic amortization, which would not meaningfully reflect any pattern of value consumption.",
+      "Neither IFRS nor US GAAP currently amortizes goodwill; both use an impairment-only approach.",
+      "Impairment testing is generally more complex than straight-line amortization, not simpler; the rationale is the absence of a determinable useful life."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "goodwill",
+      "impairment versus amortization"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm3-q-045",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to financial instruments",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A company holds a debt investment at amortized cost that suffers a genuine credit-related decline in expected collectibility (an impairment). This impairment is most likely recognized:",
+    "choices": [
+      "in other comprehensive income only, consistent with the instrument's amortized-cost classification.",
+      "in net income, even though the instrument is otherwise not remeasured to fair value.",
+      "nowhere, since amortized-cost instruments are never remeasured for any reason."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Even though an amortized-cost instrument is not remeasured for general fair-value fluctuations, a genuine credit-related impairment is still recognized in net income.",
+    "incorrectChoiceExplanations": [
+      "Credit impairment on an amortized-cost instrument is recognized in net income, not shielded in other comprehensive income.",
+      "Correct: Even though an amortized-cost instrument is not remeasured for general fair-value fluctuations, a genuine credit-related impairment is still recognized in net income.",
+      "While amortized-cost instruments are not remeasured for general fair-value fluctuations, genuine credit impairment is still recognized in net income."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial instruments",
+      "impairment",
+      "amortized cost"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm3-q-046",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to financial instruments",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "An analyst comparing two companies with economically identical bond holdings, one classified at amortized cost and the other at FVPL, would most likely expect:",
+    "choices": [
+      "identical net income in every period, since the underlying bonds are economically identical.",
+      "greater net income volatility for the company using amortized-cost classification.",
+      "greater period-to-period net income volatility for the company using FVPL classification."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "FVPL classification introduces period-to-period fair-value swings directly into net income, producing greater reported income volatility than amortized-cost classification, even for economically identical underlying instruments.",
+    "incorrectChoiceExplanations": [
+      "Classification differences produce different net income patterns even for economically identical instruments, since FVPL introduces fair-value swings that amortized cost does not.",
+      "It is the FVPL classification, not amortized cost, that introduces fair-value remeasurement volatility into net income.",
+      "Correct: FVPL classification introduces period-to-period fair-value swings directly into net income, producing greater reported income volatility than amortized-cost classification, even for economically identical underlying instruments."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial instruments",
+      "analyst interpretation",
+      "classification"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm3-q-047",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to non-current liabilities",
+    "difficulty": "hard",
+    "estimatedSeconds": 80,
+    "stem": "A company elects the fair value option for a bond it has issued, rather than carrying it at amortized cost. If the bond's fair value subsequently declines due to a rise in the company's own credit risk (making its debt cheaper to repurchase), the most likely effect is:",
+    "choices": [
+      "the company reports a gain, since the decline in the fair value of its own liability is recognized as a gain.",
+      "the company reports a loss, mirroring the effect on a bondholder's asset value.",
+      "no income-statement effect, since the fair value option applies only to assets, not liabilities."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "For a liability carried under the fair value option, a decline in the liability's own fair value — including declines driven by the issuer's own deteriorating credit risk — is recognized as a gain by the issuer, since the liability could be settled for less.",
+    "incorrectChoiceExplanations": [
+      "Correct: For a liability carried under the fair value option, a decline in the liability's own fair value — including declines driven by the issuer's own deteriorating credit risk — is recognized as a gain by the issuer, since the liability could be settled for less.",
+      "For the issuer of the liability, a decline in the liability's fair value (favorable to the issuer) is recognized as a gain, not a loss.",
+      "The fair value option can apply to liabilities as well as assets; when elected for a liability, a decline in the liability's fair value produces a gain to the issuer."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "non-current liabilities",
+      "fair value option"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm3-q-048",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting and disclosures related to non-current liabilities",
+    "difficulty": "medium",
+    "estimatedSeconds": 65,
+    "stem": "A company's non-current liabilities disclosure note includes a maturity schedule showing that 60% of its total long-term debt matures within the next 18 months. This disclosure is most useful to an analyst for assessing:",
+    "choices": [
+      "the company's historical revenue recognition policy.",
+      "refinancing risk concentrated in the near term.",
+      "the company's inventory valuation method."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "A maturity schedule showing a large concentration of long-term debt coming due in the near term signals elevated refinancing risk, since the company must roll over or repay a large obligation on a compressed timeline.",
+    "incorrectChoiceExplanations": [
+      "A debt maturity schedule addresses refinancing timing, not revenue recognition policy, which is unrelated.",
+      "Correct: A maturity schedule showing a large concentration of long-term debt coming due in the near term signals elevated refinancing risk, since the company must roll over or repay a large obligation on a compressed timeline.",
+      "A debt maturity schedule is unrelated to inventory valuation method disclosures."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "non-current liabilities",
+      "maturity schedule",
+      "refinancing risk"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm3-q-049",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "calculate and interpret common-size balance sheets and related financial ratios",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "A company reports total long-term debt of $15,000,000, total debt (short-term plus long-term) of $18,000,000, and total equity of $22,000,000. The long-term debt-to-equity ratio is closest to:",
+    "choices": [
+      "0.82.",
+      "1.47.",
+      "0.68."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Long-term debt-to-equity = $15,000,000 ÷ $22,000,000 ≈ 0.68.",
+    "incorrectChoiceExplanations": [
+      "This is the debt-to-equity ratio using total debt, not the long-term debt-to-equity ratio, which uses only long-term debt in the numerator.",
+      "This inverts the ratio; long-term debt-to-equity divides long-term debt by equity, not the reverse.",
+      "Correct: Long-term debt-to-equity = $15,000,000 ÷ $22,000,000 ≈ 0.68."
+    ],
+    "relatedFormulaIds": [
+      "long-term-debt-to-equity-fsa-03"
+    ],
+    "tags": [
+      "solvency ratio",
+      "calculation"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm3-q-050",
+    "lessonId": "fsa-03-analyzing-balance-sheets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "calculate and interpret common-size balance sheets and related financial ratios",
+    "difficulty": "hard",
+    "estimatedSeconds": 70,
+    "stem": "A company's cash ratio is well below its quick ratio, which in turn is below its current ratio. This ordering of the three liquidity ratios is best described as:",
+    "choices": [
+      "expected, since each ratio progressively narrows the numerator to only more liquid asset categories.",
+      "unusual, since all three liquidity ratios should normally be equal.",
+      "evidence of an accounting error, since liquidity ratios should not differ from one another."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Because the current ratio includes all current assets, the quick ratio excludes inventory, and the cash ratio further excludes receivables, a descending order from current to quick to cash ratio is the expected pattern, not an anomaly.",
+    "incorrectChoiceExplanations": [
+      "Correct: Because the current ratio includes all current assets, the quick ratio excludes inventory, and the cash ratio further excludes receivables, a descending order from current to quick to cash ratio is the expected pattern, not an anomaly.",
+      "The three ratios are not expected to be equal; each successively excludes a less-liquid asset category from the numerator, so a descending order is the normal pattern.",
+      "A descending pattern from current to quick to cash ratio is the expected, normal relationship, not an indication of error."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "liquidity ratio",
+      "analyst interpretation"
+    ],
+    "supplementary": true
+  }
+]

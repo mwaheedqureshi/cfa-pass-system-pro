@@ -2,7 +2,7 @@ export type OfficialFsaModule={id:string;order:number;title:string;studyLessonId
 export const officialFsaModules:OfficialFsaModule[]=[
  {id:'FSA-LM1',order:1,title:'Introduction to Financial Statement Analysis',studyLessonId:'fsa-01-introduction-to-financial-statement-analysis',status:'verified'},
  {id:'FSA-LM2',order:2,title:'Analyzing Income Statements',studyLessonId:'fsa-02-analyzing-income-statements',status:'verified'},
- {id:'FSA-LM3',order:3,title:'Analyzing Balance Sheets',studyLessonId:null,status:'pending'},
+ {id:'FSA-LM3',order:3,title:'Analyzing Balance Sheets',studyLessonId:'fsa-03-analyzing-balance-sheets',status:'verified'},
  {id:'FSA-LM4',order:4,title:'Analyzing Statements of Cash Flows I',studyLessonId:null,status:'pending'},
  {id:'FSA-LM5',order:5,title:'Analyzing Statements of Cash Flows II',studyLessonId:null,status:'pending'},
  {id:'FSA-LM6',order:6,title:'Analysis of Inventories',studyLessonId:null,status:'pending'},

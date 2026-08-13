@@ -21,6 +21,7 @@ import economicsQuestions07 from '../data/questions/economics-07-capital-flows-a
 import economicsQuestions08 from '../data/questions/economics-08-exchange-rate-calculations.json';
 import fsaQuestions01 from '../data/questions/fsa-01-introduction-to-financial-statement-analysis.json';
 import fsaQuestions02 from '../data/questions/fsa-02-analyzing-income-statements.json';
+import fsaQuestions03 from '../data/questions/fsa-03-analyzing-balance-sheets.json';
 import {ComprehensiveAssessment} from '../components/practice/ComprehensiveAssessment';
 import {EconomicsComprehensiveAssessment} from '../components/practice/EconomicsComprehensiveAssessment';
 import {ChapterExam} from '../components/practice/ChapterExam';
@@ -30,7 +31,7 @@ import type {Question} from '../data/types';
 
 const quantitative=[...returnsQuestions,...benchmarkQuestions,...tvmQuestions,...statisticsQuestions,...probabilityQuestions,...distributionQuestions,...samplingQuestions,...hypothesisQuestions,...regressionQuestions,...simulationQuestions,...dataAiQuestions] as unknown as Question[];
 const economics=[...economicsQuestions,...economicsQuestions02,...economicsQuestions03,...economicsQuestions04,...economicsQuestions05,...economicsQuestions06,...economicsQuestions07,...economicsQuestions08] as Question[];
-const fsa=[...fsaQuestions01,...fsaQuestions02] as unknown as Question[];
+const fsa=[...fsaQuestions01,...fsaQuestions02,...fsaQuestions03] as unknown as Question[];
 const questions=[...quantitative,...economics,...fsa] as Question[];
 
 export function PracticePage(){
