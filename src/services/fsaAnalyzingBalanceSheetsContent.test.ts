@@ -79,18 +79,19 @@ describe('FSA analyzing balance sheets content', () => {
   expect(lesson?.formulaIds).toHaveLength(9);
   expect(lesson?.topicId).toBe('financial-statement-analysis');
  });
- it('preserves FSA-LM1 through FSA-LM3 while recognizing LM4 as the next verified module', () => {
-  expect(verifiedOfficialFsaModules.map(m => m.id).sort()).toEqual(['FSA-LM1', 'FSA-LM2', 'FSA-LM3', 'FSA-LM4', 'FSA-LM5']);
+ it('preserves earlier FSA modules while recognizing LM6 as verified', () => {
+  expect(verifiedOfficialFsaModules.map(m => m.id).sort()).toEqual(['FSA-LM1', 'FSA-LM2', 'FSA-LM3', 'FSA-LM4', 'FSA-LM5', 'FSA-LM6']);
   const lm3 = officialFsaModules.find(m => m.id === 'FSA-LM3');
   expect(lm3?.studyLessonId).toBe('fsa-03-analyzing-balance-sheets');
   expect(lm3?.status).toBe('verified');
-  expect(officialFsaModules.filter(m => m.status === 'pending')).toHaveLength(7);
+  expect(officialFsaModules.filter(m => m.status === 'pending')).toHaveLength(6);
   expect(fsaLessonIds.slice().sort()).toEqual([
    'fsa-01-introduction-to-financial-statement-analysis',
    'fsa-02-analyzing-income-statements',
    'fsa-03-analyzing-balance-sheets',
    'fsa-04-analyzing-statements-of-cash-flows-i',
    'fsa-05-analyzing-statements-of-cash-flows-ii',
+   'fsa-06-analysis-of-inventories',
   ]);
  });
 });

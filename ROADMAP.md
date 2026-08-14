@@ -25,6 +25,7 @@ Roadmap entries define release boundaries, not permission to implement later wor
 | v1.8.3 | FSA Module Production Sprint 3 | Complete: FSA-LM3 Analyzing Balance Sheets produced and verified — 40 official + 10 supplementary questions and flashcards, 9 formulas (an organic overage over its 6-formula mapping-stage target, matching the official source's 7 individually named balance-sheet ratios), 2 interactive tools |
 | v1.8.4 | FSA Module Production Sprint 4 | Complete: FSA-LM4 Analyzing Statements of Cash Flows I — 45 official + 10 supplementary questions/flashcards, 8 formulas, 10 exhibits, 2 tools |
 | v1.8.5 | FSA Module Production Sprint 5 | Complete: FSA-LM5 Analyzing Statements of Cash Flows II — 35 official + 10 supplementary questions/flashcards, 16 formulas/metrics, 7 exhibits, 1 tool |
+| v1.8.6 | FSA Module Production Sprint 6 | Complete: FSA-LM6 Analysis of Inventories — 40 official + 10 supplementary questions/flashcards, 8 formulas, 8 exhibits, 2 tools |
 | v1.8.6 | FSA Module Production Sprint 6 | FSA-LM6 Analysis of Inventories |
 | v1.8.7 | FSA Module Production Sprint 7 | FSA-LM7 Analysis of Long-Term Assets |
 | v1.8.8 | FSA Module Production Sprint 8 | FSA-LM8 Topics in Long-Term Liabilities and Equity |

@@ -1,0 +1,154 @@
+[
+  {
+    "id": "nrv-fsa-06",
+    "name": "Net realisable value",
+    "expression": "NRV = Estimated selling price − Completion costs − Selling costs",
+    "meaning": "A source-defined inventory measurement or analysis relationship.",
+    "variables": {
+      "COGS": "Cost of goods sold",
+      "NRV": "Net realisable value"
+    },
+    "intuition": "Connects inventory cost allocation or carrying value with reported performance and comparison.",
+    "workedExample": "See the corresponding numbered worked example in the lesson.",
+    "commonMistake": "Applying a framework rule or cost-trend direction without first identifying the method and facts.",
+    "relatedLessonId": "fsa-06-analysis-of-inventories",
+    "relatedLearningOutcome": "describe the measurement of inventory at the lower of cost and net realisable value and its implications for financial statements and ratios",
+    "tags": [
+      "inventory",
+      "financial statement analysis"
+    ]
+  },
+  {
+    "id": "market-bounds-fsa-06",
+    "name": "US GAAP market bounds",
+    "expression": "Floor = NRV − Normal profit margin; Market = median(Floor, Replacement cost, NRV)",
+    "meaning": "A source-defined inventory measurement or analysis relationship.",
+    "variables": {
+      "COGS": "Cost of goods sold",
+      "NRV": "Net realisable value"
+    },
+    "intuition": "Connects inventory cost allocation or carrying value with reported performance and comparison.",
+    "workedExample": "See the corresponding numbered worked example in the lesson.",
+    "commonMistake": "Applying a framework rule or cost-trend direction without first identifying the method and facts.",
+    "relatedLessonId": "fsa-06-analysis-of-inventories",
+    "relatedLearningOutcome": "describe the measurement of inventory at the lower of cost and net realisable value and its implications for financial statements and ratios",
+    "tags": [
+      "inventory",
+      "financial statement analysis"
+    ]
+  },
+  {
+    "id": "goods-available-fsa-06",
+    "name": "Cost of goods available",
+    "expression": "Beginning inventory + Purchases",
+    "meaning": "A source-defined inventory measurement or analysis relationship.",
+    "variables": {
+      "COGS": "Cost of goods sold",
+      "NRV": "Net realisable value"
+    },
+    "intuition": "Connects inventory cost allocation or carrying value with reported performance and comparison.",
+    "workedExample": "See the corresponding numbered worked example in the lesson.",
+    "commonMistake": "Applying a framework rule or cost-trend direction without first identifying the method and facts.",
+    "relatedLessonId": "fsa-06-analysis-of-inventories",
+    "relatedLearningOutcome": "calculate and explain how inflation and deflation of inventory costs affect the financial statements and ratios of companies that use different inventory valuation methods",
+    "tags": [
+      "inventory",
+      "financial statement analysis"
+    ]
+  },
+  {
+    "id": "cogs-inventory-fsa-06",
+    "name": "Cost of goods sold",
+    "expression": "COGS = Cost of goods available − Ending inventory",
+    "meaning": "A source-defined inventory measurement or analysis relationship.",
+    "variables": {
+      "COGS": "Cost of goods sold",
+      "NRV": "Net realisable value"
+    },
+    "intuition": "Connects inventory cost allocation or carrying value with reported performance and comparison.",
+    "workedExample": "See the corresponding numbered worked example in the lesson.",
+    "commonMistake": "Applying a framework rule or cost-trend direction without first identifying the method and facts.",
+    "relatedLessonId": "fsa-06-analysis-of-inventories",
+    "relatedLearningOutcome": "calculate and explain how inflation and deflation of inventory costs affect the financial statements and ratios of companies that use different inventory valuation methods",
+    "tags": [
+      "inventory",
+      "financial statement analysis"
+    ]
+  },
+  {
+    "id": "weighted-average-fsa-06",
+    "name": "Weighted-average unit cost",
+    "expression": "Cost of goods available ÷ Units available",
+    "meaning": "A source-defined inventory measurement or analysis relationship.",
+    "variables": {
+      "COGS": "Cost of goods sold",
+      "NRV": "Net realisable value"
+    },
+    "intuition": "Connects inventory cost allocation or carrying value with reported performance and comparison.",
+    "workedExample": "See the corresponding numbered worked example in the lesson.",
+    "commonMistake": "Applying a framework rule or cost-trend direction without first identifying the method and facts.",
+    "relatedLessonId": "fsa-06-analysis-of-inventories",
+    "relatedLearningOutcome": "calculate and explain how inflation and deflation of inventory costs affect the financial statements and ratios of companies that use different inventory valuation methods",
+    "tags": [
+      "inventory",
+      "financial statement analysis"
+    ]
+  },
+  {
+    "id": "lifo-reserve-fsa-06",
+    "name": "LIFO reserve conversion",
+    "expression": "Reserve = FIFO inventory − LIFO inventory; FIFO COGS = LIFO COGS − Change in reserve",
+    "meaning": "A source-defined inventory measurement or analysis relationship.",
+    "variables": {
+      "COGS": "Cost of goods sold",
+      "NRV": "Net realisable value"
+    },
+    "intuition": "Connects inventory cost allocation or carrying value with reported performance and comparison.",
+    "workedExample": "See the corresponding numbered worked example in the lesson.",
+    "commonMistake": "Applying a framework rule or cost-trend direction without first identifying the method and facts.",
+    "relatedLessonId": "fsa-06-analysis-of-inventories",
+    "relatedLearningOutcome": "calculate and explain how inflation and deflation of inventory costs affect the financial statements and ratios of companies that use different inventory valuation methods",
+    "tags": [
+      "inventory",
+      "financial statement analysis"
+    ]
+  },
+  {
+    "id": "inventory-turnover-fsa-06",
+    "name": "Inventory turnover and days",
+    "expression": "Turnover = COGS ÷ Average inventory; Days inventory = 365 ÷ Turnover",
+    "meaning": "A source-defined inventory measurement or analysis relationship.",
+    "variables": {
+      "COGS": "Cost of goods sold",
+      "NRV": "Net realisable value"
+    },
+    "intuition": "Connects inventory cost allocation or carrying value with reported performance and comparison.",
+    "workedExample": "See the corresponding numbered worked example in the lesson.",
+    "commonMistake": "Applying a framework rule or cost-trend direction without first identifying the method and facts.",
+    "relatedLessonId": "fsa-06-analysis-of-inventories",
+    "relatedLearningOutcome": "describe the presentation and disclosures relating to inventories and explain issues that analysts should consider when examining a company's inventory disclosures and other sources of information",
+    "tags": [
+      "inventory",
+      "financial statement analysis"
+    ]
+  },
+  {
+    "id": "gross-margin-fsa-06",
+    "name": "Gross profit margin",
+    "expression": "(Revenue − COGS) ÷ Revenue",
+    "meaning": "A source-defined inventory measurement or analysis relationship.",
+    "variables": {
+      "COGS": "Cost of goods sold",
+      "NRV": "Net realisable value"
+    },
+    "intuition": "Connects inventory cost allocation or carrying value with reported performance and comparison.",
+    "workedExample": "See the corresponding numbered worked example in the lesson.",
+    "commonMistake": "Applying a framework rule or cost-trend direction without first identifying the method and facts.",
+    "relatedLessonId": "fsa-06-analysis-of-inventories",
+    "relatedLearningOutcome": "describe the presentation and disclosures relating to inventories and explain issues that analysts should consider when examining a company's inventory disclosures and other sources of information",
+    "tags": [
+      "inventory",
+      "financial statement analysis"
+    ]
+  }
+]

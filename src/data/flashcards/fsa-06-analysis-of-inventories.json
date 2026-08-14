@@ -1,0 +1,612 @@
+[
+  {
+    "id": "fsa-lm6-fc-001",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "Under IFRS, inventory cost is 120 and NRV is 112. Carrying value is:",
+    "back": "112. Lower of cost and NRV gives 112.",
+    "officialLearningOutcome": "describe the measurement of inventory at the lower of cost and net realisable value and its implications for financial statements and ratios",
+    "tags": [
+      "inventory analysis",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-002",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "NRV is best defined as estimated selling price less:",
+    "back": "completion and selling costs. NRV deducts completion and selling costs.",
+    "officialLearningOutcome": "describe the measurement of inventory at the lower of cost and net realisable value and its implications for financial statements and ratios",
+    "tags": [
+      "inventory analysis",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-003",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "An IFRS inventory write-down is later followed by an NRV recovery. The company should:",
+    "back": "reverse up to the original write-down. IFRS requires a limited reversal.",
+    "officialLearningOutcome": "describe the measurement of inventory at the lower of cost and net realisable value and its implications for financial statements and ratios",
+    "tags": [
+      "inventory analysis",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-004",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "US GAAP treatment of a previous inventory write-down is to:",
+    "back": "prohibit reversal. US GAAP prohibits reversal.",
+    "officialLearningOutcome": "describe the measurement of inventory at the lower of cost and net realisable value and its implications for financial statements and ratios",
+    "tags": [
+      "inventory analysis",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-005",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "For US GAAP inventory not measured using LIFO or retail, the comparison is lower of cost and:",
+    "back": "NRV. Non-LIFO/non-retail inventory uses NRV.",
+    "officialLearningOutcome": "describe the measurement of inventory at the lower of cost and net realisable value and its implications for financial statements and ratios",
+    "tags": [
+      "inventory analysis",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-006",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "For US GAAP LIFO inventory, market cannot exceed:",
+    "back": "NRV. NRV is the ceiling.",
+    "officialLearningOutcome": "describe the measurement of inventory at the lower of cost and net realisable value and its implications for financial statements and ratios",
+    "tags": [
+      "inventory analysis",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-007",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "For US GAAP LIFO inventory, the market floor is:",
+    "back": "NRV less normal profit margin. The floor preserves a normal profit margin.",
+    "officialLearningOutcome": "describe the measurement of inventory at the lower of cost and net realisable value and its implications for financial statements and ratios",
+    "tags": [
+      "inventory analysis",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-008",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "NRV is 90, normal profit is 12, and replacement cost is 70. Market is:",
+    "back": "78. Replacement cost is raised to the 78 floor.",
+    "officialLearningOutcome": "describe the measurement of inventory at the lower of cost and net realisable value and its implications for financial statements and ratios",
+    "tags": [
+      "inventory analysis",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-009",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "Cost is 100 and bounded market is 92. The write-down is:",
+    "back": "8. Lower of cost or market gives an 8 loss.",
+    "officialLearningOutcome": "describe the measurement of inventory at the lower of cost and net realisable value and its implications for financial statements and ratios",
+    "tags": [
+      "inventory analysis",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-010",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "An inventory write-down generally causes current assets and profit to:",
+    "back": "decrease. The loss lowers inventory and earnings.",
+    "officialLearningOutcome": "describe the measurement of inventory at the lower of cost and net realisable value and its implications for financial statements and ratios",
+    "tags": [
+      "inventory analysis",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-011",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "Immediately after a write-down, inventory turnover may mechanically:",
+    "back": "increase. The average inventory denominator is reduced.",
+    "officialLearningOutcome": "describe the measurement of inventory at the lower of cost and net realisable value and its implications for financial statements and ratios",
+    "tags": [
+      "inventory analysis",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-012",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "A write-down-driven increase in turnover should be interpreted as:",
+    "back": "not necessarily operational improvement. Accounting reduction can cause the increase.",
+    "officialLearningOutcome": "describe the measurement of inventory at the lower of cost and net realisable value and its implications for financial statements and ratios",
+    "tags": [
+      "inventory analysis",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-013",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "Inventory with cost 74 and NRV 81 is carried under IFRS at:",
+    "back": "74. The lower amount is cost.",
+    "officialLearningOutcome": "describe the measurement of inventory at the lower of cost and net realisable value and its implications for financial statements and ratios",
+    "tags": [
+      "inventory analysis",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-014",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "IFRS NRV assessment is generally performed:",
+    "back": "item by item or for similar related groups. The grouping must preserve relevant similarity.",
+    "officialLearningOutcome": "describe the measurement of inventory at the lower of cost and net realisable value and its implications for financial statements and ratios",
+    "tags": [
+      "inventory analysis",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-015",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "A write-down expense is generally recognized in:",
+    "back": "profit or loss, often in COGS. The inventory loss is an income-statement expense.",
+    "officialLearningOutcome": "describe the measurement of inventory at the lower of cost and net realisable value and its implications for financial statements and ratios",
+    "tags": [
+      "inventory analysis",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-016",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "Goods available cost 1,000 and ending inventory 240 imply COGS of:",
+    "back": "760. COGS equals goods available less ending inventory.",
+    "officialLearningOutcome": "calculate and explain how inflation and deflation of inventory costs affect the financial statements and ratios of companies that use different inventory valuation methods",
+    "tags": [
+      "inventory analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-017",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "Beginning inventory 180 and purchases 720 give goods available of:",
+    "back": "900. Add beginning inventory and purchases.",
+    "officialLearningOutcome": "calculate and explain how inflation and deflation of inventory costs affect the financial statements and ratios of companies that use different inventory valuation methods",
+    "tags": [
+      "inventory analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-018",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "In rising prices, FIFO COGS relative to LIFO COGS is normally:",
+    "back": "lower. FIFO expenses older lower costs.",
+    "officialLearningOutcome": "calculate and explain how inflation and deflation of inventory costs affect the financial statements and ratios of companies that use different inventory valuation methods",
+    "tags": [
+      "inventory analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-019",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "In rising prices, FIFO ending inventory relative to LIFO ending inventory is normally:",
+    "back": "higher. FIFO leaves recent higher costs in inventory.",
+    "officialLearningOutcome": "calculate and explain how inflation and deflation of inventory costs affect the financial statements and ratios of companies that use different inventory valuation methods",
+    "tags": [
+      "inventory analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-020",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "In rising prices, FIFO gross profit relative to LIFO gross profit is normally:",
+    "back": "higher. Lower FIFO COGS raises gross profit.",
+    "officialLearningOutcome": "calculate and explain how inflation and deflation of inventory costs affect the financial statements and ratios of companies that use different inventory valuation methods",
+    "tags": [
+      "inventory analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-021",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "In falling prices, FIFO relative to LIFO normally reports:",
+    "back": "higher COGS. FIFO expenses older higher costs during deflation.",
+    "officialLearningOutcome": "calculate and explain how inflation and deflation of inventory costs affect the financial statements and ratios of companies that use different inventory valuation methods",
+    "tags": [
+      "inventory analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-022",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "In falling prices, FIFO ending inventory is normally:",
+    "back": "lower than LIFO inventory. Recent lower costs remain under FIFO.",
+    "officialLearningOutcome": "calculate and explain how inflation and deflation of inventory costs affect the financial statements and ratios of companies that use different inventory valuation methods",
+    "tags": [
+      "inventory analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-023",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "Weighted-average unit cost equals:",
+    "back": "goods available cost divided by units available. It averages the cost pool across available units.",
+    "officialLearningOutcome": "calculate and explain how inflation and deflation of inventory costs affect the financial statements and ratios of companies that use different inventory valuation methods",
+    "tags": [
+      "inventory analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-024",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "Three hundred units cost 3,600 in total. Weighted-average unit cost is:",
+    "back": "12. 3,600 divided by 300 is 12.",
+    "officialLearningOutcome": "calculate and explain how inflation and deflation of inventory costs affect the financial statements and ratios of companies that use different inventory valuation methods",
+    "tags": [
+      "inventory analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-025",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "Average cost is 12 and 180 units sell. Weighted-average COGS is:",
+    "back": "2,160. Multiply units sold by average cost.",
+    "officialLearningOutcome": "calculate and explain how inflation and deflation of inventory costs affect the financial statements and ratios of companies that use different inventory valuation methods",
+    "tags": [
+      "inventory analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-026",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "LIFO is permitted under:",
+    "back": "US GAAP but not IFRS. IFRS does not permit LIFO.",
+    "officialLearningOutcome": "calculate and explain how inflation and deflation of inventory costs affect the financial statements and ratios of companies that use different inventory valuation methods",
+    "tags": [
+      "inventory analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-027",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "A cost-flow assumption:",
+    "back": "need not match physical movement. It allocates cost, not necessarily physical units.",
+    "officialLearningOutcome": "calculate and explain how inflation and deflation of inventory costs affect the financial statements and ratios of companies that use different inventory valuation methods",
+    "tags": [
+      "inventory analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-028",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "FIFO inventory 620 and LIFO inventory 530 imply a LIFO reserve of:",
+    "back": "90. Reserve equals FIFO inventory less LIFO inventory.",
+    "officialLearningOutcome": "calculate and explain how inflation and deflation of inventory costs affect the financial statements and ratios of companies that use different inventory valuation methods",
+    "tags": [
+      "inventory analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-029",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "LIFO COGS is 800 and the reserve increases by 18. Estimated FIFO COGS is:",
+    "back": "782. Subtract the reserve increase from LIFO COGS.",
+    "officialLearningOutcome": "calculate and explain how inflation and deflation of inventory costs affect the financial statements and ratios of companies that use different inventory valuation methods",
+    "tags": [
+      "inventory analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-030",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "A falling LIFO reserve caused by selling more units than purchased may indicate:",
+    "back": "LIFO liquidation. Old layers are being drawn down.",
+    "officialLearningOutcome": "calculate and explain how inflation and deflation of inventory costs affect the financial statements and ratios of companies that use different inventory valuation methods",
+    "tags": [
+      "inventory analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-031",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "During rising prices, LIFO liquidation usually makes current gross profit:",
+    "back": "temporarily higher. Old low costs enter COGS.",
+    "officialLearningOutcome": "calculate and explain how inflation and deflation of inventory costs affect the financial statements and ratios of companies that use different inventory valuation methods",
+    "tags": [
+      "inventory analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-032",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "A LIFO reserve of 80 and tax rate of 25% imply an approximate FIFO equity increase of:",
+    "back": "60. After-tax reserve is 80 × 75%.",
+    "officialLearningOutcome": "calculate and explain how inflation and deflation of inventory costs affect the financial statements and ratios of companies that use different inventory valuation methods",
+    "tags": [
+      "inventory analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-033",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "When input costs and quantities are stable, cost-method differences generally:",
+    "back": "narrow. Stable costs reduce layer differences.",
+    "officialLearningOutcome": "calculate and explain how inflation and deflation of inventory costs affect the financial statements and ratios of companies that use different inventory valuation methods",
+    "tags": [
+      "inventory analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-034",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "The method that leaves recent purchase costs in ending inventory is:",
+    "back": "FIFO. FIFO expenses the oldest costs first.",
+    "officialLearningOutcome": "calculate and explain how inflation and deflation of inventory costs affect the financial statements and ratios of companies that use different inventory valuation methods",
+    "tags": [
+      "inventory analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-035",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "The method that sends recent purchase costs to COGS is:",
+    "back": "LIFO. LIFO expenses the latest costs first.",
+    "officialLearningOutcome": "calculate and explain how inflation and deflation of inventory costs affect the financial statements and ratios of companies that use different inventory valuation methods",
+    "tags": [
+      "inventory analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-036",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "Inventory turnover is calculated as:",
+    "back": "COGS divided by average inventory. The activity ratio relates sales cost to average stock.",
+    "officialLearningOutcome": "describe the presentation and disclosures relating to inventories and explain issues that analysts should consider when examining a company's inventory disclosures and other sources of information",
+    "tags": [
+      "inventory analysis",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-037",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "COGS of 900 and average inventory of 150 give turnover of:",
+    "back": "6.0 times. 900 divided by 150 is 6.",
+    "officialLearningOutcome": "describe the presentation and disclosures relating to inventories and explain issues that analysts should consider when examining a company's inventory disclosures and other sources of information",
+    "tags": [
+      "inventory analysis",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-038",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "Turnover of 5 implies days inventory, using 365 days, of:",
+    "back": "73 days. 365 divided by 5 is 73.",
+    "officialLearningOutcome": "describe the presentation and disclosures relating to inventories and explain issues that analysts should consider when examining a company's inventory disclosures and other sources of information",
+    "tags": [
+      "inventory analysis",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-039",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "Revenue 1,000 and COGS 700 give gross profit margin of:",
+    "back": "30%. Gross profit is 300, or 30% of revenue.",
+    "officialLearningOutcome": "describe the presentation and disclosures relating to inventories and explain issues that analysts should consider when examining a company's inventory disclosures and other sources of information",
+    "tags": [
+      "inventory analysis",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-040",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "Finished goods rising far faster than sales most directly warrants concern about:",
+    "back": "weak demand or obsolescence. Unsold finished stock can signal demand trouble.",
+    "officialLearningOutcome": "describe the presentation and disclosures relating to inventories and explain issues that analysts should consider when examining a company's inventory disclosures and other sources of information",
+    "tags": [
+      "inventory analysis",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm6-fc-041",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "A sharp rise in raw materials may be favorable when it reflects:",
+    "back": "planned production growth. Composition needs operating context.",
+    "officialLearningOutcome": "describe the presentation and disclosures relating to inventories and explain issues that analysts should consider when examining a company's inventory disclosures and other sources of information",
+    "tags": [
+      "inventory analysis",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm6-fc-042",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "Inventory pledged as collateral most directly affects analysis of:",
+    "back": "financial flexibility. Pledged assets constrain financing choices.",
+    "officialLearningOutcome": "describe the presentation and disclosures relating to inventories and explain issues that analysts should consider when examining a company's inventory disclosures and other sources of information",
+    "tags": [
+      "inventory analysis",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm6-fc-043",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "Recurring inventory write-downs may indicate:",
+    "back": "weak forecasting or purchasing controls. Repeated losses warrant process scrutiny.",
+    "officialLearningOutcome": "describe the presentation and disclosures relating to inventories and explain issues that analysts should consider when examining a company's inventory disclosures and other sources of information",
+    "tags": [
+      "inventory analysis",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm6-fc-044",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "For peer comparison, a LIFO reporter should most directly be normalized using:",
+    "back": "the LIFO reserve and its change. The reserve adjusts inventory and COGS.",
+    "officialLearningOutcome": "describe the presentation and disclosures relating to inventories and explain issues that analysts should consider when examining a company's inventory disclosures and other sources of information",
+    "tags": [
+      "inventory analysis",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm6-fc-045",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "The inventory note should disclose the accounting policies used to:",
+    "back": "measure inventory. Measurement policies are core inventory disclosures.",
+    "officialLearningOutcome": "describe the presentation and disclosures relating to inventories and explain issues that analysts should consider when examining a company's inventory disclosures and other sources of information",
+    "tags": [
+      "inventory analysis",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm6-fc-046",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "A lower days-in-inventory figure is favorable only after checking:",
+    "back": "stockouts, write-downs, and method differences. Low days can reflect adverse causes.",
+    "officialLearningOutcome": "describe the presentation and disclosures relating to inventories and explain issues that analysts should consider when examining a company's inventory disclosures and other sources of information",
+    "tags": [
+      "inventory analysis",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm6-fc-047",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "The best inventory analysis combines statements and notes with:",
+    "back": "MD&A, industry data, and operating context. External and management evidence explains movements.",
+    "officialLearningOutcome": "describe the presentation and disclosures relating to inventories and explain issues that analysts should consider when examining a company's inventory disclosures and other sources of information",
+    "tags": [
+      "inventory analysis",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm6-fc-048",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "A rise in turnover caused solely by lower average inventory after a write-down means efficiency:",
+    "back": "has not necessarily improved. The denominator change is mechanical.",
+    "officialLearningOutcome": "describe the presentation and disclosures relating to inventories and explain issues that analysts should consider when examining a company's inventory disclosures and other sources of information",
+    "tags": [
+      "inventory analysis",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm6-fc-049",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "Comparing FIFO and LIFO gross margins without normalization during inflation will tend to make FIFO margin appear:",
+    "back": "higher. FIFO uses older lower costs in COGS.",
+    "officialLearningOutcome": "describe the presentation and disclosures relating to inventories and explain issues that analysts should consider when examining a company's inventory disclosures and other sources of information",
+    "tags": [
+      "inventory analysis",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm6-fc-050",
+    "lessonId": "fsa-06-analysis-of-inventories",
+    "topicId": "financial-statement-analysis",
+    "front": "The strongest warning of a margin boost from old cost layers is:",
+    "back": "declining quantities and a falling LIFO reserve. Those facts point to a LIFO liquidation.",
+    "officialLearningOutcome": "describe the presentation and disclosures relating to inventories and explain issues that analysts should consider when examining a company's inventory disclosures and other sources of information",
+    "tags": [
+      "inventory analysis",
+      "LOS 3"
+    ],
+    "supplementary": true
+  }
+]

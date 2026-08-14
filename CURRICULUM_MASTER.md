@@ -15,6 +15,6 @@ This document tracks mapping, content, verification, and freeze state without tr
 | 9 | Alternative Investments | Pending mapping | 0 | Pending | Pending | Pending | No | 0 / 0 / 0 / 0 | Available locally; unmapped |
 | 10 | Portfolio Management | Pending mapping | 0 | Pending | Pending | Pending | No | 0 / 0 / 0 / 0 | Available locally; unmapped |
 
-Current release: **v1.8.5 — FSA Module Production Sprint 5 (FSA-LM5 Analyzing Statements of Cash Flows II, produced and verified — 5 of 12 official FSA modules, 41.7%)**.
+Current release: **v1.8.6 — FSA Module Production Sprint 6 (FSA-LM6 Analysis of Inventories, produced and verified — 6 of 12 official FSA modules, 50%)**.
 
 Next release: **FSA Module Production Sprint 6 — FSA-LM6**.
