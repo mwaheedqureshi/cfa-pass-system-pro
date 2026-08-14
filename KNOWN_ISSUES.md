@@ -62,6 +62,7 @@ Financial Statement Analysis v1.8.0 mapped all 12 official 2027 modules (FSA-LM1
 # v1.8.4 transparency notes
 
 - **KI-L21 — FSA-LM5 formula target undercount:** the mapping-stage target was 8, but direct source verification found 16 distinct useful relationships: two common-size methods, three FCFF/FCFE derivations, and eleven individually named cash-flow performance/coverage ratios. All 16 are retained; none were manufactured.
+- **KI-L22 — FSA-LM7 formula target undercount:** the mapping-stage target was 5, but the official source defines 13 distinct useful relationships across acquisition accounting, IFRS and US GAAP impairment, derecognition, and disclosure-derived PPE analysis. Collapsing the separate US GAAP screen/measurement or the three useful-life estimates would obscure tested mechanics. All 13 are retained; none belongs to LM8 or was manufactured.
 
 - **KI-L19 — FSA-LM4 2026/2027 editorial date correction:** the official 2027 module changes one illustrative transaction date from 30 September to 30 November. LOS, accounting treatment, terminology, and all numerical calculations are unchanged; normalized full-module similarity is 99.91%.
 - **KI-L20 — FSA-LM4 mock coverage is intentionally narrow:** only one item in the shared 100-question topic-wise FRA bank maps unambiguously to LM4. Broad cash-flow mentions, FCFF (LM5), impairment (LM7), and lease items were not forced into LM4.

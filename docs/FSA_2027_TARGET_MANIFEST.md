@@ -1,5 +1,7 @@
 # Financial Statement Analysis 2027 target manifest
 
+> **v1.8.7 status:** FSA-LM1 through FSA-LM7 are produced and verified; LM8-LM12 remain mapping-only. LM7 delivered 35 official questions/flashcards, 10 supplementary items of each type, 8 original exhibits, 13 source-defined formulas/metrics, and one tool. The five-formula planning estimate was superseded by direct source extraction (KI-L22). No substantive 2026/2027 change was found.
+
 > **v1.8.6 status:** FSA-LM1 through FSA-LM6 are produced and verified; LM7-LM12 remain mapping-only. LM6 matched its targets organically: 40 official questions/flashcards, 8 formulas, and 8 original exhibits, plus 10 supplementary items of each asset type and 2 interactive tools. The 2026/2027 comparison found no substantive LOS, example, exhibit, or accounting-treatment change.
 
 > **v1.8.5 status:** FSA-LM1 through FSA-LM5 are produced and verified; LM6-LM12 remain mapping-only. LM5 delivered 35 official + 10 supplementary questions/flashcards, 7 original exhibits, 16 source-defined formulas/metrics, and one tool. Its 8-formula planning estimate was superseded because the official source individually defines 11 ratios, three FCF derivations, and two common-size methods.

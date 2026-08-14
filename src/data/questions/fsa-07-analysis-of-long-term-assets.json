@@ -1,0 +1,1182 @@
+[
+  {
+    "id": "fsa-lm7-q-001",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "compare the financial reporting of the following types of intangible assets: purchased, internally developed, and acquired in a business combination",
+    "difficulty": "hard",
+    "estimatedSeconds": 60,
+    "stem": "A separately purchased patent is initially measured at:",
+    "choices": [
+      "cost including directly attributable preparation costs.",
+      "management’s estimate of future revenue.",
+      "zero until it earns revenue."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Purchased intangibles are initially recognized at directly attributable cost.",
+    "incorrectChoiceExplanations": [
+      "Correct: Purchased intangibles are initially recognized at directly attributable cost.",
+      "Incorrect: management’s estimate of future revenue. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Incorrect: zero until it earns revenue. does not follow the applicable long-term-asset rule or analytical relationship."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm7-q-002",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "compare the financial reporting of the following types of intangible assets: purchased, internally developed, and acquired in a business combination",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Under IFRS, expenditures in the research phase are:",
+    "choices": [
+      "always capitalized.",
+      "expensed as incurred.",
+      "recorded as goodwill."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "IFRS requires research expenditure to be expensed.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: always capitalized. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Correct: IFRS requires research expenditure to be expensed.",
+      "Incorrect: recorded as goodwill. does not follow the applicable long-term-asset rule or analytical relationship."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm7-q-003",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "compare the financial reporting of the following types of intangible assets: purchased, internally developed, and acquired in a business combination",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Under IFRS, development expenditure is capitalized:",
+    "choices": [
+      "from project inception once any criterion is met.",
+      "only after commercial sales begin.",
+      "prospectively after all recognition criteria are demonstrated."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Qualifying development costs are capitalized only from the recognition date.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: from project inception once any criterion is met. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Incorrect: only after commercial sales begin. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Correct: Qualifying development costs are capitalized only from the recognition date."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm7-q-004",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "compare the financial reporting of the following types of intangible assets: purchased, internally developed, and acquired in a business combination",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "US GAAP generally treats research and development costs by:",
+    "choices": [
+      "expensing them, subject to specified software exceptions.",
+      "capitalizing all development.",
+      "recording them in OCI."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "General US GAAP treatment is expense, with software exceptions.",
+    "incorrectChoiceExplanations": [
+      "Correct: General US GAAP treatment is expense, with software exceptions.",
+      "Incorrect: capitalizing all development. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Incorrect: recording them in OCI. does not follow the applicable long-term-asset rule or analytical relationship."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm7-q-005",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "compare the financial reporting of the following types of intangible assets: purchased, internally developed, and acquired in a business combination",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Software to be sold under US GAAP is capitalized after:",
+    "choices": [
+      "the first research meeting.",
+      "technological feasibility is established.",
+      "all customer cash is collected."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Technological feasibility is the relevant threshold.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: the first research meeting. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Correct: Technological feasibility is the relevant threshold.",
+      "Incorrect: all customer cash is collected. does not follow the applicable long-term-asset rule or analytical relationship."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm7-q-006",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "compare the financial reporting of the following types of intangible assets: purchased, internally developed, and acquired in a business combination",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "An identifiable intangible acquired in a business combination is recognized at:",
+    "choices": [
+      "the acquiree’s zero book value.",
+      "the acquirer’s research cost.",
+      "fair value separately from goodwill."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Acquisition accounting recognizes identifiable intangibles at fair value.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: the acquiree’s zero book value. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Incorrect: the acquirer’s research cost. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Correct: Acquisition accounting recognizes identifiable intangibles at fair value."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm7-q-007",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "compare the financial reporting of the following types of intangible assets: purchased, internally developed, and acquired in a business combination",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Consideration is 900 and identifiable net assets are 760. Goodwill is:",
+    "choices": [
+      "140.",
+      "1,660.",
+      "760."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Goodwill is the residual 900 − 760.",
+    "incorrectChoiceExplanations": [
+      "Correct: Goodwill is the residual 900 − 760.",
+      "Incorrect: 1,660. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Incorrect: 760. does not follow the applicable long-term-asset rule or analytical relationship."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm7-q-008",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "compare the financial reporting of the following types of intangible assets: purchased, internally developed, and acquired in a business combination",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A finite-life intangible is generally:",
+    "choices": [
+      "never amortized or tested.",
+      "amortized and tested when impairment indicators exist.",
+      "revalued through revenue monthly."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Finite-life assets are allocated over useful life and tested on indication.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: never amortized or tested. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Correct: Finite-life assets are allocated over useful life and tested on indication.",
+      "Incorrect: revalued through revenue monthly. does not follow the applicable long-term-asset rule or analytical relationship."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm7-q-009",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "compare the financial reporting of the following types of intangible assets: purchased, internally developed, and acquired in a business combination",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "An indefinite-life intangible is:",
+    "choices": [
+      "amortized over exactly 40 years.",
+      "never reviewed.",
+      "not amortized but tested at least annually for impairment."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Indefinite-life classification replaces amortization with annual testing.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: amortized over exactly 40 years. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Incorrect: never reviewed. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Correct: Indefinite-life classification replaces amortization with annual testing."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm7-q-010",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "compare the financial reporting of the following types of intangible assets: purchased, internally developed, and acquired in a business combination",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Capitalizing rather than expensing a qualifying cost initially produces:",
+    "choices": [
+      "higher assets and profit.",
+      "lower assets and profit.",
+      "unchanged CFO under every classification."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Capitalization defers expense and records an asset.",
+    "incorrectChoiceExplanations": [
+      "Correct: Capitalization defers expense and records an asset.",
+      "Incorrect: lower assets and profit. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Incorrect: unchanged CFO under every classification. does not follow the applicable long-term-asset rule or analytical relationship."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm7-q-011",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "compare the financial reporting of the following types of intangible assets: purchased, internally developed, and acquired in a business combination",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Compared with capitalization, immediate expensing generally produces higher:",
+    "choices": [
+      "initial-period assets.",
+      "later-period profit after the initial period, all else equal.",
+      "initial-period CFO."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Expensing avoids later amortization or depreciation.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: initial-period assets. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Correct: Expensing avoids later amortization or depreciation.",
+      "Incorrect: initial-period CFO. does not follow the applicable long-term-asset rule or analytical relationship."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm7-q-012",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "compare the financial reporting of the following types of intangible assets: purchased, internally developed, and acquired in a business combination",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Internally generated brands are generally not recognized because:",
+    "choices": [
+      "they lack any economic value.",
+      "all brands are financial assets.",
+      "their cost cannot be distinguished reliably from developing the business overall."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Recognition and reliable-measurement constraints prevent capitalization.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: they lack any economic value. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Incorrect: all brands are financial assets. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Correct: Recognition and reliable-measurement constraints prevent capitalization."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm7-q-013",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "compare the financial reporting of the following types of intangible assets: purchased, internally developed, and acquired in a business combination",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Training expenditure related to a new patent is most likely:",
+    "choices": [
+      "expensed.",
+      "included in patent cost.",
+      "goodwill."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Training does not prepare the patent itself for intended use.",
+    "incorrectChoiceExplanations": [
+      "Correct: Training does not prepare the patent itself for intended use.",
+      "Incorrect: included in patent cost. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Incorrect: goodwill. does not follow the applicable long-term-asset rule or analytical relationship."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm7-q-014",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "compare the financial reporting of the following types of intangible assets: purchased, internally developed, and acquired in a business combination",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A development project meets IFRS criteria halfway through the year. Earlier expenditure is:",
+    "choices": [
+      "retrospectively capitalized.",
+      "not reinstated as an asset.",
+      "recorded as revenue."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Capitalization is prospective from the recognition date.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: retrospectively capitalized. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Correct: Capitalization is prospective from the recognition date.",
+      "Incorrect: recorded as revenue. does not follow the applicable long-term-asset rule or analytical relationship."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm7-q-015",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "compare the financial reporting of the following types of intangible assets: purchased, internally developed, and acquired in a business combination",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "The useful life classification of an indefinite-life intangible should be:",
+    "choices": [
+      "treated as literally infinite.",
+      "ignored after acquisition.",
+      "reassessed each reporting period."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Indefinite means no foreseeable limit and requires reassessment.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: treated as literally infinite. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Incorrect: ignored after acquisition. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Correct: Indefinite means no foreseeable limit and requires reassessment."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm7-q-016",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "difficulty": "hard",
+    "estimatedSeconds": 60,
+    "stem": "Under IFRS, recoverable amount is the higher of value in use and:",
+    "choices": [
+      "fair value less costs of disposal.",
+      "undiscounted cash flows.",
+      "historical cost."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The higher of the two valuation bases is recoverable amount.",
+    "incorrectChoiceExplanations": [
+      "Correct: The higher of the two valuation bases is recoverable amount.",
+      "Incorrect: undiscounted cash flows. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Incorrect: historical cost. does not follow the applicable long-term-asset rule or analytical relationship."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm7-q-017",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Carrying amount 100, value in use 82, and FVLCD 88 produce IFRS impairment of:",
+    "choices": [
+      "18.",
+      "12.",
+      "0."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Recoverable amount is 88; loss is 100 − 88.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 18. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Correct: Recoverable amount is 88; loss is 100 − 88.",
+      "Incorrect: 0. does not follow the applicable long-term-asset rule or analytical relationship."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm7-q-018",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "The US GAAP recoverability screen for held-for-use PPE compares carrying amount with:",
+    "choices": [
+      "value in use only.",
+      "replacement cost only.",
+      "undiscounted expected cash flows."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "US GAAP uses undiscounted cash flows as its first step.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: value in use only. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Incorrect: replacement cost only. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Correct: US GAAP uses undiscounted cash flows as its first step."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm7-q-019",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "A US GAAP asset passes the undiscounted-cash-flow screen. The impairment loss is:",
+    "choices": [
+      "zero.",
+      "carrying amount minus fair value.",
+      "undiscounted cash flows minus fair value."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Measurement occurs only after the recoverability screen fails.",
+    "incorrectChoiceExplanations": [
+      "Correct: Measurement occurs only after the recoverability screen fails.",
+      "Incorrect: carrying amount minus fair value. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Incorrect: undiscounted cash flows minus fair value. does not follow the applicable long-term-asset rule or analytical relationship."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm7-q-020",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "After a failed US GAAP recoverability screen, loss is measured using:",
+    "choices": [
+      "value in use.",
+      "fair value.",
+      "original salvage value."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The asset is written down to fair value.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: value in use. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Correct: The asset is written down to fair value.",
+      "Incorrect: original salvage value. does not follow the applicable long-term-asset rule or analytical relationship."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm7-q-021",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "An impairment loss immediately lowers:",
+    "choices": [
+      "debt and operating cash flow.",
+      "revenue and cash.",
+      "assets, profit, and equity."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The non-cash loss lowers carrying amount and earnings.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: debt and operating cash flow. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Incorrect: revenue and cash. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Correct: The non-cash loss lowers carrying amount and earnings."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm7-q-022",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "In an indirect cash-flow statement, an impairment loss is generally:",
+    "choices": [
+      "added back to net income in CFO.",
+      "an investing cash outflow.",
+      "a financing inflow."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "It reduced income without using cash.",
+    "incorrectChoiceExplanations": [
+      "Correct: It reduced income without using cash.",
+      "Incorrect: an investing cash outflow. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Incorrect: a financing inflow. does not follow the applicable long-term-asset rule or analytical relationship."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm7-q-023",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "IFRS reversal of a PPE impairment is limited to:",
+    "choices": [
+      "original historical cost regardless of depreciation.",
+      "the carrying amount that would exist without the impairment.",
+      "unlimited fair value."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The no-impairment carrying value is the ceiling.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: original historical cost regardless of depreciation. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Correct: The no-impairment carrying value is the ceiling.",
+      "Incorrect: unlimited fair value. does not follow the applicable long-term-asset rule or analytical relationship."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm7-q-024",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "US GAAP reversal of impairment for an asset held for use is:",
+    "choices": [
+      "required annually.",
+      "reported in OCI.",
+      "prohibited."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "US GAAP does not reverse held-for-use impairment.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: required annually. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Incorrect: reported in OCI. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Correct: US GAAP does not reverse held-for-use impairment."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm7-q-025",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "A held-for-sale long-lived asset ceases to be:",
+    "choices": [
+      "depreciated or amortized.",
+      "presented on the balance sheet.",
+      "tested for measurement loss."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Depreciation stops once held-for-sale criteria are met.",
+    "incorrectChoiceExplanations": [
+      "Correct: Depreciation stops once held-for-sale criteria are met.",
+      "Incorrect: presented on the balance sheet. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Incorrect: tested for measurement loss. does not follow the applicable long-term-asset rule or analytical relationship."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm7-q-026",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Sale proceeds are 70 and carrying amount is 62. Derecognition produces:",
+    "choices": [
+      "a loss of 8.",
+      "a gain of 8.",
+      "revenue of 70 with no asset removal."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Gain equals proceeds minus carrying amount.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: a loss of 8. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Correct: Gain equals proceeds minus carrying amount.",
+      "Incorrect: revenue of 70 with no asset removal. does not follow the applicable long-term-asset rule or analytical relationship."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm7-q-027",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "On sale of equipment, the investing cash inflow equals:",
+    "choices": [
+      "only the gain.",
+      "carrying amount.",
+      "total proceeds."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The entire cash receipt is investing cash flow.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: only the gain. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Incorrect: carrying amount. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Correct: The entire cash receipt is investing cash flow."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm7-q-028",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "A disposal gain in the indirect CFO reconciliation is:",
+    "choices": [
+      "deducted from net income.",
+      "added to net income.",
+      "classified as depreciation."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The investing-related gain must be removed from CFO.",
+    "incorrectChoiceExplanations": [
+      "Correct: The investing-related gain must be removed from CFO.",
+      "Incorrect: added to net income. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Incorrect: classified as depreciation. does not follow the applicable long-term-asset rule or analytical relationship."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm7-q-029",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "After an impairment, future depreciation is usually:",
+    "choices": [
+      "higher by the impairment amount.",
+      "lower because the depreciable base is lower.",
+      "unchanged by definition."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The new carrying amount establishes a lower expense base.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: higher by the impairment amount. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Correct: The new carrying amount establishes a lower expense base.",
+      "Incorrect: unchanged by definition. does not follow the applicable long-term-asset rule or analytical relationship."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm7-q-030",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "A post-impairment rise in asset turnover may be:",
+    "choices": [
+      "proof of higher unit sales.",
+      "caused by higher asset carrying amount.",
+      "mechanical rather than operational."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "A smaller denominator can raise the ratio.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: proof of higher unit sales. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Incorrect: caused by higher asset carrying amount. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Correct: A smaller denominator can raise the ratio."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm7-q-031",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "difficulty": "hard",
+    "estimatedSeconds": 60,
+    "stem": "For held-for-sale measurement, the asset is carried at the lower of carrying amount and:",
+    "choices": [
+      "fair value less costs to sell.",
+      "undiscounted cash flows.",
+      "replacement cost plus margin."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Held-for-sale measurement uses FVLCTS.",
+    "incorrectChoiceExplanations": [
+      "Correct: Held-for-sale measurement uses FVLCTS.",
+      "Incorrect: undiscounted cash flows. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Incorrect: replacement cost plus margin. does not follow the applicable long-term-asset rule or analytical relationship."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm7-q-032",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A non-current asset impairment normally has what immediate current-ratio effect?",
+    "choices": [
+      "Always increases it.",
+      "No direct effect.",
+      "Always reduces current liabilities."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Neither current assets nor current liabilities changes directly.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: Always increases it. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Correct: Neither current assets nor current liabilities changes directly.",
+      "Incorrect: Always reduces current liabilities. does not follow the applicable long-term-asset rule or analytical relationship."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm7-q-033",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Gross PPE 240 and accumulated depreciation 144 imply net PPE of:",
+    "choices": [
+      "384.",
+      "144.",
+      "96."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Net PPE is gross PPE less accumulated depreciation.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 384. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Incorrect: 144. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Correct: Net PPE is gross PPE less accumulated depreciation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm7-q-034",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Gross depreciable PPE 240 and annual depreciation 12 imply useful life of:",
+    "choices": [
+      "20 years.",
+      "12 years.",
+      "252 years."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "240 ÷ 12 is 20.",
+    "incorrectChoiceExplanations": [
+      "Correct: 240 ÷ 12 is 20.",
+      "Incorrect: 12 years. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Incorrect: 252 years. does not follow the applicable long-term-asset rule or analytical relationship."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm7-q-035",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Accumulated depreciation 144 and annual depreciation 12 imply average age of:",
+    "choices": [
+      "20 years.",
+      "12 years.",
+      "8 years."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "144 ÷ 12 is 12.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 20 years. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Correct: 144 ÷ 12 is 12.",
+      "Incorrect: 8 years. does not follow the applicable long-term-asset rule or analytical relationship."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm7-q-036",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Net PPE 96 and annual depreciation 12 imply remaining life of:",
+    "choices": [
+      "12 years.",
+      "20 years.",
+      "8 years."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "96 ÷ 12 is 8.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 12 years. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Incorrect: 20 years. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Correct: 96 ÷ 12 is 8."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm7-q-037",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Accumulated depreciation 144 and gross PPE 240 imply life elapsed of:",
+    "choices": [
+      "60%.",
+      "40%.",
+      "166.7%."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "144 ÷ 240 is 60%.",
+    "incorrectChoiceExplanations": [
+      "Correct: 144 ÷ 240 is 60%.",
+      "Incorrect: 40%. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Incorrect: 166.7%. does not follow the applicable long-term-asset rule or analytical relationship."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm7-q-038",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Revenue 500 and average net PPE 200 produce fixed-asset turnover of:",
+    "choices": [
+      "0.4 times.",
+      "2.5 times.",
+      "700 times."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "500 ÷ 200 is 2.5.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 0.4 times. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Correct: 500 ÷ 200 is 2.5.",
+      "Incorrect: 700 times. does not follow the applicable long-term-asset rule or analytical relationship."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm7-q-039",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Capex 66 and depreciation 50 produce a reinvestment ratio of:",
+    "choices": [
+      "0.76.",
+      "116.",
+      "1.32."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "66 ÷ 50 is 1.32.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 0.76. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Incorrect: 116. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Correct: 66 ÷ 50 is 1.32."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm7-q-040",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "A high fixed-asset turnover may reflect:",
+    "choices": [
+      "old or impaired assets rather than superior efficiency.",
+      "only strong pricing power.",
+      "a larger asset denominator."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Accounting age and impairment can shrink the denominator.",
+    "incorrectChoiceExplanations": [
+      "Correct: Accounting age and impairment can shrink the denominator.",
+      "Incorrect: only strong pricing power. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Incorrect: a larger asset denominator. does not follow the applicable long-term-asset rule or analytical relationship."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm7-q-041",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A longer estimated useful life, all else equal, produces:",
+    "choices": [
+      "higher annual depreciation.",
+      "lower annual depreciation and higher current profit.",
+      "no statement effect."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The same depreciable base is spread over more periods.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: higher annual depreciation. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Correct: The same depreciable base is spread over more periods.",
+      "Incorrect: no statement effect. does not follow the applicable long-term-asset rule or analytical relationship."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm7-q-042",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "The PPE note’s opening-to-closing reconciliation helps identify:",
+    "choices": [
+      "only revenue recognition.",
+      "only dividends.",
+      "additions, disposals, depreciation, impairment, and currency effects."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The roll-forward explains changes in carrying amount.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: only revenue recognition. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Incorrect: only dividends. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Correct: The roll-forward explains changes in carrying amount."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm7-q-043",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "An impairment sensitivity disclosure is most useful for assessing:",
+    "choices": [
+      "how assumption changes could reduce recoverable amount.",
+      "the legal title to inventory.",
+      "cash dividend timing."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Growth and discount-rate sensitivity reveal headroom risk.",
+    "incorrectChoiceExplanations": [
+      "Correct: Growth and discount-rate sensitivity reveal headroom risk.",
+      "Incorrect: the legal title to inventory. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Incorrect: cash dividend timing. does not follow the applicable long-term-asset rule or analytical relationship."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm7-q-044",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Capex exceeding depreciation necessarily means:",
+    "choices": [
+      "the company created value.",
+      "neither value creation nor capacity growth can be concluded without context.",
+      "all assets are new."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Replacement prices, mix, and maintenance versus expansion matter.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: the company created value. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Correct: Replacement prices, mix, and maintenance versus expansion matter.",
+      "Incorrect: all assets are new. does not follow the applicable long-term-asset rule or analytical relationship."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm7-q-045",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Land should ideally be excluded from estimated-life calculations because it is:",
+    "choices": [
+      "always impaired.",
+      "an intangible asset.",
+      "not depreciable."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Including non-depreciable land distorts life estimates.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: always impaired. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Incorrect: an intangible asset. does not follow the applicable long-term-asset rule or analytical relationship.",
+      "Correct: Including non-depreciable land distorts life estimates."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term assets",
+      "LOS 3"
+    ],
+    "supplementary": true
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "id": "goodwill-fsa-07",
+    "name": "Goodwill",
+    "expression": "Consideration − Fair value of identifiable net assets",
+    "meaning": "A source-defined long-term-asset measurement or disclosure-analysis relationship.",
+    "variables": {
+      "PPE": "Property, plant, and equipment"
+    },
+    "intuition": "Connects recognition, carrying amount, impairment, disposal, or asset-age disclosures to reported performance.",
+    "workedExample": "See the corresponding worked example in the LM7 lesson.",
+    "commonMistake": "Ignoring framework differences, non-depreciable land, mixed asset populations, or mechanical ratio effects.",
+    "relatedLessonId": "fsa-07-analysis-of-long-term-assets",
+    "relatedLearningOutcome": "compare the financial reporting of the following types of intangible assets: purchased, internally developed, and acquired in a business combination",
+    "tags": [
+      "long-term assets",
+      "FSA"
+    ]
+  },
+  {
+    "id": "recoverable-amount-fsa-07",
+    "name": "IFRS recoverable amount",
+    "expression": "max(Value in use, Fair value less costs of disposal)",
+    "meaning": "A source-defined long-term-asset measurement or disclosure-analysis relationship.",
+    "variables": {
+      "PPE": "Property, plant, and equipment"
+    },
+    "intuition": "Connects recognition, carrying amount, impairment, disposal, or asset-age disclosures to reported performance.",
+    "workedExample": "See the corresponding worked example in the LM7 lesson.",
+    "commonMistake": "Ignoring framework differences, non-depreciable land, mixed asset populations, or mechanical ratio effects.",
+    "relatedLessonId": "fsa-07-analysis-of-long-term-assets",
+    "relatedLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "tags": [
+      "long-term assets",
+      "FSA"
+    ]
+  },
+  {
+    "id": "ifrs-impairment-fsa-07",
+    "name": "IFRS impairment loss",
+    "expression": "max(0, Carrying amount − Recoverable amount)",
+    "meaning": "A source-defined long-term-asset measurement or disclosure-analysis relationship.",
+    "variables": {
+      "PPE": "Property, plant, and equipment"
+    },
+    "intuition": "Connects recognition, carrying amount, impairment, disposal, or asset-age disclosures to reported performance.",
+    "workedExample": "See the corresponding worked example in the LM7 lesson.",
+    "commonMistake": "Ignoring framework differences, non-depreciable land, mixed asset populations, or mechanical ratio effects.",
+    "relatedLessonId": "fsa-07-analysis-of-long-term-assets",
+    "relatedLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "tags": [
+      "long-term assets",
+      "FSA"
+    ]
+  },
+  {
+    "id": "us-recoverability-fsa-07",
+    "name": "US GAAP recoverability screen",
+    "expression": "Impaired if Carrying amount > Undiscounted expected cash flows",
+    "meaning": "A source-defined long-term-asset measurement or disclosure-analysis relationship.",
+    "variables": {
+      "PPE": "Property, plant, and equipment"
+    },
+    "intuition": "Connects recognition, carrying amount, impairment, disposal, or asset-age disclosures to reported performance.",
+    "workedExample": "See the corresponding worked example in the LM7 lesson.",
+    "commonMistake": "Ignoring framework differences, non-depreciable land, mixed asset populations, or mechanical ratio effects.",
+    "relatedLessonId": "fsa-07-analysis-of-long-term-assets",
+    "relatedLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "tags": [
+      "long-term assets",
+      "FSA"
+    ]
+  },
+  {
+    "id": "us-impairment-fsa-07",
+    "name": "US GAAP impairment loss",
+    "expression": "Carrying amount − Fair value, after failed screen",
+    "meaning": "A source-defined long-term-asset measurement or disclosure-analysis relationship.",
+    "variables": {
+      "PPE": "Property, plant, and equipment"
+    },
+    "intuition": "Connects recognition, carrying amount, impairment, disposal, or asset-age disclosures to reported performance.",
+    "workedExample": "See the corresponding worked example in the LM7 lesson.",
+    "commonMistake": "Ignoring framework differences, non-depreciable land, mixed asset populations, or mechanical ratio effects.",
+    "relatedLessonId": "fsa-07-analysis-of-long-term-assets",
+    "relatedLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "tags": [
+      "long-term assets",
+      "FSA"
+    ]
+  },
+  {
+    "id": "disposal-gain-fsa-07",
+    "name": "Disposal gain or loss",
+    "expression": "Proceeds − Carrying amount at disposal",
+    "meaning": "A source-defined long-term-asset measurement or disclosure-analysis relationship.",
+    "variables": {
+      "PPE": "Property, plant, and equipment"
+    },
+    "intuition": "Connects recognition, carrying amount, impairment, disposal, or asset-age disclosures to reported performance.",
+    "workedExample": "See the corresponding worked example in the LM7 lesson.",
+    "commonMistake": "Ignoring framework differences, non-depreciable land, mixed asset populations, or mechanical ratio effects.",
+    "relatedLessonId": "fsa-07-analysis-of-long-term-assets",
+    "relatedLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "tags": [
+      "long-term assets",
+      "FSA"
+    ]
+  },
+  {
+    "id": "net-ppe-fsa-07",
+    "name": "Net PPE",
+    "expression": "Gross PPE − Accumulated depreciation",
+    "meaning": "A source-defined long-term-asset measurement or disclosure-analysis relationship.",
+    "variables": {
+      "PPE": "Property, plant, and equipment"
+    },
+    "intuition": "Connects recognition, carrying amount, impairment, disposal, or asset-age disclosures to reported performance.",
+    "workedExample": "See the corresponding worked example in the LM7 lesson.",
+    "commonMistake": "Ignoring framework differences, non-depreciable land, mixed asset populations, or mechanical ratio effects.",
+    "relatedLessonId": "fsa-07-analysis-of-long-term-assets",
+    "relatedLearningOutcome": "analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets",
+    "tags": [
+      "long-term assets",
+      "FSA"
+    ]
+  },
+  {
+    "id": "useful-life-fsa-07",
+    "name": "Estimated useful life",
+    "expression": "Gross depreciable PPE ÷ Annual depreciation",
+    "meaning": "A source-defined long-term-asset measurement or disclosure-analysis relationship.",
+    "variables": {
+      "PPE": "Property, plant, and equipment"
+    },
+    "intuition": "Connects recognition, carrying amount, impairment, disposal, or asset-age disclosures to reported performance.",
+    "workedExample": "See the corresponding worked example in the LM7 lesson.",
+    "commonMistake": "Ignoring framework differences, non-depreciable land, mixed asset populations, or mechanical ratio effects.",
+    "relatedLessonId": "fsa-07-analysis-of-long-term-assets",
+    "relatedLearningOutcome": "analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets",
+    "tags": [
+      "long-term assets",
+      "FSA"
+    ]
+  },
+  {
+    "id": "asset-age-fsa-07",
+    "name": "Estimated average age",
+    "expression": "Accumulated depreciation ÷ Annual depreciation",
+    "meaning": "A source-defined long-term-asset measurement or disclosure-analysis relationship.",
+    "variables": {
+      "PPE": "Property, plant, and equipment"
+    },
+    "intuition": "Connects recognition, carrying amount, impairment, disposal, or asset-age disclosures to reported performance.",
+    "workedExample": "See the corresponding worked example in the LM7 lesson.",
+    "commonMistake": "Ignoring framework differences, non-depreciable land, mixed asset populations, or mechanical ratio effects.",
+    "relatedLessonId": "fsa-07-analysis-of-long-term-assets",
+    "relatedLearningOutcome": "analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets",
+    "tags": [
+      "long-term assets",
+      "FSA"
+    ]
+  },
+  {
+    "id": "remaining-life-fsa-07",
+    "name": "Estimated remaining life",
+    "expression": "Net depreciable PPE ÷ Annual depreciation",
+    "meaning": "A source-defined long-term-asset measurement or disclosure-analysis relationship.",
+    "variables": {
+      "PPE": "Property, plant, and equipment"
+    },
+    "intuition": "Connects recognition, carrying amount, impairment, disposal, or asset-age disclosures to reported performance.",
+    "workedExample": "See the corresponding worked example in the LM7 lesson.",
+    "commonMistake": "Ignoring framework differences, non-depreciable land, mixed asset populations, or mechanical ratio effects.",
+    "relatedLessonId": "fsa-07-analysis-of-long-term-assets",
+    "relatedLearningOutcome": "analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets",
+    "tags": [
+      "long-term assets",
+      "FSA"
+    ]
+  },
+  {
+    "id": "life-elapsed-fsa-07",
+    "name": "Percentage of life elapsed",
+    "expression": "Accumulated depreciation ÷ Gross depreciable PPE",
+    "meaning": "A source-defined long-term-asset measurement or disclosure-analysis relationship.",
+    "variables": {
+      "PPE": "Property, plant, and equipment"
+    },
+    "intuition": "Connects recognition, carrying amount, impairment, disposal, or asset-age disclosures to reported performance.",
+    "workedExample": "See the corresponding worked example in the LM7 lesson.",
+    "commonMistake": "Ignoring framework differences, non-depreciable land, mixed asset populations, or mechanical ratio effects.",
+    "relatedLessonId": "fsa-07-analysis-of-long-term-assets",
+    "relatedLearningOutcome": "analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets",
+    "tags": [
+      "long-term assets",
+      "FSA"
+    ]
+  },
+  {
+    "id": "fixed-asset-turnover-fsa-07",
+    "name": "Fixed-asset turnover",
+    "expression": "Revenue ÷ Average net PPE",
+    "meaning": "A source-defined long-term-asset measurement or disclosure-analysis relationship.",
+    "variables": {
+      "PPE": "Property, plant, and equipment"
+    },
+    "intuition": "Connects recognition, carrying amount, impairment, disposal, or asset-age disclosures to reported performance.",
+    "workedExample": "See the corresponding worked example in the LM7 lesson.",
+    "commonMistake": "Ignoring framework differences, non-depreciable land, mixed asset populations, or mechanical ratio effects.",
+    "relatedLessonId": "fsa-07-analysis-of-long-term-assets",
+    "relatedLearningOutcome": "analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets",
+    "tags": [
+      "long-term assets",
+      "FSA"
+    ]
+  },
+  {
+    "id": "reinvestment-ratio-fsa-07",
+    "name": "PPE reinvestment ratio",
+    "expression": "Capital expenditure ÷ Depreciation expense",
+    "meaning": "A source-defined long-term-asset measurement or disclosure-analysis relationship.",
+    "variables": {
+      "PPE": "Property, plant, and equipment"
+    },
+    "intuition": "Connects recognition, carrying amount, impairment, disposal, or asset-age disclosures to reported performance.",
+    "workedExample": "See the corresponding worked example in the LM7 lesson.",
+    "commonMistake": "Ignoring framework differences, non-depreciable land, mixed asset populations, or mechanical ratio effects.",
+    "relatedLessonId": "fsa-07-analysis-of-long-term-assets",
+    "relatedLearningOutcome": "analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets",
+    "tags": [
+      "long-term assets",
+      "FSA"
+    ]
+  }
+]

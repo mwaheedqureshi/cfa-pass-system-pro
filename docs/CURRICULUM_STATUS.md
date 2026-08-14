@@ -57,6 +57,7 @@ Financial Statement Analysis is **mapped (v1.8.0)** for the official CFA Level I
 | FSA-LM4 Analyzing Statements of Cash Flows I | `fsa-04-analyzing-statements-of-cash-flows-i` | Verified v1.8.4 |
 | FSA-LM5 Analyzing Statements of Cash Flows II | `fsa-05-analyzing-statements-of-cash-flows-ii` | Verified v1.8.5 |
 | FSA-LM6 Analysis of Inventories | `fsa-06-analysis-of-inventories` | Verified v1.8.6 |
+| FSA-LM7 Analysis of Long-Term Assets | `fsa-07-analysis-of-long-term-assets` | Verified v1.8.7 |
 | FSA-LM6 Analysis of Inventories | `fsa-06-analysis-of-inventories` | Mapped |
 | FSA-LM7 Analysis of Long-Term Assets | `fsa-07-analysis-of-long-term-assets` | Mapped |
 | FSA-LM8 Topics in Long-Term Liabilities and Equity | `fsa-08-topics-in-long-term-liabilities-and-equity` | Mapped |
@@ -78,6 +79,8 @@ FSA-LM4 adds 45 official + 10 supplementary questions and flashcards, 8 formulas
 FSA-LM5 adds 35 official + 10 supplementary questions and flashcards, 16 formulas/metrics, 7 original exhibits, and 1 tool. FSA completion after v1.8.5: **5 of 12 (41.7%)**.
 
 FSA-LM6 adds 40 official + 10 supplementary questions and flashcards, 8 formulas, 8 original exhibits, and 2 tools. FSA completion after v1.8.6: **6 of 12 (50%)**.
+
+FSA-LM7 adds 35 official + 10 supplementary questions and flashcards, 13 formulas/metrics, 8 original exhibits, and 1 tool. FSA completion after v1.8.7: **7 of 12 (58.3%)**.
 
 Next release: **FSA Module Production Sprint 6 — FSA-LM6**.
 

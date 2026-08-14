@@ -1,0 +1,552 @@
+[
+  {
+    "id": "fsa-lm7-fc-001",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "State the governing rule for a separately purchased patent is initially measured at:",
+    "back": "cost including directly attributable preparation costs. Purchased intangibles are initially recognized at directly attributable cost.",
+    "officialLearningOutcome": "compare the financial reporting of the following types of intangible assets: purchased, internally developed, and acquired in a business combination",
+    "tags": [
+      "long-term assets",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm7-fc-002",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "Explain the analytical implication of under IFRS, expenditures in the research phase are:",
+    "back": "expensed as incurred. IFRS requires research expenditure to be expensed.",
+    "officialLearningOutcome": "compare the financial reporting of the following types of intangible assets: purchased, internally developed, and acquired in a business combination",
+    "tags": [
+      "long-term assets",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm7-fc-003",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "Resolve this long-term-asset review point: under IFRS, development expenditure is capitalized:",
+    "back": "prospectively after all recognition criteria are demonstrated. Qualifying development costs are capitalized only from the recognition date.",
+    "officialLearningOutcome": "compare the financial reporting of the following types of intangible assets: purchased, internally developed, and acquired in a business combination",
+    "tags": [
+      "long-term assets",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm7-fc-004",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "State the governing rule for uS GAAP generally treats research and development costs by:",
+    "back": "expensing them, subject to specified software exceptions. General US GAAP treatment is expense, with software exceptions.",
+    "officialLearningOutcome": "compare the financial reporting of the following types of intangible assets: purchased, internally developed, and acquired in a business combination",
+    "tags": [
+      "long-term assets",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm7-fc-005",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "Explain the analytical implication of software to be sold under US GAAP is capitalized after:",
+    "back": "technological feasibility is established. Technological feasibility is the relevant threshold.",
+    "officialLearningOutcome": "compare the financial reporting of the following types of intangible assets: purchased, internally developed, and acquired in a business combination",
+    "tags": [
+      "long-term assets",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm7-fc-006",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "Resolve this long-term-asset review point: an identifiable intangible acquired in a business combination is recognized at:",
+    "back": "fair value separately from goodwill. Acquisition accounting recognizes identifiable intangibles at fair value.",
+    "officialLearningOutcome": "compare the financial reporting of the following types of intangible assets: purchased, internally developed, and acquired in a business combination",
+    "tags": [
+      "long-term assets",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm7-fc-007",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "State the governing rule for consideration is 900 and identifiable net assets are 760. Goodwill is:",
+    "back": "140. Goodwill is the residual 900 − 760.",
+    "officialLearningOutcome": "compare the financial reporting of the following types of intangible assets: purchased, internally developed, and acquired in a business combination",
+    "tags": [
+      "long-term assets",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm7-fc-008",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "Explain the analytical implication of a finite-life intangible is generally:",
+    "back": "amortized and tested when impairment indicators exist. Finite-life assets are allocated over useful life and tested on indication.",
+    "officialLearningOutcome": "compare the financial reporting of the following types of intangible assets: purchased, internally developed, and acquired in a business combination",
+    "tags": [
+      "long-term assets",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm7-fc-009",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "Resolve this long-term-asset review point: an indefinite-life intangible is:",
+    "back": "not amortized but tested at least annually for impairment. Indefinite-life classification replaces amortization with annual testing.",
+    "officialLearningOutcome": "compare the financial reporting of the following types of intangible assets: purchased, internally developed, and acquired in a business combination",
+    "tags": [
+      "long-term assets",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm7-fc-010",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "State the governing rule for capitalizing rather than expensing a qualifying cost initially produces:",
+    "back": "higher assets and profit. Capitalization defers expense and records an asset.",
+    "officialLearningOutcome": "compare the financial reporting of the following types of intangible assets: purchased, internally developed, and acquired in a business combination",
+    "tags": [
+      "long-term assets",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm7-fc-011",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "Explain the analytical implication of compared with capitalization, immediate expensing generally produces higher:",
+    "back": "later-period profit after the initial period, all else equal. Expensing avoids later amortization or depreciation.",
+    "officialLearningOutcome": "compare the financial reporting of the following types of intangible assets: purchased, internally developed, and acquired in a business combination",
+    "tags": [
+      "long-term assets",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm7-fc-012",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "Resolve this long-term-asset review point: internally generated brands are generally not recognized because:",
+    "back": "their cost cannot be distinguished reliably from developing the business overall. Recognition and reliable-measurement constraints prevent capitalization.",
+    "officialLearningOutcome": "compare the financial reporting of the following types of intangible assets: purchased, internally developed, and acquired in a business combination",
+    "tags": [
+      "long-term assets",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm7-fc-013",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "State the governing rule for training expenditure related to a new patent is most likely:",
+    "back": "expensed. Training does not prepare the patent itself for intended use.",
+    "officialLearningOutcome": "compare the financial reporting of the following types of intangible assets: purchased, internally developed, and acquired in a business combination",
+    "tags": [
+      "long-term assets",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm7-fc-014",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "Explain the analytical implication of a development project meets IFRS criteria halfway through the year. Earlier expenditure is:",
+    "back": "not reinstated as an asset. Capitalization is prospective from the recognition date.",
+    "officialLearningOutcome": "compare the financial reporting of the following types of intangible assets: purchased, internally developed, and acquired in a business combination",
+    "tags": [
+      "long-term assets",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm7-fc-015",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "Resolve this long-term-asset review point: the useful life classification of an indefinite-life intangible should be:",
+    "back": "reassessed each reporting period. Indefinite means no foreseeable limit and requires reassessment.",
+    "officialLearningOutcome": "compare the financial reporting of the following types of intangible assets: purchased, internally developed, and acquired in a business combination",
+    "tags": [
+      "long-term assets",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm7-fc-016",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "State the governing rule for under IFRS, recoverable amount is the higher of value in use and:",
+    "back": "fair value less costs of disposal. The higher of the two valuation bases is recoverable amount.",
+    "officialLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "tags": [
+      "long-term assets",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm7-fc-017",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "Explain the analytical implication of carrying amount 100, value in use 82, and FVLCD 88 produce IFRS impairment of:",
+    "back": "12. Recoverable amount is 88; loss is 100 − 88.",
+    "officialLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "tags": [
+      "long-term assets",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm7-fc-018",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "Resolve this long-term-asset review point: the US GAAP recoverability screen for held-for-use PPE compares carrying amount with:",
+    "back": "undiscounted expected cash flows. US GAAP uses undiscounted cash flows as its first step.",
+    "officialLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "tags": [
+      "long-term assets",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm7-fc-019",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "State the governing rule for a US GAAP asset passes the undiscounted-cash-flow screen. The impairment loss is:",
+    "back": "zero. Measurement occurs only after the recoverability screen fails.",
+    "officialLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "tags": [
+      "long-term assets",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm7-fc-020",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "Explain the analytical implication of after a failed US GAAP recoverability screen, loss is measured using:",
+    "back": "fair value. The asset is written down to fair value.",
+    "officialLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "tags": [
+      "long-term assets",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm7-fc-021",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "Resolve this long-term-asset review point: an impairment loss immediately lowers:",
+    "back": "assets, profit, and equity. The non-cash loss lowers carrying amount and earnings.",
+    "officialLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "tags": [
+      "long-term assets",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm7-fc-022",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "State the governing rule for in an indirect cash-flow statement, an impairment loss is generally:",
+    "back": "added back to net income in CFO. It reduced income without using cash.",
+    "officialLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "tags": [
+      "long-term assets",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm7-fc-023",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "Explain the analytical implication of iFRS reversal of a PPE impairment is limited to:",
+    "back": "the carrying amount that would exist without the impairment. The no-impairment carrying value is the ceiling.",
+    "officialLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "tags": [
+      "long-term assets",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm7-fc-024",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "Resolve this long-term-asset review point: uS GAAP reversal of impairment for an asset held for use is:",
+    "back": "prohibited. US GAAP does not reverse held-for-use impairment.",
+    "officialLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "tags": [
+      "long-term assets",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm7-fc-025",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "State the governing rule for a held-for-sale long-lived asset ceases to be:",
+    "back": "depreciated or amortized. Depreciation stops once held-for-sale criteria are met.",
+    "officialLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "tags": [
+      "long-term assets",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm7-fc-026",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "Explain the analytical implication of sale proceeds are 70 and carrying amount is 62. Derecognition produces:",
+    "back": "a gain of 8. Gain equals proceeds minus carrying amount.",
+    "officialLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "tags": [
+      "long-term assets",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm7-fc-027",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "Resolve this long-term-asset review point: on sale of equipment, the investing cash inflow equals:",
+    "back": "total proceeds. The entire cash receipt is investing cash flow.",
+    "officialLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "tags": [
+      "long-term assets",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm7-fc-028",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "State the governing rule for a disposal gain in the indirect CFO reconciliation is:",
+    "back": "deducted from net income. The investing-related gain must be removed from CFO.",
+    "officialLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "tags": [
+      "long-term assets",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm7-fc-029",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "Explain the analytical implication of after an impairment, future depreciation is usually:",
+    "back": "lower because the depreciable base is lower. The new carrying amount establishes a lower expense base.",
+    "officialLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "tags": [
+      "long-term assets",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm7-fc-030",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "Resolve this long-term-asset review point: a post-impairment rise in asset turnover may be:",
+    "back": "mechanical rather than operational. A smaller denominator can raise the ratio.",
+    "officialLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "tags": [
+      "long-term assets",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm7-fc-031",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "State the governing rule for for held-for-sale measurement, the asset is carried at the lower of carrying amount and:",
+    "back": "fair value less costs to sell. Held-for-sale measurement uses FVLCTS.",
+    "officialLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "tags": [
+      "long-term assets",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm7-fc-032",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "Explain the analytical implication of a non-current asset impairment normally has what immediate current-ratio effect?",
+    "back": "No direct effect. Neither current assets nor current liabilities changes directly.",
+    "officialLearningOutcome": "explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+    "tags": [
+      "long-term assets",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm7-fc-033",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "Resolve this long-term-asset review point: gross PPE 240 and accumulated depreciation 144 imply net PPE of:",
+    "back": "96. Net PPE is gross PPE less accumulated depreciation.",
+    "officialLearningOutcome": "analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets",
+    "tags": [
+      "long-term assets",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm7-fc-034",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "State the governing rule for gross depreciable PPE 240 and annual depreciation 12 imply useful life of:",
+    "back": "20 years. 240 ÷ 12 is 20.",
+    "officialLearningOutcome": "analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets",
+    "tags": [
+      "long-term assets",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm7-fc-035",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "Explain the analytical implication of accumulated depreciation 144 and annual depreciation 12 imply average age of:",
+    "back": "12 years. 144 ÷ 12 is 12.",
+    "officialLearningOutcome": "analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets",
+    "tags": [
+      "long-term assets",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm7-fc-036",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "Resolve this long-term-asset review point: net PPE 96 and annual depreciation 12 imply remaining life of:",
+    "back": "8 years. 96 ÷ 12 is 8.",
+    "officialLearningOutcome": "analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets",
+    "tags": [
+      "long-term assets",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm7-fc-037",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "State the governing rule for accumulated depreciation 144 and gross PPE 240 imply life elapsed of:",
+    "back": "60%. 144 ÷ 240 is 60%.",
+    "officialLearningOutcome": "analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets",
+    "tags": [
+      "long-term assets",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm7-fc-038",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "Explain the analytical implication of revenue 500 and average net PPE 200 produce fixed-asset turnover of:",
+    "back": "2.5 times. 500 ÷ 200 is 2.5.",
+    "officialLearningOutcome": "analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets",
+    "tags": [
+      "long-term assets",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm7-fc-039",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "Resolve this long-term-asset review point: capex 66 and depreciation 50 produce a reinvestment ratio of:",
+    "back": "1.32. 66 ÷ 50 is 1.32.",
+    "officialLearningOutcome": "analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets",
+    "tags": [
+      "long-term assets",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm7-fc-040",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "State the governing rule for a high fixed-asset turnover may reflect:",
+    "back": "old or impaired assets rather than superior efficiency. Accounting age and impairment can shrink the denominator.",
+    "officialLearningOutcome": "analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets",
+    "tags": [
+      "long-term assets",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm7-fc-041",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "Explain the analytical implication of a longer estimated useful life, all else equal, produces:",
+    "back": "lower annual depreciation and higher current profit. The same depreciable base is spread over more periods.",
+    "officialLearningOutcome": "analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets",
+    "tags": [
+      "long-term assets",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm7-fc-042",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "Resolve this long-term-asset review point: the PPE note’s opening-to-closing reconciliation helps identify:",
+    "back": "additions, disposals, depreciation, impairment, and currency effects. The roll-forward explains changes in carrying amount.",
+    "officialLearningOutcome": "analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets",
+    "tags": [
+      "long-term assets",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm7-fc-043",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "State the governing rule for an impairment sensitivity disclosure is most useful for assessing:",
+    "back": "how assumption changes could reduce recoverable amount. Growth and discount-rate sensitivity reveal headroom risk.",
+    "officialLearningOutcome": "analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets",
+    "tags": [
+      "long-term assets",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm7-fc-044",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "Explain the analytical implication of capex exceeding depreciation necessarily means:",
+    "back": "neither value creation nor capacity growth can be concluded without context. Replacement prices, mix, and maintenance versus expansion matter.",
+    "officialLearningOutcome": "analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets",
+    "tags": [
+      "long-term assets",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm7-fc-045",
+    "lessonId": "fsa-07-analysis-of-long-term-assets",
+    "topicId": "financial-statement-analysis",
+    "front": "Resolve this long-term-asset review point: land should ideally be excluded from estimated-life calculations because it is:",
+    "back": "not depreciable. Including non-depreciable land distorts life estimates.",
+    "officialLearningOutcome": "analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets",
+    "tags": [
+      "long-term assets",
+      "LOS 3"
+    ],
+    "supplementary": true
+  }
+]
