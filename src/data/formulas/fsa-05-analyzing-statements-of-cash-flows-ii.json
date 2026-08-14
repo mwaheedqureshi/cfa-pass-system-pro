@@ -1,0 +1,290 @@
+[
+  {
+    "id": "common-size-inflow-fsa-05",
+    "name": "Common-size cash inflow",
+    "expression": "Cash inflow line ÷ Total cash inflows",
+    "meaning": "A source-defined cash-flow analysis measure used for comparison and interpretation.",
+    "variables": {
+      "CFO": "Cash flow from operating activities"
+    },
+    "intuition": "Relates operating cash generation or free cash flow to its claimants, investment needs, or comparison base.",
+    "workedExample": "See the free-cash-flow worked examples in the lesson.",
+    "commonMistake": "Failing to normalize IFRS classification choices or reversing numerator and denominator.",
+    "relatedLessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "relatedLearningOutcome": "analyze and interpret both reported and common-size cash flow statements",
+    "tags": [
+      "cash flow",
+      "analysis"
+    ]
+  },
+  {
+    "id": "common-size-revenue-fsa-05",
+    "name": "Revenue-scaled cash flow",
+    "expression": "Cash flow line ÷ Net revenue",
+    "meaning": "A source-defined cash-flow analysis measure used for comparison and interpretation.",
+    "variables": {
+      "CFO": "Cash flow from operating activities"
+    },
+    "intuition": "Relates operating cash generation or free cash flow to its claimants, investment needs, or comparison base.",
+    "workedExample": "See the free-cash-flow worked examples in the lesson.",
+    "commonMistake": "Failing to normalize IFRS classification choices or reversing numerator and denominator.",
+    "relatedLessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "relatedLearningOutcome": "analyze and interpret both reported and common-size cash flow statements",
+    "tags": [
+      "cash flow",
+      "analysis"
+    ]
+  },
+  {
+    "id": "fcff-ni-fsa-05",
+    "name": "FCFF from net income",
+    "expression": "FCFF = NI + NCC + Int(1 − tax rate) − FCInv − WCInv",
+    "meaning": "A source-defined cash-flow analysis measure used for comparison and interpretation.",
+    "variables": {
+      "CFO": "Cash flow from operating activities"
+    },
+    "intuition": "Relates operating cash generation or free cash flow to its claimants, investment needs, or comparison base.",
+    "workedExample": "See the free-cash-flow worked examples in the lesson.",
+    "commonMistake": "Failing to normalize IFRS classification choices or reversing numerator and denominator.",
+    "relatedLessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "relatedLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow",
+      "analysis"
+    ]
+  },
+  {
+    "id": "fcff-cfo-fsa-05",
+    "name": "FCFF from CFO",
+    "expression": "FCFF = CFO + Int(1 − tax rate) − FCInv",
+    "meaning": "A source-defined cash-flow analysis measure used for comparison and interpretation.",
+    "variables": {
+      "CFO": "Cash flow from operating activities"
+    },
+    "intuition": "Relates operating cash generation or free cash flow to its claimants, investment needs, or comparison base.",
+    "workedExample": "See the free-cash-flow worked examples in the lesson.",
+    "commonMistake": "Failing to normalize IFRS classification choices or reversing numerator and denominator.",
+    "relatedLessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "relatedLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow",
+      "analysis"
+    ]
+  },
+  {
+    "id": "fcfe-fsa-05",
+    "name": "FCFE",
+    "expression": "FCFE = CFO − FCInv + Net borrowing",
+    "meaning": "A source-defined cash-flow analysis measure used for comparison and interpretation.",
+    "variables": {
+      "CFO": "Cash flow from operating activities"
+    },
+    "intuition": "Relates operating cash generation or free cash flow to its claimants, investment needs, or comparison base.",
+    "workedExample": "See the free-cash-flow worked examples in the lesson.",
+    "commonMistake": "Failing to normalize IFRS classification choices or reversing numerator and denominator.",
+    "relatedLessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "relatedLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow",
+      "analysis"
+    ]
+  },
+  {
+    "id": "cash-flow-revenue-fsa-05",
+    "name": "Cash flow to revenue",
+    "expression": "CFO ÷ Net revenue",
+    "meaning": "A source-defined cash-flow analysis measure used for comparison and interpretation.",
+    "variables": {
+      "CFO": "Cash flow from operating activities"
+    },
+    "intuition": "Relates operating cash generation or free cash flow to its claimants, investment needs, or comparison base.",
+    "workedExample": "Apply the stated numerator and denominator consistently across periods.",
+    "commonMistake": "Failing to normalize IFRS classification choices or reversing numerator and denominator.",
+    "relatedLessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "relatedLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow",
+      "analysis"
+    ]
+  },
+  {
+    "id": "cash-return-assets-fsa-05",
+    "name": "Cash return on assets",
+    "expression": "CFO ÷ Average total assets",
+    "meaning": "A source-defined cash-flow analysis measure used for comparison and interpretation.",
+    "variables": {
+      "CFO": "Cash flow from operating activities"
+    },
+    "intuition": "Relates operating cash generation or free cash flow to its claimants, investment needs, or comparison base.",
+    "workedExample": "Apply the stated numerator and denominator consistently across periods.",
+    "commonMistake": "Failing to normalize IFRS classification choices or reversing numerator and denominator.",
+    "relatedLessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "relatedLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow",
+      "analysis"
+    ]
+  },
+  {
+    "id": "cash-return-equity-fsa-05",
+    "name": "Cash return on equity",
+    "expression": "CFO ÷ Average shareholders’ equity",
+    "meaning": "A source-defined cash-flow analysis measure used for comparison and interpretation.",
+    "variables": {
+      "CFO": "Cash flow from operating activities"
+    },
+    "intuition": "Relates operating cash generation or free cash flow to its claimants, investment needs, or comparison base.",
+    "workedExample": "Apply the stated numerator and denominator consistently across periods.",
+    "commonMistake": "Failing to normalize IFRS classification choices or reversing numerator and denominator.",
+    "relatedLessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "relatedLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow",
+      "analysis"
+    ]
+  },
+  {
+    "id": "cash-to-income-fsa-05",
+    "name": "Cash to income",
+    "expression": "CFO ÷ Operating income",
+    "meaning": "A source-defined cash-flow analysis measure used for comparison and interpretation.",
+    "variables": {
+      "CFO": "Cash flow from operating activities"
+    },
+    "intuition": "Relates operating cash generation or free cash flow to its claimants, investment needs, or comparison base.",
+    "workedExample": "Apply the stated numerator and denominator consistently across periods.",
+    "commonMistake": "Failing to normalize IFRS classification choices or reversing numerator and denominator.",
+    "relatedLessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "relatedLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow",
+      "analysis"
+    ]
+  },
+  {
+    "id": "cash-flow-share-fsa-05",
+    "name": "Cash flow per share",
+    "expression": "(CFO − Preferred dividends) ÷ Common shares outstanding",
+    "meaning": "A source-defined cash-flow analysis measure used for comparison and interpretation.",
+    "variables": {
+      "CFO": "Cash flow from operating activities"
+    },
+    "intuition": "Relates operating cash generation or free cash flow to its claimants, investment needs, or comparison base.",
+    "workedExample": "Apply the stated numerator and denominator consistently across periods.",
+    "commonMistake": "Failing to normalize IFRS classification choices or reversing numerator and denominator.",
+    "relatedLessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "relatedLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow",
+      "analysis"
+    ]
+  },
+  {
+    "id": "debt-coverage-fsa-05",
+    "name": "Debt coverage",
+    "expression": "CFO ÷ Total debt",
+    "meaning": "A source-defined cash-flow analysis measure used for comparison and interpretation.",
+    "variables": {
+      "CFO": "Cash flow from operating activities"
+    },
+    "intuition": "Relates operating cash generation or free cash flow to its claimants, investment needs, or comparison base.",
+    "workedExample": "Apply the stated numerator and denominator consistently across periods.",
+    "commonMistake": "Failing to normalize IFRS classification choices or reversing numerator and denominator.",
+    "relatedLessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "relatedLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow",
+      "analysis"
+    ]
+  },
+  {
+    "id": "interest-coverage-fsa-05",
+    "name": "Cash interest coverage",
+    "expression": "(CFO + Interest paid + Taxes paid) ÷ Interest paid",
+    "meaning": "A source-defined cash-flow analysis measure used for comparison and interpretation.",
+    "variables": {
+      "CFO": "Cash flow from operating activities"
+    },
+    "intuition": "Relates operating cash generation or free cash flow to its claimants, investment needs, or comparison base.",
+    "workedExample": "Apply the stated numerator and denominator consistently across periods.",
+    "commonMistake": "Failing to normalize IFRS classification choices or reversing numerator and denominator.",
+    "relatedLessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "relatedLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow",
+      "analysis"
+    ]
+  },
+  {
+    "id": "reinvestment-fsa-05",
+    "name": "Reinvestment ratio",
+    "expression": "CFO ÷ Cash paid for long-term assets",
+    "meaning": "A source-defined cash-flow analysis measure used for comparison and interpretation.",
+    "variables": {
+      "CFO": "Cash flow from operating activities"
+    },
+    "intuition": "Relates operating cash generation or free cash flow to its claimants, investment needs, or comparison base.",
+    "workedExample": "Apply the stated numerator and denominator consistently across periods.",
+    "commonMistake": "Failing to normalize IFRS classification choices or reversing numerator and denominator.",
+    "relatedLessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "relatedLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow",
+      "analysis"
+    ]
+  },
+  {
+    "id": "debt-payment-fsa-05",
+    "name": "Debt payment coverage",
+    "expression": "CFO ÷ Cash paid for long-term debt repayment",
+    "meaning": "A source-defined cash-flow analysis measure used for comparison and interpretation.",
+    "variables": {
+      "CFO": "Cash flow from operating activities"
+    },
+    "intuition": "Relates operating cash generation or free cash flow to its claimants, investment needs, or comparison base.",
+    "workedExample": "Apply the stated numerator and denominator consistently across periods.",
+    "commonMistake": "Failing to normalize IFRS classification choices or reversing numerator and denominator.",
+    "relatedLessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "relatedLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow",
+      "analysis"
+    ]
+  },
+  {
+    "id": "dividend-payment-fsa-05",
+    "name": "Dividend payment coverage",
+    "expression": "CFO ÷ Dividends paid",
+    "meaning": "A source-defined cash-flow analysis measure used for comparison and interpretation.",
+    "variables": {
+      "CFO": "Cash flow from operating activities"
+    },
+    "intuition": "Relates operating cash generation or free cash flow to its claimants, investment needs, or comparison base.",
+    "workedExample": "Apply the stated numerator and denominator consistently across periods.",
+    "commonMistake": "Failing to normalize IFRS classification choices or reversing numerator and denominator.",
+    "relatedLessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "relatedLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow",
+      "analysis"
+    ]
+  },
+  {
+    "id": "investing-financing-coverage-fsa-05",
+    "name": "Investing and financing coverage",
+    "expression": "CFO ÷ Cash outflows for investing and financing activities",
+    "meaning": "A source-defined cash-flow analysis measure used for comparison and interpretation.",
+    "variables": {
+      "CFO": "Cash flow from operating activities"
+    },
+    "intuition": "Relates operating cash generation or free cash flow to its claimants, investment needs, or comparison base.",
+    "workedExample": "Apply the stated numerator and denominator consistently across periods.",
+    "commonMistake": "Failing to normalize IFRS classification choices or reversing numerator and denominator.",
+    "relatedLessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "relatedLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow",
+      "analysis"
+    ]
+  }
+]

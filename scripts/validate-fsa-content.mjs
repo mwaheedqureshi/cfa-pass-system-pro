@@ -6,6 +6,7 @@ const producedModules=[
  {officialModuleId:'FSA-LM2',lessonId:'fsa-02-analyzing-income-statements',contentPath:'public/content/fsa/02-analyzing-income-statements.md',hasFormulas:true,formulaCount:10,officialQuestionCount:50,supplementaryQuestionCount:10,tools:['IncomeStatementEPSExplorer','RevenueExpenseRecognitionClassifier']},
  {officialModuleId:'FSA-LM3',lessonId:'fsa-03-analyzing-balance-sheets',contentPath:'public/content/fsa/03-analyzing-balance-sheets.md',hasFormulas:true,formulaCount:9,officialQuestionCount:40,supplementaryQuestionCount:10,tools:['CommonSizeBalanceSheetBuilder','FinancialInstrumentAndIntangibleDisclosureExplorer']},
  {officialModuleId:'FSA-LM4',lessonId:'fsa-04-analyzing-statements-of-cash-flows-i',contentPath:'public/content/fsa/04-analyzing-statements-of-cash-flows-i.md',hasFormulas:true,formulaCount:8,officialQuestionCount:45,supplementaryQuestionCount:10,tools:['FinancialStatementLinkageExplorer','DirectIndirectCashFlowTrainer']},
+ {officialModuleId:'FSA-LM5',lessonId:'fsa-05-analyzing-statements-of-cash-flows-ii',contentPath:'public/content/fsa/05-analyzing-statements-of-cash-flows-ii.md',hasFormulas:true,formulaCount:16,officialQuestionCount:35,supplementaryQuestionCount:10,tools:['FreeCashFlowCoverageCalculator']},
 ];
 const allModules=await read('.local-research/fsa-verification/official-module-map.json');
 const unproducedLessonIds=allModules.modules.map(m=>m.futureStudyLessonId).filter(id=>!producedModules.some(p=>p.lessonId===id));

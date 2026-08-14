@@ -1,0 +1,552 @@
+[
+  {
+    "id": "fsa-lm5-fc-001",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "For a mature company, the most sustainable primary cash source is:",
+    "back": "operating activities. Mature firms ultimately must fund themselves from operations.",
+    "officialLearningOutcome": "analyze and interpret both reported and common-size cash flow statements",
+    "tags": [
+      "cash flow analysis",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm5-fc-002",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "A growth company has negative CFO because receivables and inventory are expanding. The BEST interpretation is:",
+    "back": "potentially normal temporarily, but unsustainable indefinitely. Growth investment can depress CFO, but operations must eventually generate cash.",
+    "officialLearningOutcome": "analyze and interpret both reported and common-size cash flow statements",
+    "tags": [
+      "cash flow analysis",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm5-fc-003",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "A company reports positive CFO only because payables increased sharply. An analyst should MOST likely:",
+    "back": "question the persistence of CFO. Stretching supplier payments is not indefinitely repeatable.",
+    "officialLearningOutcome": "analyze and interpret both reported and common-size cash flow statements",
+    "tags": [
+      "cash flow analysis",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm5-fc-004",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "The first step in cash-flow evaluation is to:",
+    "back": "identify major sources and uses across CFO, CFI, and CFF. An overall source/use assessment precedes detailed drivers.",
+    "officialLearningOutcome": "analyze and interpret both reported and common-size cash flow statements",
+    "tags": [
+      "cash flow analysis",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm5-fc-005",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "Rising CFO driven by higher net income rather than working-capital releases is generally:",
+    "back": "higher quality and more sustainable. Earnings-driven cash generation is usually more repeatable.",
+    "officialLearningOutcome": "analyze and interpret both reported and common-size cash flow statements",
+    "tags": [
+      "cash flow analysis",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm5-fc-006",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "Large recurring CFI outflows can be favorable when they reflect:",
+    "back": "value-creating productive investment. Investment outflows can support future operating capacity.",
+    "officialLearningOutcome": "analyze and interpret both reported and common-size cash flow statements",
+    "tags": [
+      "cash flow analysis",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm5-fc-007",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "A mature firm with positive CFO, weak investment opportunities, and persistent cash accumulation should consider:",
+    "back": "returning cash to capital providers. Surplus cash without productive uses can be distributed.",
+    "officialLearningOutcome": "analyze and interpret both reported and common-size cash flow statements",
+    "tags": [
+      "cash flow analysis",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm5-fc-008",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "Negative CFF most likely reflects:",
+    "back": "net repayment, dividends, or share repurchases. Financing outflows return capital to lenders or owners.",
+    "officialLearningOutcome": "analyze and interpret both reported and common-size cash flow statements",
+    "tags": [
+      "cash flow analysis",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm5-fc-009",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "CFO that consistently trails net income while receivables grow faster than sales is a:",
+    "back": "cash-conversion warning sign. Accrual earnings are not converting into cash.",
+    "officialLearningOutcome": "analyze and interpret both reported and common-size cash flow statements",
+    "tags": [
+      "cash flow analysis",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm5-fc-010",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "Under the inflow/outflow common-size approach, cash received from customers is divided by:",
+    "back": "total cash inflows. Each inflow is expressed as a percentage of total inflows.",
+    "officialLearningOutcome": "analyze and interpret both reported and common-size cash flow statements",
+    "tags": [
+      "cash flow analysis",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm5-fc-011",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "Under the net-revenue common-size approach, CFO is divided by:",
+    "back": "net revenue. Revenue scaling supports comparisons across firms and periods.",
+    "officialLearningOutcome": "analyze and interpret both reported and common-size cash flow statements",
+    "tags": [
+      "cash flow analysis",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm5-fc-012",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "A common-size statement is most useful because it:",
+    "back": "reduces scale differences and highlights composition. Percentages enable structural comparisons.",
+    "officialLearningOutcome": "analyze and interpret both reported and common-size cash flow statements",
+    "tags": [
+      "cash flow analysis",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm5-fc-013",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "Customer receipts are 70% of total inflows this year versus 55% last year. All else equal, operations have become:",
+    "back": "a more important cash source. The inflow mix shifted toward customers.",
+    "officialLearningOutcome": "analyze and interpret both reported and common-size cash flow statements",
+    "tags": [
+      "cash flow analysis",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm5-fc-014",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "Capital expenditure is 18% of revenue versus 9% for peers. The analyst should FIRST determine whether:",
+    "back": "the firm is investing for growth or replacing inefficient assets. Context determines whether high investment intensity is favorable.",
+    "officialLearningOutcome": "analyze and interpret both reported and common-size cash flow statements",
+    "tags": [
+      "cash flow analysis",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm5-fc-015",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "CFO margin rises from 12% to 17%. This means:",
+    "back": "more operating cash is generated per revenue dollar. CFO divided by revenue measures cash conversion of sales.",
+    "officialLearningOutcome": "analyze and interpret both reported and common-size cash flow statements",
+    "tags": [
+      "cash flow analysis",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm5-fc-016",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "When comparing IFRS reporters, common-size CFO may require normalization because:",
+    "back": "interest and dividend classifications can differ. Classification choices can shift cash among sections.",
+    "officialLearningOutcome": "analyze and interpret both reported and common-size cash flow statements",
+    "tags": [
+      "cash flow analysis",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm5-fc-017",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "A one-time asset sale dominates cash inflows. A common-size inflow analysis will:",
+    "back": "make the unusual investing concentration visible. The composition view highlights dependence on non-operating cash.",
+    "officialLearningOutcome": "analyze and interpret both reported and common-size cash flow statements",
+    "tags": [
+      "cash flow analysis",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm5-fc-018",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "CFO is positive, CFI is negative, and CFF is negative. For a mature firm this pattern is often:",
+    "back": "healthy if operations fund investment and distributions. Operations can finance assets and return capital.",
+    "officialLearningOutcome": "analyze and interpret both reported and common-size cash flow statements",
+    "tags": [
+      "cash flow analysis",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm5-fc-019",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "CFO is negative, CFI positive from asset sales, and CFF positive from borrowing. The MOST concerning fact is:",
+    "back": "operations rely on external funding and liquidation. The funding pattern is not sustainable long term.",
+    "officialLearningOutcome": "analyze and interpret both reported and common-size cash flow statements",
+    "tags": [
+      "cash flow analysis",
+      "LOS 1"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm5-fc-020",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "A working-capital release boosts CFO during a sales contraction. The analyst should view the boost as:",
+    "back": "potentially temporary. Shrinking receivables/inventory can release cash once, not indefinitely.",
+    "officialLearningOutcome": "analyze and interpret both reported and common-size cash flow statements",
+    "tags": [
+      "cash flow analysis",
+      "LOS 1"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm5-fc-021",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "Reported cash-flow analysis should examine financing drivers such as:",
+    "back": "debt issuance/repayment and owner distributions. These transactions explain CFF.",
+    "officialLearningOutcome": "analyze and interpret both reported and common-size cash flow statements",
+    "tags": [
+      "cash flow analysis",
+      "LOS 1"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm5-fc-022",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "A company funds dividends by borrowing while CFO is persistently negative. This policy is:",
+    "back": "unlikely to be sustainable. Distributions ultimately require internally generated cash.",
+    "officialLearningOutcome": "analyze and interpret both reported and common-size cash flow statements",
+    "tags": [
+      "cash flow analysis",
+      "LOS 1"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm5-fc-023",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "The BEST cross-company comparison combines:",
+    "back": "reported source/use analysis, common-size trends, and normalization. Multiple views reveal scale, composition, and classification effects.",
+    "officialLearningOutcome": "analyze and interpret both reported and common-size cash flow statements",
+    "tags": [
+      "cash flow analysis",
+      "LOS 1"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm5-fc-024",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "CFO is 80, after-tax interest 6, and fixed-capital investment 30. FCFF is:",
+    "back": "56. FCFF = CFO + after-tax interest − FCInv = 56.",
+    "officialLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm5-fc-025",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "CFO is 80, fixed-capital investment 30, and net borrowing 5. FCFE is:",
+    "back": "55. FCFE = CFO − FCInv + net borrowing = 55.",
+    "officialLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm5-fc-026",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "NI is 50, noncash charges 12, after-tax interest 5, FCInv 20, and WCInv 7. FCFF is:",
+    "back": "40. 50 + 12 + 5 − 20 − 7 = 40.",
+    "officialLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm5-fc-027",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "FCFF is cash available to:",
+    "back": "debt and equity capital providers. FCFF is pre-distribution cash for all capital providers.",
+    "officialLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm5-fc-028",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "FCFE is cash available to:",
+    "back": "common shareholders after debt cash flows and reinvestment. FCFE incorporates net borrowing and belongs to common equity.",
+    "officialLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm5-fc-029",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "When IFRS interest paid is classified in financing, FCFF from CFO generally:",
+    "back": "does not add after-tax interest again. CFO has not been reduced by financing-classified interest.",
+    "officialLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm5-fc-030",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "CFO 100 and revenue 500 produce cash flow to revenue of:",
+    "back": "20%. 100 ÷ 500 = 20%.",
+    "officialLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm5-fc-031",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "CFO 90 and average assets 600 produce cash return on assets of:",
+    "back": "15%. 90 ÷ 600 = 15%.",
+    "officialLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm5-fc-032",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "CFO 75 and average equity 300 produce cash return on equity of:",
+    "back": "25%. 75 ÷ 300 = 25%.",
+    "officialLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm5-fc-033",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "CFO 84 and operating income 70 produce cash to income of:",
+    "back": "1.20. 84 ÷ 70 = 1.20.",
+    "officialLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm5-fc-034",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "CFO 66, preferred dividends 6, and 20 shares produce cash flow per share of:",
+    "back": "3.00. (66 − 6) ÷ 20 = 3.00.",
+    "officialLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm5-fc-035",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "CFO 120 and total debt 400 produce debt coverage of:",
+    "back": "0.30. 120 ÷ 400 = 0.30.",
+    "officialLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm5-fc-036",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "CFO 70, interest paid 10, and taxes paid 20 produce interest coverage of:",
+    "back": "10.0. (70 + 10 + 20) ÷ 10 = 10.0.",
+    "officialLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm5-fc-037",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "CFO 90 and cash paid for long-term assets 60 produce reinvestment ratio of:",
+    "back": "1.50. 90 ÷ 60 = 1.50.",
+    "officialLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm5-fc-038",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "CFO 80 and long-term debt repayment 20 produce debt-payment coverage of:",
+    "back": "4.0. 80 ÷ 20 = 4.0.",
+    "officialLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm5-fc-039",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "CFO 75 and dividends paid 25 produce dividend-payment coverage of:",
+    "back": "3.0. 75 ÷ 25 = 3.0.",
+    "officialLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm5-fc-040",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "CFO 120 and investing/financing outflows 150 produce investing-and-financing coverage of:",
+    "back": "0.80. 120 ÷ 150 = 0.80.",
+    "officialLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow analysis",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm5-fc-041",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "Positive FCFE most directly indicates:",
+    "back": "cash remains after capital investment and net debt cash flows. Positive FCFE is capacity, not a distribution requirement.",
+    "officialLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow analysis",
+      "LOS 2"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm5-fc-042",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "If debt repayments exceed new borrowing, net borrowing is:",
+    "back": "negative and reduces FCFE. Net debt repayment is a use of equity-available cash.",
+    "officialLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow analysis",
+      "LOS 2"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm5-fc-043",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "A higher debt-coverage ratio generally indicates:",
+    "back": "stronger ability to support debt from CFO. More CFO per debt dollar improves coverage.",
+    "officialLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow analysis",
+      "LOS 2"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm5-fc-044",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "The ratio most directly measuring CFO per sales dollar is:",
+    "back": "cash flow to revenue. Its denominator is net revenue.",
+    "officialLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow analysis",
+      "LOS 2"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm5-fc-045",
+    "lessonId": "fsa-05-analyzing-statements-of-cash-flows-ii",
+    "topicId": "financial-statement-analysis",
+    "front": "The ratio most directly measuring ability to fund long-lived assets internally is:",
+    "back": "reinvestment ratio. It compares CFO with cash paid for long-term assets.",
+    "officialLearningOutcome": "calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios",
+    "tags": [
+      "cash flow analysis",
+      "LOS 2"
+    ],
+    "supplementary": true
+  }
+]
