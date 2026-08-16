@@ -12,13 +12,13 @@ Build a reliable, premium-quality study system in deliberate, verifiable release
 
 ## Release state
 
-- **Current release:** v1.8.7 — FSA Module Production Sprint 7 (FSA-LM7 Analysis of Long-Term Assets)
+- **Current release:** v1.8.8 — FSA Module Production Sprint 8 (FSA-LM8 Topics in Long-Term Liabilities and Equity)
 - **Current status:** FSA-LM3 (Analyzing Balance Sheets) is produced and content-verified — the third of 12 official FSA modules. A dedicated deep-extraction research pass confirmed all 5 official LOS, essentially no 2026->2027 change (99.9% byte-identical text at the same page anchor), 8 original exhibits (matching the mapping-stage target exactly), and 9 formulas (an organic, source-justified overage over the 6-formula mapping-stage target, since the official Exhibit 13 individually names 7 distinct balance-sheet ratios). Delivered: a complete original lesson with 21 worked examples evenly spread across all 5 LOS, 40 official + 10 supplementary questions and flashcards (answer positions balanced via a deterministic round-robin assignment at generation time, avoiding the post-hoc correction FSA-LM2 required), 2 interactive tools (Common-Size Statement Builder and Financial Instrument and Intangible Disclosure Explorer, 26 passing tests combined), a working chapter exam, full search/navigation/progress integration, and further-generalized `scripts/validate-fsa-content.mjs` / `scripts/validate-fsa-mapping.mjs` release gates. FSA-LM4 through FSA-LM12 remain mapping-only. FSA-LM1, FSA-LM2, Quantitative, and Economics remain verified and unmodified.
-- **Next release:** FSA Module Production Sprint 6 — FSA-LM6
+- **Next release:** FSA Module Production Sprint 9 — FSA-LM9
 
-- **Current version:** v1.8.7 — FSA Module Production Sprint 7
+- **Current version:** v1.8.8 — FSA Module Production Sprint 8
 - **Current sprint:** FSA-LM3 produced and verified.
-- **Next sprint:** FSA-LM8 production; not begun in v1.8.7.
+- **Next sprint:** FSA-LM9 production; not begun in v1.8.8.
 - **Long-term roadmap:** See `ROADMAP.md`.
 
 ## Current repository statistics

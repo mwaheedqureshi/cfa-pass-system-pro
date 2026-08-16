@@ -1,0 +1,211 @@
+[
+  {
+    "id": "lease-pv-fsa-08",
+    "name": "Initial lease liability and ROU asset",
+    "expression": "PV of fixed lease payments",
+    "meaning": "A source-defined LM8 measurement or analytical relationship.",
+    "variables": {
+      "ROU": "Right-of-use asset"
+    },
+    "intuition": "Connects contractual obligations or compensation awards to their reported carrying amounts and expenses.",
+    "workedExample": "See the corresponding LM8 worked example.",
+    "commonMistake": "Mixing lessee and lessor models, confusing pension contribution with expense, or ignoring grant-date measurement.",
+    "relatedLessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "relatedLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "tags": [
+      "leases",
+      "pensions",
+      "stock compensation"
+    ]
+  },
+  {
+    "id": "lease-interest-fsa-08",
+    "name": "Lessee interest expense",
+    "expression": "Beginning lease liability × Discount rate",
+    "meaning": "A source-defined LM8 measurement or analytical relationship.",
+    "variables": {
+      "ROU": "Right-of-use asset"
+    },
+    "intuition": "Connects contractual obligations or compensation awards to their reported carrying amounts and expenses.",
+    "workedExample": "See the corresponding LM8 worked example.",
+    "commonMistake": "Mixing lessee and lessor models, confusing pension contribution with expense, or ignoring grant-date measurement.",
+    "relatedLessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "relatedLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "tags": [
+      "leases",
+      "pensions",
+      "stock compensation"
+    ]
+  },
+  {
+    "id": "lease-principal-fsa-08",
+    "name": "Lessee principal repayment",
+    "expression": "Lease payment − Interest expense",
+    "meaning": "A source-defined LM8 measurement or analytical relationship.",
+    "variables": {
+      "ROU": "Right-of-use asset"
+    },
+    "intuition": "Connects contractual obligations or compensation awards to their reported carrying amounts and expenses.",
+    "workedExample": "See the corresponding LM8 worked example.",
+    "commonMistake": "Mixing lessee and lessor models, confusing pension contribution with expense, or ignoring grant-date measurement.",
+    "relatedLessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "relatedLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "tags": [
+      "leases",
+      "pensions",
+      "stock compensation"
+    ]
+  },
+  {
+    "id": "lease-closing-fsa-08",
+    "name": "Closing lease liability",
+    "expression": "Opening liability + Interest − Payment",
+    "meaning": "A source-defined LM8 measurement or analytical relationship.",
+    "variables": {
+      "ROU": "Right-of-use asset"
+    },
+    "intuition": "Connects contractual obligations or compensation awards to their reported carrying amounts and expenses.",
+    "workedExample": "See the corresponding LM8 worked example.",
+    "commonMistake": "Mixing lessee and lessor models, confusing pension contribution with expense, or ignoring grant-date measurement.",
+    "relatedLessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "relatedLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "tags": [
+      "leases",
+      "pensions",
+      "stock compensation"
+    ]
+  },
+  {
+    "id": "rou-amortization-fsa-08",
+    "name": "Straight-line ROU amortization",
+    "expression": "Initial ROU asset ÷ Lease term",
+    "meaning": "A source-defined LM8 measurement or analytical relationship.",
+    "variables": {
+      "ROU": "Right-of-use asset"
+    },
+    "intuition": "Connects contractual obligations or compensation awards to their reported carrying amounts and expenses.",
+    "workedExample": "See the corresponding LM8 worked example.",
+    "commonMistake": "Mixing lessee and lessor models, confusing pension contribution with expense, or ignoring grant-date measurement.",
+    "relatedLessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "relatedLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "tags": [
+      "leases",
+      "pensions",
+      "stock compensation"
+    ]
+  },
+  {
+    "id": "operating-rou-amortization-fsa-08",
+    "name": "US operating-lease ROU amortization",
+    "expression": "Single lease expense − Interest expense",
+    "meaning": "A source-defined LM8 measurement or analytical relationship.",
+    "variables": {
+      "ROU": "Right-of-use asset"
+    },
+    "intuition": "Connects contractual obligations or compensation awards to their reported carrying amounts and expenses.",
+    "workedExample": "See the corresponding LM8 worked example.",
+    "commonMistake": "Mixing lessee and lessor models, confusing pension contribution with expense, or ignoring grant-date measurement.",
+    "relatedLessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "relatedLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "tags": [
+      "leases",
+      "pensions",
+      "stock compensation"
+    ]
+  },
+  {
+    "id": "lessor-effective-interest-fsa-08",
+    "name": "Lessor finance-lease allocation",
+    "expression": "Interest income = Beginning receivable × Implicit rate; Principal = Receipt − Interest",
+    "meaning": "A source-defined LM8 measurement or analytical relationship.",
+    "variables": {
+      "ROU": "Right-of-use asset"
+    },
+    "intuition": "Connects contractual obligations or compensation awards to their reported carrying amounts and expenses.",
+    "workedExample": "See the corresponding LM8 worked example.",
+    "commonMistake": "Mixing lessee and lessor models, confusing pension contribution with expense, or ignoring grant-date measurement.",
+    "relatedLessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "relatedLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "tags": [
+      "leases",
+      "pensions",
+      "stock compensation"
+    ]
+  },
+  {
+    "id": "pension-funded-status-fsa-08",
+    "name": "Defined-benefit funded status",
+    "expression": "Fair value of plan assets − Defined benefit obligation",
+    "meaning": "A source-defined LM8 measurement or analytical relationship.",
+    "variables": {
+      "ROU": "Right-of-use asset"
+    },
+    "intuition": "Connects contractual obligations or compensation awards to their reported carrying amounts and expenses.",
+    "workedExample": "See the corresponding LM8 worked example.",
+    "commonMistake": "Mixing lessee and lessor models, confusing pension contribution with expense, or ignoring grant-date measurement.",
+    "relatedLessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "relatedLearningOutcome": "explain the financial reporting of defined contribution, defined benefit, and stock-based compensation plans",
+    "tags": [
+      "leases",
+      "pensions",
+      "stock compensation"
+    ]
+  },
+  {
+    "id": "dc-expense-fsa-08",
+    "name": "Defined contribution expense",
+    "expression": "Contribution attributable to period ± Accrual/prepayment adjustment",
+    "meaning": "A source-defined LM8 measurement or analytical relationship.",
+    "variables": {
+      "ROU": "Right-of-use asset"
+    },
+    "intuition": "Connects contractual obligations or compensation awards to their reported carrying amounts and expenses.",
+    "workedExample": "See the corresponding LM8 worked example.",
+    "commonMistake": "Mixing lessee and lessor models, confusing pension contribution with expense, or ignoring grant-date measurement.",
+    "relatedLessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "relatedLearningOutcome": "explain the financial reporting of defined contribution, defined benefit, and stock-based compensation plans",
+    "tags": [
+      "leases",
+      "pensions",
+      "stock compensation"
+    ]
+  },
+  {
+    "id": "stock-comp-expense-fsa-08",
+    "name": "Stock-compensation expense",
+    "expression": "Grant-date fair value expected to vest ÷ Service period",
+    "meaning": "A source-defined LM8 measurement or analytical relationship.",
+    "variables": {
+      "ROU": "Right-of-use asset"
+    },
+    "intuition": "Connects contractual obligations or compensation awards to their reported carrying amounts and expenses.",
+    "workedExample": "See the corresponding LM8 worked example.",
+    "commonMistake": "Mixing lessee and lessor models, confusing pension contribution with expense, or ignoring grant-date measurement.",
+    "relatedLessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "relatedLearningOutcome": "explain the financial reporting of defined contribution, defined benefit, and stock-based compensation plans",
+    "tags": [
+      "leases",
+      "pensions",
+      "stock compensation"
+    ]
+  },
+  {
+    "id": "option-intrinsic-value-fsa-08",
+    "name": "Stock-option intrinsic value",
+    "expression": "max(0, Market price − Exercise price) × Options exercised",
+    "meaning": "A source-defined LM8 measurement or analytical relationship.",
+    "variables": {
+      "ROU": "Right-of-use asset"
+    },
+    "intuition": "Connects contractual obligations or compensation awards to their reported carrying amounts and expenses.",
+    "workedExample": "See the corresponding LM8 worked example.",
+    "commonMistake": "Mixing lessee and lessor models, confusing pension contribution with expense, or ignoring grant-date measurement.",
+    "relatedLessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "relatedLearningOutcome": "explain the financial reporting of defined contribution, defined benefit, and stock-based compensation plans",
+    "tags": [
+      "leases",
+      "pensions",
+      "stock compensation"
+    ]
+  }
+]

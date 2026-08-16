@@ -1,0 +1,552 @@
+[
+  {
+    "id": "fsa-lm8-fc-001",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "Explain why a contract contains a lease when the customer controls the use of:",
+    "back": "an identified asset. A lease requires control of an identified asset.",
+    "officialLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm8-fc-002",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "State the rule resolving a lease is most likely finance when:",
+    "back": "ownership transfers to the lessee. Ownership transfer is a finance-lease indicator.",
+    "officialLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm8-fc-003",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "Interpret this review point: payment PV of 186 and asset fair value of 190 most strongly indicates:",
+    "back": "a finance lease because substantially all value is financed. The 97.9% proportion supports finance classification.",
+    "officialLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm8-fc-004",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "Explain why at commencement, a lessee normally records the lease liability at:",
+    "back": "the present value of fixed lease payments. Initial liability measurement uses present value.",
+    "officialLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm8-fc-005",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "State the rule resolving five year-end payments of 100,000 discounted at 10% have a PV closest to:",
+    "back": "379,079. The ordinary-annuity present value is approximately 379,079.",
+    "officialLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm8-fc-006",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "Interpret this review point: beginning liability is 379,079 and rate is 10%. Interest is closest to:",
+    "back": "37,908. Interest equals beginning liability times rate.",
+    "officialLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm8-fc-007",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "Explain why payment is 100,000 and interest is 37,908. Principal equals:",
+    "back": "62,092. Principal is payment minus interest.",
+    "officialLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm8-fc-008",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "State the rule resolving opening liability is 379,079 and principal is 62,092. Closing liability is:",
+    "back": "316,987. Subtract principal from the opening liability.",
+    "officialLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm8-fc-009",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "Interpret this review point: under IFRS, most lessee lease expense is presented as:",
+    "back": "separate interest and ROU amortization. IFRS uses a finance-style lessee model.",
+    "officialLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm8-fc-010",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "Explain why under US GAAP, an operating lease generally presents:",
+    "back": "a single straight-line lease expense. The operating model produces single lease expense.",
+    "officialLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm8-fc-011",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "State the rule resolving for a US operating lease, ROU amortization equals:",
+    "back": "lease expense minus interest. This keeps total expense level.",
+    "officialLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm8-fc-012",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "Interpret this review point: under a finance-style lessee model, principal cash payment is normally:",
+    "back": "a financing outflow. Principal repays a financing liability.",
+    "officialLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm8-fc-013",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "Explain why for a US operating lease, the entire payment is generally:",
+    "back": "an operating cash outflow. US operating-lease cash payment is CFO.",
+    "officialLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm8-fc-014",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "State the rule resolving a finance lessor initially recognizes:",
+    "back": "a lease receivable and derecognizes the underlying asset. Finance lessor accounting resembles a sale/financing.",
+    "officialLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm8-fc-015",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "Interpret this review point: an operating lessor generally:",
+    "back": "retains and depreciates the underlying asset. Operating lessor accounting resembles rental.",
+    "officialLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm8-fc-016",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "Explain why a defined contribution plan primarily places investment risk on the:",
+    "back": "employee. The ultimate benefit depends on contribution investment performance.",
+    "officialLearningOutcome": "explain the financial reporting of defined contribution, defined benefit, and stock-based compensation plans",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm8-fc-017",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "State the rule resolving a defined benefit plan primarily places actuarial and investment risk on the:",
+    "back": "employer. The employer promises the benefit.",
+    "officialLearningOutcome": "explain the financial reporting of defined contribution, defined benefit, and stock-based compensation plans",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm8-fc-018",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "Interpret this review point: plan assets are 900 and obligation is 1,000. The balance sheet reports:",
+    "back": "a net pension liability of 100. Assets minus obligation equals −100.",
+    "officialLearningOutcome": "explain the financial reporting of defined contribution, defined benefit, and stock-based compensation plans",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm8-fc-019",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "Explain why plan assets are 1,200 and obligation is 1,050. Funded status is:",
+    "back": "a 150 net pension asset. Positive funded status is an asset.",
+    "officialLearningOutcome": "explain the financial reporting of defined contribution, defined benefit, and stock-based compensation plans",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm8-fc-020",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "State the rule resolving a lower defined-benefit discount rate generally:",
+    "back": "increases the obligation. Lower discounting increases present value.",
+    "officialLearningOutcome": "explain the financial reporting of defined contribution, defined benefit, and stock-based compensation plans",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm8-fc-021",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "Interpret this review point: employer contributions to a defined benefit plan most directly:",
+    "back": "increase plan assets and improve funded status. Contributions add plan assets but differ from accounting cost.",
+    "officialLearningOutcome": "explain the financial reporting of defined contribution, defined benefit, and stock-based compensation plans",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm8-fc-022",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "Explain why under IFRS, defined-benefit service cost and net interest are generally in:",
+    "back": "profit or loss. These periodic components affect profit or loss.",
+    "officialLearningOutcome": "explain the financial reporting of defined contribution, defined benefit, and stock-based compensation plans",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm8-fc-023",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "State the rule resolving under IFRS, pension remeasurements are generally recognized in:",
+    "back": "other comprehensive income. Remeasurements go to OCI.",
+    "officialLearningOutcome": "explain the financial reporting of defined contribution, defined benefit, and stock-based compensation plans",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm8-fc-024",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "Interpret this review point: equity-settled stock awards are generally measured using:",
+    "back": "grant-date fair value. Grant-date fair value anchors compensation expense.",
+    "officialLearningOutcome": "explain the financial reporting of defined contribution, defined benefit, and stock-based compensation plans",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm8-fc-025",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "Explain why grant-date fair value is 600 over three years. Annual straight-line expense is:",
+    "back": "200. 600 divided by three is 200.",
+    "officialLearningOutcome": "explain the financial reporting of defined contribution, defined benefit, and stock-based compensation plans",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm8-fc-026",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "State the rule resolving option intrinsic value per share when market is 44 and exercise price is 30 is:",
+    "back": "14. Intrinsic value is market less exercise price.",
+    "officialLearningOutcome": "explain the financial reporting of defined contribution, defined benefit, and stock-based compensation plans",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm8-fc-027",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "Interpret this review point: if market price is below exercise price, option intrinsic value is:",
+    "back": "zero. The holder will not exercise for a negative payoff.",
+    "officialLearningOutcome": "explain the financial reporting of defined contribution, defined benefit, and stock-based compensation plans",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm8-fc-028",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "Explain why higher expected share-price volatility generally makes an employee option:",
+    "back": "more valuable. Greater upside dispersion raises option value.",
+    "officialLearningOutcome": "explain the financial reporting of defined contribution, defined benefit, and stock-based compensation plans",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm8-fc-029",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "State the rule resolving equity-settled compensation expense is:",
+    "back": "a real economic cost despite being non-cash. It reduces profit and can dilute owners.",
+    "officialLearningOutcome": "explain the financial reporting of defined contribution, defined benefit, and stock-based compensation plans",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm8-fc-030",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "Interpret this review point: a cash-settled share appreciation right is generally:",
+    "back": "remeasured as a liability. Cash settlement creates a remeasured obligation.",
+    "officialLearningOutcome": "explain the financial reporting of defined contribution, defined benefit, and stock-based compensation plans",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm8-fc-031",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "Explain why long-term debt due within twelve months is normally presented as:",
+    "back": "a current liability. The current portion is separately classified.",
+    "officialLearningOutcome": "describe the financial statement presentation of and disclosures relating to long-term liabilities and share-based compensation",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm8-fc-032",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "State the rule resolving lease maturity disclosures primarily help assess:",
+    "back": "timing and concentration of contractual payments. Maturities reveal liquidity demands.",
+    "officialLearningOutcome": "describe the financial statement presentation of and disclosures relating to long-term liabilities and share-based compensation",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm8-fc-033",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "Interpret this review point: a pension note should disclose major actuarial assumptions such as:",
+    "back": "discount rate and salary growth. Assumptions drive obligation measurement.",
+    "officialLearningOutcome": "describe the financial statement presentation of and disclosures relating to long-term liabilities and share-based compensation",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm8-fc-034",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "Explain why unrecognized stock-compensation cost and remaining vesting period indicate:",
+    "back": "future expense still to be recognized. They help forecast compensation expense.",
+    "officialLearningOutcome": "describe the financial statement presentation of and disclosures relating to long-term liabilities and share-based compensation",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm8-fc-035",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "State the rule resolving recognizing a lease liability will generally cause leverage to:",
+    "back": "increase. Debt-like obligations increase.",
+    "officialLearningOutcome": "describe the financial statement presentation of and disclosures relating to long-term liabilities and share-based compensation",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm8-fc-036",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "Interpret this review point: finance-style lease presentation generally makes EBITDA relative to operating presentation:",
+    "back": "higher. Interest and amortization are excluded from EBITDA.",
+    "officialLearningOutcome": "describe the financial statement presentation of and disclosures relating to long-term liabilities and share-based compensation",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm8-fc-037",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "Explain why lease recognition generally causes asset turnover to:",
+    "back": "decrease because assets increase. A larger asset denominator lowers turnover.",
+    "officialLearningOutcome": "describe the financial statement presentation of and disclosures relating to long-term liabilities and share-based compensation",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm8-fc-038",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "State the rule resolving a debt covenant disclosure is important because violation can:",
+    "back": "accelerate or reclassify obligations. Covenants affect liquidity and classification.",
+    "officialLearningOutcome": "describe the financial statement presentation of and disclosures relating to long-term liabilities and share-based compensation",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm8-fc-039",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "Interpret this review point: stock-option valuation disclosures should include assumptions about:",
+    "back": "volatility, expected life, dividends, and risk-free rate. These are key option-pricing inputs.",
+    "officialLearningOutcome": "describe the financial statement presentation of and disclosures relating to long-term liabilities and share-based compensation",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm8-fc-040",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "Explain why a pension plan asset allocation disclosure helps evaluate:",
+    "back": "investment risk and funded-status volatility. Asset mix affects plan risk.",
+    "officialLearningOutcome": "describe the financial statement presentation of and disclosures relating to long-term liabilities and share-based compensation",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm8-fc-041",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "State the rule resolving a lessee advantage most plausibly includes:",
+    "back": "flexibility and reduced obsolescence exposure. Leasing can provide flexibility without ownership.",
+    "officialLearningOutcome": "describe the financial statement presentation of and disclosures relating to long-term liabilities and share-based compensation",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm8-fc-042",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "Interpret this review point: non-current long-term debt is usually presented as:",
+    "back": "a consolidated non-current line with detail in notes. The notes provide instrument-level detail.",
+    "officialLearningOutcome": "describe the financial statement presentation of and disclosures relating to long-term liabilities and share-based compensation",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm8-fc-043",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "Explain why comparing CFO across lessees requires checking:",
+    "back": "lease classification and framework cash-flow presentation. Classification can move lease cash between CFO and CFF.",
+    "officialLearningOutcome": "describe the financial statement presentation of and disclosures relating to long-term liabilities and share-based compensation",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm8-fc-044",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "State the rule resolving a large pension deficit should be evaluated together with:",
+    "back": "assumptions, asset allocation, contribution plans, and maturities. The deficit is sensitive to assumptions and funding strategy.",
+    "officialLearningOutcome": "describe the financial statement presentation of and disclosures relating to long-term liabilities and share-based compensation",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm8-fc-045",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "front": "Interpret this review point: share-based compensation can dilute owners even when:",
+    "back": "the expense is non-cash. Equity issuance transfers value to employees.",
+    "officialLearningOutcome": "describe the financial statement presentation of and disclosures relating to long-term liabilities and share-based compensation",
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 3"
+    ],
+    "supplementary": true
+  }
+]

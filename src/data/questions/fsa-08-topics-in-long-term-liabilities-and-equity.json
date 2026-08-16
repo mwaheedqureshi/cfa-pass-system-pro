@@ -1,0 +1,1182 @@
+[
+  {
+    "id": "fsa-lm8-q-001",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "difficulty": "hard",
+    "estimatedSeconds": 60,
+    "stem": "A contract contains a lease when the customer controls the use of:",
+    "choices": [
+      "an identified asset.",
+      "any supplier workforce.",
+      "an unspecified service capacity."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "A lease requires control of an identified asset.",
+    "incorrectChoiceExplanations": [
+      "Correct: A lease requires control of an identified asset.",
+      "Incorrect: any supplier workforce. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Incorrect: an unspecified service capacity. conflicts with the applicable LM8 recognition, measurement, or presentation rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm8-q-002",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A lease is most likely finance when:",
+    "choices": [
+      "the asset has many alternative uses.",
+      "ownership transfers to the lessee.",
+      "the term is insignificant relative to useful life."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Ownership transfer is a finance-lease indicator.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: the asset has many alternative uses. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Correct: Ownership transfer is a finance-lease indicator.",
+      "Incorrect: the term is insignificant relative to useful life. conflicts with the applicable LM8 recognition, measurement, or presentation rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm8-q-003",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Payment PV of 186 and asset fair value of 190 most strongly indicates:",
+    "choices": [
+      "an operating lease because PV is below fair value.",
+      "a service contract automatically.",
+      "a finance lease because substantially all value is financed."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The 97.9% proportion supports finance classification.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: an operating lease because PV is below fair value. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Incorrect: a service contract automatically. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Correct: The 97.9% proportion supports finance classification."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm8-q-004",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "At commencement, a lessee normally records the lease liability at:",
+    "choices": [
+      "the present value of fixed lease payments.",
+      "the sum of undiscounted payments only.",
+      "zero until the first payment."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Initial liability measurement uses present value.",
+    "incorrectChoiceExplanations": [
+      "Correct: Initial liability measurement uses present value.",
+      "Incorrect: the sum of undiscounted payments only. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Incorrect: zero until the first payment. conflicts with the applicable LM8 recognition, measurement, or presentation rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm8-q-005",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Five year-end payments of 100,000 discounted at 10% have a PV closest to:",
+    "choices": [
+      "500,000.",
+      "379,079.",
+      "62,092."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The ordinary-annuity present value is approximately 379,079.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 500,000. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Correct: The ordinary-annuity present value is approximately 379,079.",
+      "Incorrect: 62,092. conflicts with the applicable LM8 recognition, measurement, or presentation rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm8-q-006",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Beginning liability is 379,079 and rate is 10%. Interest is closest to:",
+    "choices": [
+      "62,092.",
+      "100,000.",
+      "37,908."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Interest equals beginning liability times rate.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 62,092. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Incorrect: 100,000. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Correct: Interest equals beginning liability times rate."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm8-q-007",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Payment is 100,000 and interest is 37,908. Principal equals:",
+    "choices": [
+      "62,092.",
+      "137,908.",
+      "37,908."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Principal is payment minus interest.",
+    "incorrectChoiceExplanations": [
+      "Correct: Principal is payment minus interest.",
+      "Incorrect: 137,908. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Incorrect: 37,908. conflicts with the applicable LM8 recognition, measurement, or presentation rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm8-q-008",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Opening liability is 379,079 and principal is 62,092. Closing liability is:",
+    "choices": [
+      "441,171.",
+      "316,987.",
+      "279,079."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Subtract principal from the opening liability.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 441,171. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Correct: Subtract principal from the opening liability.",
+      "Incorrect: 279,079. conflicts with the applicable LM8 recognition, measurement, or presentation rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm8-q-009",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Under IFRS, most lessee lease expense is presented as:",
+    "choices": [
+      "one operating rent expense only.",
+      "dividend expense.",
+      "separate interest and ROU amortization."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "IFRS uses a finance-style lessee model.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: one operating rent expense only. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Incorrect: dividend expense. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Correct: IFRS uses a finance-style lessee model."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm8-q-010",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Under US GAAP, an operating lease generally presents:",
+    "choices": [
+      "a single straight-line lease expense.",
+      "no ROU asset or liability.",
+      "interest as revenue."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The operating model produces single lease expense.",
+    "incorrectChoiceExplanations": [
+      "Correct: The operating model produces single lease expense.",
+      "Incorrect: no ROU asset or liability. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Incorrect: interest as revenue. conflicts with the applicable LM8 recognition, measurement, or presentation rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm8-q-011",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "For a US operating lease, ROU amortization equals:",
+    "choices": [
+      "payment plus interest.",
+      "lease expense minus interest.",
+      "liability plus payment."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "This keeps total expense level.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: payment plus interest. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Correct: This keeps total expense level.",
+      "Incorrect: liability plus payment. conflicts with the applicable LM8 recognition, measurement, or presentation rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm8-q-012",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Under a finance-style lessee model, principal cash payment is normally:",
+    "choices": [
+      "an operating inflow.",
+      "an investing inflow.",
+      "a financing outflow."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Principal repays a financing liability.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: an operating inflow. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Incorrect: an investing inflow. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Correct: Principal repays a financing liability."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm8-q-013",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "For a US operating lease, the entire payment is generally:",
+    "choices": [
+      "an operating cash outflow.",
+      "a financing cash outflow.",
+      "an investing cash outflow."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "US operating-lease cash payment is CFO.",
+    "incorrectChoiceExplanations": [
+      "Correct: US operating-lease cash payment is CFO.",
+      "Incorrect: a financing cash outflow. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Incorrect: an investing cash outflow. conflicts with the applicable LM8 recognition, measurement, or presentation rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm8-q-014",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A finance lessor initially recognizes:",
+    "choices": [
+      "rental expense and retains only inventory.",
+      "a lease receivable and derecognizes the underlying asset.",
+      "a pension asset."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Finance lessor accounting resembles a sale/financing.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: rental expense and retains only inventory. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Correct: Finance lessor accounting resembles a sale/financing.",
+      "Incorrect: a pension asset. conflicts with the applicable LM8 recognition, measurement, or presentation rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm8-q-015",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting of leases from the perspectives of lessors and lessees",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "An operating lessor generally:",
+    "choices": [
+      "derecognizes the asset at inception.",
+      "records no lease income.",
+      "retains and depreciates the underlying asset."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Operating lessor accounting resembles rental.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: derecognizes the asset at inception. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Incorrect: records no lease income. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Correct: Operating lessor accounting resembles rental."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm8-q-016",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting of defined contribution, defined benefit, and stock-based compensation plans",
+    "difficulty": "hard",
+    "estimatedSeconds": 60,
+    "stem": "A defined contribution plan primarily places investment risk on the:",
+    "choices": [
+      "employee.",
+      "employer.",
+      "auditor."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The ultimate benefit depends on contribution investment performance.",
+    "incorrectChoiceExplanations": [
+      "Correct: The ultimate benefit depends on contribution investment performance.",
+      "Incorrect: employer. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Incorrect: auditor. conflicts with the applicable LM8 recognition, measurement, or presentation rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm8-q-017",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting of defined contribution, defined benefit, and stock-based compensation plans",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A defined benefit plan primarily places actuarial and investment risk on the:",
+    "choices": [
+      "employee only.",
+      "employer.",
+      "lessor."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The employer promises the benefit.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: employee only. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Correct: The employer promises the benefit.",
+      "Incorrect: lessor. conflicts with the applicable LM8 recognition, measurement, or presentation rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm8-q-018",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting of defined contribution, defined benefit, and stock-based compensation plans",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Plan assets are 900 and obligation is 1,000. The balance sheet reports:",
+    "choices": [
+      "a net pension asset of 100.",
+      "pension equity of 1,900.",
+      "a net pension liability of 100."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Assets minus obligation equals −100.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: a net pension asset of 100. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Incorrect: pension equity of 1,900. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Correct: Assets minus obligation equals −100."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm8-q-019",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting of defined contribution, defined benefit, and stock-based compensation plans",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Plan assets are 1,200 and obligation is 1,050. Funded status is:",
+    "choices": [
+      "a 150 net pension asset.",
+      "a 150 net pension liability.",
+      "a 2,250 expense."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Positive funded status is an asset.",
+    "incorrectChoiceExplanations": [
+      "Correct: Positive funded status is an asset.",
+      "Incorrect: a 150 net pension liability. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Incorrect: a 2,250 expense. conflicts with the applicable LM8 recognition, measurement, or presentation rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm8-q-020",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting of defined contribution, defined benefit, and stock-based compensation plans",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A lower defined-benefit discount rate generally:",
+    "choices": [
+      "decreases the obligation.",
+      "increases the obligation.",
+      "has no valuation effect."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Lower discounting increases present value.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: decreases the obligation. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Correct: Lower discounting increases present value.",
+      "Incorrect: has no valuation effect. conflicts with the applicable LM8 recognition, measurement, or presentation rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm8-q-021",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting of defined contribution, defined benefit, and stock-based compensation plans",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Employer contributions to a defined benefit plan most directly:",
+    "choices": [
+      "increase the obligation only.",
+      "equal pension expense by definition.",
+      "increase plan assets and improve funded status."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Contributions add plan assets but differ from accounting cost.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: increase the obligation only. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Incorrect: equal pension expense by definition. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Correct: Contributions add plan assets but differ from accounting cost."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm8-q-022",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting of defined contribution, defined benefit, and stock-based compensation plans",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Under IFRS, defined-benefit service cost and net interest are generally in:",
+    "choices": [
+      "profit or loss.",
+      "share capital.",
+      "investing cash flow."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "These periodic components affect profit or loss.",
+    "incorrectChoiceExplanations": [
+      "Correct: These periodic components affect profit or loss.",
+      "Incorrect: share capital. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Incorrect: investing cash flow. conflicts with the applicable LM8 recognition, measurement, or presentation rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm8-q-023",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting of defined contribution, defined benefit, and stock-based compensation plans",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Under IFRS, pension remeasurements are generally recognized in:",
+    "choices": [
+      "revenue.",
+      "other comprehensive income.",
+      "retained earnings with no OCI."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Remeasurements go to OCI.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: revenue. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Correct: Remeasurements go to OCI.",
+      "Incorrect: retained earnings with no OCI. conflicts with the applicable LM8 recognition, measurement, or presentation rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm8-q-024",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting of defined contribution, defined benefit, and stock-based compensation plans",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Equity-settled stock awards are generally measured using:",
+    "choices": [
+      "exercise-date intrinsic value only.",
+      "the employee salary paid in cash.",
+      "grant-date fair value."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Grant-date fair value anchors compensation expense.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: exercise-date intrinsic value only. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Incorrect: the employee salary paid in cash. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Correct: Grant-date fair value anchors compensation expense."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm8-q-025",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting of defined contribution, defined benefit, and stock-based compensation plans",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Grant-date fair value is 600 over three years. Annual straight-line expense is:",
+    "choices": [
+      "200.",
+      "600.",
+      "1,800."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "600 divided by three is 200.",
+    "incorrectChoiceExplanations": [
+      "Correct: 600 divided by three is 200.",
+      "Incorrect: 600. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Incorrect: 1,800. conflicts with the applicable LM8 recognition, measurement, or presentation rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm8-q-026",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting of defined contribution, defined benefit, and stock-based compensation plans",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Option intrinsic value per share when market is 44 and exercise price is 30 is:",
+    "choices": [
+      "74.",
+      "14.",
+      "0."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Intrinsic value is market less exercise price.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 74. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Correct: Intrinsic value is market less exercise price.",
+      "Incorrect: 0. conflicts with the applicable LM8 recognition, measurement, or presentation rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm8-q-027",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting of defined contribution, defined benefit, and stock-based compensation plans",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "If market price is below exercise price, option intrinsic value is:",
+    "choices": [
+      "negative and recorded as a liability.",
+      "the grant-date price.",
+      "zero."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The holder will not exercise for a negative payoff.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: negative and recorded as a liability. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Incorrect: the grant-date price. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Correct: The holder will not exercise for a negative payoff."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm8-q-028",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting of defined contribution, defined benefit, and stock-based compensation plans",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Higher expected share-price volatility generally makes an employee option:",
+    "choices": [
+      "more valuable.",
+      "less valuable necessarily.",
+      "worth exactly intrinsic value."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Greater upside dispersion raises option value.",
+    "incorrectChoiceExplanations": [
+      "Correct: Greater upside dispersion raises option value.",
+      "Incorrect: less valuable necessarily. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Incorrect: worth exactly intrinsic value. conflicts with the applicable LM8 recognition, measurement, or presentation rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm8-q-029",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting of defined contribution, defined benefit, and stock-based compensation plans",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Equity-settled compensation expense is:",
+    "choices": [
+      "ignored because no cash is paid.",
+      "a real economic cost despite being non-cash.",
+      "a financing cash outflow when recognized."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "It reduces profit and can dilute owners.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: ignored because no cash is paid. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Correct: It reduces profit and can dilute owners.",
+      "Incorrect: a financing cash outflow when recognized. conflicts with the applicable LM8 recognition, measurement, or presentation rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm8-q-030",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the financial reporting of defined contribution, defined benefit, and stock-based compensation plans",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "A cash-settled share appreciation right is generally:",
+    "choices": [
+      "fixed permanently in equity at grant date.",
+      "treated as lease income.",
+      "remeasured as a liability."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Cash settlement creates a remeasured obligation.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: fixed permanently in equity at grant date. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Incorrect: treated as lease income. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Correct: Cash settlement creates a remeasured obligation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm8-q-031",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the financial statement presentation of and disclosures relating to long-term liabilities and share-based compensation",
+    "difficulty": "hard",
+    "estimatedSeconds": 60,
+    "stem": "Long-term debt due within twelve months is normally presented as:",
+    "choices": [
+      "a current liability.",
+      "equity.",
+      "a non-current asset."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The current portion is separately classified.",
+    "incorrectChoiceExplanations": [
+      "Correct: The current portion is separately classified.",
+      "Incorrect: equity. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Incorrect: a non-current asset. conflicts with the applicable LM8 recognition, measurement, or presentation rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm8-q-032",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the financial statement presentation of and disclosures relating to long-term liabilities and share-based compensation",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Lease maturity disclosures primarily help assess:",
+    "choices": [
+      "inventory obsolescence.",
+      "timing and concentration of contractual payments.",
+      "revenue collectability only."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Maturities reveal liquidity demands.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: inventory obsolescence. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Correct: Maturities reveal liquidity demands.",
+      "Incorrect: revenue collectability only. conflicts with the applicable LM8 recognition, measurement, or presentation rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm8-q-033",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the financial statement presentation of and disclosures relating to long-term liabilities and share-based compensation",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "A pension note should disclose major actuarial assumptions such as:",
+    "choices": [
+      "inventory costing method only.",
+      "lease residual value only.",
+      "discount rate and salary growth."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Assumptions drive obligation measurement.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: inventory costing method only. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Incorrect: lease residual value only. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Correct: Assumptions drive obligation measurement."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm8-q-034",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the financial statement presentation of and disclosures relating to long-term liabilities and share-based compensation",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Unrecognized stock-compensation cost and remaining vesting period indicate:",
+    "choices": [
+      "future expense still to be recognized.",
+      "cash already paid to bondholders.",
+      "goodwill impairment."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "They help forecast compensation expense.",
+    "incorrectChoiceExplanations": [
+      "Correct: They help forecast compensation expense.",
+      "Incorrect: cash already paid to bondholders. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Incorrect: goodwill impairment. conflicts with the applicable LM8 recognition, measurement, or presentation rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm8-q-035",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the financial statement presentation of and disclosures relating to long-term liabilities and share-based compensation",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Recognizing a lease liability will generally cause leverage to:",
+    "choices": [
+      "decrease automatically.",
+      "increase.",
+      "remain unchanged in every ratio."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Debt-like obligations increase.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: decrease automatically. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Correct: Debt-like obligations increase.",
+      "Incorrect: remain unchanged in every ratio. conflicts with the applicable LM8 recognition, measurement, or presentation rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm8-q-036",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the financial statement presentation of and disclosures relating to long-term liabilities and share-based compensation",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Finance-style lease presentation generally makes EBITDA relative to operating presentation:",
+    "choices": [
+      "lower.",
+      "identical by definition.",
+      "higher."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Interest and amortization are excluded from EBITDA.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: lower. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Incorrect: identical by definition. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Correct: Interest and amortization are excluded from EBITDA."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm8-q-037",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the financial statement presentation of and disclosures relating to long-term liabilities and share-based compensation",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Lease recognition generally causes asset turnover to:",
+    "choices": [
+      "decrease because assets increase.",
+      "increase because assets increase.",
+      "become a liquidity ratio."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "A larger asset denominator lowers turnover.",
+    "incorrectChoiceExplanations": [
+      "Correct: A larger asset denominator lowers turnover.",
+      "Incorrect: increase because assets increase. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Incorrect: become a liquidity ratio. conflicts with the applicable LM8 recognition, measurement, or presentation rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm8-q-038",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the financial statement presentation of and disclosures relating to long-term liabilities and share-based compensation",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A debt covenant disclosure is important because violation can:",
+    "choices": [
+      "eliminate all interest expense.",
+      "accelerate or reclassify obligations.",
+      "create inventory."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Covenants affect liquidity and classification.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: eliminate all interest expense. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Correct: Covenants affect liquidity and classification.",
+      "Incorrect: create inventory. conflicts with the applicable LM8 recognition, measurement, or presentation rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm8-q-039",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the financial statement presentation of and disclosures relating to long-term liabilities and share-based compensation",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Stock-option valuation disclosures should include assumptions about:",
+    "choices": [
+      "inventory turnover only.",
+      "pension plan assets only.",
+      "volatility, expected life, dividends, and risk-free rate."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "These are key option-pricing inputs.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: inventory turnover only. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Incorrect: pension plan assets only. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Correct: These are key option-pricing inputs."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm8-q-040",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the financial statement presentation of and disclosures relating to long-term liabilities and share-based compensation",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "A pension plan asset allocation disclosure helps evaluate:",
+    "choices": [
+      "investment risk and funded-status volatility.",
+      "lease classification.",
+      "share count only."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Asset mix affects plan risk.",
+    "incorrectChoiceExplanations": [
+      "Correct: Asset mix affects plan risk.",
+      "Incorrect: lease classification. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Incorrect: share count only. conflicts with the applicable LM8 recognition, measurement, or presentation rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm8-q-041",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the financial statement presentation of and disclosures relating to long-term liabilities and share-based compensation",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A lessee advantage most plausibly includes:",
+    "choices": [
+      "ownership tax depreciation in every lease.",
+      "flexibility and reduced obsolescence exposure.",
+      "elimination of all financing costs."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Leasing can provide flexibility without ownership.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: ownership tax depreciation in every lease. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Correct: Leasing can provide flexibility without ownership.",
+      "Incorrect: elimination of all financing costs. conflicts with the applicable LM8 recognition, measurement, or presentation rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm8-q-042",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the financial statement presentation of and disclosures relating to long-term liabilities and share-based compensation",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Non-current long-term debt is usually presented as:",
+    "choices": [
+      "many mandatory face line items for every instrument.",
+      "a current asset.",
+      "a consolidated non-current line with detail in notes."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The notes provide instrument-level detail.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: many mandatory face line items for every instrument. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Incorrect: a current asset. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Correct: The notes provide instrument-level detail."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm8-q-043",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the financial statement presentation of and disclosures relating to long-term liabilities and share-based compensation",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Comparing CFO across lessees requires checking:",
+    "choices": [
+      "lease classification and framework cash-flow presentation.",
+      "only revenue growth.",
+      "only stock-option volatility."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Classification can move lease cash between CFO and CFF.",
+    "incorrectChoiceExplanations": [
+      "Correct: Classification can move lease cash between CFO and CFF.",
+      "Incorrect: only revenue growth. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Incorrect: only stock-option volatility. conflicts with the applicable LM8 recognition, measurement, or presentation rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm8-q-044",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the financial statement presentation of and disclosures relating to long-term liabilities and share-based compensation",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A large pension deficit should be evaluated together with:",
+    "choices": [
+      "inventory method only.",
+      "assumptions, asset allocation, contribution plans, and maturities.",
+      "gross margin only."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The deficit is sensitive to assumptions and funding strategy.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: inventory method only. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Correct: The deficit is sensitive to assumptions and funding strategy.",
+      "Incorrect: gross margin only. conflicts with the applicable LM8 recognition, measurement, or presentation rule."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 3"
+    ],
+    "supplementary": true
+  },
+  {
+    "id": "fsa-lm8-q-045",
+    "lessonId": "fsa-08-topics-in-long-term-liabilities-and-equity",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the financial statement presentation of and disclosures relating to long-term liabilities and share-based compensation",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Share-based compensation can dilute owners even when:",
+    "choices": [
+      "no awards vest.",
+      "all awards are cash-settled.",
+      "the expense is non-cash."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Equity issuance transfers value to employees.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: no awards vest. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Incorrect: all awards are cash-settled. conflicts with the applicable LM8 recognition, measurement, or presentation rule.",
+      "Correct: Equity issuance transfers value to employees."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "long-term liabilities and equity",
+      "LOS 3"
+    ],
+    "supplementary": true
+  }
+]

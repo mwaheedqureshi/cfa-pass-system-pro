@@ -29,7 +29,7 @@ Roadmap entries define release boundaries, not permission to implement later wor
 | v1.8.7 | FSA Module Production Sprint 7 | Complete: FSA-LM7 Analysis of Long-Term Assets — 35 official + 10 supplementary questions/flashcards, 13 formulas, 8 exhibits, 1 tool |
 | v1.8.6 | FSA Module Production Sprint 6 | FSA-LM6 Analysis of Inventories |
 | v1.8.7 | FSA Module Production Sprint 7 | FSA-LM7 Analysis of Long-Term Assets |
-| v1.8.8 | FSA Module Production Sprint 8 | FSA-LM8 Topics in Long-Term Liabilities and Equity |
+| v1.8.8 | FSA Module Production Sprint 8 | Complete: FSA-LM8 Topics in Long-Term Liabilities and Equity — 35 official + 10 supplementary questions/flashcards, 11 formulas, 8 exhibits, 2 tools |
 | v1.8.9 | FSA Module Production Sprint 9 | FSA-LM9 Analysis of Income Taxes |
 | v1.8.10 | FSA Module Production Sprint 10 | FSA-LM10 Financial Reporting Quality |
 | v1.8.11 | FSA Module Production Sprint 11 | FSA-LM11 Financial Analysis Techniques |
