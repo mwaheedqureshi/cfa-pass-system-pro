@@ -48,7 +48,7 @@ Financial Statement Analysis v1.8.0 mapped all 12 official 2027 modules (FSA-LM1
 
 ## Technical Debt
 
-- **KI-L24 — FSA-LM10 delivers one production metric against a two-formula planning target.** Direct source review found CFO divided by net income to be the only scalar metric specifically prescribed for LM10 reporting-quality analysis. DSO/receivables turnover is used as a warning relationship but its general formulas belong to LM11; interest coverage, percentage growth, depreciation, and EPS are illustrative mechanics owned by other modules. No second formula was manufactured or duplicated merely to meet the target. Not a defect.
+- **KI-L24 — FSA-LM10 delivers one production metric against a two-formula planning target.** Direct source review found CFO divided by net income to be the only scalar metric specifically prescribed for LM10 reporting-quality analysis. DSO/receivables turnover is used as a warning relationship; its canonical records are now produced under LM11 in v1.8.11. Interest coverage, percentage growth, depreciation, and EPS remain mechanics owned by other modules. No second LM10 formula was manufactured. Not a defect.
 
 - Some source files are densely formatted and should be reformatted only through a dedicated, behavior-neutral change.
 - Content validation contains release-specific inventory expectations that should eventually derive from a single typed manifest.

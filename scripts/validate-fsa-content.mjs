@@ -12,6 +12,7 @@ const producedModules=[
  {officialModuleId:'FSA-LM8',lessonId:'fsa-08-topics-in-long-term-liabilities-and-equity',contentPath:'public/content/fsa/08-topics-in-long-term-liabilities-and-equity.md',hasFormulas:true,formulaCount:11,officialQuestionCount:35,supplementaryQuestionCount:10,tools:['LeaseMeasurementExplorer','PensionStockCompExplorer']},
  {officialModuleId:'FSA-LM9',lessonId:'fsa-09-analysis-of-income-taxes',contentPath:'public/content/fsa/09-analysis-of-income-taxes.md',hasFormulas:true,formulaCount:8,officialQuestionCount:30,supplementaryQuestionCount:10,tools:['DeferredTaxExplorer','TaxRateReconciliationAnalyzer']},
  {officialModuleId:'FSA-LM10',lessonId:'fsa-10-financial-reporting-quality',contentPath:'public/content/fsa/10-financial-reporting-quality.md',hasFormulas:true,formulaCount:1,officialQuestionCount:35,supplementaryQuestionCount:10,tools:['FinancialReportingRedFlagAnalyzer','AccountingBiasImpactExplorer']},
+ {officialModuleId:'FSA-LM11',lessonId:'fsa-11-financial-analysis-techniques',contentPath:'public/content/fsa/11-financial-analysis-techniques.md',hasFormulas:true,formulaCount:20,officialQuestionCount:55,supplementaryQuestionCount:10,tools:['IntegratedRatioRelationshipDashboard','DuPontRoeDecompositionExplorer']},
 ];
 const allModules=await read('.local-research/fsa-verification/official-module-map.json');
 const unproducedLessonIds=allModules.modules.map(m=>m.futureStudyLessonId).filter(id=>!producedModules.some(p=>p.lessonId===id));

@@ -15,7 +15,7 @@ The application models all ten Level I topic groups. Quantitative Methods v1.6.6
 
 Economics v1.7.9 is verified and content-frozen across all 8 official 2027 modules (ECO-LM1 through ECO-LM8) presented through 8 study lessons, mirroring the Quantitative certification. Its public banks contain 325 official and 85 supplementary questions, 325 official and 85 supplementary flashcards, and 42 official formulas, plus 14 registered interactive tools, 8 chapter exams, and a 60-question comprehensive assessment balanced across all 8 modules.
 
-Financial Statement Analysis is mapped across all 12 official modules; FSA-LM1 through FSA-LM10 are produced and verified as of v1.8.10. Together they contain 380 official and 100 supplementary questions and flashcards, 84 formulas/metrics, and 17 registered interactive tools. FSA-LM11 and FSA-LM12 remain mapping-only. FSA completion is 10/12 (83.3%).
+Financial Statement Analysis is mapped across all 12 official modules; FSA-LM1 through FSA-LM11 are produced and verified as of v1.8.11. Together they contain 435 official and 110 supplementary questions and flashcards, 104 formulas/metrics, and 19 registered interactive tools. FSA-LM12 remains mapping-only. FSA completion is 11/12 (91.7%).
 
 The original plain-HTML application is preserved under `legacy/html-prototype/`.
 

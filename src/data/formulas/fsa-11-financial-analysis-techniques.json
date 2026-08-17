@@ -1,0 +1,322 @@
+[
+  {
+    "id": "horizontal-common-size-change-fsa-11",
+    "name": "Horizontal common-size change",
+    "expression": "Current-period amount ÷ Base-period amount (index); or Current amount ÷ Prior amount − 1 (growth)",
+    "meaning": "Measures an item relative to a selected historical base.",
+    "variables": {},
+    "intuition": "Measures an item relative to a selected historical base.",
+    "workedExample": "Apply the stated numerator, denominator, averaging, and period convention consistently to a fictional company.",
+    "commonMistake": "Using inconsistent periods, definitions, or ending balances without justification.",
+    "relatedLessonId": "fsa-11-financial-analysis-techniques",
+    "relatedLearningOutcome": "describe tools and techniques used in financial analysis, including their uses and limitations",
+    "tags": [
+      "LM11",
+      "financial ratios"
+    ]
+  },
+  {
+    "id": "receivables-turnover-fsa-11",
+    "name": "Receivables turnover",
+    "expression": "Revenue ÷ Average receivables",
+    "meaning": "Measures collection efficiency.",
+    "variables": {},
+    "intuition": "Measures collection efficiency.",
+    "workedExample": "Apply the stated numerator, denominator, averaging, and period convention consistently to a fictional company.",
+    "commonMistake": "Using inconsistent periods, definitions, or ending balances without justification.",
+    "relatedLessonId": "fsa-11-financial-analysis-techniques",
+    "relatedLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "tags": [
+      "LM11",
+      "financial ratios"
+    ]
+  },
+  {
+    "id": "days-sales-outstanding-fsa-11",
+    "name": "Days sales outstanding",
+    "expression": "Days in period ÷ Receivables turnover",
+    "meaning": "Estimates average collection days.",
+    "variables": {},
+    "intuition": "Estimates average collection days.",
+    "workedExample": "Apply the stated numerator, denominator, averaging, and period convention consistently to a fictional company.",
+    "commonMistake": "Using inconsistent periods, definitions, or ending balances without justification.",
+    "relatedLessonId": "fsa-11-financial-analysis-techniques",
+    "relatedLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "tags": [
+      "LM11",
+      "financial ratios"
+    ]
+  },
+  {
+    "id": "payables-turnover-fsa-11",
+    "name": "Payables turnover",
+    "expression": "COGS ÷ Average trade payables",
+    "meaning": "Measures payment frequency to suppliers.",
+    "variables": {},
+    "intuition": "Measures payment frequency to suppliers.",
+    "workedExample": "Apply the stated numerator, denominator, averaging, and period convention consistently to a fictional company.",
+    "commonMistake": "Using inconsistent periods, definitions, or ending balances without justification.",
+    "relatedLessonId": "fsa-11-financial-analysis-techniques",
+    "relatedLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "tags": [
+      "LM11",
+      "financial ratios"
+    ]
+  },
+  {
+    "id": "days-payable-fsa-11",
+    "name": "Days payable",
+    "expression": "Days in period ÷ Payables turnover",
+    "meaning": "Estimates average supplier-payment days.",
+    "variables": {},
+    "intuition": "Estimates average supplier-payment days.",
+    "workedExample": "Apply the stated numerator, denominator, averaging, and period convention consistently to a fictional company.",
+    "commonMistake": "Using inconsistent periods, definitions, or ending balances without justification.",
+    "relatedLessonId": "fsa-11-financial-analysis-techniques",
+    "relatedLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "tags": [
+      "LM11",
+      "financial ratios"
+    ]
+  },
+  {
+    "id": "working-capital-turnover-fsa-11",
+    "name": "Working-capital turnover",
+    "expression": "Revenue ÷ Average working capital",
+    "meaning": "Measures revenue generated per unit of net working capital.",
+    "variables": {},
+    "intuition": "Measures revenue generated per unit of net working capital.",
+    "workedExample": "Apply the stated numerator, denominator, averaging, and period convention consistently to a fictional company.",
+    "commonMistake": "Using inconsistent periods, definitions, or ending balances without justification.",
+    "relatedLessonId": "fsa-11-financial-analysis-techniques",
+    "relatedLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "tags": [
+      "LM11",
+      "financial ratios"
+    ]
+  },
+  {
+    "id": "total-asset-turnover-fsa-11",
+    "name": "Total-asset turnover",
+    "expression": "Revenue ÷ Average total assets",
+    "meaning": "Measures overall asset efficiency.",
+    "variables": {},
+    "intuition": "Measures overall asset efficiency.",
+    "workedExample": "Apply the stated numerator, denominator, averaging, and period convention consistently to a fictional company.",
+    "commonMistake": "Using inconsistent periods, definitions, or ending balances without justification.",
+    "relatedLessonId": "fsa-11-financial-analysis-techniques",
+    "relatedLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "tags": [
+      "LM11",
+      "financial ratios"
+    ]
+  },
+  {
+    "id": "defensive-interval-fsa-11",
+    "name": "Defensive interval ratio",
+    "expression": "Quick assets ÷ Daily cash expenditures",
+    "meaning": "Estimates how many days existing liquid assets can fund cash expenditures.",
+    "variables": {},
+    "intuition": "Estimates how many days existing liquid assets can fund cash expenditures.",
+    "workedExample": "Apply the stated numerator, denominator, averaging, and period convention consistently to a fictional company.",
+    "commonMistake": "Using inconsistent periods, definitions, or ending balances without justification.",
+    "relatedLessonId": "fsa-11-financial-analysis-techniques",
+    "relatedLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "tags": [
+      "LM11",
+      "financial ratios"
+    ]
+  },
+  {
+    "id": "cash-conversion-cycle-fsa-11",
+    "name": "Cash conversion cycle",
+    "expression": "DOH + DSO − Days payable",
+    "meaning": "Measures days cash is committed to the operating cycle.",
+    "variables": {},
+    "intuition": "Measures days cash is committed to the operating cycle.",
+    "workedExample": "Apply the stated numerator, denominator, averaging, and period convention consistently to a fictional company.",
+    "commonMistake": "Using inconsistent periods, definitions, or ending balances without justification.",
+    "relatedLessonId": "fsa-11-financial-analysis-techniques",
+    "relatedLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "tags": [
+      "LM11",
+      "financial ratios"
+    ]
+  },
+  {
+    "id": "debt-to-capital-fsa-11",
+    "name": "Debt-to-capital",
+    "expression": "Total debt ÷ (Total debt + Total equity)",
+    "meaning": "Measures debt as a share of permanent capital.",
+    "variables": {},
+    "intuition": "Measures debt as a share of permanent capital.",
+    "workedExample": "Apply the stated numerator, denominator, averaging, and period convention consistently to a fictional company.",
+    "commonMistake": "Using inconsistent periods, definitions, or ending balances without justification.",
+    "relatedLessonId": "fsa-11-financial-analysis-techniques",
+    "relatedLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "tags": [
+      "LM11",
+      "financial ratios"
+    ]
+  },
+  {
+    "id": "debt-to-ebitda-fsa-11",
+    "name": "Debt-to-EBITDA",
+    "expression": "Total or net debt ÷ EBITDA",
+    "meaning": "Relates explicitly defined debt to an earnings-based repayment proxy.",
+    "variables": {},
+    "intuition": "Relates explicitly defined debt to an earnings-based repayment proxy.",
+    "workedExample": "Apply the stated numerator, denominator, averaging, and period convention consistently to a fictional company.",
+    "commonMistake": "Using inconsistent periods, definitions, or ending balances without justification.",
+    "relatedLessonId": "fsa-11-financial-analysis-techniques",
+    "relatedLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "tags": [
+      "LM11",
+      "financial ratios"
+    ]
+  },
+  {
+    "id": "ebit-interest-coverage-fsa-11",
+    "name": "EBIT interest coverage",
+    "expression": "EBIT ÷ Interest payments",
+    "meaning": "Measures accrual operating earnings available for interest.",
+    "variables": {},
+    "intuition": "Measures accrual operating earnings available for interest.",
+    "workedExample": "Apply the stated numerator, denominator, averaging, and period convention consistently to a fictional company.",
+    "commonMistake": "Using inconsistent periods, definitions, or ending balances without justification.",
+    "relatedLessonId": "fsa-11-financial-analysis-techniques",
+    "relatedLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "tags": [
+      "LM11",
+      "financial ratios"
+    ]
+  },
+  {
+    "id": "fixed-charge-coverage-fsa-11",
+    "name": "Fixed-charge coverage",
+    "expression": "(EBIT + Lease payments) ÷ (Interest payments + Lease payments)",
+    "meaning": "Measures coverage of interest and lease commitments.",
+    "variables": {},
+    "intuition": "Measures coverage of interest and lease commitments.",
+    "workedExample": "Apply the stated numerator, denominator, averaging, and period convention consistently to a fictional company.",
+    "commonMistake": "Using inconsistent periods, definitions, or ending balances without justification.",
+    "relatedLessonId": "fsa-11-financial-analysis-techniques",
+    "relatedLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "tags": [
+      "LM11",
+      "financial ratios"
+    ]
+  },
+  {
+    "id": "operating-roa-fsa-11",
+    "name": "Operating return on assets",
+    "expression": "Operating income or consistently defined EBIT ÷ Average total assets",
+    "meaning": "Measures pre-financing operating return on assets.",
+    "variables": {},
+    "intuition": "Measures pre-financing operating return on assets.",
+    "workedExample": "Apply the stated numerator, denominator, averaging, and period convention consistently to a fictional company.",
+    "commonMistake": "Using inconsistent periods, definitions, or ending balances without justification.",
+    "relatedLessonId": "fsa-11-financial-analysis-techniques",
+    "relatedLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "tags": [
+      "LM11",
+      "financial ratios"
+    ]
+  },
+  {
+    "id": "return-on-assets-fsa-11",
+    "name": "Return on assets",
+    "expression": "Net income ÷ Average total assets",
+    "meaning": "Measures after-interest, after-tax return on assets.",
+    "variables": {},
+    "intuition": "Measures after-interest, after-tax return on assets.",
+    "workedExample": "Apply the stated numerator, denominator, averaging, and period convention consistently to a fictional company.",
+    "commonMistake": "Using inconsistent periods, definitions, or ending balances without justification.",
+    "relatedLessonId": "fsa-11-financial-analysis-techniques",
+    "relatedLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "tags": [
+      "LM11",
+      "financial ratios"
+    ]
+  },
+  {
+    "id": "return-on-invested-capital-fsa-11",
+    "name": "Return on invested capital",
+    "expression": "EBIT × (1 − Effective tax rate) ÷ Average short- and long-term debt and equity",
+    "meaning": "Measures after-tax operating return on all invested capital.",
+    "variables": {},
+    "intuition": "Measures after-tax operating return on all invested capital.",
+    "workedExample": "Apply the stated numerator, denominator, averaging, and period convention consistently to a fictional company.",
+    "commonMistake": "Using inconsistent periods, definitions, or ending balances without justification.",
+    "relatedLessonId": "fsa-11-financial-analysis-techniques",
+    "relatedLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "tags": [
+      "LM11",
+      "financial ratios"
+    ]
+  },
+  {
+    "id": "return-on-equity-fsa-11",
+    "name": "Return on equity",
+    "expression": "Net income ÷ Average total equity",
+    "meaning": "Measures return earned on total equity.",
+    "variables": {},
+    "intuition": "Measures return earned on total equity.",
+    "workedExample": "Apply the stated numerator, denominator, averaging, and period convention consistently to a fictional company.",
+    "commonMistake": "Using inconsistent periods, definitions, or ending balances without justification.",
+    "relatedLessonId": "fsa-11-financial-analysis-techniques",
+    "relatedLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "tags": [
+      "LM11",
+      "financial ratios"
+    ]
+  },
+  {
+    "id": "return-on-common-equity-fsa-11",
+    "name": "Return on common equity",
+    "expression": "(Net income − Preferred dividends) ÷ Average common equity",
+    "meaning": "Measures return attributable specifically to common equity.",
+    "variables": {},
+    "intuition": "Measures return attributable specifically to common equity.",
+    "workedExample": "Apply the stated numerator, denominator, averaging, and period convention consistently to a fictional company.",
+    "commonMistake": "Using inconsistent periods, definitions, or ending balances without justification.",
+    "relatedLessonId": "fsa-11-financial-analysis-techniques",
+    "relatedLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "tags": [
+      "LM11",
+      "financial ratios"
+    ]
+  },
+  {
+    "id": "three-factor-dupont-fsa-11",
+    "name": "Three-component DuPont ROE",
+    "expression": "Net profit margin × Total-asset turnover × Financial leverage",
+    "meaning": "Decomposes ROE into profitability, efficiency, and leverage.",
+    "variables": {},
+    "intuition": "Decomposes ROE into profitability, efficiency, and leverage.",
+    "workedExample": "Apply the stated numerator, denominator, averaging, and period convention consistently to a fictional company.",
+    "commonMistake": "Using inconsistent periods, definitions, or ending balances without justification.",
+    "relatedLessonId": "fsa-11-financial-analysis-techniques",
+    "relatedLearningOutcome": "demonstrate the application of DuPont analysis of return on equity and calculate and interpret effects of changes in its components",
+    "tags": [
+      "LM11",
+      "financial ratios"
+    ]
+  },
+  {
+    "id": "five-factor-dupont-fsa-11",
+    "name": "Five-component DuPont ROE",
+    "expression": "(Net income ÷ EBT) × (EBT ÷ EBIT) × (EBIT ÷ Revenue) × (Revenue ÷ Average assets) × (Average assets ÷ Average equity)",
+    "meaning": "Separates tax, interest, operating margin, efficiency, and leverage effects.",
+    "variables": {},
+    "intuition": "Separates tax, interest, operating margin, efficiency, and leverage effects.",
+    "workedExample": "Apply the stated numerator, denominator, averaging, and period convention consistently to a fictional company.",
+    "commonMistake": "Using inconsistent periods, definitions, or ending balances without justification.",
+    "relatedLessonId": "fsa-11-financial-analysis-techniques",
+    "relatedLearningOutcome": "demonstrate the application of DuPont analysis of return on equity and calculate and interpret effects of changes in its components",
+    "tags": [
+      "LM11",
+      "financial ratios"
+    ]
+  }
+]

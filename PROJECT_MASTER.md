@@ -12,13 +12,13 @@ Build a reliable, premium-quality study system in deliberate, verifiable release
 
 ## Release state
 
-- **Current release:** v1.8.10 — FSA Module Production Sprint 10 (FSA-LM10 Financial Reporting Quality)
-- **Current status:** FSA-LM1 through FSA-LM10 are produced and content-verified. FSA-LM10 delivers all eight official LOS with 16 original examples, 10 original exhibits, 45 questions and flashcards (35 official-target/10 supplementary), 1 audited LM10-owned metric, 2 tested tools, and complete application integration. FSA completion is 10 of 12 (83.3%); LM11-LM12 remain mapping-only.
-- **Next release:** FSA Module Production Sprint 11 — FSA-LM11
+- **Current release:** v1.8.11 — FSA Module Production Sprint 11 (FSA-LM11 Financial Analysis Techniques)
+- **Current status:** FSA-LM1 through FSA-LM11 are produced and content-verified. FSA-LM11 delivers all six official LOS with 18 original examples, 12 original exhibits, 65 questions and flashcards (55 official-target/10 supplementary), 20 audited LM11-owned formulas/metrics, 2 tested tools, and complete application integration. FSA completion is 11 of 12 (91.7%); LM12 remains mapping-only.
+- **Next release:** FSA Module Production Sprint 12 — FSA-LM12
 
-- **Current version:** v1.8.10 — FSA Module Production Sprint 10
-- **Current sprint:** FSA-LM10 produced and verified.
-- **Next sprint:** FSA-LM11 production; not begun in v1.8.10.
+- **Current version:** v1.8.11 — FSA Module Production Sprint 11
+- **Current sprint:** FSA-LM11 produced and verified.
+- **Next sprint:** FSA-LM12 production; not begun in v1.8.11.
 - **Long-term roadmap:** See `ROADMAP.md`.
 
 ## Current repository statistics

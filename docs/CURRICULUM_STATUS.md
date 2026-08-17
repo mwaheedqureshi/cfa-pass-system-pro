@@ -63,7 +63,7 @@ Financial Statement Analysis is **mapped (v1.8.0)** for the official CFA Level I
 | FSA-LM8 Topics in Long-Term Liabilities and Equity | `fsa-08-topics-in-long-term-liabilities-and-equity` | Verified v1.8.8 |
 | FSA-LM9 Analysis of Income Taxes | `fsa-09-analysis-of-income-taxes` | Verified v1.8.9 |
 | FSA-LM10 Financial Reporting Quality | `fsa-10-financial-reporting-quality` | Verified v1.8.10 |
-| FSA-LM11 Financial Analysis Techniques | `fsa-11-financial-analysis-techniques` | Mapped |
+| FSA-LM11 Financial Analysis Techniques | `fsa-11-financial-analysis-techniques` | Verified v1.8.11 |
 | FSA-LM12 Introduction to Financial Statement Modeling | `fsa-12-introduction-to-financial-statement-modeling` | Mapped |
 
 The official 2027 FSA source (`FSA 2027.pdf`, 518 pages) was directly extracted and confirmed to have exactly 12 modules, identical in count, title, order, and page anchors to the 2026 edition, with word-for-word identical learning outcomes across all 12 modules â€” essentially no substantive 2026->2027 change. Secondary providers (Schweser, IFT, FinTree, Zell, CFA Premium) and the local mock library were surveyed for future production planning; see `docs/FSA_2027_TARGET_MANIFEST.md`, `docs/FSA_INTERACTIVE_PLAN.md`, `docs/FSA_ASSESSMENT_PLAN.md`, and `docs/FSA_RELEASE_PLAN.md`. The local 2027 Schweser FSA volume remains scanned/image-only and was not consulted for content (`KNOWN_ISSUES.md` KI-L11); the 2026 mock exams' FSA coverage count is a disclosed partial lower bound pending OCR tooling (KI-L12).
@@ -86,9 +86,9 @@ FSA-LM8 adds 35 official + 10 supplementary questions and flashcards, 11 formula
 
 FSA-LM9 adds 30 official + 10 supplementary questions and flashcards, 8 formulas/metrics, 8 original exhibits, and 2 tools. FSA completion after v1.8.9: **9 of 12 (75.0%)**.
 
-FSA-LM10 adds 35 official + 10 supplementary questions and flashcards, 1 LM10-owned metric, 10 original exhibits, and 2 tools. FSA completion after v1.8.10: **10 of 12 (83.3%)**.
+FSA-LM11 adds 55 official + 10 supplementary questions and flashcards, 20 LM11-owned formulas/metrics, 12 original exhibits, and 2 tools. FSA completion after v1.8.11: **11 of 12 (91.7%)**.
 
-Next release: **FSA Module Production Sprint 11 — FSA-LM11**.
+Next release: **FSA Module Production Sprint 12 — FSA-LM12**.
 
 ## Other topics
 

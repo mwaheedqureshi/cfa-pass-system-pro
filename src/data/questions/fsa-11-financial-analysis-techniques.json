@@ -1,0 +1,1712 @@
+[
+  {
+    "id": "fsa-lm11-q-001",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe tools and techniques used in financial analysis, including their uses and limitations",
+    "difficulty": "hard",
+    "estimatedSeconds": 60,
+    "stem": "Which tool best shows each balance-sheet line as a percentage of total assets?",
+    "choices": [
+      "Vertical common-size analysis",
+      "Horizontal analysis",
+      "Regression analysis"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Vertical common size removes scale by using total assets as the base.",
+    "incorrectChoiceExplanations": [
+      "Correct: Vertical common size removes scale by using total assets as the base.",
+      "Incorrect: Horizontal analysis does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: Regression analysis does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-002",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe tools and techniques used in financial analysis, including their uses and limitations",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "An analyst wants to identify five-year structural changes in receivables relative to a base year. The most suitable tool is:",
+    "choices": [
+      "a current ratio at the latest date.",
+      "horizontal common-size analysis.",
+      "cross-sectional analysis for one year."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Horizontal analysis compares each period with a selected base period.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: a current ratio at the latest date. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: Horizontal analysis compares each period with a selected base period.",
+      "Incorrect: cross-sectional analysis for one year. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-003",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe tools and techniques used in financial analysis, including their uses and limitations",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Comparing a company with direct competitors in the same period is:",
+    "choices": [
+      "time-series analysis.",
+      "scenario simulation.",
+      "cross-sectional analysis."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Cross-sectional analysis compares entities at a common date or period.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: time-series analysis. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: scenario simulation. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: Cross-sectional analysis compares entities at a common date or period."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-004",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe tools and techniques used in financial analysis, including their uses and limitations",
+    "difficulty": "easy",
+    "estimatedSeconds": 105,
+    "stem": "The strongest limitation of a peer ratio comparison is that:",
+    "choices": [
+      "accounting policies and business models may not be comparable.",
+      "ratios cannot use financial statements.",
+      "peer data never contain estimates."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Comparable labels do not guarantee comparable economics or accounting.",
+    "incorrectChoiceExplanations": [
+      "Correct: Comparable labels do not guarantee comparable economics or accounting.",
+      "Incorrect: ratios cannot use financial statements. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: peer data never contain estimates. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-005",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe tools and techniques used in financial analysis, including their uses and limitations",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "A graph is most useful relative to a table when the analyst needs to:",
+    "choices": [
+      "prove causation from correlation.",
+      "see patterns and inflection points quickly.",
+      "remove accounting-policy differences."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Graphs reveal patterns but do not establish causes or comparability.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: prove causation from correlation. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: Graphs reveal patterns but do not establish causes or comparability.",
+      "Incorrect: remove accounting-policy differences. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-006",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe tools and techniques used in financial analysis, including their uses and limitations",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A regression between sales and GDP should be interpreted cautiously because:",
+    "choices": [
+      "regression cannot be used for forecasting.",
+      "GDP is a balance-sheet item.",
+      "a historical association may not remain stable or causal."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Model stability, specification, and causality remain limitations.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: regression cannot be used for forecasting. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: GDP is a balance-sheet item. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: Model stability, specification, and causality remain limitations."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-007",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe tools and techniques used in financial analysis, including their uses and limitations",
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "Benchmarking against an industry median is least informative when the company:",
+    "choices": [
+      "has a materially different business mix from the peer set.",
+      "uses the same reporting currency.",
+      "reports multiple historical periods."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The benchmark must reflect comparable economic activities.",
+    "incorrectChoiceExplanations": [
+      "Correct: The benchmark must reflect comparable economic activities.",
+      "Incorrect: uses the same reporting currency. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: reports multiple historical periods. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-008",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe tools and techniques used in financial analysis, including their uses and limitations",
+    "difficulty": "medium",
+    "estimatedSeconds": 105,
+    "stem": "A ratio calculated correctly from low-quality inputs is best described as:",
+    "choices": [
+      "economically conclusive.",
+      "mathematically valid but potentially misleading.",
+      "automatically comparable with peers."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Calculation precision cannot repair biased or inconsistent inputs.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: economically conclusive. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: Calculation precision cannot repair biased or inconsistent inputs.",
+      "Incorrect: automatically comparable with peers. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-009",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe tools and techniques used in financial analysis, including their uses and limitations",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Why should an analyst use several techniques rather than one ratio?",
+    "choices": [
+      "Every ratio must reach the same conclusion.",
+      "Common-size analysis replaces source review.",
+      "Different tools expose different dimensions and limitations."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Triangulation supports a contextual conclusion.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: Every ratio must reach the same conclusion. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: Common-size analysis replaces source review. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: Triangulation supports a contextual conclusion."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 1"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative application within verified LM11 scope."
+  },
+  {
+    "id": "fsa-lm11-q-010",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "Revenue is 900 and average receivables are 100. Receivables turnover is:",
+    "choices": [
+      "9.0 times.",
+      "0.11 times.",
+      "100 days."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Receivables turnover is 900 divided by 100.",
+    "incorrectChoiceExplanations": [
+      "Correct: Receivables turnover is 900 divided by 100.",
+      "Incorrect: 0.11 times. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: 100 days. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-011",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Receivables turnover is 8 times using a 360-day convention. DSO is:",
+    "choices": [
+      "8 days.",
+      "45 days.",
+      "2,880 days."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "DSO equals 360 divided by 8.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 8 days. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: DSO equals 360 divided by 8.",
+      "Incorrect: 2,880 days. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-012",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "difficulty": "medium",
+    "estimatedSeconds": 105,
+    "stem": "COGS is 720 and average trade payables are 80. Payables turnover is:",
+    "choices": [
+      "0.11 times.",
+      "80 days.",
+      "9.0 times."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Payables turnover is COGS divided by average trade payables.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 0.11 times. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: 80 days. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: Payables turnover is COGS divided by average trade payables."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-013",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Payables turnover is 10 times for a 365-day year. Days payable is:",
+    "choices": [
+      "36.5 days.",
+      "10 days.",
+      "3.65 days."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Days payable equals 365 divided by turnover.",
+    "incorrectChoiceExplanations": [
+      "Correct: Days payable equals 365 divided by turnover.",
+      "Incorrect: 10 days. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: 3.65 days. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-014",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "DOH is 52 days, DSO 38 days, and days payable 44 days. The cash conversion cycle is:",
+    "choices": [
+      "134 days.",
+      "46 days.",
+      "58 days."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "CCC equals DOH plus DSO minus days payable.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 134 days. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: CCC equals DOH plus DSO minus days payable.",
+      "Incorrect: 58 days. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-015",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Revenue is 1,200 and average working capital is 150. Working-capital turnover is:",
+    "choices": [
+      "0.125 times.",
+      "1,350 times.",
+      "8.0 times."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Divide revenue by average working capital.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 0.125 times. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: 1,350 times. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: Divide revenue by average working capital."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-016",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "Revenue is 1,500 and average total assets are 1,000. Total-asset turnover is:",
+    "choices": [
+      "1.5 times.",
+      "0.67 times.",
+      "500 times."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Divide revenue by average total assets.",
+    "incorrectChoiceExplanations": [
+      "Correct: Divide revenue by average total assets.",
+      "Incorrect: 0.67 times. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: 500 times. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-017",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Quick assets are 240 and estimated daily cash expenditures are 12. The defensive interval is:",
+    "choices": [
+      "0.05 days.",
+      "20 days.",
+      "252 days."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Quick assets divided by daily cash expenditures gives days supportable.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 0.05 days. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: Quick assets divided by daily cash expenditures gives days supportable.",
+      "Incorrect: 252 days. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-018",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Total debt is 300 and equity is 500. Debt-to-capital is:",
+    "choices": [
+      "60.0%.",
+      "160.0%.",
+      "37.5%."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Debt-to-capital is 300 divided by 800.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 60.0%. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: 160.0%. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: Debt-to-capital is 300 divided by 800."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-019",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "Net debt is 420 and EBITDA is 140. Debt-to-EBITDA is:",
+    "choices": [
+      "3.0 times.",
+      "0.33 times.",
+      "560 times."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Divide the explicitly chosen debt measure by EBITDA.",
+    "incorrectChoiceExplanations": [
+      "Correct: Divide the explicitly chosen debt measure by EBITDA.",
+      "Incorrect: 0.33 times. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: 560 times. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-020",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "difficulty": "medium",
+    "estimatedSeconds": 105,
+    "stem": "EBIT is 240 and interest payments are 40. EBIT interest coverage is:",
+    "choices": [
+      "5.0 times.",
+      "6.0 times.",
+      "0.17 times."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "EBIT divided by interest payments equals six.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 5.0 times. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: EBIT divided by interest payments equals six.",
+      "Incorrect: 0.17 times. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-021",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "difficulty": "hard",
+    "estimatedSeconds": 60,
+    "stem": "EBIT is 180, lease payments 20, and interest 30. Fixed-charge coverage is:",
+    "choices": [
+      "6.0 times.",
+      "3.6 times.",
+      "4.0 times."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "(180+20)/(30+20)=4.0.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 6.0 times. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: 3.6 times. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: (180+20)/(30+20)=4.0."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-022",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "Operating income is 150 and average assets are 1,000. Operating ROA is:",
+    "choices": [
+      "15%.",
+      "6.67%.",
+      "1.5%."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Operating ROA is operating income divided by average total assets.",
+    "incorrectChoiceExplanations": [
+      "Correct: Operating ROA is operating income divided by average total assets.",
+      "Incorrect: 6.67%. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: 1.5%. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-023",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "EBIT is 200, effective tax rate 25%, and average invested capital 1,000. ROIC is:",
+    "choices": [
+      "20%.",
+      "15%.",
+      "5%."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "After-tax EBIT is 150; 150/1,000=15%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 20%. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: After-tax EBIT is 150; 150/1,000=15%.",
+      "Incorrect: 5%. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 2"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative application within verified LM11 scope."
+  },
+  {
+    "id": "fsa-lm11-q-024",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe relationships among ratios and evaluate a company using ratio analysis",
+    "difficulty": "medium",
+    "estimatedSeconds": 105,
+    "stem": "Receivables turnover declines while sales grow rapidly. The most appropriate interpretation is:",
+    "choices": [
+      "liquidity has necessarily improved.",
+      "profitability must have increased.",
+      "collection efficiency may be weakening and revenue quality warrants review."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The joint pattern requires investigation rather than a mechanical verdict.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: liquidity has necessarily improved. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: profitability must have increased. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: The joint pattern requires investigation rather than a mechanical verdict."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 3"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative application within verified LM11 scope."
+  },
+  {
+    "id": "fsa-lm11-q-025",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe relationships among ratios and evaluate a company using ratio analysis",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A higher inventory turnover can be unfavorable when it reflects:",
+    "choices": [
+      "inventory too low to meet customer demand.",
+      "faster conversion without stockouts.",
+      "more efficient purchasing with stable service."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "High turnover can accompany lost sales or insufficient inventory.",
+    "incorrectChoiceExplanations": [
+      "Correct: High turnover can accompany lost sales or insufficient inventory.",
+      "Incorrect: faster conversion without stockouts. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: more efficient purchasing with stable service. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-026",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe relationships among ratios and evaluate a company using ratio analysis",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Current ratio rises because obsolete inventory accumulates. Liquidity most likely:",
+    "choices": [
+      "must improve because every current asset is cash.",
+      "has not improved as much as the current ratio suggests.",
+      "cannot be assessed with a quick ratio."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Composition and realizability matter.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: must improve because every current asset is cash. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: Composition and realizability matter.",
+      "Incorrect: cannot be assessed with a quick ratio. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-027",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe relationships among ratios and evaluate a company using ratio analysis",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "When comparing annual turnover with a 90-day interim turnover, the analyst should:",
+    "choices": [
+      "compare the raw figures directly.",
+      "replace averages with equity.",
+      "annualize consistently or use the matching period-day convention."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Flow periods must be aligned.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: compare the raw figures directly. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: replace averages with equity. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: Flow periods must be aligned."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-028",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe relationships among ratios and evaluate a company using ratio analysis",
+    "difficulty": "easy",
+    "estimatedSeconds": 105,
+    "stem": "Using ending receivables rather than average receivables is most problematic when:",
+    "choices": [
+      "balances change materially during the period.",
+      "the balance is stable throughout the year.",
+      "revenue equals cash collections."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "A point-in-time denominator can misrepresent the period flow.",
+    "incorrectChoiceExplanations": [
+      "Correct: A point-in-time denominator can misrepresent the period flow.",
+      "Incorrect: the balance is stable throughout the year. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: revenue equals cash collections. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-029",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe relationships among ratios and evaluate a company using ratio analysis",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Debt-to-equity falls only because equity rose from an upward asset revaluation. The analyst should:",
+    "choices": [
+      "conclude debt repayment occurred.",
+      "evaluate the accounting-policy effect before concluding solvency improved.",
+      "replace debt with EBITDA."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The denominator changed without debt reduction.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: conclude debt repayment occurred. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: The denominator changed without debt reduction.",
+      "Incorrect: replace debt with EBITDA. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-030",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe relationships among ratios and evaluate a company using ratio analysis",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A lower DSO accompanied by sharply higher bad-debt write-offs may indicate:",
+    "choices": [
+      "all customers paid sooner.",
+      "revenue must be understated.",
+      "the apparent collection improvement is partly a write-off effect."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Removing receivables through write-offs can mechanically reduce DSO.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: all customers paid sooner. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: revenue must be understated. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: Removing receivables through write-offs can mechanically reduce DSO."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-031",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe relationships among ratios and evaluate a company using ratio analysis",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Peer A has higher ROE solely from substantially higher leverage. The best conclusion is:",
+    "choices": [
+      "the return advantage comes with greater financial risk.",
+      "Peer A is unambiguously more profitable operationally.",
+      "leverage never affects ROE."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "ROE must be decomposed before judging operating performance.",
+    "incorrectChoiceExplanations": [
+      "Correct: ROE must be decomposed before judging operating performance.",
+      "Incorrect: Peer A is unambiguously more profitable operationally. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: leverage never affects ROE. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-032",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe relationships among ratios and evaluate a company using ratio analysis",
+    "difficulty": "medium",
+    "estimatedSeconds": 105,
+    "stem": "A negative cash conversion cycle is most naturally associated with a company that:",
+    "choices": [
+      "has no revenue.",
+      "collects from customers before paying suppliers.",
+      "cannot hold inventory."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Supplier financing can exceed inventory and collection days.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: has no revenue. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: Supplier financing can exceed inventory and collection days.",
+      "Incorrect: cannot hold inventory. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-033",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe relationships among ratios and evaluate a company using ratio analysis",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Ratios based on different definitions of total debt should be:",
+    "choices": [
+      "averaged together.",
+      "treated as directly comparable.",
+      "recomputed consistently before comparison."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Definition consistency is essential.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: averaged together. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: treated as directly comparable. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: Definition consistency is essential."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-034",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe relationships among ratios and evaluate a company using ratio analysis",
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "Margins improve while turnover falls enough that ROA declines. This illustrates that:",
+    "choices": [
+      "profitability per sale and asset efficiency can offset one another.",
+      "ROA depends only on margin.",
+      "turnover is a solvency ratio only."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "ROA combines profit margin with asset turnover.",
+    "incorrectChoiceExplanations": [
+      "Correct: ROA combines profit margin with asset turnover.",
+      "Incorrect: ROA depends only on margin. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: turnover is a solvency ratio only. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 3"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative application within verified LM11 scope."
+  },
+  {
+    "id": "fsa-lm11-q-035",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the application of DuPont analysis of return on equity and calculate and interpret effects of changes in its components",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Net margin is 8%, asset turnover 1.5, and leverage 2.0. Three-factor DuPont ROE is:",
+    "choices": [
+      "11.5%.",
+      "24%.",
+      "6.0%."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "0.08×1.5×2.0=24%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 11.5%. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: 0.08×1.5×2.0=24%.",
+      "Incorrect: 6.0%. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 4"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative application within verified LM11 scope."
+  },
+  {
+    "id": "fsa-lm11-q-036",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the application of DuPont analysis of return on equity and calculate and interpret effects of changes in its components",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "A firm raises three-factor ROE only by increasing leverage. The direct trade-off is:",
+    "choices": [
+      "lower asset utilization by identity.",
+      "a guaranteed lower cost of debt.",
+      "higher financial risk."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Leverage can lift ROE while increasing risk.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: lower asset utilization by identity. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: a guaranteed lower cost of debt. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: Leverage can lift ROE while increasing risk."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-037",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the application of DuPont analysis of return on equity and calculate and interpret effects of changes in its components",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "In five-factor DuPont, tax burden is:",
+    "choices": [
+      "net income divided by EBT.",
+      "EBT divided by EBIT.",
+      "EBIT divided by revenue."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Tax burden measures the share of pretax earnings retained after tax.",
+    "incorrectChoiceExplanations": [
+      "Correct: Tax burden measures the share of pretax earnings retained after tax.",
+      "Incorrect: EBT divided by EBIT. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: EBIT divided by revenue. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-038",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the application of DuPont analysis of return on equity and calculate and interpret effects of changes in its components",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "In five-factor DuPont, interest burden is:",
+    "choices": [
+      "net income divided by EBT.",
+      "EBT divided by EBIT.",
+      "revenue divided by assets."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Interest burden isolates financing and related non-operating effects.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: net income divided by EBT. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: Interest burden isolates financing and related non-operating effects.",
+      "Incorrect: revenue divided by assets. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-039",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the application of DuPont analysis of return on equity and calculate and interpret effects of changes in its components",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Tax burden 0.75, interest burden 0.80, EBIT margin 10%, turnover 1.4, and leverage 2.0 produce ROE of:",
+    "choices": [
+      "21.0%.",
+      "8.4%.",
+      "16.8%."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The product is 0.75×0.80×0.10×1.4×2=0.168.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 21.0%. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: 8.4%. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: The product is 0.75×0.80×0.10×1.4×2=0.168."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-040",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the application of DuPont analysis of return on equity and calculate and interpret effects of changes in its components",
+    "difficulty": "easy",
+    "estimatedSeconds": 105,
+    "stem": "A declining interest-burden factor, all else equal, means:",
+    "choices": [
+      "more EBIT is absorbed before EBT, reducing ROE.",
+      "the effective tax rate fell.",
+      "asset efficiency improved."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "A lower EBT/EBIT factor transmits less operating profit to pretax income.",
+    "incorrectChoiceExplanations": [
+      "Correct: A lower EBT/EBIT factor transmits less operating profit to pretax income.",
+      "Incorrect: the effective tax rate fell. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: asset efficiency improved. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-041",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the application of DuPont analysis of return on equity and calculate and interpret effects of changes in its components",
+    "difficulty": "hard",
+    "estimatedSeconds": 60,
+    "stem": "EBIT margin rises but ROE is unchanged because turnover falls proportionately. The correct interpretation is:",
+    "choices": [
+      "tax burden necessarily fell.",
+      "operating profitability improved while asset efficiency deteriorated.",
+      "leverage must equal zero."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Different DuPont drivers offset.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: tax burden necessarily fell. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: Different DuPont drivers offset.",
+      "Incorrect: leverage must equal zero. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-042",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the application of DuPont analysis of return on equity and calculate and interpret effects of changes in its components",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "ROE equals ROA when financial leverage equals:",
+    "choices": [
+      "0.0.",
+      "the tax rate.",
+      "1.0."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "With assets equal equity, the leverage multiplier is one.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 0.0. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: the tax rate. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: With assets equal equity, the leverage multiplier is one."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-043",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the application of DuPont analysis of return on equity and calculate and interpret effects of changes in its components",
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "Which DuPont component most directly measures revenue generated per unit of assets?",
+    "choices": [
+      "Total-asset turnover",
+      "EBIT margin",
+      "Tax burden"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Total-asset turnover is the efficiency factor.",
+    "incorrectChoiceExplanations": [
+      "Correct: Total-asset turnover is the efficiency factor.",
+      "Incorrect: EBIT margin does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: Tax burden does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-044",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the application of DuPont analysis of return on equity and calculate and interpret effects of changes in its components",
+    "difficulty": "medium",
+    "estimatedSeconds": 105,
+    "stem": "For scenario sensitivity, increasing leverage from 1.5 to 1.8 with all other three-factor inputs fixed changes ROE:",
+    "choices": [
+      "by exactly 30 percentage points.",
+      "in direct proportion to the leverage multiplier.",
+      "not at all."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "DuPont is multiplicative; the relative increase is 20%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: by exactly 30 percentage points. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: DuPont is multiplicative; the relative increase is 20%.",
+      "Incorrect: not at all. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-045",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the application of DuPont analysis of return on equity and calculate and interpret effects of changes in its components",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "A five-factor comparison is preferable to three-factor when the analyst wants to separate:",
+    "choices": [
+      "inventory from receivables only.",
+      "current from quick assets only.",
+      "tax, financing, and operating-margin effects."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The five-factor form decomposes net margin into three drivers.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: inventory from receivables only. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: current from quick assets only. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: The five-factor form decomposes net margin into three drivers."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-046",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the uses of industry-specific ratios used in financial analysis",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Same-store sales are most useful because they separate growth at existing locations from:",
+    "choices": [
+      "growth caused by opening new stores.",
+      "changes in bank capital.",
+      "hotel occupancy."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The KPI controls for store-base expansion.",
+    "incorrectChoiceExplanations": [
+      "Correct: The KPI controls for store-base expansion.",
+      "Incorrect: changes in bank capital. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: hotel occupancy. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 5"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative application within verified LM11 scope."
+  },
+  {
+    "id": "fsa-lm11-q-047",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the uses of industry-specific ratios used in financial analysis",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "For a hotel, rising occupancy with falling average daily rate should be interpreted as:",
+    "choices": [
+      "unambiguous profitability improvement.",
+      "a volume-price trade-off requiring revenue context.",
+      "proof that rooms available declined."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Neither utilization nor price alone determines revenue quality.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: unambiguous profitability improvement. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: Neither utilization nor price alone determines revenue quality.",
+      "Incorrect: proof that rooms available declined. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 5"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative application within verified LM11 scope."
+  },
+  {
+    "id": "fsa-lm11-q-048",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the uses of industry-specific ratios used in financial analysis",
+    "difficulty": "medium",
+    "estimatedSeconds": 105,
+    "stem": "Average revenue per user is most relevant for:",
+    "choices": [
+      "manufacturers with no customer accounts.",
+      "banks assessing capital adequacy only.",
+      "subscription or relationship-based businesses."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "ARPU links revenue with the user base.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: manufacturers with no customer accounts. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: banks assessing capital adequacy only. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: ARPU links revenue with the user base."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 5"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-049",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the uses of industry-specific ratios used in financial analysis",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A bank capital-adequacy measure is interpreted relative to:",
+    "choices": [
+      "risk exposure and regulatory definitions.",
+      "retail floor space.",
+      "hotel rooms sold."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Bank solvency requirements relate capital to risk-weighted exposures.",
+    "incorrectChoiceExplanations": [
+      "Correct: Bank solvency requirements relate capital to risk-weighted exposures.",
+      "Incorrect: retail floor space. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: hotel rooms sold. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 5"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-050",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the uses of industry-specific ratios used in financial analysis",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Revenue per employee is most informative when:",
+    "choices": [
+      "all industries have identical labor intensity.",
+      "labor is a meaningful operating capacity driver and peers define employees consistently.",
+      "headcount is unrelated to outsourcing."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Business model and denominator consistency govern usefulness.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: all industries have identical labor intensity. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: Business model and denominator consistency govern usefulness.",
+      "Incorrect: headcount is unrelated to outsourcing. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 5"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-051",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the uses of industry-specific ratios used in financial analysis",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Sales per square meter is primarily a measure of:",
+    "choices": [
+      "bank liquidity.",
+      "subscriber churn.",
+      "retail space productivity."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "It relates revenue to selling area.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: bank liquidity. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: subscriber churn. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: It relates revenue to selling area."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 5"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-052",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the uses of industry-specific ratios used in financial analysis",
+    "difficulty": "easy",
+    "estimatedSeconds": 105,
+    "stem": "Net interest margin should not be compared mechanically between banks when:",
+    "choices": [
+      "asset mixes and risk profiles differ materially.",
+      "both report interest income.",
+      "both use the same currency."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "A similar margin can arise from different risks and funding structures.",
+    "incorrectChoiceExplanations": [
+      "Correct: A similar margin can arise from different risks and funding structures.",
+      "Incorrect: both report interest income. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: both use the same currency. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 5"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-053",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the uses of industry-specific ratios used in financial analysis",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Coefficient of variation of operating income is used to assess:",
+    "choices": [
+      "current liquidity only.",
+      "business-risk variability relative to average operating income.",
+      "inventory valuation method."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "It scales volatility by the average level.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: current liquidity only. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: It scales volatility by the average level.",
+      "Incorrect: inventory valuation method. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 5"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-054",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe the uses of industry-specific ratios used in financial analysis",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Why are industry KPIs kept out of the LM11 formula explorer?",
+    "choices": [
+      "They are never numerical.",
+      "CFA prohibits their calculation.",
+      "The LOS emphasizes selecting and interpreting sector-relevant measures, many with context-specific definitions."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Teaching their uses avoids false standardization and record proliferation.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: They are never numerical. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: CFA prohibits their calculation. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: Teaching their uses avoids false standardization and record proliferation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 5"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-055",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe how ratio analysis and other techniques can be used to model and forecast earnings",
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "A stable common-size cost ratio is most appropriately used in an earnings forecast by:",
+    "choices": [
+      "applying a justified ratio assumption to a revenue forecast.",
+      "copying prior net income without analysis.",
+      "building a full LM12 pro forma automatically."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "LM11 connects normalized relationships to forecasts without owning full model construction.",
+    "incorrectChoiceExplanations": [
+      "Correct: LM11 connects normalized relationships to forecasts without owning full model construction.",
+      "Incorrect: copying prior net income without analysis. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: building a full LM12 pro forma automatically. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 6"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative application within verified LM11 scope."
+  },
+  {
+    "id": "fsa-lm11-q-056",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe how ratio analysis and other techniques can be used to model and forecast earnings",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "When historical margins contain a one-time restructuring charge, the starting forecast input should generally be:",
+    "choices": [
+      "the lowest observed margin automatically.",
+      "a normalized margin with the adjustment documented.",
+      "the peer maximum."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Forecasts should start from representative economics.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: the lowest observed margin automatically. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: Forecasts should start from representative economics.",
+      "Incorrect: the peer maximum. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 6"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-057",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe how ratio analysis and other techniques can be used to model and forecast earnings",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "A peer margin is most useful as a forecast anchor when:",
+    "choices": [
+      "the peer is simply larger.",
+      "the peer uses a different revenue definition.",
+      "business mix, accounting, and competitive position are comparable."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Peer relevance depends on economic comparability.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: the peer is simply larger. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: the peer uses a different revenue definition. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: Peer relevance depends on economic comparability."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 6"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-058",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe how ratio analysis and other techniques can be used to model and forecast earnings",
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "If DSO is forecast to rise while sales grow, forecast receivables will generally:",
+    "choices": [
+      "consume more working capital than under a stable-DSO assumption.",
+      "fall to zero.",
+      "have no balance-sheet effect."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Longer collection periods increase receivables required for a given sales level.",
+    "incorrectChoiceExplanations": [
+      "Correct: Longer collection periods increase receivables required for a given sales level.",
+      "Incorrect: fall to zero. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: have no balance-sheet effect. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 6"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-059",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe how ratio analysis and other techniques can be used to model and forecast earnings",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Forecasting revenue from a historical regression requires the analyst to assess:",
+    "choices": [
+      "only whether the coefficient is positive.",
+      "whether the relationship is economically sensible and stable.",
+      "whether current ratio equals one."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Statistical fit alone is insufficient.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: only whether the coefficient is positive. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: Statistical fit alone is insufficient.",
+      "Incorrect: whether current ratio equals one. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 6"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-060",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe how ratio analysis and other techniques can be used to model and forecast earnings",
+    "difficulty": "medium",
+    "estimatedSeconds": 105,
+    "stem": "A forecast based on steadily improving margins despite capacity constraints is most vulnerable to:",
+    "choices": [
+      "using normalized history.",
+      "peer benchmarking.",
+      "an unsupported trend-extrapolation assumption."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Operational constraints can break historical trends.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: using normalized history. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: peer benchmarking. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: Operational constraints can break historical trends."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 6"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-061",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe how ratio analysis and other techniques can be used to model and forecast earnings",
+    "difficulty": "hard",
+    "estimatedSeconds": 60,
+    "stem": "Ratio-based forecasting differs from LM12 pro forma modeling because LM11 primarily:",
+    "choices": [
+      "identifies and interprets forecast relationships rather than constructing linked statements.",
+      "excludes all forward-looking analysis.",
+      "owns terminal-value modeling."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The boundary stops before explicit linked model construction.",
+    "incorrectChoiceExplanations": [
+      "Correct: The boundary stops before explicit linked model construction.",
+      "Incorrect: excludes all forward-looking analysis. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: owns terminal-value modeling. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 6"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-062",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe how ratio analysis and other techniques can be used to model and forecast earnings",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "If turnover is forecast to improve, all else equal, the assets required per unit of revenue should:",
+    "choices": [
+      "increase.",
+      "decline.",
+      "remain fixed by identity."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Higher turnover means more revenue per unit of assets.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: increase. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: Higher turnover means more revenue per unit of assets.",
+      "Incorrect: remain fixed by identity. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 6"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-063",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe how ratio analysis and other techniques can be used to model and forecast earnings",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "A forecast should use ending rather than average balances only when:",
+    "choices": [
+      "ending balances always produce higher ratios.",
+      "average balances are unavailable in every case.",
+      "the chosen relationship and timing convention justify that point-in-time measure."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The convention must match the analytical purpose.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: ending balances always produce higher ratios. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: average balances are unavailable in every case. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: The convention must match the analytical purpose."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 6"
+    ]
+  },
+  {
+    "id": "fsa-lm11-q-064",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe how ratio analysis and other techniques can be used to model and forecast earnings",
+    "difficulty": "easy",
+    "estimatedSeconds": 105,
+    "stem": "Scenario analysis adds value by:",
+    "choices": [
+      "showing how plausible changes in margins, turnover, and financing affect outcomes.",
+      "guaranteeing the most likely forecast.",
+      "eliminating model risk."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Scenarios expose sensitivity and uncertainty.",
+    "incorrectChoiceExplanations": [
+      "Correct: Scenarios expose sensitivity and uncertainty.",
+      "Incorrect: guaranteeing the most likely forecast. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Incorrect: eliminating model risk. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 6"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative application within verified LM11 scope."
+  },
+  {
+    "id": "fsa-lm11-q-065",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe how ratio analysis and other techniques can be used to model and forecast earnings",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "The most defensible ratio forecast documents:",
+    "choices": [
+      "only the final percentage.",
+      "the historical normalization, peer anchor, convention, and economic rationale.",
+      "a mechanically rising trend with no constraints."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Transparent assumptions make the forecast reviewable.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: only the final percentage. does not apply the required LM11 definition, convention, or contextual interpretation.",
+      "Correct: Transparent assumptions make the forecast reviewable.",
+      "Incorrect: a mechanically rising trend with no constraints. does not apply the required LM11 definition, convention, or contextual interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial analysis techniques",
+      "LOS 6"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative application within verified LM11 scope."
+  }
+]

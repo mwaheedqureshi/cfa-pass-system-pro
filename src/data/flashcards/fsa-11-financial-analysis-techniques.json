@@ -1,0 +1,802 @@
+[
+  {
+    "id": "fsa-lm11-fc-001",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Vertical common size",
+    "back": "Express each statement line relative to a same-period base such as revenue or total assets.",
+    "officialLearningOutcome": "describe tools and techniques used in financial analysis, including their uses and limitations",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-002",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Horizontal common size",
+    "back": "Express an item relative to a base period or calculate period-over-period change.",
+    "officialLearningOutcome": "describe tools and techniques used in financial analysis, including their uses and limitations",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-003",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Trend analysis",
+    "back": "Evaluate direction and rate of change across periods.",
+    "officialLearningOutcome": "describe tools and techniques used in financial analysis, including their uses and limitations",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-004",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Cross-sectional analysis",
+    "back": "Compare companies in the same period.",
+    "officialLearningOutcome": "describe tools and techniques used in financial analysis, including their uses and limitations",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-005",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Time-series analysis",
+    "back": "Compare one company across periods.",
+    "officialLearningOutcome": "describe tools and techniques used in financial analysis, including their uses and limitations",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-006",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Benchmarking",
+    "back": "Compare with a relevant peer, industry statistic, or internal target.",
+    "officialLearningOutcome": "describe tools and techniques used in financial analysis, including their uses and limitations",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-007",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Graphs",
+    "back": "Reveal patterns quickly but do not prove causation.",
+    "officialLearningOutcome": "describe tools and techniques used in financial analysis, including their uses and limitations",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-008",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Regression limitation",
+    "back": "Historical association may be unstable, misspecified, or non-causal.",
+    "officialLearningOutcome": "describe tools and techniques used in financial analysis, including their uses and limitations",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-009",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Ratio limitation",
+    "back": "A precise ratio can mislead when inputs, definitions, policies, or business models differ.",
+    "officialLearningOutcome": "describe tools and techniques used in financial analysis, including their uses and limitations",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 1"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative reinforcement within verified LM11 scope."
+  },
+  {
+    "id": "fsa-lm11-fc-010",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Receivables turnover",
+    "back": "Revenue divided by average receivables; higher usually means faster collection, subject to credit-policy context.",
+    "officialLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-011",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "DSO",
+    "back": "Days in period divided by receivables turnover.",
+    "officialLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-012",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Payables turnover",
+    "back": "COGS divided by average trade payables.",
+    "officialLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-013",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Days payable",
+    "back": "Days in period divided by payables turnover.",
+    "officialLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-014",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Working-capital turnover",
+    "back": "Revenue divided by average working capital.",
+    "officialLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-015",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Total-asset turnover",
+    "back": "Revenue divided by average total assets.",
+    "officialLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-016",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Defensive interval",
+    "back": "Quick assets divided by estimated daily cash expenditures.",
+    "officialLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-017",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Cash conversion cycle",
+    "back": "DOH plus DSO minus days payable.",
+    "officialLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-018",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Debt-to-capital",
+    "back": "Debt divided by debt plus equity.",
+    "officialLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-019",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Debt-to-EBITDA",
+    "back": "Explicitly defined total or net debt divided by EBITDA.",
+    "officialLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-020",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "EBIT interest coverage",
+    "back": "EBIT divided by interest payments; distinct from cash interest coverage.",
+    "officialLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-021",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Fixed-charge coverage",
+    "back": "EBIT plus lease payments, divided by interest plus lease payments.",
+    "officialLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-022",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Operating ROA",
+    "back": "Operating income or consistently defined EBIT divided by average assets.",
+    "officialLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-023",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "ROIC",
+    "back": "After-tax EBIT divided by average debt and equity capital.",
+    "officialLearningOutcome": "calculate and interpret activity, liquidity, solvency, and profitability ratios",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 2"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative reinforcement within verified LM11 scope."
+  },
+  {
+    "id": "fsa-lm11-fc-024",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Average balances",
+    "back": "Use average stock measures with period flow numerators unless the analytical purpose justifies ending balances.",
+    "officialLearningOutcome": "describe relationships among ratios and evaluate a company using ratio analysis",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 3"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative reinforcement within verified LM11 scope."
+  },
+  {
+    "id": "fsa-lm11-fc-025",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Annualization",
+    "back": "Align interim and annual flow periods before comparing turnover ratios.",
+    "officialLearningOutcome": "describe relationships among ratios and evaluate a company using ratio analysis",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-026",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Day-count consistency",
+    "back": "Use the period’s actual or stated day convention consistently in turnover-day measures.",
+    "officialLearningOutcome": "describe relationships among ratios and evaluate a company using ratio analysis",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-027",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Debt-definition consistency",
+    "back": "Disclose whether debt is interest-bearing, total, long-term, or net of cash.",
+    "officialLearningOutcome": "describe relationships among ratios and evaluate a company using ratio analysis",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-028",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Policy comparability",
+    "back": "Adjust or qualify comparisons for differing accounting choices.",
+    "officialLearningOutcome": "describe relationships among ratios and evaluate a company using ratio analysis",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-029",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Ratio triangulation",
+    "back": "Evaluate related ratios together rather than treating one metric as conclusive.",
+    "officialLearningOutcome": "describe relationships among ratios and evaluate a company using ratio analysis",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-030",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Turnover trade-off",
+    "back": "Higher turnover may show efficiency or insufficient assets and lost sales.",
+    "officialLearningOutcome": "describe relationships among ratios and evaluate a company using ratio analysis",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-031",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Liquidity composition",
+    "back": "A high current ratio can mask obsolete inventory or poor receivables.",
+    "officialLearningOutcome": "describe relationships among ratios and evaluate a company using ratio analysis",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-032",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Leverage trade-off",
+    "back": "Leverage can lift ROE while increasing financial risk.",
+    "officialLearningOutcome": "describe relationships among ratios and evaluate a company using ratio analysis",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-033",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Margin-turnover interaction",
+    "back": "ROA can fall when improved margin is more than offset by weaker turnover.",
+    "officialLearningOutcome": "describe relationships among ratios and evaluate a company using ratio analysis",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-034",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Context rule",
+    "back": "High or low is not automatically good or bad; strategy, industry, trend, and risk matter.",
+    "officialLearningOutcome": "describe relationships among ratios and evaluate a company using ratio analysis",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 3"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative reinforcement within verified LM11 scope."
+  },
+  {
+    "id": "fsa-lm11-fc-035",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "ROE identity",
+    "back": "Net income divided by average total equity.",
+    "officialLearningOutcome": "demonstrate the application of DuPont analysis of return on equity and calculate and interpret effects of changes in its components",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 4"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative reinforcement within verified LM11 scope."
+  },
+  {
+    "id": "fsa-lm11-fc-036",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Three-factor DuPont",
+    "back": "Net margin × total-asset turnover × financial leverage.",
+    "officialLearningOutcome": "demonstrate the application of DuPont analysis of return on equity and calculate and interpret effects of changes in its components",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-037",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Five-factor DuPont",
+    "back": "Tax burden × interest burden × EBIT margin × total-asset turnover × leverage.",
+    "officialLearningOutcome": "demonstrate the application of DuPont analysis of return on equity and calculate and interpret effects of changes in its components",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-038",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Tax burden",
+    "back": "Net income divided by EBT; a higher factor means less pretax income lost to tax.",
+    "officialLearningOutcome": "demonstrate the application of DuPont analysis of return on equity and calculate and interpret effects of changes in its components",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-039",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Interest burden",
+    "back": "EBT divided by EBIT; a lower factor means more operating profit absorbed before tax.",
+    "officialLearningOutcome": "demonstrate the application of DuPont analysis of return on equity and calculate and interpret effects of changes in its components",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-040",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "EBIT margin",
+    "back": "EBIT divided by revenue.",
+    "officialLearningOutcome": "demonstrate the application of DuPont analysis of return on equity and calculate and interpret effects of changes in its components",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-041",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Asset turnover factor",
+    "back": "Revenue divided by average assets; the DuPont efficiency driver.",
+    "officialLearningOutcome": "demonstrate the application of DuPont analysis of return on equity and calculate and interpret effects of changes in its components",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-042",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Leverage factor",
+    "back": "Average assets divided by average equity.",
+    "officialLearningOutcome": "demonstrate the application of DuPont analysis of return on equity and calculate and interpret effects of changes in its components",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-043",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "ROA bridge",
+    "back": "ROE equals ROA times leverage as a teaching identity.",
+    "officialLearningOutcome": "demonstrate the application of DuPont analysis of return on equity and calculate and interpret effects of changes in its components",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-044",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Contribution analysis",
+    "back": "Attribute ROE differences to profitability, efficiency, tax, financing, and leverage.",
+    "officialLearningOutcome": "demonstrate the application of DuPont analysis of return on equity and calculate and interpret effects of changes in its components",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-045",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Scenario sensitivity",
+    "back": "Hold other components fixed to isolate a proposed change’s multiplicative effect.",
+    "officialLearningOutcome": "demonstrate the application of DuPont analysis of return on equity and calculate and interpret effects of changes in its components",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-046",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Capital adequacy",
+    "back": "Bank capital relative to defined risk exposure under regulatory conventions.",
+    "officialLearningOutcome": "describe the uses of industry-specific ratios used in financial analysis",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 5"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative reinforcement within verified LM11 scope."
+  },
+  {
+    "id": "fsa-lm11-fc-047",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Cash reserve ratio",
+    "back": "Central-bank reserves relative to specified deposit liabilities.",
+    "officialLearningOutcome": "describe the uses of industry-specific ratios used in financial analysis",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 5"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative reinforcement within verified LM11 scope."
+  },
+  {
+    "id": "fsa-lm11-fc-048",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Net interest margin",
+    "back": "Net interest income relative to interest-earning assets; interpret with funding and credit risk.",
+    "officialLearningOutcome": "describe the uses of industry-specific ratios used in financial analysis",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 5"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-049",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Same-store sales",
+    "back": "Growth from locations open in both comparison periods.",
+    "officialLearningOutcome": "describe the uses of industry-specific ratios used in financial analysis",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 5"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-050",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Sales per area",
+    "back": "Retail revenue relative to selling space.",
+    "officialLearningOutcome": "describe the uses of industry-specific ratios used in financial analysis",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 5"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-051",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Revenue per employee",
+    "back": "Service-company output per employee, sensitive to outsourcing definitions.",
+    "officialLearningOutcome": "describe the uses of industry-specific ratios used in financial analysis",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 5"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-052",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Average daily rate",
+    "back": "Hotel room revenue divided by rooms sold.",
+    "officialLearningOutcome": "describe the uses of industry-specific ratios used in financial analysis",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 5"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-053",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Occupancy",
+    "back": "Rooms sold divided by rooms available.",
+    "officialLearningOutcome": "describe the uses of industry-specific ratios used in financial analysis",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 5"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-054",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "ARPU",
+    "back": "Revenue divided by average users or subscribers.",
+    "officialLearningOutcome": "describe the uses of industry-specific ratios used in financial analysis",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 5"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-055",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Normalized history",
+    "back": "Remove or separately model nonrepresentative items before setting forecast relationships.",
+    "officialLearningOutcome": "describe how ratio analysis and other techniques can be used to model and forecast earnings",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 6"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative reinforcement within verified LM11 scope."
+  },
+  {
+    "id": "fsa-lm11-fc-056",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Peer anchor",
+    "back": "Use only economically and accounting-comparable peers.",
+    "officialLearningOutcome": "describe how ratio analysis and other techniques can be used to model and forecast earnings",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 6"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-057",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Trend assumption",
+    "back": "A historical direction needs an economic reason to persist.",
+    "officialLearningOutcome": "describe how ratio analysis and other techniques can be used to model and forecast earnings",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 6"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-058",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Margin forecast",
+    "back": "Apply a justified common-size expense or margin assumption to forecast revenue.",
+    "officialLearningOutcome": "describe how ratio analysis and other techniques can be used to model and forecast earnings",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 6"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-059",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Turnover forecast",
+    "back": "Translate expected asset efficiency into assets required for revenue.",
+    "officialLearningOutcome": "describe how ratio analysis and other techniques can be used to model and forecast earnings",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 6"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-060",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Working-capital forecast",
+    "back": "Turnover days connect forecast sales or COGS to receivables, inventory, and payables.",
+    "officialLearningOutcome": "describe how ratio analysis and other techniques can be used to model and forecast earnings",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 6"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-061",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Regression forecast",
+    "back": "Require economic rationale, stable specification, and uncertainty analysis.",
+    "officialLearningOutcome": "describe how ratio analysis and other techniques can be used to model and forecast earnings",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 6"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-062",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Forecast scenario analysis",
+    "back": "Compare plausible assumption sets; it does not identify certainty.",
+    "officialLearningOutcome": "describe how ratio analysis and other techniques can be used to model and forecast earnings",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 6"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-063",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Forecast documentation",
+    "back": "Record normalization, conventions, peer basis, and economic rationale.",
+    "officialLearningOutcome": "describe how ratio analysis and other techniques can be used to model and forecast earnings",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 6"
+    ]
+  },
+  {
+    "id": "fsa-lm11-fc-064",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "LM11/LM12 boundary",
+    "back": "LM11 informs forecast relationships; LM12 owns explicit linked pro forma construction.",
+    "officialLearningOutcome": "describe how ratio analysis and other techniques can be used to model and forecast earnings",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 6"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative reinforcement within verified LM11 scope."
+  },
+  {
+    "id": "fsa-lm11-fc-065",
+    "lessonId": "fsa-11-financial-analysis-techniques",
+    "topicId": "financial-statement-analysis",
+    "front": "Forecast limitation",
+    "back": "Structural change, capacity, competition, policy, and data quality can break historical relationships.",
+    "officialLearningOutcome": "describe how ratio analysis and other techniques can be used to model and forecast earnings",
+    "tags": [
+      "financial analysis techniques",
+      "LOS 6"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative reinforcement within verified LM11 scope."
+  }
+]

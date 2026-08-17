@@ -1,6 +1,6 @@
 # Financial Statement Analysis 2027 target manifest
 
-> **v1.8.10 status:** FSA-LM1 through FSA-LM10 are produced and verified; LM11-LM12 remain mapping-only. LM10 delivered 35 official plus 10 supplementary questions/flashcards, 16 examples, 10 original exhibits, 1 audited LM10-owned metric, and 2 tools. Its 2026/2027 comparison found only a PDF extraction hyphen artifact and no candidate-learning change.
+> **v1.8.11 status:** FSA-LM1 through FSA-LM11 are produced and verified; LM12 remains mapping-only. LM11 delivered 55 official plus 10 supplementary questions/flashcards, 18 examples, 12 original exhibits, 20 audited LM11-owned formulas/metrics, and 2 tools. Its 2026/2027 comparison found only three editorial/extraction differences and no candidate-learning change.
 
 > **v1.8.6 status:** FSA-LM1 through FSA-LM6 are produced and verified; LM7-LM12 remain mapping-only. LM6 matched its targets organically: 40 official questions/flashcards, 8 formulas, and 8 original exhibits, plus 10 supplementary items of each asset type and 2 interactive tools. The 2026/2027 comparison found no substantive LOS, example, exhibit, or accounting-treatment change.
 
@@ -8,7 +8,7 @@
 
 > **v1.8.4 status:** FSA-LM1 through FSA-LM4 are produced and verified; FSA-LM5 through FSA-LM12 remain mapping-only. LM4 delivered its planned 45 official questions/flashcards, 8 source-grounded formulas, and 10 original exhibits, plus 10 supplementary items of each asset type and 2 tools. Answer positions were assigned at generation time (19/18/18 overall). The normalized 2026/2027 comparison found no LOS, treatment, terminology, or numerical-example change (99.91% similarity); only editorial/typographic changes and one corrected example date.
 
-The mapping-only design for all 12 official FSA modules was established in v1.8.0. FSA-LM1 through FSA-LM10 are now produced and verified; FSA-LM11 and FSA-LM12 remain mapping-only, with no public learning assets implemented for them. One study lesson remains assigned per official module.
+The mapping-only design for all 12 official FSA modules was established in v1.8.0. FSA-LM1 through FSA-LM11 are now produced and verified; FSA-LM12 remains mapping-only, with no public learning assets implemented for it. One study lesson remains assigned per official module.
 
 | Module | Official title | Future lesson ID | Questions | Flashcards | Formulas/ratios | Exhibits |
 |---|---|---|---:|---:|---:|---:|
@@ -46,7 +46,7 @@ These are planning-stage estimates only, derived from each module's page length,
 - **FSA-LM8 (Topics in Long-Term Liabilities and Equity):** produced as one cohesive lesson with internal sections for leases, pension/stock-based compensation, and disclosures. Stage 2's explicit instruction for approximately 45 total questions plus exact 15/15/15 answer positions was implemented as 35 official-target and 10 supplementary items, preserving the established bank structure. Direct source auditing finalized 11 formula/metric records rather than the planning estimate of 8.
 - **FSA-LM9 (Analysis of Income Taxes):** produced as one lesson covering deferred-tax mechanics, tax rates, and disclosure analysis. The explicit Stage 2 total of 40 with 14/13/13 answer positions was reconciled as 30 official-target plus 10 supplementary items. Eight production formulas were retained after auditing all nine discovery candidates; the directionality matrix remains a teaching relationship rather than a scalar formula record.
 - **FSA-LM10 (Financial Reporting Quality):** produced as one comprehensive lesson across all eight LOS. Direct source audit retained one LM10-owned metric (CFO/net income); DSO and other general ratios remain teaching references to avoid duplicating LM11. The result deliberately undershoots the two-formula planning target (KI-L24).
-- **FSA-LM11 (Financial Analysis Techniques):** the core ratio-analysis module (activity, liquidity, solvency, profitability ratios; DuPont decomposition; industry-specific ratios; forecasting applications). Highest targets of any FSA module across every category, consistent with its role as the topic's synthesis/ratio-formula center.
+- **FSA-LM11 (Financial Analysis Techniques):** produced as the core ratio-analysis module with 20 distinct LM11-owned formula records, references to earlier canonical ratios, industry measures retained as teaching relationships, and no LM12 pro forma leakage.
 - **FSA-LM12 (Introduction to Financial Statement Modeling):** pro forma model construction, behavioral forecasting biases, Porter's five forces, inflation/deflation forecasting. Highest exhibit density in the source (consistent with spreadsheet-model content).
 
 ## Display order and prerequisites
