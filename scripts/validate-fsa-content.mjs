@@ -1,5 +1,5 @@
 import {execFileSync} from 'node:child_process';import {access,readFile} from 'node:fs/promises';
-const failures=[],fail=x=>failures.push(x),read=async p=>JSON.parse((await readFile(p,'utf8')).replace(/^\uFEFF/,''));
+const failures=[],fail=x=>failures.push(x),read=async p=>JSON.parse((await readFile(p,'utf8')).replace(/^\uFEFF/,'')),canon=x=>x.replace(/[’]/g,"'");
 
 const producedModules=[
  {officialModuleId:'FSA-LM1',lessonId:'fsa-01-introduction-to-financial-statement-analysis',contentPath:'public/content/fsa/01-introduction-to-financial-statement-analysis.md',hasFormulas:false,officialQuestionCount:35,supplementaryQuestionCount:10,tools:['FSAFrameworkNavigator']},
@@ -11,6 +11,7 @@ const producedModules=[
  {officialModuleId:'FSA-LM7',lessonId:'fsa-07-analysis-of-long-term-assets',contentPath:'public/content/fsa/07-analysis-of-long-term-assets.md',hasFormulas:true,formulaCount:13,officialQuestionCount:35,supplementaryQuestionCount:10,tools:['LongLivedAssetImpairmentTrainer']},
  {officialModuleId:'FSA-LM8',lessonId:'fsa-08-topics-in-long-term-liabilities-and-equity',contentPath:'public/content/fsa/08-topics-in-long-term-liabilities-and-equity.md',hasFormulas:true,formulaCount:11,officialQuestionCount:35,supplementaryQuestionCount:10,tools:['LeaseMeasurementExplorer','PensionStockCompExplorer']},
  {officialModuleId:'FSA-LM9',lessonId:'fsa-09-analysis-of-income-taxes',contentPath:'public/content/fsa/09-analysis-of-income-taxes.md',hasFormulas:true,formulaCount:8,officialQuestionCount:30,supplementaryQuestionCount:10,tools:['DeferredTaxExplorer','TaxRateReconciliationAnalyzer']},
+ {officialModuleId:'FSA-LM10',lessonId:'fsa-10-financial-reporting-quality',contentPath:'public/content/fsa/10-financial-reporting-quality.md',hasFormulas:true,formulaCount:1,officialQuestionCount:35,supplementaryQuestionCount:10,tools:['FinancialReportingRedFlagAnalyzer','AccountingBiasImpactExplorer']},
 ];
 const allModules=await read('.local-research/fsa-verification/official-module-map.json');
 const unproducedLessonIds=allModules.modules.map(m=>m.futureStudyLessonId).filter(id=>!producedModules.some(p=>p.lessonId===id));
@@ -23,7 +24,7 @@ for(const m of producedModules)if(!manifest.includes(`"id":"${m.lessonId}"`))fai
 // --- official mapping valid: LOS in lessonManifest match official-module-map.json exactly ---
 for(const m of producedModules){
  const officialModule=allModules.modules.find(x=>x.officialModuleId===m.officialModuleId);
- for(const outcome of officialModule.officialLearningOutcomes)if(!manifest.includes(outcome.replace(/'/g,"\\'")) && !manifest.includes(outcome))fail(`${m.officialModuleId}: lessonManifest.ts is missing official LOS text: "${outcome.slice(0,40)}..."`);
+ for(const outcome of officialModule.officialLearningOutcomes)if(!canon(manifest).includes(canon(outcome)))fail(`${m.officialModuleId}: lessonManifest.ts is missing official LOS text: "${outcome.slice(0,40)}..."`);
 }
 
 // --- load datasets for produced modules ---
@@ -39,7 +40,7 @@ for(const m of producedModules){
 for(const m of producedModules){
  const officialModule=allModules.modules.find(x=>x.officialModuleId===m.officialModuleId);
  const moduleQuestions=questions.filter(q=>q.lessonId===m.lessonId);
- for(const outcome of officialModule.officialLearningOutcomes)if(!moduleQuestions.some(q=>q.officialLearningOutcome===outcome))fail(`${m.officialModuleId}: no question references LOS "${outcome.slice(0,40)}..."`);
+ for(const outcome of officialModule.officialLearningOutcomes)if(!moduleQuestions.some(q=>canon(q.officialLearningOutcome)===canon(outcome)))fail(`${m.officialModuleId}: no question references LOS "${outcome.slice(0,40)}..."`);
 }
 
 // --- exact official/supplementary counts (per module) ---
@@ -90,7 +91,7 @@ for(const m of producedModules)if(!lessonResources.includes(`'${m.lessonId}'`))f
 const toolRegistry=await readFile('src/components/lessons/LessonInteractiveTools.tsx','utf8');
 for(const m of producedModules){
  for(const tool of m.tools)if(!toolRegistry.includes(tool))fail(`${m.officialModuleId}: interactive tool ${tool} is not registered in LessonInteractiveTools.tsx`);
- if(!toolRegistry.includes(`lessonId==='${m.lessonId}'`))fail(`${m.officialModuleId}: interactive tools are not conditionally rendered for ${m.lessonId}`);
+ if(!toolRegistry.includes(`lessonId==='${m.lessonId}'`)&&!toolRegistry.includes(`case'${m.lessonId}'`))fail(`${m.officialModuleId}: interactive tools are not conditionally rendered for ${m.lessonId}`);
 }
 
 // --- exhibit references: lesson markdown must contain at least the documented original exhibit count ---

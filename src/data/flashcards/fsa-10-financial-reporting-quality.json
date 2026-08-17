@@ -1,0 +1,562 @@
+[
+  {
+    "id": "fsa-lm10-fc-001",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Financial reporting quality",
+    "back": "The decision-usefulness and faithful representation of information in financial reports.",
+    "officialLearningOutcome": "compare financial reporting quality with the quality of reported results (including quality of earnings, cash flow, and balance sheet items)",
+    "tags": [
+      "financial reporting quality",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm10-fc-002",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Quality of earnings",
+    "back": "The sustainability of earnings and whether they provide an adequate return.",
+    "officialLearningOutcome": "compare financial reporting quality with the quality of reported results (including quality of earnings, cash flow, and balance sheet items)",
+    "tags": [
+      "financial reporting quality",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm10-fc-003",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Quality of cash flow",
+    "back": "The sustainability and economic substance of reported cash generation.",
+    "officialLearningOutcome": "compare financial reporting quality with the quality of reported results (including quality of earnings, cash flow, and balance sheet items)",
+    "tags": [
+      "financial reporting quality",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm10-fc-004",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Quality of balance-sheet items",
+    "back": "How faithfully reported assets and liabilities represent economic resources and obligations.",
+    "officialLearningOutcome": "compare financial reporting quality with the quality of reported results (including quality of earnings, cash flow, and balance sheet items)",
+    "tags": [
+      "financial reporting quality",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm10-fc-005",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "High earnings versus high-quality reporting",
+    "back": "High earnings can be unsustainable or produced through biased choices; magnitude is not quality.",
+    "officialLearningOutcome": "compare financial reporting quality with the quality of reported results (including quality of earnings, cash flow, and balance sheet items)",
+    "tags": [
+      "financial reporting quality",
+      "LOS 1"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional analytical reinforcement within verified LM10 scope."
+  },
+  {
+    "id": "fsa-lm10-fc-006",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Top of the quality spectrum",
+    "back": "GAAP-compliant, decision-useful reporting paired with sustainable, adequate results.",
+    "officialLearningOutcome": "describe a spectrum for assessing financial reporting quality",
+    "tags": [
+      "financial reporting quality",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm10-fc-007",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Compliant but biased reporting",
+    "back": "Within GAAP discretion but less neutral and therefore lower quality.",
+    "officialLearningOutcome": "describe a spectrum for assessing financial reporting quality",
+    "tags": [
+      "financial reporting quality",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm10-fc-008",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Non-compliant reporting",
+    "back": "Reporting that violates applicable standards; low quality but not automatically proof of fraud.",
+    "officialLearningOutcome": "describe a spectrum for assessing financial reporting quality",
+    "tags": [
+      "financial reporting quality",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm10-fc-009",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Lowest spectrum category",
+    "back": "Fictitious transactions or events that misrepresent performance or conceal misuse of assets.",
+    "officialLearningOutcome": "describe a spectrum for assessing financial reporting quality",
+    "tags": [
+      "financial reporting quality",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm10-fc-010",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Spectrum analysis",
+    "back": "Assess compliance, decision-usefulness, bias, sustainability, and economic substance together.",
+    "officialLearningOutcome": "describe a spectrum for assessing financial reporting quality",
+    "tags": [
+      "financial reporting quality",
+      "LOS 2"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional analytical reinforcement within verified LM10 scope."
+  },
+  {
+    "id": "fsa-lm10-fc-011",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Aggressive accounting",
+    "back": "Choices that increase current reported performance or position, often shifting pressure into future periods.",
+    "officialLearningOutcome": "explain the difference between conservative and aggressive accounting",
+    "tags": [
+      "financial reporting quality",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm10-fc-012",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Conservative accounting",
+    "back": "Choices that decrease current reported performance or position and may raise later-period results.",
+    "officialLearningOutcome": "explain the difference between conservative and aggressive accounting",
+    "tags": [
+      "financial reporting quality",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm10-fc-013",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Conservatism caveat",
+    "back": "Conservatism can reduce litigation or protect creditors but remains a bias, not synonymous with neutrality.",
+    "officialLearningOutcome": "explain the difference between conservative and aggressive accounting",
+    "tags": [
+      "financial reporting quality",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm10-fc-014",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Aggressive accounting versus fraud",
+    "back": "Aggressive choices can remain within GAAP; fraud entails intentional deception or fictitious/misrepresented events.",
+    "officialLearningOutcome": "explain the difference between conservative and aggressive accounting",
+    "tags": [
+      "financial reporting quality",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm10-fc-015",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Cross-period reversal",
+    "back": "Many timing choices reverse: current-period benefit commonly creates future-period expense or weaker results.",
+    "officialLearningOutcome": "explain the difference between conservative and aggressive accounting",
+    "tags": [
+      "financial reporting quality",
+      "LOS 3"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional analytical reinforcement within verified LM10 scope."
+  },
+  {
+    "id": "fsa-lm10-fc-016",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Motivation",
+    "back": "Pressure or incentive to achieve a personal or corporate reporting outcome.",
+    "officialLearningOutcome": "describe motivations that might cause management to issue financial reports that are not high quality and conditions that are conducive to issuing low-quality, or even fraudulent, financial reports",
+    "tags": [
+      "financial reporting quality",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm10-fc-017",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Opportunity",
+    "back": "Weak controls, oversight, or complexity that makes manipulation possible.",
+    "officialLearningOutcome": "describe motivations that might cause management to issue financial reports that are not high quality and conditions that are conducive to issuing low-quality, or even fraudulent, financial reports",
+    "tags": [
+      "financial reporting quality",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm10-fc-018",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Rationalization",
+    "back": "A justification that allows a decision-maker to regard questionable reporting as acceptable.",
+    "officialLearningOutcome": "describe motivations that might cause management to issue financial reports that are not high quality and conditions that are conducive to issuing low-quality, or even fraudulent, financial reports",
+    "tags": [
+      "financial reporting quality",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm10-fc-019",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Common motivations",
+    "back": "Compensation, market expectations, financing needs, covenant pressure, and career concerns.",
+    "officialLearningOutcome": "describe motivations that might cause management to issue financial reports that are not high quality and conditions that are conducive to issuing low-quality, or even fraudulent, financial reports",
+    "tags": [
+      "financial reporting quality",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm10-fc-020",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Conditions are not proof",
+    "back": "Motivation and opportunity increase risk but do not establish that manipulation occurred.",
+    "officialLearningOutcome": "describe motivations that might cause management to issue financial reports that are not high quality and conditions that are conducive to issuing low-quality, or even fraudulent, financial reports",
+    "tags": [
+      "financial reporting quality",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm10-fc-021",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Banking earnings",
+    "back": "Using conservative current choices during a strong period to make future targets easier to meet.",
+    "officialLearningOutcome": "describe motivations that might cause management to issue financial reports that are not high quality and conditions that are conducive to issuing low-quality, or even fraudulent, financial reports",
+    "tags": [
+      "financial reporting quality",
+      "LOS 4"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional analytical reinforcement within verified LM10 scope."
+  },
+  {
+    "id": "fsa-lm10-fc-022",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "External audit role",
+    "back": "Provides reasonable assurance of fair presentation; it does not guarantee no fraud.",
+    "officialLearningOutcome": "describe mechanisms that discipline financial reporting quality and the potential limitations of those mechanisms",
+    "tags": [
+      "financial reporting quality",
+      "LOS 5"
+    ]
+  },
+  {
+    "id": "fsa-lm10-fc-023",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Board and audit committee",
+    "back": "Oversee reporting, controls, and auditors, subject to expertise, independence, and information limitations.",
+    "officialLearningOutcome": "describe mechanisms that discipline financial reporting quality and the potential limitations of those mechanisms",
+    "tags": [
+      "financial reporting quality",
+      "LOS 5"
+    ]
+  },
+  {
+    "id": "fsa-lm10-fc-024",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Regulatory discipline",
+    "back": "Standards, filing requirements, review, enforcement, and sanctions constrain reporting behavior.",
+    "officialLearningOutcome": "describe mechanisms that discipline financial reporting quality and the potential limitations of those mechanisms",
+    "tags": [
+      "financial reporting quality",
+      "LOS 5"
+    ]
+  },
+  {
+    "id": "fsa-lm10-fc-025",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Private-contract discipline",
+    "back": "Lenders and investors monitor reporting because contractual outcomes depend on reported amounts.",
+    "officialLearningOutcome": "describe mechanisms that discipline financial reporting quality and the potential limitations of those mechanisms",
+    "tags": [
+      "financial reporting quality",
+      "LOS 5"
+    ]
+  },
+  {
+    "id": "fsa-lm10-fc-026",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Discipline paradox",
+    "back": "A covenant can motivate lender monitoring while also motivating management to bias results.",
+    "officialLearningOutcome": "describe mechanisms that discipline financial reporting quality and the potential limitations of those mechanisms",
+    "tags": [
+      "financial reporting quality",
+      "LOS 5"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional analytical reinforcement within verified LM10 scope."
+  },
+  {
+    "id": "fsa-lm10-fc-027",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Non-GAAP measure",
+    "back": "A performance measure not defined by GAAP; potentially useful when transparent, reconciled, and consistent.",
+    "officialLearningOutcome": "describe presentation choices, including non-GAAP measures, that could be used to influence an analyst's opinion",
+    "tags": [
+      "financial reporting quality",
+      "LOS 6"
+    ]
+  },
+  {
+    "id": "fsa-lm10-fc-028",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Non-GAAP reconciliation",
+    "back": "Bridge each adjustment between the management-defined measure and the nearest GAAP measure.",
+    "officialLearningOutcome": "describe presentation choices, including non-GAAP measures, that could be used to influence an analyst's opinion",
+    "tags": [
+      "financial reporting quality",
+      "LOS 6"
+    ]
+  },
+  {
+    "id": "fsa-lm10-fc-029",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Cherry-picking",
+    "back": "Excluding unfavorable items while retaining economically comparable favorable items.",
+    "officialLearningOutcome": "describe presentation choices, including non-GAAP measures, that could be used to influence an analyst's opinion",
+    "tags": [
+      "financial reporting quality",
+      "LOS 6"
+    ]
+  },
+  {
+    "id": "fsa-lm10-fc-030",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Recurring “one-time” items",
+    "back": "Repeated exclusions may belong in normalized performance even if management labels them special.",
+    "officialLearningOutcome": "describe presentation choices, including non-GAAP measures, that could be used to influence an analyst's opinion",
+    "tags": [
+      "financial reporting quality",
+      "LOS 6"
+    ]
+  },
+  {
+    "id": "fsa-lm10-fc-031",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Prominence warning",
+    "back": "Giving adjusted results more emphasis than GAAP results can steer users toward a preferred narrative.",
+    "officialLearningOutcome": "describe presentation choices, including non-GAAP measures, that could be used to influence an analyst's opinion",
+    "tags": [
+      "financial reporting quality",
+      "LOS 6"
+    ]
+  },
+  {
+    "id": "fsa-lm10-fc-032",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Non-GAAP is not automatically misleading",
+    "back": "Usefulness depends on definition, reconciliation, consistency, symmetry, and economic relevance.",
+    "officialLearningOutcome": "describe presentation choices, including non-GAAP measures, that could be used to influence an analyst's opinion",
+    "tags": [
+      "financial reporting quality",
+      "LOS 6"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional analytical reinforcement within verified LM10 scope."
+  },
+  {
+    "id": "fsa-lm10-fc-033",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Capitalization versus expensing",
+    "back": "Capitalization raises current assets and earnings but shifts expense recognition to later periods.",
+    "officialLearningOutcome": "describe accounting methods (choices and estimates) that could be used to manage earnings, cash flow, and balance sheet items",
+    "tags": [
+      "financial reporting quality",
+      "LOS 7"
+    ]
+  },
+  {
+    "id": "fsa-lm10-fc-034",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Allowance reduction",
+    "back": "A lower allowance can raise current earnings and net receivables without improving cash collection.",
+    "officialLearningOutcome": "describe accounting methods (choices and estimates) that could be used to manage earnings, cash flow, and balance sheet items",
+    "tags": [
+      "financial reporting quality",
+      "LOS 7"
+    ]
+  },
+  {
+    "id": "fsa-lm10-fc-035",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Premature revenue pattern",
+    "back": "Receivables may grow faster than revenue, DSO may rise, and cash conversion may weaken.",
+    "officialLearningOutcome": "describe accounting methods (choices and estimates) that could be used to manage earnings, cash flow, and balance sheet items",
+    "tags": [
+      "financial reporting quality",
+      "LOS 7"
+    ]
+  },
+  {
+    "id": "fsa-lm10-fc-036",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Cash-flow classification management",
+    "back": "Reclassification can raise CFO without changing total cash flow.",
+    "officialLearningOutcome": "describe accounting methods (choices and estimates) that could be used to manage earnings, cash flow, and balance sheet items",
+    "tags": [
+      "financial reporting quality",
+      "LOS 7"
+    ]
+  },
+  {
+    "id": "fsa-lm10-fc-037",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Cookie-jar reserve",
+    "back": "An excessive reserve built in a strong period and released later to smooth earnings.",
+    "officialLearningOutcome": "describe accounting methods (choices and estimates) that could be used to manage earnings, cash flow, and balance sheet items",
+    "tags": [
+      "financial reporting quality",
+      "LOS 7"
+    ]
+  },
+  {
+    "id": "fsa-lm10-fc-038",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Estimate-change analysis",
+    "back": "Assess rationale, peer consistency, disclosure, current effect, and expected future reversal.",
+    "officialLearningOutcome": "describe accounting methods (choices and estimates) that could be used to manage earnings, cash flow, and balance sheet items",
+    "tags": [
+      "financial reporting quality",
+      "LOS 7"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional analytical reinforcement within verified LM10 scope."
+  },
+  {
+    "id": "fsa-lm10-fc-039",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Balance-sheet management",
+    "back": "Classification, valuation, or omission choices can obscure leverage, asset quality, or obligations.",
+    "officialLearningOutcome": "describe accounting methods (choices and estimates) that could be used to manage earnings, cash flow, and balance sheet items",
+    "tags": [
+      "financial reporting quality",
+      "LOS 7"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional analytical reinforcement within verified LM10 scope."
+  },
+  {
+    "id": "fsa-lm10-fc-040",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "CFO/net income quality metric",
+    "back": "Track CFO divided by net income; persistent values below one or repeated declines warrant accrual investigation.",
+    "officialLearningOutcome": "describe accounting warning signs and methods for detecting manipulation of information in financial reports",
+    "tags": [
+      "financial reporting quality",
+      "LOS 8"
+    ]
+  },
+  {
+    "id": "fsa-lm10-fc-041",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Receivables warning",
+    "back": "Revenue growth accompanied by faster receivables growth or rising DSO can signal premature recognition.",
+    "officialLearningOutcome": "describe accounting warning signs and methods for detecting manipulation of information in financial reports",
+    "tags": [
+      "financial reporting quality",
+      "LOS 8"
+    ]
+  },
+  {
+    "id": "fsa-lm10-fc-042",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Margin outlier",
+    "back": "May reflect superior economics or accounting bias; investigate rather than presume guilt.",
+    "officialLearningOutcome": "describe accounting warning signs and methods for detecting manipulation of information in financial reports",
+    "tags": [
+      "financial reporting quality",
+      "LOS 8"
+    ]
+  },
+  {
+    "id": "fsa-lm10-fc-043",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Auditor-change warning",
+    "back": "Seek the reason, timing, disagreements, and governance context; turnover alone is not proof.",
+    "officialLearningOutcome": "describe accounting warning signs and methods for detecting manipulation of information in financial reports",
+    "tags": [
+      "financial reporting quality",
+      "LOS 8"
+    ]
+  },
+  {
+    "id": "fsa-lm10-fc-044",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Acquisition complexity",
+    "back": "Raises valuation, integration, control, and trend-obscuring risks.",
+    "officialLearningOutcome": "describe accounting warning signs and methods for detecting manipulation of information in financial reports",
+    "tags": [
+      "financial reporting quality",
+      "LOS 8"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional analytical reinforcement within verified LM10 scope."
+  },
+  {
+    "id": "fsa-lm10-fc-045",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "front": "Warning-sign synthesis",
+    "back": "Use patterns across statements, disclosures, incentives, peers, and time; no isolated signal proves manipulation.",
+    "officialLearningOutcome": "describe accounting warning signs and methods for detecting manipulation of information in financial reports",
+    "tags": [
+      "financial reporting quality",
+      "LOS 8"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional analytical reinforcement within verified LM10 scope."
+  }
+]

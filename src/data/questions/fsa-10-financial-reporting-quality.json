@@ -1,0 +1,1194 @@
+[
+  {
+    "id": "fsa-lm10-q-001",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "compare financial reporting quality with the quality of reported results (including quality of earnings, cash flow, and balance sheet items)",
+    "difficulty": "hard",
+    "estimatedSeconds": 60,
+    "stem": "A company reports faithfully but earns an inadequate return from unsustainable activities. Its reporting quality and results quality are, respectively:",
+    "choices": [
+      "high and low.",
+      "low and high.",
+      "both high."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Faithful information can be high quality even when the underlying results are weak or unsustainable.",
+    "incorrectChoiceExplanations": [
+      "Correct: Faithful information can be high quality even when the underlying results are weak or unsustainable.",
+      "Incorrect: low and high. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Incorrect: both high. does not apply the reporting-quality distinction or evidence standard in the scenario."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm10-q-002",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "compare financial reporting quality with the quality of reported results (including quality of earnings, cash flow, and balance sheet items)",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "High-quality earnings are most closely associated with earnings that are:",
+    "choices": [
+      "always higher than cash flow from operations.",
+      "sustainable and provide an adequate return.",
+      "produced using conservative bias."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Results quality concerns sustainability and return, not accounting bias.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: always higher than cash flow from operations. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Correct: Results quality concerns sustainability and return, not accounting bias.",
+      "Incorrect: produced using conservative bias. does not apply the reporting-quality distinction or evidence standard in the scenario."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm10-q-003",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "compare financial reporting quality with the quality of reported results (including quality of earnings, cash flow, and balance sheet items)",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Which observation most directly concerns cash-flow quality?",
+    "choices": [
+      "The audit opinion is unmodified.",
+      "The company uses an enacted tax rate.",
+      "Operating cash flow depends repeatedly on stretching supplier payments."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Temporary working-capital tactics can make operating cash flow less sustainable.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: The audit opinion is unmodified. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Incorrect: The company uses an enacted tax rate. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Correct: Temporary working-capital tactics can make operating cash flow less sustainable."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm10-q-004",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "compare financial reporting quality with the quality of reported results (including quality of earnings, cash flow, and balance sheet items)",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A balance sheet may be low quality even when reported profit is high if:",
+    "choices": [
+      "asset values do not faithfully represent economic resources.",
+      "cash equals net income.",
+      "the company follows neutral estimates."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Quality of balance-sheet items concerns faithful measurement of assets and liabilities.",
+    "incorrectChoiceExplanations": [
+      "Correct: Quality of balance-sheet items concerns faithful measurement of assets and liabilities.",
+      "Incorrect: cash equals net income. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Incorrect: the company follows neutral estimates. does not apply the reporting-quality distinction or evidence standard in the scenario."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm10-q-005",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "compare financial reporting quality with the quality of reported results (including quality of earnings, cash flow, and balance sheet items)",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Why do high reported earnings not necessarily imply high-quality reporting?",
+    "choices": [
+      "High earnings automatically violate GAAP.",
+      "Earnings may be unsustainable or produced using biased reporting choices.",
+      "Reporting quality depends only on the auditor."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Magnitude alone says nothing about sustainability or faithful representation.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: High earnings automatically violate GAAP. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Correct: Magnitude alone says nothing about sustainability or faithful representation.",
+      "Incorrect: Reporting quality depends only on the auditor. does not apply the reporting-quality distinction or evidence standard in the scenario."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 1"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional application and synthesis within verified LM10 scope."
+  },
+  {
+    "id": "fsa-lm10-q-006",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe a spectrum for assessing financial reporting quality",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "At the top of the reporting-quality spectrum are reports that are:",
+    "choices": [
+      "outside GAAP but conservative.",
+      "compliant but intentionally biased.",
+      "GAAP-compliant, decision-useful, and reflective of sustainable adequate returns."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The highest category combines useful reporting with high-quality results.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: outside GAAP but conservative. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Incorrect: compliant but intentionally biased. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Correct: The highest category combines useful reporting with high-quality results."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm10-q-007",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe a spectrum for assessing financial reporting quality",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Compliant reporting that uses biased choices is best classified as:",
+    "choices": [
+      "lower quality than neutral compliant reporting.",
+      "fraudulent by definition.",
+      "the highest-quality reporting."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Bias reduces decision usefulness but does not automatically mean non-compliance or fraud.",
+    "incorrectChoiceExplanations": [
+      "Correct: Bias reduces decision usefulness but does not automatically mean non-compliance or fraud.",
+      "Incorrect: fraudulent by definition. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Incorrect: the highest-quality reporting. does not apply the reporting-quality distinction or evidence standard in the scenario."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm10-q-008",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe a spectrum for assessing financial reporting quality",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "The lowest point on the quality spectrum most likely involves:",
+    "choices": [
+      "a transparent non-GAAP reconciliation.",
+      "fictitious transactions or events.",
+      "a neutral estimate within a reasonable range."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Invented events are beyond biased application and represent the lowest reporting quality.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: a transparent non-GAAP reconciliation. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Correct: Invented events are beyond biased application and represent the lowest reporting quality.",
+      "Incorrect: a neutral estimate within a reasonable range. does not apply the reporting-quality distinction or evidence standard in the scenario."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm10-q-009",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe a spectrum for assessing financial reporting quality",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Moving down the quality spectrum generally means information becomes:",
+    "choices": [
+      "more conservative and therefore always better.",
+      "more sustainable despite weaker disclosure.",
+      "less decision-useful and less faithful to economic reality."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The spectrum evaluates usefulness and faithful representation.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: more conservative and therefore always better. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Incorrect: more sustainable despite weaker disclosure. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Correct: The spectrum evaluates usefulness and faithful representation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm10-q-010",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe a spectrum for assessing financial reporting quality",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Which statement about non-compliant reporting is most accurate?",
+    "choices": [
+      "It is low quality, but the severity can range from misapplication to fraud.",
+      "It is always caused by theft.",
+      "It is acceptable if earnings are sustainable."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Non-compliance is low quality without proving a specific motive or fraudulent act.",
+    "incorrectChoiceExplanations": [
+      "Correct: Non-compliance is low quality without proving a specific motive or fraudulent act.",
+      "Incorrect: It is always caused by theft. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Incorrect: It is acceptable if earnings are sustainable. does not apply the reporting-quality distinction or evidence standard in the scenario."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 2"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional application and synthesis within verified LM10 scope."
+  },
+  {
+    "id": "fsa-lm10-q-011",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the difference between conservative and aggressive accounting",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Extending an asset’s useful life, all else equal, is generally aggressive because it:",
+    "choices": [
+      "raises current depreciation and lowers earnings.",
+      "reduces current depreciation and raises current earnings and assets.",
+      "changes total cash flow immediately."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "A longer life shifts depreciation expense into future periods.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: raises current depreciation and lowers earnings. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Correct: A longer life shifts depreciation expense into future periods.",
+      "Incorrect: changes total cash flow immediately. does not apply the reporting-quality distinction or evidence standard in the scenario."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm10-q-012",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the difference between conservative and aggressive accounting",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "A conservative estimate in the current period most likely:",
+    "choices": [
+      "guarantees neutral reporting.",
+      "raises current assets and delays expenses.",
+      "depresses current reported performance and may increase later-period performance."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Conservatism generally shifts reported performance away from the current period.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: guarantees neutral reporting. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Incorrect: raises current assets and delays expenses. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Correct: Conservatism generally shifts reported performance away from the current period."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm10-q-013",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the difference between conservative and aggressive accounting",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Aggressive accounting is distinguished from fraud because aggressive choices:",
+    "choices": [
+      "may remain within GAAP even though they bias current results upward.",
+      "always involve fictitious transactions.",
+      "must understate current earnings."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Bias within permitted discretion is not automatically fraudulent.",
+    "incorrectChoiceExplanations": [
+      "Correct: Bias within permitted discretion is not automatically fraudulent.",
+      "Incorrect: always involve fictitious transactions. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Incorrect: must understate current earnings. does not apply the reporting-quality distinction or evidence standard in the scenario."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm10-q-014",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the difference between conservative and aggressive accounting",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Recognizing an allowance earlier than a neutral best estimate most likely:",
+    "choices": [
+      "raises current earnings and assets.",
+      "lowers current earnings and can increase future earnings when the allowance is released.",
+      "increases cash receipts."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "An extra current expense creates a possible later reversal benefit.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: raises current earnings and assets. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Correct: An extra current expense creates a possible later reversal benefit.",
+      "Incorrect: increases cash receipts. does not apply the reporting-quality distinction or evidence standard in the scenario."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm10-q-015",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain the difference between conservative and aggressive accounting",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Calling conservative accounting “good” without qualification is inappropriate because conservatism:",
+    "choices": [
+      "always violates GAAP.",
+      "always raises litigation costs.",
+      "is itself a bias and may reduce neutrality."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Prudence may have benefits, but systematic understatement is not neutral reporting.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: always violates GAAP. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Incorrect: always raises litigation costs. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Correct: Prudence may have benefits, but systematic understatement is not neutral reporting."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 3"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional application and synthesis within verified LM10 scope."
+  },
+  {
+    "id": "fsa-lm10-q-016",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe motivations that might cause management to issue financial reports that are not high quality and conditions that are conducive to issuing low-quality, or even fraudulent, financial reports",
+    "difficulty": "hard",
+    "estimatedSeconds": 60,
+    "stem": "Compensation tied to share price most directly creates:",
+    "choices": [
+      "motivation to meet market expectations.",
+      "an opportunity caused by weak controls.",
+      "proof that manipulation occurred."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "An incentive is motivation, not opportunity or evidence of misconduct.",
+    "incorrectChoiceExplanations": [
+      "Correct: An incentive is motivation, not opportunity or evidence of misconduct.",
+      "Incorrect: an opportunity caused by weak controls. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Incorrect: proof that manipulation occurred. does not apply the reporting-quality distinction or evidence standard in the scenario."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm10-q-017",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe motivations that might cause management to issue financial reports that are not high quality and conditions that are conducive to issuing low-quality, or even fraudulent, financial reports",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Poor internal controls most directly create:",
+    "choices": [
+      "rationalization.",
+      "opportunity for low-quality reporting.",
+      "sustainable earnings."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Weak controls make manipulation easier to execute or conceal.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: rationalization. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Correct: Weak controls make manipulation easier to execute or conceal.",
+      "Incorrect: sustainable earnings. does not apply the reporting-quality distinction or evidence standard in the scenario."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm10-q-018",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe motivations that might cause management to issue financial reports that are not high quality and conditions that are conducive to issuing low-quality, or even fraudulent, financial reports",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "A manager seeks multiple approvals to feel a questionable treatment is acceptable. This most closely reflects:",
+    "choices": [
+      "market discipline.",
+      "cash-flow quality.",
+      "rationalization."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Seeking justification is a rationalization condition.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: market discipline. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Incorrect: cash-flow quality. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Correct: Seeking justification is a rationalization condition."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm10-q-019",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe motivations that might cause management to issue financial reports that are not high quality and conditions that are conducive to issuing low-quality, or even fraudulent, financial reports",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Risk of violating a debt covenant most likely creates pressure to:",
+    "choices": [
+      "inflate current earnings or assets.",
+      "understate every liability permanently.",
+      "improve reporting quality automatically."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Covenant pressure can motivate upward bias but does not prove it occurred.",
+    "incorrectChoiceExplanations": [
+      "Correct: Covenant pressure can motivate upward bias but does not prove it occurred.",
+      "Incorrect: understate every liability permanently. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Incorrect: improve reporting quality automatically. does not apply the reporting-quality distinction or evidence standard in the scenario."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm10-q-020",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe motivations that might cause management to issue financial reports that are not high quality and conditions that are conducive to issuing low-quality, or even fraudulent, financial reports",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Unexpectedly strong results may motivate managers to accelerate expenses in order to:",
+    "choices": [
+      "maximize current-period earnings.",
+      "bank earnings for a future period.",
+      "increase current operating cash flow."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Managers may smooth results by shifting some strong-period earnings forward.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: maximize current-period earnings. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Correct: Managers may smooth results by shifting some strong-period earnings forward.",
+      "Incorrect: increase current operating cash flow. does not apply the reporting-quality distinction or evidence standard in the scenario."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm10-q-021",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe motivations that might cause management to issue financial reports that are not high quality and conditions that are conducive to issuing low-quality, or even fraudulent, financial reports",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Which combination most heightens concern without proving manipulation?",
+    "choices": [
+      "High CFO and neutral estimates",
+      "Independent directors and transparent reconciliation",
+      "Strong incentives, weak oversight, and a plausible rationalization"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Multiple conducive conditions raise risk but remain signals rather than proof.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: High CFO and neutral estimates does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Incorrect: Independent directors and transparent reconciliation does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Correct: Multiple conducive conditions raise risk but remain signals rather than proof."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 4"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional application and synthesis within verified LM10 scope."
+  },
+  {
+    "id": "fsa-lm10-q-022",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe mechanisms that discipline financial reporting quality and the potential limitations of those mechanisms",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "An external audit primarily provides:",
+    "choices": [
+      "reasonable assurance that statements are fairly presented.",
+      "a guarantee that no fraud exists.",
+      "an assessment of earnings sustainability."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Audits provide reasonable, not absolute, assurance and are not investment-quality opinions.",
+    "incorrectChoiceExplanations": [
+      "Correct: Audits provide reasonable, not absolute, assurance and are not investment-quality opinions.",
+      "Incorrect: a guarantee that no fraud exists. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Incorrect: an assessment of earnings sustainability. does not apply the reporting-quality distinction or evidence standard in the scenario."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 5"
+    ]
+  },
+  {
+    "id": "fsa-lm10-q-023",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe mechanisms that discipline financial reporting quality and the potential limitations of those mechanisms",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Why can an independent board still fail to discipline reporting quality?",
+    "choices": [
+      "Independence eliminates all agency conflicts.",
+      "Members may lack expertise, information, or willingness to challenge management.",
+      "Boards prepare every accounting estimate."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Formal independence does not ensure effective oversight.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: Independence eliminates all agency conflicts. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Correct: Formal independence does not ensure effective oversight.",
+      "Incorrect: Boards prepare every accounting estimate. does not apply the reporting-quality distinction or evidence standard in the scenario."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 5"
+    ]
+  },
+  {
+    "id": "fsa-lm10-q-024",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe mechanisms that discipline financial reporting quality and the potential limitations of those mechanisms",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "A loan covenant can discipline reporting because lenders:",
+    "choices": [
+      "replace the external auditor.",
+      "eliminate management motivation.",
+      "have contractual incentives to monitor reported amounts."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Contractual exposure motivates scrutiny, although covenant pressure can also motivate bias.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: replace the external auditor. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Incorrect: eliminate management motivation. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Correct: Contractual exposure motivates scrutiny, although covenant pressure can also motivate bias."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 5"
+    ]
+  },
+  {
+    "id": "fsa-lm10-q-025",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe mechanisms that discipline financial reporting quality and the potential limitations of those mechanisms",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Which limitation applies to market discipline by analysts?",
+    "choices": [
+      "Analysts may rely on the same incomplete or biased disclosures they assess.",
+      "Analysts possess subpoena power.",
+      "Analysts guarantee GAAP compliance."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "External analysis is constrained by available information and incentives.",
+    "incorrectChoiceExplanations": [
+      "Correct: External analysis is constrained by available information and incentives.",
+      "Incorrect: Analysts possess subpoena power. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Incorrect: Analysts guarantee GAAP compliance. does not apply the reporting-quality distinction or evidence standard in the scenario."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 5"
+    ]
+  },
+  {
+    "id": "fsa-lm10-q-026",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe mechanisms that discipline financial reporting quality and the potential limitations of those mechanisms",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Regulation most directly improves quality by setting and enforcing requirements, but it cannot:",
+    "choices": [
+      "require issuer disclosures.",
+      "eliminate judgment or prevent every misstatement.",
+      "sanction non-compliance."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Rules and enforcement reduce risk but cannot remove estimates, incentives, or all misconduct.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: require issuer disclosures. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Correct: Rules and enforcement reduce risk but cannot remove estimates, incentives, or all misconduct.",
+      "Incorrect: sanction non-compliance. does not apply the reporting-quality distinction or evidence standard in the scenario."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 5"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional application and synthesis within verified LM10 scope."
+  },
+  {
+    "id": "fsa-lm10-q-027",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe presentation choices, including non-GAAP measures, that could be used to influence an analyst's opinion",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "A non-GAAP measure is most useful when management:",
+    "choices": [
+      "gives it greater prominence and omits reconciliation.",
+      "excludes every unfavorable recurring cost.",
+      "defines it clearly, reconciles it to GAAP, and applies it consistently."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Transparency and consistency let analysts assess the adjustment.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: gives it greater prominence and omits reconciliation. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Incorrect: excludes every unfavorable recurring cost. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Correct: Transparency and consistency let analysts assess the adjustment."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 6"
+    ]
+  },
+  {
+    "id": "fsa-lm10-q-028",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe presentation choices, including non-GAAP measures, that could be used to influence an analyst's opinion",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Repeatedly excluding the same restructuring cost from adjusted earnings most likely suggests:",
+    "choices": [
+      "the item may be part of recurring economics.",
+      "the exclusion is automatically fraudulent.",
+      "GAAP earnings should also exclude it."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Recurring “one-time” exclusions deserve normalization but are not proof of fraud.",
+    "incorrectChoiceExplanations": [
+      "Correct: Recurring “one-time” exclusions deserve normalization but are not proof of fraud.",
+      "Incorrect: the exclusion is automatically fraudulent. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Incorrect: GAAP earnings should also exclude it. does not apply the reporting-quality distinction or evidence standard in the scenario."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 6"
+    ]
+  },
+  {
+    "id": "fsa-lm10-q-029",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe presentation choices, including non-GAAP measures, that could be used to influence an analyst's opinion",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Cherry-picking in non-GAAP reporting most likely occurs when management:",
+    "choices": [
+      "reconciles every adjustment.",
+      "excludes unfavorable items but retains comparable favorable items.",
+      "uses the same definition each period."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Asymmetric selection can create an unduly favorable presentation.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: reconciles every adjustment. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Correct: Asymmetric selection can create an unduly favorable presentation.",
+      "Incorrect: uses the same definition each period. does not apply the reporting-quality distinction or evidence standard in the scenario."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 6"
+    ]
+  },
+  {
+    "id": "fsa-lm10-q-030",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe presentation choices, including non-GAAP measures, that could be used to influence an analyst's opinion",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Greater prominence for an adjusted measure than its GAAP counterpart most directly raises concern about:",
+    "choices": [
+      "cash theft.",
+      "inventory ownership.",
+      "presentation bias."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Prominence can steer attention even when the underlying calculation is disclosed.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: cash theft. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Incorrect: inventory ownership. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Correct: Prominence can steer attention even when the underlying calculation is disclosed."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 6"
+    ]
+  },
+  {
+    "id": "fsa-lm10-q-031",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe presentation choices, including non-GAAP measures, that could be used to influence an analyst's opinion",
+    "difficulty": "hard",
+    "estimatedSeconds": 60,
+    "stem": "EBITDA should be interpreted as:",
+    "choices": [
+      "a management-used performance measure requiring reconciliation and context.",
+      "cash flow from operations.",
+      "fraudulent whenever disclosed."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "EBITDA may be useful, but it is neither GAAP net income nor operating cash flow.",
+    "incorrectChoiceExplanations": [
+      "Correct: EBITDA may be useful, but it is neither GAAP net income nor operating cash flow.",
+      "Incorrect: cash flow from operations. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Incorrect: fraudulent whenever disclosed. does not apply the reporting-quality distinction or evidence standard in the scenario."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 6"
+    ]
+  },
+  {
+    "id": "fsa-lm10-q-032",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe presentation choices, including non-GAAP measures, that could be used to influence an analyst's opinion",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "An analyst evaluating an exclusion should first ask whether the item is:",
+    "choices": [
+      "negative in the current period.",
+      "economically recurring and consistently treated across periods.",
+      "approved by management compensation plans."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Economic recurrence and consistency determine whether normalization is warranted.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: negative in the current period. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Correct: Economic recurrence and consistency determine whether normalization is warranted.",
+      "Incorrect: approved by management compensation plans. does not apply the reporting-quality distinction or evidence standard in the scenario."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 6"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional application and synthesis within verified LM10 scope."
+  },
+  {
+    "id": "fsa-lm10-q-033",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe accounting methods (choices and estimates) that could be used to manage earnings, cash flow, and balance sheet items",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Capitalizing a cost that peers expense most likely causes current-period:",
+    "choices": [
+      "earnings and assets to be lower.",
+      "total cash flow to increase.",
+      "earnings and assets to be higher, with expenses shifted to later periods."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Capitalization delays income-statement recognition but does not create cash.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: earnings and assets to be lower. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Incorrect: total cash flow to increase. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Correct: Capitalization delays income-statement recognition but does not create cash."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 7"
+    ]
+  },
+  {
+    "id": "fsa-lm10-q-034",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe accounting methods (choices and estimates) that could be used to manage earnings, cash flow, and balance sheet items",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Lowering the allowance for doubtful accounts, all else equal, most likely:",
+    "choices": [
+      "raises current earnings and receivables.",
+      "lowers current earnings and receivables.",
+      "raises cash collections."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "A smaller allowance reduces bad-debt expense and increases net receivables.",
+    "incorrectChoiceExplanations": [
+      "Correct: A smaller allowance reduces bad-debt expense and increases net receivables.",
+      "Incorrect: lowers current earnings and receivables. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Incorrect: raises cash collections. does not apply the reporting-quality distinction or evidence standard in the scenario."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 7"
+    ]
+  },
+  {
+    "id": "fsa-lm10-q-035",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe accounting methods (choices and estimates) that could be used to manage earnings, cash flow, and balance sheet items",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Premature revenue recognition most likely produces which early warning pattern?",
+    "choices": [
+      "CFO grows faster than net income indefinitely.",
+      "Receivables grow faster than sales and DSO rises.",
+      "Inventory and payables both vanish."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Uncollected recognized revenue can cause receivables to outrun sales.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: CFO grows faster than net income indefinitely. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Correct: Uncollected recognized revenue can cause receivables to outrun sales.",
+      "Incorrect: Inventory and payables both vanish. does not apply the reporting-quality distinction or evidence standard in the scenario."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 7"
+    ]
+  },
+  {
+    "id": "fsa-lm10-q-036",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe accounting methods (choices and estimates) that could be used to manage earnings, cash flow, and balance sheet items",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Classifying an operating cash outflow as investing most directly:",
+    "choices": [
+      "raises total cash flow.",
+      "raises net income automatically.",
+      "raises reported CFO but leaves total cash flow unchanged."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Classification changes subtotals, not the total change in cash.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: raises total cash flow. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Incorrect: raises net income automatically. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Correct: Classification changes subtotals, not the total change in cash."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 7"
+    ]
+  },
+  {
+    "id": "fsa-lm10-q-037",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe accounting methods (choices and estimates) that could be used to manage earnings, cash flow, and balance sheet items",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A large reserve created in a strong year and released in a weak year is most consistent with:",
+    "choices": [
+      "earnings smoothing across periods.",
+      "a permanent cash-flow improvement.",
+      "automatic fraud."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Reserve timing can shift earnings, but intent and reasonableness require investigation.",
+    "incorrectChoiceExplanations": [
+      "Correct: Reserve timing can shift earnings, but intent and reasonableness require investigation.",
+      "Incorrect: a permanent cash-flow improvement. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Incorrect: automatic fraud. does not apply the reporting-quality distinction or evidence standard in the scenario."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 7"
+    ]
+  },
+  {
+    "id": "fsa-lm10-q-038",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe accounting methods (choices and estimates) that could be used to manage earnings, cash flow, and balance sheet items",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Shortening an asset’s useful life in a strong year can create what reversal pattern?",
+    "choices": [
+      "Higher earnings in every period.",
+      "Lower current earnings and potentially higher later earnings.",
+      "Higher current CFO from depreciation."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Accelerated expense recognition reduces the later expense burden.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: Higher earnings in every period. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Correct: Accelerated expense recognition reduces the later expense burden.",
+      "Incorrect: Higher current CFO from depreciation. does not apply the reporting-quality distinction or evidence standard in the scenario."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 7"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional application and synthesis within verified LM10 scope."
+  },
+  {
+    "id": "fsa-lm10-q-039",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe accounting methods (choices and estimates) that could be used to manage earnings, cash flow, and balance sheet items",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Which treatment most directly manages balance-sheet presentation without changing total cash?",
+    "choices": [
+      "Collecting a valid receivable",
+      "Issuing shares for cash with full disclosure",
+      "Classifying a financing obligation outside reported debt through an unsupported structure"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Unsupported classification can obscure leverage even when cash economics remain.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: Collecting a valid receivable does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Incorrect: Issuing shares for cash with full disclosure does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Correct: Unsupported classification can obscure leverage even when cash economics remain."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 7"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional application and synthesis within verified LM10 scope."
+  },
+  {
+    "id": "fsa-lm10-q-040",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe accounting warning signs and methods for detecting manipulation of information in financial reports",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Net income rises while CFO declines for three consecutive years. The best conclusion is:",
+    "choices": [
+      "accrual quality warrants investigation, not that fraud is proven.",
+      "fraud is certain.",
+      "earnings quality is automatically high."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Persistent divergence is a warning signal requiring explanation.",
+    "incorrectChoiceExplanations": [
+      "Correct: Persistent divergence is a warning signal requiring explanation.",
+      "Incorrect: fraud is certain. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Incorrect: earnings quality is automatically high. does not apply the reporting-quality distinction or evidence standard in the scenario."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 8"
+    ]
+  },
+  {
+    "id": "fsa-lm10-q-041",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe accounting warning signs and methods for detecting manipulation of information in financial reports",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A company’s CFO/net income ratios are 1.12, 0.96, 0.78, and 0.61. The pattern most likely indicates:",
+    "choices": [
+      "improving accrual quality.",
+      "deteriorating cash conversion.",
+      "a mathematical increase in CFO."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Repeated decline below one suggests reported earnings are converting poorly to operating cash.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: improving accrual quality. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Correct: Repeated decline below one suggests reported earnings are converting poorly to operating cash.",
+      "Incorrect: a mathematical increase in CFO. does not apply the reporting-quality distinction or evidence standard in the scenario."
+    ],
+    "relatedFormulaIds": [
+      "cfo-net-income-quality-fsa-10"
+    ],
+    "tags": [
+      "financial reporting quality",
+      "LOS 8"
+    ]
+  },
+  {
+    "id": "fsa-lm10-q-042",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe accounting warning signs and methods for detecting manipulation of information in financial reports",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Gross margins far above peers should be treated as:",
+    "choices": [
+      "proof of manipulation.",
+      "irrelevant when audited.",
+      "a signal to investigate operating advantage and accounting choices together."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Unusual margins can reflect superior economics or reporting choices.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: proof of manipulation. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Incorrect: irrelevant when audited. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Correct: Unusual margins can reflect superior economics or reporting choices."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 8"
+    ]
+  },
+  {
+    "id": "fsa-lm10-q-043",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe accounting warning signs and methods for detecting manipulation of information in financial reports",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Frequent auditor changes are most appropriately viewed as:",
+    "choices": [
+      "a warning sign requiring context about disagreements and governance.",
+      "conclusive evidence of fraud.",
+      "proof of conservative accounting."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Auditor turnover can have benign or concerning explanations.",
+    "incorrectChoiceExplanations": [
+      "Correct: Auditor turnover can have benign or concerning explanations.",
+      "Incorrect: conclusive evidence of fraud. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Incorrect: proof of conservative accounting. does not apply the reporting-quality distinction or evidence standard in the scenario."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 8"
+    ]
+  },
+  {
+    "id": "fsa-lm10-q-044",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe accounting warning signs and methods for detecting manipulation of information in financial reports",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Acquisition-driven complexity increases reporting risk primarily because it:",
+    "choices": [
+      "makes every acquisition fraudulent.",
+      "creates valuation judgments, integration pressure, and opportunities to obscure trends.",
+      "eliminates estimates."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Complex transactions and controls complicate faithful reporting.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: makes every acquisition fraudulent. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Correct: Complex transactions and controls complicate faithful reporting.",
+      "Incorrect: eliminates estimates. does not apply the reporting-quality distinction or evidence standard in the scenario."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 8"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional application and synthesis within verified LM10 scope."
+  },
+  {
+    "id": "fsa-lm10-q-045",
+    "lessonId": "fsa-10-financial-reporting-quality",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "describe accounting warning signs and methods for detecting manipulation of information in financial reports",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "The strongest manipulation assessment usually comes from:",
+    "choices": [
+      "one isolated ratio.",
+      "management’s adjusted earnings alone.",
+      "a coherent pattern across statements, disclosures, incentives, and peers."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Warning signs should be evaluated collectively and contextually.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: one isolated ratio. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Incorrect: management’s adjusted earnings alone. does not apply the reporting-quality distinction or evidence standard in the scenario.",
+      "Correct: Warning signs should be evaluated collectively and contextually."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial reporting quality",
+      "LOS 8"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional application and synthesis within verified LM10 scope."
+  }
+]
