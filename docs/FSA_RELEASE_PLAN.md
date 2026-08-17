@@ -14,7 +14,7 @@ Each future production release must include: a complete original lesson (verifie
 - v1.8.6: FSA-LM6 — Analysis of Inventories.
 - v1.8.7: FSA-LM7 — Analysis of Long-Term Assets.
 - v1.8.8: FSA-LM8 — Topics in Long-Term Liabilities and Equity. **Complete.** Delivered all 3 LOS, 12 examples, 8 original exhibits, 11 source-supported formulas/metrics, 2 tested tools, and 35 official + 10 supplementary questions/flashcards with exact 15/15/15 answer balance.
-- v1.8.9: FSA-LM9 — Analysis of Income Taxes.
+- v1.8.9: FSA-LM9 — Analysis of Income Taxes. **Complete.** Delivered all 4 LOS, 14 original examples, 8 original exhibits, 8 audited formulas/metrics, 2 tested tools, and 30 official + 10 supplementary questions/flashcards with 14/13/13 answer balance.
 - v1.8.10: FSA-LM10 — Financial Reporting Quality.
 - v1.8.11: FSA-LM11 — Financial Analysis Techniques.
 - v1.8.12: FSA-LM12 — Introduction to Financial Statement Modeling. Completes all 12 of 12 official FSA modules.

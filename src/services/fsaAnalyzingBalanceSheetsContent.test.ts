@@ -80,11 +80,11 @@ describe('FSA analyzing balance sheets content', () => {
   expect(lesson?.topicId).toBe('financial-statement-analysis');
  });
  it('preserves earlier FSA modules while recognizing LM6 as verified', () => {
-  expect(verifiedOfficialFsaModules.map(m => m.id).sort()).toEqual(['FSA-LM1', 'FSA-LM2', 'FSA-LM3', 'FSA-LM4', 'FSA-LM5', 'FSA-LM6', 'FSA-LM7', 'FSA-LM8']);
+  expect(verifiedOfficialFsaModules.map(m => m.id).sort()).toEqual(['FSA-LM1', 'FSA-LM2', 'FSA-LM3', 'FSA-LM4', 'FSA-LM5', 'FSA-LM6', 'FSA-LM7', 'FSA-LM8', 'FSA-LM9']);
   const lm3 = officialFsaModules.find(m => m.id === 'FSA-LM3');
   expect(lm3?.studyLessonId).toBe('fsa-03-analyzing-balance-sheets');
   expect(lm3?.status).toBe('verified');
-  expect(officialFsaModules.filter(m => m.status === 'pending')).toHaveLength(4);
+  expect(officialFsaModules.filter(m => m.status === 'pending')).toHaveLength(3);
   expect(fsaLessonIds.slice().sort()).toEqual([
    'fsa-01-introduction-to-financial-statement-analysis',
    'fsa-02-analyzing-income-statements',
@@ -94,6 +94,7 @@ describe('FSA analyzing balance sheets content', () => {
    'fsa-06-analysis-of-inventories',
    'fsa-07-analysis-of-long-term-assets',
    'fsa-08-topics-in-long-term-liabilities-and-equity',
+   'fsa-09-analysis-of-income-taxes',
   ]);
  });
 });

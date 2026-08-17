@@ -10,6 +10,7 @@ const producedModules=[
  {officialModuleId:'FSA-LM6',lessonId:'fsa-06-analysis-of-inventories',contentPath:'public/content/fsa/06-analysis-of-inventories.md',hasFormulas:true,formulaCount:8,officialQuestionCount:40,supplementaryQuestionCount:10,tools:['InventoryMethodComparator','LowerCostNrvTrainer']},
  {officialModuleId:'FSA-LM7',lessonId:'fsa-07-analysis-of-long-term-assets',contentPath:'public/content/fsa/07-analysis-of-long-term-assets.md',hasFormulas:true,formulaCount:13,officialQuestionCount:35,supplementaryQuestionCount:10,tools:['LongLivedAssetImpairmentTrainer']},
  {officialModuleId:'FSA-LM8',lessonId:'fsa-08-topics-in-long-term-liabilities-and-equity',contentPath:'public/content/fsa/08-topics-in-long-term-liabilities-and-equity.md',hasFormulas:true,formulaCount:11,officialQuestionCount:35,supplementaryQuestionCount:10,tools:['LeaseMeasurementExplorer','PensionStockCompExplorer']},
+ {officialModuleId:'FSA-LM9',lessonId:'fsa-09-analysis-of-income-taxes',contentPath:'public/content/fsa/09-analysis-of-income-taxes.md',hasFormulas:true,formulaCount:8,officialQuestionCount:30,supplementaryQuestionCount:10,tools:['DeferredTaxExplorer','TaxRateReconciliationAnalyzer']},
 ];
 const allModules=await read('.local-research/fsa-verification/official-module-map.json');
 const unproducedLessonIds=allModules.modules.map(m=>m.futureStudyLessonId).filter(id=>!producedModules.some(p=>p.lessonId===id));

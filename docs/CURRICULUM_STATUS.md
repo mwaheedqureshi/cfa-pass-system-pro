@@ -61,7 +61,7 @@ Financial Statement Analysis is **mapped (v1.8.0)** for the official CFA Level I
 | FSA-LM6 Analysis of Inventories | `fsa-06-analysis-of-inventories` | Mapped |
 | FSA-LM7 Analysis of Long-Term Assets | `fsa-07-analysis-of-long-term-assets` | Mapped |
 | FSA-LM8 Topics in Long-Term Liabilities and Equity | `fsa-08-topics-in-long-term-liabilities-and-equity` | Verified v1.8.8 |
-| FSA-LM9 Analysis of Income Taxes | `fsa-09-analysis-of-income-taxes` | Mapped |
+| FSA-LM9 Analysis of Income Taxes | `fsa-09-analysis-of-income-taxes` | Verified v1.8.9 |
 | FSA-LM10 Financial Reporting Quality | `fsa-10-financial-reporting-quality` | Mapped |
 | FSA-LM11 Financial Analysis Techniques | `fsa-11-financial-analysis-techniques` | Mapped |
 | FSA-LM12 Introduction to Financial Statement Modeling | `fsa-12-introduction-to-financial-statement-modeling` | Mapped |
@@ -84,7 +84,9 @@ FSA-LM7 adds 35 official + 10 supplementary questions and flashcards, 13 formula
 
 FSA-LM8 adds 35 official + 10 supplementary questions and flashcards, 11 formulas/metrics, 8 original exhibits, and 2 tools. FSA completion after v1.8.8: **8 of 12 (66.7%)**.
 
-Next release: **FSA Module Production Sprint 9 — FSA-LM9**.
+FSA-LM9 adds 30 official + 10 supplementary questions and flashcards, 8 formulas/metrics, 8 original exhibits, and 2 tools. FSA completion after v1.8.9: **9 of 12 (75.0%)**.
+
+Next release: **FSA Module Production Sprint 10 — FSA-LM10**.
 
 ## Other topics
 

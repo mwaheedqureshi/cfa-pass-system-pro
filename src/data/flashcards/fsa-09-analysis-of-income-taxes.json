@@ -1,0 +1,502 @@
+[
+  {
+    "id": "fsa-lm9-fc-001",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Accounting profit",
+    "back": "Pretax income measured under financial-reporting standards.",
+    "officialLearningOutcome": "contrast accounting profit, taxable income, taxes payable, and income tax expense and temporary versus permanent differences between accounting profit and taxable income",
+    "tags": [
+      "income taxes",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm9-fc-002",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Taxable income",
+    "back": "Income measured under tax law.",
+    "officialLearningOutcome": "contrast accounting profit, taxable income, taxes payable, and income tax expense and temporary versus permanent differences between accounting profit and taxable income",
+    "tags": [
+      "income taxes",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm9-fc-003",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Taxes payable",
+    "back": "Current tax obligation based on taxable income.",
+    "officialLearningOutcome": "contrast accounting profit, taxable income, taxes payable, and income tax expense and temporary versus permanent differences between accounting profit and taxable income",
+    "tags": [
+      "income taxes",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm9-fc-004",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Income tax expense",
+    "back": "Current tax plus the period’s deferred-tax effect.",
+    "officialLearningOutcome": "contrast accounting profit, taxable income, taxes payable, and income tax expense and temporary versus permanent differences between accounting profit and taxable income",
+    "tags": [
+      "income taxes",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm9-fc-005",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Permanent difference",
+    "back": "A difference that never reverses and creates no DTA or DTL.",
+    "officialLearningOutcome": "contrast accounting profit, taxable income, taxes payable, and income tax expense and temporary versus permanent differences between accounting profit and taxable income",
+    "tags": [
+      "income taxes",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm9-fc-006",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Temporary difference",
+    "back": "A carrying-amount/tax-base difference expected to reverse.",
+    "officialLearningOutcome": "contrast accounting profit, taxable income, taxes payable, and income tax expense and temporary versus permanent differences between accounting profit and taxable income",
+    "tags": [
+      "income taxes",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm9-fc-007",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Current versus deferred tax",
+    "back": "Current tax relates to the current return; deferred tax reflects future tax consequences of temporary differences.",
+    "officialLearningOutcome": "contrast accounting profit, taxable income, taxes payable, and income tax expense and temporary versus permanent differences between accounting profit and taxable income",
+    "tags": [
+      "income taxes",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm9-fc-008",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Permanent-difference rate effect",
+    "back": "It can move ETR away from the statutory rate without creating deferred tax.",
+    "officialLearningOutcome": "contrast accounting profit, taxable income, taxes payable, and income tax expense and temporary versus permanent differences between accounting profit and taxable income",
+    "tags": [
+      "income taxes",
+      "LOS 1"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional analytical reinforcement within verified LM9 scope."
+  },
+  {
+    "id": "fsa-lm9-fc-009",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Tax expense bridge direction",
+    "back": "An increase in DTL raises expense; an increase in DTA lowers expense, all else equal.",
+    "officialLearningOutcome": "contrast accounting profit, taxable income, taxes payable, and income tax expense and temporary versus permanent differences between accounting profit and taxable income",
+    "tags": [
+      "income taxes",
+      "LOS 1"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional analytical reinforcement within verified LM9 scope."
+  },
+  {
+    "id": "fsa-lm9-fc-010",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Cash tax distinction",
+    "back": "Cash taxes paid can differ from taxes payable and tax expense.",
+    "officialLearningOutcome": "contrast accounting profit, taxable income, taxes payable, and income tax expense and temporary versus permanent differences between accounting profit and taxable income",
+    "tags": [
+      "income taxes",
+      "LOS 1"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional analytical reinforcement within verified LM9 scope."
+  },
+  {
+    "id": "fsa-lm9-fc-011",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Asset tax base",
+    "back": "Future tax deduction associated with recovering the asset.",
+    "officialLearningOutcome": "explain how deferred tax liabilities and assets are created and the factors that determine how a company’s deferred tax liabilities and assets should be treated for the purposes of financial analysis",
+    "tags": [
+      "income taxes",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm9-fc-012",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Liability tax base",
+    "back": "Carrying amount less amounts deductible when the liability is settled.",
+    "officialLearningOutcome": "explain how deferred tax liabilities and assets are created and the factors that determine how a company’s deferred tax liabilities and assets should be treated for the purposes of financial analysis",
+    "tags": [
+      "income taxes",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm9-fc-013",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Asset: carrying amount above tax base",
+    "back": "Taxable temporary difference and DTL.",
+    "officialLearningOutcome": "explain how deferred tax liabilities and assets are created and the factors that determine how a company’s deferred tax liabilities and assets should be treated for the purposes of financial analysis",
+    "tags": [
+      "income taxes",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm9-fc-014",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Asset: carrying amount below tax base",
+    "back": "Deductible temporary difference and DTA.",
+    "officialLearningOutcome": "explain how deferred tax liabilities and assets are created and the factors that determine how a company’s deferred tax liabilities and assets should be treated for the purposes of financial analysis",
+    "tags": [
+      "income taxes",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm9-fc-015",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Liability: carrying amount above tax base",
+    "back": "Deductible temporary difference and DTA.",
+    "officialLearningOutcome": "explain how deferred tax liabilities and assets are created and the factors that determine how a company’s deferred tax liabilities and assets should be treated for the purposes of financial analysis",
+    "tags": [
+      "income taxes",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm9-fc-016",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Liability: carrying amount below tax base",
+    "back": "Taxable temporary difference and DTL.",
+    "officialLearningOutcome": "explain how deferred tax liabilities and assets are created and the factors that determine how a company’s deferred tax liabilities and assets should be treated for the purposes of financial analysis",
+    "tags": [
+      "income taxes",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm9-fc-017",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Deferred tax amount",
+    "back": "Temporary difference multiplied by the applicable reversal tax rate.",
+    "officialLearningOutcome": "explain how deferred tax liabilities and assets are created and the factors that determine how a company’s deferred tax liabilities and assets should be treated for the purposes of financial analysis",
+    "tags": [
+      "income taxes",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm9-fc-018",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Tax-loss carryforward",
+    "back": "Potential future tax benefit that may support a DTA subject to recognition.",
+    "officialLearningOutcome": "explain how deferred tax liabilities and assets are created and the factors that determine how a company’s deferred tax liabilities and assets should be treated for the purposes of financial analysis",
+    "tags": [
+      "income taxes",
+      "LOS 2"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional analytical reinforcement within verified LM9 scope."
+  },
+  {
+    "id": "fsa-lm9-fc-019",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Valuation allowance",
+    "back": "US GAAP reduction of gross DTA when realization is not more likely than not.",
+    "officialLearningOutcome": "explain how deferred tax liabilities and assets are created and the factors that determine how a company’s deferred tax liabilities and assets should be treated for the purposes of financial analysis",
+    "tags": [
+      "income taxes",
+      "LOS 2"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional analytical reinforcement within verified LM9 scope."
+  },
+  {
+    "id": "fsa-lm9-fc-020",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Tax-rate remeasurement",
+    "back": "Remeasure deferred balances at the rate expected on reversal.",
+    "officialLearningOutcome": "explain how deferred tax liabilities and assets are created and the factors that determine how a company’s deferred tax liabilities and assets should be treated for the purposes of financial analysis",
+    "tags": [
+      "income taxes",
+      "LOS 2"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional analytical reinforcement within verified LM9 scope."
+  },
+  {
+    "id": "fsa-lm9-fc-021",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Statutory tax rate",
+    "back": "The legally enacted benchmark rate.",
+    "officialLearningOutcome": "calculate, interpret, and contrast an issuer’s effective tax rate, statutory tax rate, and cash tax rate",
+    "tags": [
+      "income taxes",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm9-fc-022",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Effective tax rate",
+    "back": "Income tax expense divided by pretax accounting profit.",
+    "officialLearningOutcome": "calculate, interpret, and contrast an issuer’s effective tax rate, statutory tax rate, and cash tax rate",
+    "tags": [
+      "income taxes",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm9-fc-023",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Cash tax rate",
+    "back": "Cash taxes paid divided by pretax accounting profit.",
+    "officialLearningOutcome": "calculate, interpret, and contrast an issuer’s effective tax rate, statutory tax rate, and cash tax rate",
+    "tags": [
+      "income taxes",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm9-fc-024",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "ETR reconciliation",
+    "back": "Statutory rate plus or minus reconciling rate effects equals ETR.",
+    "officialLearningOutcome": "calculate, interpret, and contrast an issuer’s effective tax rate, statutory tax rate, and cash tax rate",
+    "tags": [
+      "income taxes",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm9-fc-025",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Jurisdiction mix",
+    "back": "Different country rates can move consolidated ETR away from the domestic statutory rate.",
+    "officialLearningOutcome": "calculate, interpret, and contrast an issuer’s effective tax rate, statutory tax rate, and cash tax rate",
+    "tags": [
+      "income taxes",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm9-fc-026",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Tax credit sustainability",
+    "back": "A one-time credit can lower current ETR without supporting a low normalized forecast rate.",
+    "officialLearningOutcome": "calculate, interpret, and contrast an issuer’s effective tax rate, statutory tax rate, and cash tax rate",
+    "tags": [
+      "income taxes",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm9-fc-027",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Nondeductible expense effect",
+    "back": "It generally raises ETR above the statutory benchmark.",
+    "officialLearningOutcome": "calculate, interpret, and contrast an issuer’s effective tax rate, statutory tax rate, and cash tax rate",
+    "tags": [
+      "income taxes",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm9-fc-028",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Zero pretax-income denominator",
+    "back": "ETR and cash tax rate may be economically meaningless.",
+    "officialLearningOutcome": "calculate, interpret, and contrast an issuer’s effective tax rate, statutory tax rate, and cash tax rate",
+    "tags": [
+      "income taxes",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm9-fc-029",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "ETR versus cash rate",
+    "back": "ETR uses expense; cash rate uses cash paid.",
+    "officialLearningOutcome": "calculate, interpret, and contrast an issuer’s effective tax rate, statutory tax rate, and cash tax rate",
+    "tags": [
+      "income taxes",
+      "LOS 3"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional analytical reinforcement within verified LM9 scope."
+  },
+  {
+    "id": "fsa-lm9-fc-030",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Forecast tax-rate discipline",
+    "back": "Separate persistent rate drivers from transitory reconciliation items.",
+    "officialLearningOutcome": "calculate, interpret, and contrast an issuer’s effective tax rate, statutory tax rate, and cash tax rate",
+    "tags": [
+      "income taxes",
+      "LOS 3"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional analytical reinforcement within verified LM9 scope."
+  },
+  {
+    "id": "fsa-lm9-fc-031",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Deferred-tax disclosure focus",
+    "back": "Inspect components, reversals, loss expiries, and recognition constraints.",
+    "officialLearningOutcome": "analyze disclosures relating to deferred tax items and the effective tax rate reconciliation and explain how information included in these disclosures affects a company’s financial statements and financial ratios",
+    "tags": [
+      "income taxes",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm9-fc-032",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Rate-reconciliation disclosure",
+    "back": "Explains why ETR differs from the statutory rate.",
+    "officialLearningOutcome": "analyze disclosures relating to deferred tax items and the effective tax rate reconciliation and explain how information included in these disclosures affects a company’s financial statements and financial ratios",
+    "tags": [
+      "income taxes",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm9-fc-033",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Valuation-allowance increase",
+    "back": "Reduces net DTA and generally increases tax expense.",
+    "officialLearningOutcome": "analyze disclosures relating to deferred tax items and the effective tax rate reconciliation and explain how information included in these disclosures affects a company’s financial statements and financial ratios",
+    "tags": [
+      "income taxes",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm9-fc-034",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Valuation-allowance release",
+    "back": "Raises net DTA and income but is not operating cash performance.",
+    "officialLearningOutcome": "analyze disclosures relating to deferred tax items and the effective tax rate reconciliation and explain how information included in these disclosures affects a company’s financial statements and financial ratios",
+    "tags": [
+      "income taxes",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm9-fc-035",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Liability-like DTL",
+    "back": "A DTL expected to reverse soon is more appropriately treated as a liability.",
+    "officialLearningOutcome": "analyze disclosures relating to deferred tax items and the effective tax rate reconciliation and explain how information included in these disclosures affects a company’s financial statements and financial ratios",
+    "tags": [
+      "income taxes",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm9-fc-036",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Equity-like DTL judgment",
+    "back": "Remote or indefinitely deferred reversal may support cautious analytical reclassification.",
+    "officialLearningOutcome": "analyze disclosures relating to deferred tax items and the effective tax rate reconciliation and explain how information included in these disclosures affects a company’s financial statements and financial ratios",
+    "tags": [
+      "income taxes",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm9-fc-037",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "DTL reclassification ratio effect",
+    "back": "Reclassifying from debt-like to equity-like lowers adjusted leverage.",
+    "officialLearningOutcome": "analyze disclosures relating to deferred tax items and the effective tax rate reconciliation and explain how information included in these disclosures affects a company’s financial statements and financial ratios",
+    "tags": [
+      "income taxes",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm9-fc-038",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Current/deferred provision split",
+    "back": "Helps explain cash timing and future tax consequences.",
+    "officialLearningOutcome": "analyze disclosures relating to deferred tax items and the effective tax rate reconciliation and explain how information included in these disclosures affects a company’s financial statements and financial ratios",
+    "tags": [
+      "income taxes",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm9-fc-039",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "DTA realizability evidence",
+    "back": "Future taxable profit, reversal patterns, carryforward expiry, and allowance changes matter.",
+    "officialLearningOutcome": "analyze disclosures relating to deferred tax items and the effective tax rate reconciliation and explain how information included in these disclosures affects a company’s financial statements and financial ratios",
+    "tags": [
+      "income taxes",
+      "LOS 4"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional analytical reinforcement within verified LM9 scope."
+  },
+  {
+    "id": "fsa-lm9-fc-040",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "front": "Normalized earnings tax adjustment",
+    "back": "Separate transitory tax benefits or charges from sustainable operating performance.",
+    "officialLearningOutcome": "analyze disclosures relating to deferred tax items and the effective tax rate reconciliation and explain how information included in these disclosures affects a company’s financial statements and financial ratios",
+    "tags": [
+      "income taxes",
+      "LOS 4"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional analytical reinforcement within verified LM9 scope."
+  }
+]

@@ -1,0 +1,1062 @@
+[
+  {
+    "id": "fsa-lm9-q-001",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "contrast accounting profit, taxable income, taxes payable, and income tax expense and temporary versus permanent differences between accounting profit and taxable income",
+    "difficulty": "hard",
+    "estimatedSeconds": 60,
+    "stem": "A nondeductible fine included in accounting profit most likely creates:",
+    "choices": [
+      "a permanent difference.",
+      "a deferred tax asset.",
+      "a deferred tax liability."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "It never reverses for tax purposes, so it is permanent.",
+    "incorrectChoiceExplanations": [
+      "Correct: It never reverses for tax purposes, so it is permanent.",
+      "Incorrect: a deferred tax asset. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Incorrect: a deferred tax liability. does not apply the relevant LM9 tax relationship or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm9-q-002",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "contrast accounting profit, taxable income, taxes payable, and income tax expense and temporary versus permanent differences between accounting profit and taxable income",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Tax depreciation exceeds book depreciation by 40. Relative to accounting profit, current taxable income is most likely:",
+    "choices": [
+      "40 higher.",
+      "40 lower.",
+      "unchanged."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The extra current tax deduction lowers taxable income by 40.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 40 higher. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Correct: The extra current tax deduction lowers taxable income by 40.",
+      "Incorrect: unchanged. does not apply the relevant LM9 tax relationship or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm9-q-003",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "contrast accounting profit, taxable income, taxes payable, and income tax expense and temporary versus permanent differences between accounting profit and taxable income",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Which amount is measured under financial-reporting standards before income taxes?",
+    "choices": [
+      "Taxable income",
+      "Cash taxes paid",
+      "Accounting profit"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Accounting profit is pretax income under reporting standards.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: Taxable income does not apply the relevant LM9 tax relationship or interpretation.",
+      "Incorrect: Cash taxes paid does not apply the relevant LM9 tax relationship or interpretation.",
+      "Correct: Accounting profit is pretax income under reporting standards."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm9-q-004",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "contrast accounting profit, taxable income, taxes payable, and income tax expense and temporary versus permanent differences between accounting profit and taxable income",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Taxes payable primarily reflect:",
+    "choices": [
+      "current tax based on taxable income.",
+      "tax expense based only on accounting profit.",
+      "all future tax reversals."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Current tax applies tax law to taxable income.",
+    "incorrectChoiceExplanations": [
+      "Correct: Current tax applies tax law to taxable income.",
+      "Incorrect: tax expense based only on accounting profit. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Incorrect: all future tax reversals. does not apply the relevant LM9 tax relationship or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm9-q-005",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "contrast accounting profit, taxable income, taxes payable, and income tax expense and temporary versus permanent differences between accounting profit and taxable income",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Income tax expense differs from taxes payable principally because tax expense includes:",
+    "choices": [
+      "only permanent differences.",
+      "deferred tax effects.",
+      "only cash settlement timing."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Tax expense combines current and deferred tax.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: only permanent differences. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Correct: Tax expense combines current and deferred tax.",
+      "Incorrect: only cash settlement timing. does not apply the relevant LM9 tax relationship or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm9-q-006",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "contrast accounting profit, taxable income, taxes payable, and income tax expense and temporary versus permanent differences between accounting profit and taxable income",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "A temporary difference is distinguished by its expectation to:",
+    "choices": [
+      "remain permanently nondeductible.",
+      "affect cash but never profit.",
+      "reverse in one or more future periods."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Temporary differences reverse as assets recover or liabilities settle.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: remain permanently nondeductible. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Incorrect: affect cash but never profit. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Correct: Temporary differences reverse as assets recover or liabilities settle."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm9-q-007",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "contrast accounting profit, taxable income, taxes payable, and income tax expense and temporary versus permanent differences between accounting profit and taxable income",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Accounting profit is 800; tax depreciation exceeds book depreciation by 60; a nondeductible fine is 10. Taxable income is:",
+    "choices": [
+      "750.",
+      "730.",
+      "870."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "800 − 60 + 10 = 750.",
+    "incorrectChoiceExplanations": [
+      "Correct: 800 − 60 + 10 = 750.",
+      "Incorrect: 730. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Incorrect: 870. does not apply the relevant LM9 tax relationship or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm9-q-008",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "contrast accounting profit, taxable income, taxes payable, and income tax expense and temporary versus permanent differences between accounting profit and taxable income",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A permanent difference most directly affects the:",
+    "choices": [
+      "future reversal of a DTL.",
+      "relationship between statutory and effective tax rates.",
+      "future reversal of a DTA."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Permanent items affect the reported rate but create no deferred balance.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: future reversal of a DTL. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Correct: Permanent items affect the reported rate but create no deferred balance.",
+      "Incorrect: future reversal of a DTA. does not apply the relevant LM9 tax relationship or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 1"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional application or analytical depth within verified LM9 scope."
+  },
+  {
+    "id": "fsa-lm9-q-009",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "contrast accounting profit, taxable income, taxes payable, and income tax expense and temporary versus permanent differences between accounting profit and taxable income",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Taxes payable are 90, DTL increases 12, and DTA increases 5. Tax expense is:",
+    "choices": [
+      "107.",
+      "73.",
+      "97."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "90 + 12 − 5 = 97.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 107. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Incorrect: 73. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Correct: 90 + 12 − 5 = 97."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 1"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional application or analytical depth within verified LM9 scope."
+  },
+  {
+    "id": "fsa-lm9-q-010",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "contrast accounting profit, taxable income, taxes payable, and income tax expense and temporary versus permanent differences between accounting profit and taxable income",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Cash taxes paid being below tax expense most safely indicates:",
+    "choices": [
+      "the amounts measure different timing and recognition concepts.",
+      "a reporting error.",
+      "a permanent tax saving."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Cash tax and reported expense can differ for current-payable and deferred-tax reasons.",
+    "incorrectChoiceExplanations": [
+      "Correct: Cash tax and reported expense can differ for current-payable and deferred-tax reasons.",
+      "Incorrect: a reporting error. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Incorrect: a permanent tax saving. does not apply the relevant LM9 tax relationship or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 1"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional application or analytical depth within verified LM9 scope."
+  },
+  {
+    "id": "fsa-lm9-q-011",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain how deferred tax liabilities and assets are created and the factors that determine how a company’s deferred tax liabilities and assets should be treated for the purposes of financial analysis",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "An asset has carrying amount 500 and tax base 420. The difference most likely creates a:",
+    "choices": [
+      "DTA.",
+      "DTL.",
+      "permanent difference."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "For an asset, carrying amount above tax base is taxable and creates a DTL.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: DTA. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Correct: For an asset, carrying amount above tax base is taxable and creates a DTL.",
+      "Incorrect: permanent difference. does not apply the relevant LM9 tax relationship or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm9-q-012",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain how deferred tax liabilities and assets are created and the factors that determine how a company’s deferred tax liabilities and assets should be treated for the purposes of financial analysis",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "An asset has carrying amount 380 and tax base 450. The difference most likely creates a:",
+    "choices": [
+      "DTL.",
+      "valuation allowance only.",
+      "DTA."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "For an asset, carrying amount below tax base is deductible and creates a DTA.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: DTL. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Incorrect: valuation allowance only. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Correct: For an asset, carrying amount below tax base is deductible and creates a DTA."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm9-q-013",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain how deferred tax liabilities and assets are created and the factors that determine how a company’s deferred tax liabilities and assets should be treated for the purposes of financial analysis",
+    "difficulty": "hard",
+    "estimatedSeconds": 60,
+    "stem": "A liability has carrying amount 90 and tax base 0. The difference most likely creates a:",
+    "choices": [
+      "DTA.",
+      "DTL.",
+      "permanent difference."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "For a liability, carrying amount above tax base is deductible and creates a DTA.",
+    "incorrectChoiceExplanations": [
+      "Correct: For a liability, carrying amount above tax base is deductible and creates a DTA.",
+      "Incorrect: DTL. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Incorrect: permanent difference. does not apply the relevant LM9 tax relationship or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm9-q-014",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain how deferred tax liabilities and assets are created and the factors that determine how a company’s deferred tax liabilities and assets should be treated for the purposes of financial analysis",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A liability has carrying amount 60 and tax base 100. The difference most likely creates a:",
+    "choices": [
+      "DTA.",
+      "DTL.",
+      "no temporary difference."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "For a liability, carrying amount below tax base is taxable and creates a DTL.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: DTA. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Correct: For a liability, carrying amount below tax base is taxable and creates a DTL.",
+      "Incorrect: no temporary difference. does not apply the relevant LM9 tax relationship or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm9-q-015",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain how deferred tax liabilities and assets are created and the factors that determine how a company’s deferred tax liabilities and assets should be treated for the purposes of financial analysis",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "A taxable temporary difference of 240 at 25% creates a DTL of:",
+    "choices": [
+      "96.",
+      "215.",
+      "60."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "240 × 25% = 60.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 96. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Incorrect: 215. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Correct: 240 × 25% = 60."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm9-q-016",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain how deferred tax liabilities and assets are created and the factors that determine how a company’s deferred tax liabilities and assets should be treated for the purposes of financial analysis",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A deductible temporary difference of 160 at 30% creates a DTA of:",
+    "choices": [
+      "48.",
+      "130.",
+      "53."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "160 × 30% = 48.",
+    "incorrectChoiceExplanations": [
+      "Correct: 160 × 30% = 48.",
+      "Incorrect: 130. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Incorrect: 53. does not apply the relevant LM9 tax relationship or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm9-q-017",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain how deferred tax liabilities and assets are created and the factors that determine how a company’s deferred tax liabilities and assets should be treated for the purposes of financial analysis",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "The tax base of a liability generally equals carrying amount less:",
+    "choices": [
+      "future taxable revenue.",
+      "amounts deductible when the liability is settled.",
+      "the applicable tax rate."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Future deductible amounts reduce a liability tax base.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: future taxable revenue. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Correct: Future deductible amounts reduce a liability tax base.",
+      "Incorrect: the applicable tax rate. does not apply the relevant LM9 tax relationship or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm9-q-018",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain how deferred tax liabilities and assets are created and the factors that determine how a company’s deferred tax liabilities and assets should be treated for the purposes of financial analysis",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "A tax-loss carryforward can create a DTA when it represents:",
+    "choices": [
+      "a current increase in taxable income.",
+      "a permanent nondeductible item.",
+      "a potential future reduction of taxable income."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Future use of the loss can reduce taxes.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: a current increase in taxable income. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Incorrect: a permanent nondeductible item. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Correct: Future use of the loss can reduce taxes."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 2"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional application or analytical depth within verified LM9 scope."
+  },
+  {
+    "id": "fsa-lm9-q-019",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain how deferred tax liabilities and assets are created and the factors that determine how a company’s deferred tax liabilities and assets should be treated for the purposes of financial analysis",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A gross DTA is 100 and its US GAAP valuation allowance is 35. Net DTA is:",
+    "choices": [
+      "65.",
+      "135.",
+      "35."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "100 − 35 = 65.",
+    "incorrectChoiceExplanations": [
+      "Correct: 100 − 35 = 65.",
+      "Incorrect: 135. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Incorrect: 35. does not apply the relevant LM9 tax relationship or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 2"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional application or analytical depth within verified LM9 scope."
+  },
+  {
+    "id": "fsa-lm9-q-020",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain how deferred tax liabilities and assets are created and the factors that determine how a company’s deferred tax liabilities and assets should be treated for the purposes of financial analysis",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A DTL of 50 measured at 25% relates to an unchanged temporary difference. If the reversal rate rises to 30%, the DTL becomes:",
+    "choices": [
+      "55.",
+      "60.",
+      "40."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The difference is 200; 200 × 30% = 60.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 55. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Correct: The difference is 200; 200 × 30% = 60.",
+      "Incorrect: 40. does not apply the relevant LM9 tax relationship or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 2"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional application or analytical depth within verified LM9 scope."
+  },
+  {
+    "id": "fsa-lm9-q-021",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "calculate, interpret, and contrast an issuer’s effective tax rate, statutory tax rate, and cash tax rate",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Income tax expense is 210 and pretax income is 1,000. ETR is:",
+    "choices": [
+      "17.4%.",
+      "79%.",
+      "21%."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "210 ÷ 1,000 = 21%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 17.4%. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Incorrect: 79%. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Correct: 210 ÷ 1,000 = 21%."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm9-q-022",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "calculate, interpret, and contrast an issuer’s effective tax rate, statutory tax rate, and cash tax rate",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Cash taxes are 150 and pretax income is 1,000. Cash tax rate is:",
+    "choices": [
+      "15%.",
+      "6.7%.",
+      "85%."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "150 ÷ 1,000 = 15%.",
+    "incorrectChoiceExplanations": [
+      "Correct: 150 ÷ 1,000 = 15%.",
+      "Incorrect: 6.7%. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Incorrect: 85%. does not apply the relevant LM9 tax relationship or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm9-q-023",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "calculate, interpret, and contrast an issuer’s effective tax rate, statutory tax rate, and cash tax rate",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "The statutory tax rate is best described as the:",
+    "choices": [
+      "tax expense divided by pretax income.",
+      "legally enacted benchmark rate.",
+      "cash taxes divided by pretax income."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The statutory rate is established in tax law.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: tax expense divided by pretax income. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Correct: The statutory rate is established in tax law.",
+      "Incorrect: cash taxes divided by pretax income. does not apply the relevant LM9 tax relationship or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm9-q-024",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "calculate, interpret, and contrast an issuer’s effective tax rate, statutory tax rate, and cash tax rate",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "A 25% statutory rate, +3-point nondeductible-item effect, and −2-point credit produce an ETR of:",
+    "choices": [
+      "24%.",
+      "30%.",
+      "26%."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "25% + 3% − 2% = 26%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 24%. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Incorrect: 30%. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Correct: 25% + 3% − 2% = 26%."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm9-q-025",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "calculate, interpret, and contrast an issuer’s effective tax rate, statutory tax rate, and cash tax rate",
+    "difficulty": "hard",
+    "estimatedSeconds": 60,
+    "stem": "A lower-tax foreign earnings mix most likely causes ETR to be:",
+    "choices": [
+      "below the domestic statutory rate, all else equal.",
+      "above the domestic statutory rate in every case.",
+      "identical to the cash tax rate."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Jurisdiction mix can reduce ETR relative to the domestic statutory benchmark.",
+    "incorrectChoiceExplanations": [
+      "Correct: Jurisdiction mix can reduce ETR relative to the domestic statutory benchmark.",
+      "Incorrect: above the domestic statutory rate in every case. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Incorrect: identical to the cash tax rate. does not apply the relevant LM9 tax relationship or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm9-q-026",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "calculate, interpret, and contrast an issuer’s effective tax rate, statutory tax rate, and cash tax rate",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Which numerator belongs in the effective tax rate?",
+    "choices": [
+      "Cash taxes paid",
+      "Income tax expense",
+      "Taxable income"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "ETR uses reported income tax expense.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: Cash taxes paid does not apply the relevant LM9 tax relationship or interpretation.",
+      "Correct: ETR uses reported income tax expense.",
+      "Incorrect: Taxable income does not apply the relevant LM9 tax relationship or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm9-q-027",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "calculate, interpret, and contrast an issuer’s effective tax rate, statutory tax rate, and cash tax rate",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Which numerator belongs in the cash tax rate?",
+    "choices": [
+      "Income tax expense",
+      "Taxes payable plus DTL",
+      "Cash taxes paid"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Cash tax rate uses actual cash taxes.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: Income tax expense does not apply the relevant LM9 tax relationship or interpretation.",
+      "Incorrect: Taxes payable plus DTL does not apply the relevant LM9 tax relationship or interpretation.",
+      "Correct: Cash tax rate uses actual cash taxes."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm9-q-028",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "calculate, interpret, and contrast an issuer’s effective tax rate, statutory tax rate, and cash tax rate",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A tax credit that will not recur most likely makes the current low ETR:",
+    "choices": [
+      "less sustainable.",
+      "more sustainable.",
+      "equal to the statutory rate."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "A one-time credit should not automatically enter a normalized forecast.",
+    "incorrectChoiceExplanations": [
+      "Correct: A one-time credit should not automatically enter a normalized forecast.",
+      "Incorrect: more sustainable. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Incorrect: equal to the statutory rate. does not apply the relevant LM9 tax relationship or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm9-q-029",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "calculate, interpret, and contrast an issuer’s effective tax rate, statutory tax rate, and cash tax rate",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Pretax income is zero. A tax-rate ratio is most appropriately treated as:",
+    "choices": [
+      "automatically zero.",
+      "not economically meaningful without further analysis.",
+      "equal to the statutory rate."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "A zero denominator makes the ratio uninformative.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: automatically zero. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Correct: A zero denominator makes the ratio uninformative.",
+      "Incorrect: equal to the statutory rate. does not apply the relevant LM9 tax relationship or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 3"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional application or analytical depth within verified LM9 scope."
+  },
+  {
+    "id": "fsa-lm9-q-030",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "calculate, interpret, and contrast an issuer’s effective tax rate, statutory tax rate, and cash tax rate",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "ETR exceeds the statutory rate. The most useful next step is to inspect:",
+    "choices": [
+      "only cash taxes.",
+      "only total assets.",
+      "the rate reconciliation."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The reconciliation identifies the drivers of the difference.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: only cash taxes. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Incorrect: only total assets. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Correct: The reconciliation identifies the drivers of the difference."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 3"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional application or analytical depth within verified LM9 scope."
+  },
+  {
+    "id": "fsa-lm9-q-031",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "analyze disclosures relating to deferred tax items and the effective tax rate reconciliation and explain how information included in these disclosures affects a company’s financial statements and financial ratios",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A rising valuation allowance most directly signals:",
+    "choices": [
+      "lower expected realization of gross deferred tax assets.",
+      "higher certainty of DTA realization.",
+      "automatic cash-tax savings."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "A larger allowance reduces the recognized net benefit.",
+    "incorrectChoiceExplanations": [
+      "Correct: A larger allowance reduces the recognized net benefit.",
+      "Incorrect: higher certainty of DTA realization. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Incorrect: automatic cash-tax savings. does not apply the relevant LM9 tax relationship or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm9-q-032",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "analyze disclosures relating to deferred tax items and the effective tax rate reconciliation and explain how information included in these disclosures affects a company’s financial statements and financial ratios",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A valuation-allowance release most likely has what immediate effect, all else equal?",
+    "choices": [
+      "Lower net income and assets",
+      "Higher net income and assets",
+      "Lower cash flow from operations"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The release reduces tax expense and raises net DTA; it is noncash at recognition.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: Lower net income and assets does not apply the relevant LM9 tax relationship or interpretation.",
+      "Correct: The release reduces tax expense and raises net DTA; it is noncash at recognition.",
+      "Incorrect: Lower cash flow from operations does not apply the relevant LM9 tax relationship or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm9-q-033",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "analyze disclosures relating to deferred tax items and the effective tax rate reconciliation and explain how information included in these disclosures affects a company’s financial statements and financial ratios",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "When a DTL is expected to reverse soon, an analyst is most likely to view it as:",
+    "choices": [
+      "automatically equity.",
+      "a permanent difference.",
+      "more liability-like."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Near-term reversal supports liability treatment.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: automatically equity. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Incorrect: a permanent difference. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Correct: Near-term reversal supports liability treatment."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm9-q-034",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "analyze disclosures relating to deferred tax items and the effective tax rate reconciliation and explain how information included in these disclosures affects a company’s financial statements and financial ratios",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "The effective-tax-rate reconciliation primarily explains differences between:",
+    "choices": [
+      "statutory and effective rates.",
+      "effective and cash rates only.",
+      "tax base and carrying amount."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Reconciling items bridge the statutory benchmark to ETR.",
+    "incorrectChoiceExplanations": [
+      "Correct: Reconciling items bridge the statutory benchmark to ETR.",
+      "Incorrect: effective and cash rates only. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Incorrect: tax base and carrying amount. does not apply the relevant LM9 tax relationship or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm9-q-035",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "analyze disclosures relating to deferred tax items and the effective tax rate reconciliation and explain how information included in these disclosures affects a company’s financial statements and financial ratios",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Which disclosure best helps assess a tax-loss carryforward DTA?",
+    "choices": [
+      "Gross revenue only",
+      "Expiry dates and valuation allowance",
+      "Lease maturity schedule"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Expiry and allowance information bears directly on realizability.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: Gross revenue only does not apply the relevant LM9 tax relationship or interpretation.",
+      "Correct: Expiry and allowance information bears directly on realizability.",
+      "Incorrect: Lease maturity schedule does not apply the relevant LM9 tax relationship or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm9-q-036",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "analyze disclosures relating to deferred tax items and the effective tax rate reconciliation and explain how information included in these disclosures affects a company’s financial statements and financial ratios",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "A DTL reclassified as equity-like for analysis generally causes adjusted debt-to-equity to:",
+    "choices": [
+      "increase.",
+      "remain unchanged.",
+      "decrease."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Moving the balance from debt-like liabilities to equity lowers the numerator and raises the denominator.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: increase. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Incorrect: remain unchanged. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Correct: Moving the balance from debt-like liabilities to equity lowers the numerator and raises the denominator."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm9-q-037",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "analyze disclosures relating to deferred tax items and the effective tax rate reconciliation and explain how information included in these disclosures affects a company’s financial statements and financial ratios",
+    "difficulty": "hard",
+    "estimatedSeconds": 60,
+    "stem": "A valuation-allowance release increases ROA without changing operations. Normalized analysis should most likely:",
+    "choices": [
+      "separate the release from recurring performance.",
+      "treat it as recurring revenue.",
+      "increase cash taxes by the same amount."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The release is an estimate-driven tax benefit, not operating improvement.",
+    "incorrectChoiceExplanations": [
+      "Correct: The release is an estimate-driven tax benefit, not operating improvement.",
+      "Incorrect: treat it as recurring revenue. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Incorrect: increase cash taxes by the same amount. does not apply the relevant LM9 tax relationship or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm9-q-038",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "analyze disclosures relating to deferred tax items and the effective tax rate reconciliation and explain how information included in these disclosures affects a company’s financial statements and financial ratios",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Current and deferred components of tax expense are most useful for understanding:",
+    "choices": [
+      "inventory unit costs.",
+      "cash-versus-accrual timing and future reversals.",
+      "lease classification."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The split explains current obligation and deferred effects.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: inventory unit costs. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Correct: The split explains current obligation and deferred effects.",
+      "Incorrect: lease classification. does not apply the relevant LM9 tax relationship or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm9-q-039",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "analyze disclosures relating to deferred tax items and the effective tax rate reconciliation and explain how information included in these disclosures affects a company’s financial statements and financial ratios",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "A persistently low ETR caused by stable jurisdiction mix is, relative to a one-time credit:",
+    "choices": [
+      "necessarily fraudulent.",
+      "unrelated to forecasting.",
+      "potentially more sustainable."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "A stable operating footprint may persist, though assumptions still require scrutiny.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: necessarily fraudulent. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Incorrect: unrelated to forecasting. does not apply the relevant LM9 tax relationship or interpretation.",
+      "Correct: A stable operating footprint may persist, though assumptions still require scrutiny."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 4"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional application or analytical depth within verified LM9 scope."
+  },
+  {
+    "id": "fsa-lm9-q-040",
+    "lessonId": "fsa-09-analysis-of-income-taxes",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "analyze disclosures relating to deferred tax items and the effective tax rate reconciliation and explain how information included in these disclosures affects a company’s financial statements and financial ratios",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Which change most likely increases reported leverage without changing debt contracts?",
+    "choices": [
+      "Recognition of a larger DTL",
+      "Release of a valuation allowance",
+      "A lower cash tax rate"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "A larger liability raises reported liabilities and can worsen leverage ratios.",
+    "incorrectChoiceExplanations": [
+      "Correct: A larger liability raises reported liabilities and can worsen leverage ratios.",
+      "Incorrect: Release of a valuation allowance does not apply the relevant LM9 tax relationship or interpretation.",
+      "Incorrect: A lower cash tax rate does not apply the relevant LM9 tax relationship or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "income taxes",
+      "LOS 4"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional application or analytical depth within verified LM9 scope."
+  }
+]

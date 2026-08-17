@@ -1,0 +1,162 @@
+[
+  {
+    "id": "asset-tax-base-fsa-09",
+    "name": "Asset tax base",
+    "expression": "Future tax deduction associated with asset recovery",
+    "meaning": "A source-supported LM9 tax measurement or analytical relationship.",
+    "variables": {
+      "DTA": "deferred tax asset",
+      "DTL": "deferred tax liability"
+    },
+    "intuition": "Connects reported tax amounts, tax bases, future reversals, or rate disclosures.",
+    "workedExample": "See the corresponding original LM9 worked example.",
+    "commonMistake": "Confusing permanent with temporary differences or tax expense with cash taxes.",
+    "relatedLessonId": "fsa-09-analysis-of-income-taxes",
+    "relatedLearningOutcome": "contrast accounting profit, taxable income, taxes payable, and income tax expense and temporary versus permanent differences between accounting profit and taxable income",
+    "tags": [
+      "income taxes",
+      "deferred tax",
+      "tax rates"
+    ]
+  },
+  {
+    "id": "liability-tax-base-fsa-09",
+    "name": "Liability tax base",
+    "expression": "Carrying amount − Amount deductible on settlement",
+    "meaning": "A source-supported LM9 tax measurement or analytical relationship.",
+    "variables": {
+      "DTA": "deferred tax asset",
+      "DTL": "deferred tax liability"
+    },
+    "intuition": "Connects reported tax amounts, tax bases, future reversals, or rate disclosures.",
+    "workedExample": "See the corresponding original LM9 worked example.",
+    "commonMistake": "Confusing permanent with temporary differences or tax expense with cash taxes.",
+    "relatedLessonId": "fsa-09-analysis-of-income-taxes",
+    "relatedLearningOutcome": "explain how deferred tax liabilities and assets are created and the factors that determine how a company’s deferred tax liabilities and assets should be treated for the purposes of financial analysis",
+    "tags": [
+      "income taxes",
+      "deferred tax",
+      "tax rates"
+    ]
+  },
+  {
+    "id": "deferred-tax-amount-fsa-09",
+    "name": "Deferred tax amount",
+    "expression": "Temporary difference × Applicable reversal tax rate",
+    "meaning": "A source-supported LM9 tax measurement or analytical relationship.",
+    "variables": {
+      "DTA": "deferred tax asset",
+      "DTL": "deferred tax liability"
+    },
+    "intuition": "Connects reported tax amounts, tax bases, future reversals, or rate disclosures.",
+    "workedExample": "See the corresponding original LM9 worked example.",
+    "commonMistake": "Confusing permanent with temporary differences or tax expense with cash taxes.",
+    "relatedLessonId": "fsa-09-analysis-of-income-taxes",
+    "relatedLearningOutcome": "explain how deferred tax liabilities and assets are created and the factors that determine how a company’s deferred tax liabilities and assets should be treated for the purposes of financial analysis",
+    "tags": [
+      "income taxes",
+      "deferred tax",
+      "tax rates"
+    ]
+  },
+  {
+    "id": "tax-expense-bridge-fsa-09",
+    "name": "Income tax expense bridge",
+    "expression": "Taxes payable + Increase in DTL − Increase in DTA",
+    "meaning": "A source-supported LM9 tax measurement or analytical relationship.",
+    "variables": {
+      "DTA": "deferred tax asset",
+      "DTL": "deferred tax liability"
+    },
+    "intuition": "Connects reported tax amounts, tax bases, future reversals, or rate disclosures.",
+    "workedExample": "See the corresponding original LM9 worked example.",
+    "commonMistake": "Confusing permanent with temporary differences or tax expense with cash taxes.",
+    "relatedLessonId": "fsa-09-analysis-of-income-taxes",
+    "relatedLearningOutcome": "contrast accounting profit, taxable income, taxes payable, and income tax expense and temporary versus permanent differences between accounting profit and taxable income",
+    "tags": [
+      "income taxes",
+      "deferred tax",
+      "tax rates"
+    ]
+  },
+  {
+    "id": "net-dta-fsa-09",
+    "name": "Net deferred tax asset under US GAAP",
+    "expression": "Gross DTA − Valuation allowance",
+    "meaning": "A source-supported LM9 tax measurement or analytical relationship.",
+    "variables": {
+      "DTA": "deferred tax asset",
+      "DTL": "deferred tax liability"
+    },
+    "intuition": "Connects reported tax amounts, tax bases, future reversals, or rate disclosures.",
+    "workedExample": "See the corresponding original LM9 worked example.",
+    "commonMistake": "Confusing permanent with temporary differences or tax expense with cash taxes.",
+    "relatedLessonId": "fsa-09-analysis-of-income-taxes",
+    "relatedLearningOutcome": "explain how deferred tax liabilities and assets are created and the factors that determine how a company’s deferred tax liabilities and assets should be treated for the purposes of financial analysis",
+    "tags": [
+      "income taxes",
+      "deferred tax",
+      "tax rates"
+    ]
+  },
+  {
+    "id": "effective-tax-rate-fsa-09",
+    "name": "Effective tax rate",
+    "expression": "Income tax expense ÷ Accounting profit before tax",
+    "meaning": "A source-supported LM9 tax measurement or analytical relationship.",
+    "variables": {
+      "DTA": "deferred tax asset",
+      "DTL": "deferred tax liability"
+    },
+    "intuition": "Connects reported tax amounts, tax bases, future reversals, or rate disclosures.",
+    "workedExample": "See the corresponding original LM9 worked example.",
+    "commonMistake": "Confusing permanent with temporary differences or tax expense with cash taxes.",
+    "relatedLessonId": "fsa-09-analysis-of-income-taxes",
+    "relatedLearningOutcome": "calculate, interpret, and contrast an issuer’s effective tax rate, statutory tax rate, and cash tax rate",
+    "tags": [
+      "income taxes",
+      "deferred tax",
+      "tax rates"
+    ]
+  },
+  {
+    "id": "cash-tax-rate-fsa-09",
+    "name": "Cash tax rate",
+    "expression": "Cash taxes paid ÷ Accounting profit before tax",
+    "meaning": "A source-supported LM9 tax measurement or analytical relationship.",
+    "variables": {
+      "DTA": "deferred tax asset",
+      "DTL": "deferred tax liability"
+    },
+    "intuition": "Connects reported tax amounts, tax bases, future reversals, or rate disclosures.",
+    "workedExample": "See the corresponding original LM9 worked example.",
+    "commonMistake": "Confusing permanent with temporary differences or tax expense with cash taxes.",
+    "relatedLessonId": "fsa-09-analysis-of-income-taxes",
+    "relatedLearningOutcome": "calculate, interpret, and contrast an issuer’s effective tax rate, statutory tax rate, and cash tax rate",
+    "tags": [
+      "income taxes",
+      "deferred tax",
+      "tax rates"
+    ]
+  },
+  {
+    "id": "etr-reconciliation-fsa-09",
+    "name": "Statutory-to-effective rate reconciliation",
+    "expression": "Statutory rate ± Reconciling rate effects = Effective tax rate",
+    "meaning": "A source-supported LM9 tax measurement or analytical relationship.",
+    "variables": {
+      "DTA": "deferred tax asset",
+      "DTL": "deferred tax liability"
+    },
+    "intuition": "Connects reported tax amounts, tax bases, future reversals, or rate disclosures.",
+    "workedExample": "See the corresponding original LM9 worked example.",
+    "commonMistake": "Confusing permanent with temporary differences or tax expense with cash taxes.",
+    "relatedLessonId": "fsa-09-analysis-of-income-taxes",
+    "relatedLearningOutcome": "analyze disclosures relating to deferred tax items and the effective tax rate reconciliation and explain how information included in these disclosures affects a company’s financial statements and financial ratios",
+    "tags": [
+      "income taxes",
+      "deferred tax",
+      "tax rates"
+    ]
+  }
+]
