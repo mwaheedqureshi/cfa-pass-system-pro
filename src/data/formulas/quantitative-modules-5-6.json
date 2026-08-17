@@ -9,7 +9,7 @@
       "n": "number of observations"
     },
     "intuition": "Balance point of the data.",
-    "workedExample": "For 2, 5, âˆ’1, 6, the mean is 12/4 = 3.",
+    "workedExample": "For 2, 5, −1, 6, the mean is 12/4 = 3.",
     "commonMistake": "Using it for compound growth.",
     "relatedLessonId": "quant-statistics-05",
     "relatedLearningOutcome": "Calculate and interpret measures of central tendency and location for asset-return data.",
@@ -46,14 +46,14 @@
   {
     "id": "geometric-mean-05",
     "name": "Geometric mean return (descriptive statistics)",
-    "expression": "RG = [Î (1+Ri)]^(1/n) âˆ’ 1",
+    "expression": "RG = [Î (1+Ri)]^(1/n) − 1",
     "meaning": "Constant rate matching compound growth.",
     "variables": {
       "Ri": "return in period i",
       "n": "period count"
     },
     "intuition": "Averages wealth relatives, not percentages.",
-    "workedExample": "20% then âˆ’10% gives âˆš1.08âˆ’1 = 3.923%.",
+    "workedExample": "20% then −10% gives √1.08−1 = 3.923%.",
     "commonMistake": "Multiplying raw percentage returns.",
     "relatedLessonId": "quant-statistics-05",
     "relatedLearningOutcome": "Calculate and interpret measures of central tendency and location for asset-return data.",
@@ -90,7 +90,7 @@
   {
     "id": "population-variance-05",
     "name": "Population variance",
-    "expression": "ÏƒÂ² = Î£(xiâˆ’Î¼)Â² / N",
+    "expression": "σ² = Σ(xi−μ)² / N",
     "meaning": "Average squared deviation for a complete population.",
     "variables": {
       "Î¼": "population mean",
@@ -99,7 +99,7 @@
     },
     "intuition": "Squares prevent positive and negative deviations from canceling.",
     "workedExample": "For 2,4,6, variance is 8/3 = 2.6667.",
-    "commonMistake": "Using nâˆ’1 for a complete population.",
+    "commonMistake": "Using n−1 for a complete population.",
     "relatedLessonId": "quant-statistics-05",
     "relatedLearningOutcome": "Calculate and interpret measures of dispersion for populations and samples.",
     "tags": [
@@ -114,14 +114,14 @@
   {
     "id": "sample-variance-05",
     "name": "Sample variance",
-    "expression": "sÂ² = Î£(xiâˆ’xÌ„)Â² / (nâˆ’1)",
+    "expression": "s² = Σ(xi−x̄)² / (n−1)",
     "meaning": "Dispersion estimator calculated from a sample.",
     "variables": {
       "xÌ„": "sample mean",
       "n": "sample size",
       "xi": "sample observation"
     },
-    "intuition": "The nâˆ’1 denominator corrects for estimating the mean from the sample.",
+    "intuition": "The n−1 denominator corrects for estimating the mean from the sample.",
     "workedExample": "For sample 2,4,6, variance is 8/2 = 4.",
     "commonMistake": "Dividing by n.",
     "relatedLessonId": "quant-statistics-05",
@@ -138,10 +138,10 @@
   {
     "id": "population-standard-deviation-05",
     "name": "Population standard deviation",
-    "expression": "Ïƒ = âˆšÏƒÂ²",
+    "expression": "Ïƒ = √σ²",
     "meaning": "Population dispersion in original units.",
     "variables": {
-      "ÏƒÂ²": "population variance"
+      "σ²": "population variance"
     },
     "intuition": "Square root reverses the squared units of variance.",
     "workedExample": "Variance 2.6667 gives Ïƒ = 1.633.",
@@ -159,10 +159,10 @@
   {
     "id": "sample-standard-deviation-05",
     "name": "Sample standard deviation",
-    "expression": "s = âˆšsÂ²",
+    "expression": "s = √s²",
     "meaning": "Sample dispersion in original units.",
     "variables": {
-      "sÂ²": "sample variance"
+      "s²": "sample variance"
     },
     "intuition": "Typical scale of observations around the sample mean.",
     "workedExample": "Sample variance 4 gives s = 2.",
@@ -203,7 +203,7 @@
   {
     "id": "sharpe-ratio-05",
     "name": "Sharpe ratio",
-    "expression": "Sharpe = (Rpâˆ’Rf) / Ïƒp",
+    "expression": "Sharpe = (Rp−Rf) / Ïƒp",
     "meaning": "Excess return per unit of total return volatility.",
     "variables": {
       "Rp": "portfolio return",
@@ -211,7 +211,7 @@
       "Ïƒp": "portfolio standard deviation"
     },
     "intuition": "Relates reward above a reference rate to volatility borne.",
-    "workedExample": "(9%âˆ’3%)/10% = 0.60.",
+    "workedExample": "(9%−3%)/10% = 0.60.",
     "commonMistake": "Mixing inputs measured over different periods.",
     "relatedLessonId": "quant-statistics-05",
     "relatedLearningOutcome": "Calculate and interpret measures of dispersion for populations and samples.",
@@ -226,7 +226,7 @@
   {
     "id": "complement-rule-06",
     "name": "Complement rule",
-    "expression": "P(Aá¶œ) = 1 âˆ’ P(A)",
+    "expression": "P(Aá¶œ) = 1 − P(A)",
     "meaning": "Probability that A does not occur.",
     "variables": {
       "P(A)": "probability of event A"
@@ -247,14 +247,14 @@
   {
     "id": "addition-rule-06",
     "name": "Addition rule",
-    "expression": "P(AâˆªB)=P(A)+P(B)âˆ’P(Aâˆ©B)",
+    "expression": "P(A∪B)=P(A)+P(B)−P(A∩B)",
     "meaning": "Probability that at least one event occurs.",
     "variables": {
-      "P(Aâˆ©B)": "joint probability",
-      "P(AâˆªB)": "union probability"
+      "P(A∩B)": "joint probability",
+      "P(A∪B)": "union probability"
     },
     "intuition": "Subtract overlap because it was counted twice.",
-    "workedExample": "0.4+0.3âˆ’0.1 = 0.6.",
+    "workedExample": "0.4+0.3−0.1 = 0.6.",
     "commonMistake": "Omitting the overlap for non-exclusive events.",
     "relatedLessonId": "quant-probability-06",
     "relatedLearningOutcome": "Explain and calculate unconditional, conditional, joint, and total probabilities.",
@@ -269,7 +269,7 @@
   {
     "id": "multiplication-rule-06",
     "name": "Multiplication rule",
-    "expression": "P(Aâˆ©B)=P(A|B)P(B)",
+    "expression": "P(A∩B)=P(A|B)P(B)",
     "meaning": "Joint probability from a conditional branch and its base event.",
     "variables": {
       "P(A|B)": "probability of A given B",
@@ -291,10 +291,10 @@
   {
     "id": "conditional-probability-06",
     "name": "Conditional probability",
-    "expression": "P(A|B)=P(Aâˆ©B)/P(B)",
+    "expression": "P(A|B)=P(A∩B)/P(B)",
     "meaning": "Probability of A after restricting attention to B.",
     "variables": {
-      "P(Aâˆ©B)": "joint probability",
+      "P(A∩B)": "joint probability",
       "P(B)": "conditioning probability"
     },
     "intuition": "B becomes the relevant sample space.",
@@ -365,7 +365,7 @@
       "xi": "outcome value"
     },
     "intuition": "Long-run balance point of repeated uncertain outcomes.",
-    "workedExample": "0.6(10%)+0.4(âˆ’4%)=4.4%.",
+    "workedExample": "0.6(10%)+0.4(−4%)=4.4%.",
     "commonMistake": "Assuming expected value must be a possible outcome.",
     "relatedLessonId": "quant-probability-06",
     "relatedLearningOutcome": "Apply probability trees, Bayes formula, odds, expected value, and random-variable variance.",
@@ -380,7 +380,7 @@
   {
     "id": "random-variable-variance-06",
     "name": "Variance of a random variable",
-    "expression": "Var(X)=Î£pi[xiâˆ’E(X)]Â²",
+    "expression": "Var(X)=Σpi[xi−E(X)]²",
     "meaning": "Probability-weighted squared dispersion around expected value.",
     "variables": {
       "pi": "outcome probability",
@@ -388,7 +388,7 @@
       "E(X)": "expected value"
     },
     "intuition": "Weights each squared surprise by its probability.",
-    "workedExample": "For 10% (.6) and âˆ’4% (.4), variance is 0.004704.",
+    "workedExample": "For 10% (.6) and −4% (.4), variance is 0.004704.",
     "commonMistake": "Using percentage numbers instead of decimal returns inconsistently.",
     "relatedLessonId": "quant-probability-06",
     "relatedLearningOutcome": "Apply probability trees, Bayes formula, odds, expected value, and random-variable variance.",
@@ -403,7 +403,7 @@
   {
     "id": "covariance-06",
     "name": "Covariance",
-    "expression": "Cov(X,Y)=E[(Xâˆ’EX)(Yâˆ’EY)]",
+    "expression": "Cov(X,Y)=E[(X−EX)(Y−EY)]",
     "meaning": "Direction and scale of joint variation.",
     "variables": {
       "EX": "expected X",
@@ -411,7 +411,7 @@
     },
     "intuition": "Same-direction deviations contribute positively.",
     "workedExample": "If correlation=.5 and standard deviations=.10,.12, covariance=.006.",
-    "commonMistake": "Treating covariance as bounded from âˆ’1 to 1.",
+    "commonMistake": "Treating covariance as bounded from −1 to 1.",
     "relatedLessonId": "quant-probability-06",
     "relatedLearningOutcome": "Calculate and interpret covariance, correlation, expected portfolio return, and two-asset portfolio variance.",
     "tags": [
@@ -426,14 +426,14 @@
     "id": "correlation-06",
     "name": "Correlation",
     "expression": "ÏXY=Cov(X,Y)/(ÏƒXÏƒY)",
-    "meaning": "Standardized linear co-movement from âˆ’1 to +1.",
+    "meaning": "Standardized linear co-movement from −1 to +1.",
     "variables": {
       "Cov(X,Y)": "covariance",
       "ÏƒX": "standard deviation of X",
       "ÏƒY": "standard deviation of Y"
     },
     "intuition": "Removes measurement units from covariance.",
-    "workedExample": "0.006/(0.10Ã—0.12)=0.50.",
+    "workedExample": "0.006/(0.10×0.12)=0.50.",
     "commonMistake": "Interpreting zero correlation as proof of independence.",
     "relatedLessonId": "quant-probability-06",
     "relatedLearningOutcome": "Calculate and interpret covariance, correlation, expected portfolio return, and two-asset portfolio variance.",

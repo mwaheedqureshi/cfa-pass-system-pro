@@ -1,5 +1,5 @@
 
-# CFA PASS SYSTEM â€” Project Status
+# CFA PASS SYSTEM — Project Status
 
 ## Current Version
 
@@ -16,7 +16,7 @@
 | Flashcards | 530 |
 | Formula and metric cards | 145 |
 
-Quantitative Methods is complete. Modules 9â€“12 use authorized independently written scope statements because official outcome wording was unavailable.
+Quantitative Methods is complete. Modules 9–12 use authorized independently written scope statements because official outcome wording was unavailable.
 
 ## v1.6.0 Features
 
@@ -38,14 +38,14 @@ Current development verification contains **91 passing tests across 19 test file
 
 | Version | Summary |
 |---|---|
-| v1.0.0â€“v1.4.0 | Professional engine and Quantitative Methods Modules 1â€“8 |
+| v1.0.0–v1.4.0 | Professional engine and Quantitative Methods Modules 1–8 |
 | v1.5.0 | Hypothesis Testing and Correlation and Regression |
 | v1.5.1 | Professional quality audit and stabilization |
 | v1.6.0 | Completed Quantitative Methods with Simulation, Data Science and AI, topic analytics, and comprehensive assessment |
 
 ## Current Limitations
 
-- Modules 9â€“12 use authorized independent scope statements.
+- Modules 9–12 use authorized independent scope statements.
 - Progress and assessment state remain local to one browser/device.
 - Simulations are educational simplified models, not forecasts or recommendations.
 - Generative AI tools are scenario-based and make no live API calls.

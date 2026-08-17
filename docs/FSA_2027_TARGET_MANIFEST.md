@@ -1,5 +1,7 @@
 # Financial Statement Analysis 2027 target manifest
 
+> **v1.8.12 final status:** FSA-LM12 is produced and all 12 official modules / 53 LOS are aggregate-certified and content-frozen. LM12 delivered 40 official + 10 supplementary questions/flashcards, 15 examples, 12 original exhibits, 6 formulas, and 2 tools. Final FSA inventory: 475 official + 120 supplementary questions/flashcards, 110 formulas/metrics, and 21 tools.
+
 > **v1.8.11 status:** FSA-LM1 through FSA-LM11 are produced and verified; LM12 remains mapping-only. LM11 delivered 55 official plus 10 supplementary questions/flashcards, 18 examples, 12 original exhibits, 20 audited LM11-owned formulas/metrics, and 2 tools. Its 2026/2027 comparison found only three editorial/extraction differences and no candidate-learning change.
 
 > **v1.8.6 status:** FSA-LM1 through FSA-LM6 are produced and verified; LM7-LM12 remain mapping-only. LM6 matched its targets organically: 40 official questions/flashcards, 8 formulas, and 8 original exhibits, plus 10 supplementary items of each asset type and 2 interactive tools. The 2026/2027 comparison found no substantive LOS, example, exhibit, or accounting-treatment change.
@@ -8,7 +10,7 @@
 
 > **v1.8.4 status:** FSA-LM1 through FSA-LM4 are produced and verified; FSA-LM5 through FSA-LM12 remain mapping-only. LM4 delivered its planned 45 official questions/flashcards, 8 source-grounded formulas, and 10 original exhibits, plus 10 supplementary items of each asset type and 2 tools. Answer positions were assigned at generation time (19/18/18 overall). The normalized 2026/2027 comparison found no LOS, treatment, terminology, or numerical-example change (99.91% similarity); only editorial/typographic changes and one corrected example date.
 
-The mapping-only design for all 12 official FSA modules was established in v1.8.0. FSA-LM1 through FSA-LM11 are now produced and verified; FSA-LM12 remains mapping-only, with no public learning assets implemented for it. One study lesson remains assigned per official module.
+The mapping-only design established in v1.8.0 has now been fully produced and certified across all 12 modules. One study lesson is retained per official module.
 
 | Module | Official title | Future lesson ID | Questions | Flashcards | Formulas/ratios | Exhibits |
 |---|---|---|---:|---:|---:|---:|

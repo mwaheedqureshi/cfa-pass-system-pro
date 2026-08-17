@@ -2,7 +2,7 @@
   {
     "id": "general-test-statistic-09",
     "name": "General test statistic",
-    "expression": "(estimateâˆ’hypothesized value)/standard error",
+    "expression": "(estimate−hypothesized value)/standard error",
     "meaning": "Standardized distance from the null value",
     "variables": {
       "estimate": "sample estimate",
@@ -25,7 +25,7 @@
   {
     "id": "z-mean-test-09",
     "name": "Z test for a population mean",
-    "expression": "z=(xÌ„âˆ’Î¼0)/(Ïƒ/âˆšn)",
+    "expression": "z=(x̄−μ0)/(σ/√n)",
     "meaning": "Mean test when population Ïƒ is known",
     "variables": {
       "xÌ„": "sample mean",
@@ -50,7 +50,7 @@
   {
     "id": "t-mean-test-09",
     "name": "t test for a population mean",
-    "expression": "t=(xÌ„âˆ’Î¼0)/(s/âˆšn)",
+    "expression": "t=(x̄−μ0)/(s/√n)",
     "meaning": "Mean test when Ïƒ is unknown",
     "variables": {
       "s": "sample SD",
@@ -73,7 +73,7 @@
   {
     "id": "test-df-09",
     "name": "One-sample t degrees of freedom (hypothesis tests)",
-    "expression": "df=nâˆ’1",
+    "expression": "df=n−1",
     "meaning": "Reference-distribution degrees of freedom",
     "variables": {
       "n": "sample size"
@@ -95,7 +95,7 @@
   {
     "id": "power-09",
     "name": "Statistical power",
-    "expression": "Power=1âˆ’Î²",
+    "expression": "Power=1−β",
     "meaning": "Probability of rejecting at a specified false-null alternative",
     "variables": {
       "Î²": "Type II error probability"
@@ -117,7 +117,7 @@
   {
     "id": "p-decision-09",
     "name": "P-value decision",
-    "expression": "Reject H0 when pâ‰¤Î±",
+    "expression": "Reject H0 when p≤α",
     "meaning": "Decision using observed tail probability",
     "variables": {
       "p": "p-value",
@@ -144,7 +144,7 @@
     "meaning": "Equivalence of matched two-sided procedures",
     "variables": {
       "Î¸0": "null value",
-      "CI": "interval at confidence 1âˆ’Î±"
+      "CI": "interval at confidence 1−α"
     },
     "intuition": "Both use the same critical boundary",
     "workedExample": "0 outside [.1,.5] implies rejection",

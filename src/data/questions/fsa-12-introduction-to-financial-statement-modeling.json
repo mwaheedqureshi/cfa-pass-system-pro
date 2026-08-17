@@ -1,0 +1,1322 @@
+[
+  {
+    "id": "fsa-lm12-q-001",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "difficulty": "hard",
+    "estimatedSeconds": 60,
+    "stem": "A company forecasts next-year sales from current sales of 500 and growth of 8%. Forecast sales are:",
+    "choices": [
+      "540.",
+      "508.",
+      "460."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "500 × 1.08 = 540.",
+    "incorrectChoiceExplanations": [
+      "Correct: 500 × 1.08 = 540.",
+      "Incorrect: 508. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Incorrect: 460. does not apply the required LM12 modeling sequence, assumption, or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-002",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Unit price is 25 and expected volume is 12,000 units. Forecast revenue is:",
+    "choices": [
+      "12,025.",
+      "300,000.",
+      "480."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Revenue equals price × volume.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 12,025. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Correct: Revenue equals price × volume.",
+      "Incorrect: 480. does not apply the required LM12 modeling sequence, assumption, or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-003",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Price rises 4% and volume falls 2%. The exact revenue growth rate is closest to:",
+    "choices": [
+      "2.00%.",
+      "6.00%.",
+      "1.92%."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "1.04 × 0.98 − 1 = 1.92%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 2.00%. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Incorrect: 6.00%. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Correct: 1.04 × 0.98 − 1 = 1.92%."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-004",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "difficulty": "easy",
+    "estimatedSeconds": 105,
+    "stem": "Forecast sales are 800 and COGS is assumed at 62% of sales. Forecast COGS is:",
+    "choices": [
+      "496.",
+      "304.",
+      "1,290."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "800 × 62% = 496.",
+    "incorrectChoiceExplanations": [
+      "Correct: 800 × 62% = 496.",
+      "Incorrect: 304. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Incorrect: 1,290. does not apply the required LM12 modeling sequence, assumption, or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-005",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Forecast EBIT is 120, interest is 20, and the effective tax rate is 25%. Forecast net income is:",
+    "choices": [
+      "90.",
+      "75.",
+      "25."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Pretax income is 100 and tax is 25, leaving 75.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 90. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Correct: Pretax income is 100 and tax is 25, leaving 75.",
+      "Incorrect: 25. does not apply the required LM12 modeling sequence, assumption, or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-006",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Beginning debt is used to forecast interest because new financing is determined later. This convention primarily:",
+    "choices": [
+      "guarantees the most accurate interest expense.",
+      "eliminates the need to forecast cash.",
+      "avoids an unresolved debt–interest circularity."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Transparent sequencing can avoid circularity without an iterative solver.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: guarantees the most accurate interest expense. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Incorrect: eliminates the need to forecast cash. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Correct: Transparent sequencing can avoid circularity without an iterative solver."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-007",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "Forecast revenue is 730, DSO is 40 days, and the model uses 365 days. Forecast receivables are closest to:",
+    "choices": [
+      "80.0.",
+      "50.0.",
+      "6,661.3."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Receivables = 40 × 730 ÷ 365 = 80.",
+    "incorrectChoiceExplanations": [
+      "Correct: Receivables = 40 × 730 ÷ 365 = 80.",
+      "Incorrect: 50.0. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Incorrect: 6,661.3. does not apply the required LM12 modeling sequence, assumption, or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-008",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "difficulty": "medium",
+    "estimatedSeconds": 105,
+    "stem": "Forecast COGS is 600 and inventory days are 73. Forecast inventory is:",
+    "choices": [
+      "8.22.",
+      "120.",
+      "43,800."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Inventory = 73 × 600 ÷ 365 = 120.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 8.22. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Correct: Inventory = 73 × 600 ÷ 365 = 120.",
+      "Incorrect: 43,800. does not apply the required LM12 modeling sequence, assumption, or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-009",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Forecast COGS is 730 and payable days are 45. Forecast payables are:",
+    "choices": [
+      "16.2.",
+      "32,850.",
+      "90."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Payables = 45 × 730 ÷ 365 = 90.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 16.2. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Incorrect: 32,850. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Correct: Payables = 45 × 730 ÷ 365 = 90."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-010",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "Beginning net PP&E is 900, capex is 120, and depreciation is 80. Ending net PP&E is:",
+    "choices": [
+      "940.",
+      "1,100.",
+      "860."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "900 + 120 − 80 = 940.",
+    "incorrectChoiceExplanations": [
+      "Correct: 900 + 120 − 80 = 940.",
+      "Incorrect: 1,100. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Incorrect: 860. does not apply the required LM12 modeling sequence, assumption, or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-011",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Beginning retained earnings are 420, forecast net income is 75, and dividends are 25. Ending retained earnings are:",
+    "choices": [
+      "520.",
+      "470.",
+      "370."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "420 + 75 − 25 = 470.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 520. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Correct: 420 + 75 − 25 = 470.",
+      "Incorrect: 370. does not apply the required LM12 modeling sequence, assumption, or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-012",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "difficulty": "medium",
+    "estimatedSeconds": 105,
+    "stem": "Beginning cash is 30, CFO is 90, CFI is −70, and CFF is 15. Ending cash is:",
+    "choices": [
+      "5.",
+      "205.",
+      "65."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "30 + 90 − 70 + 15 = 65.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 5. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Incorrect: 205. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Correct: 30 + 90 − 70 + 15 = 65."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-013",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A projected balance sheet has assets of 1,250 and liabilities plus equity of 1,245. The model check shows:",
+    "choices": [
+      "a 5-unit imbalance requiring investigation.",
+      "a balanced model because the difference is small.",
+      "a 5-unit cash surplus by definition."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Assets must equal liabilities plus equity exactly within the stated rounding tolerance.",
+    "incorrectChoiceExplanations": [
+      "Correct: Assets must equal liabilities plus equity exactly within the stated rounding tolerance.",
+      "Incorrect: a balanced model because the difference is small. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Incorrect: a 5-unit cash surplus by definition. does not apply the required LM12 modeling sequence, assumption, or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-014",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Which item is most appropriately forecast after operating profit but before net income?",
+    "choices": [
+      "Ending retained earnings",
+      "Financing cost",
+      "Closing PP&E"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Financing cost helps derive pretax income and net income.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: Ending retained earnings does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Correct: Financing cost helps derive pretax income and net income.",
+      "Incorrect: Closing PP&E does not apply the required LM12 modeling sequence, assumption, or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-015",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Which model ordering is most defensible?",
+    "choices": [
+      "Closing balance sheet, revenue, then operating costs",
+      "Terminal value, historical ratios, then revenue",
+      "Revenue, operating costs, financing and tax, cash flow, then closing balance sheet"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The sales-based model begins with operating forecasts and links their consequences through cash flow and balances.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: Closing balance sheet, revenue, then operating costs does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Incorrect: Terminal value, historical ratios, then revenue does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Correct: The sales-based model begins with operating forecasts and links their consequences through cash flow and balances."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-016",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "Historical DSO is owned analytically by LM11; LM12 primarily uses it to:",
+    "choices": [
+      "translate forecast sales into projected receivables.",
+      "reclassify receivables as revenue.",
+      "calculate terminal value."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "LM12 converts the ratio assumption into a forward balance.",
+    "incorrectChoiceExplanations": [
+      "Correct: LM12 converts the ratio assumption into a forward balance.",
+      "Incorrect: reclassify receivables as revenue. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Incorrect: calculate terminal value. does not apply the required LM12 modeling sequence, assumption, or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-017",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "If forecast capex is omitted while revenue grows rapidly, the model is most vulnerable to:",
+    "choices": [
+      "double-counting interest income.",
+      "an unsupported assumption that capacity needs do not grow.",
+      "overstating payable days by identity."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Operating growth may require supporting investment.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: double-counting interest income. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Correct: Operating growth may require supporting investment.",
+      "Incorrect: overstating payable days by identity. does not apply the required LM12 modeling sequence, assumption, or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative application within verified LM12 scope."
+  },
+  {
+    "id": "fsa-lm12-q-018",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A model uses ending debt to calculate interest and then uses cash after interest to determine ending debt. The key issue is:",
+    "choices": [
+      "inflation neutrality.",
+      "base-rate neglect.",
+      "circularity."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Debt affects interest, which affects cash and financing need, which affects debt.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: inflation neutrality. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Incorrect: base-rate neglect. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Correct: Debt affects interest, which affects cash and financing need, which affects debt."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative application within verified LM12 scope."
+  },
+  {
+    "id": "fsa-lm12-q-019",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "A balance-sheet plug should be used only when it:",
+    "choices": [
+      "represents an explicit financing or cash policy and remains transparent.",
+      "hides every modeling inconsistency automatically.",
+      "replaces the cash-flow statement."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "A plug is an assumption, not permission to conceal broken linkages.",
+    "incorrectChoiceExplanations": [
+      "Correct: A plug is an assumption, not permission to conceal broken linkages.",
+      "Incorrect: hides every modeling inconsistency automatically. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Incorrect: replaces the cash-flow statement. does not apply the required LM12 modeling sequence, assumption, or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative application within verified LM12 scope."
+  },
+  {
+    "id": "fsa-lm12-q-020",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "difficulty": "medium",
+    "estimatedSeconds": 105,
+    "stem": "The strongest final control on a linked model is to:",
+    "choices": [
+      "force every expense to equal its historical average.",
+      "reconcile cash flows and verify assets equal liabilities plus equity.",
+      "remove all scenarios."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Cash reconciliation and the accounting equation test internal consistency.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: force every expense to equal its historical average. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Correct: Cash reconciliation and the accounting equation test internal consistency.",
+      "Incorrect: remove all scenarios. does not apply the required LM12 modeling sequence, assumption, or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative application within verified LM12 scope."
+  },
+  {
+    "id": "fsa-lm12-q-021",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain how behavioral factors affect analyst forecasts and recommend remedial actions for analyst biases",
+    "difficulty": "hard",
+    "estimatedSeconds": 60,
+    "stem": "An analyst gives a narrow forecast range despite highly uncertain inputs. This most likely reflects:",
+    "choices": [
+      "base-rate use.",
+      "disconfirming analysis.",
+      "overconfidence."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Overconfidence commonly produces excessive precision.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: base-rate use. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Incorrect: disconfirming analysis. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Correct: Overconfidence commonly produces excessive precision."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-022",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain how behavioral factors affect analyst forecasts and recommend remedial actions for analyst biases",
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "Seeking only evidence that supports an existing bullish forecast is:",
+    "choices": [
+      "confirmation bias.",
+      "availability bias.",
+      "loss aversion."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Confirmation bias favors supporting evidence and discounts contradictions.",
+    "incorrectChoiceExplanations": [
+      "Correct: Confirmation bias favors supporting evidence and discounts contradictions.",
+      "Incorrect: availability bias. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Incorrect: loss aversion. does not apply the required LM12 modeling sequence, assumption, or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-023",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain how behavioral factors affect analyst forecasts and recommend remedial actions for analyst biases",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Ignoring industry failure rates because one company resembles a recent success is most consistent with:",
+    "choices": [
+      "illusion of control only.",
+      "representativeness and base-rate neglect.",
+      "a balanced outside view."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Similarity to a vivid case can crowd out relevant base rates.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: illusion of control only. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Correct: Similarity to a vivid case can crowd out relevant base rates.",
+      "Incorrect: a balanced outside view. does not apply the required LM12 modeling sequence, assumption, or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-024",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain how behavioral factors affect analyst forecasts and recommend remedial actions for analyst biases",
+    "difficulty": "medium",
+    "estimatedSeconds": 105,
+    "stem": "A forecast relies heavily on the most recent dramatic news story. The likely bias is:",
+    "choices": [
+      "hindsight.",
+      "framing neutrality.",
+      "availability."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Easily recalled information can receive excessive weight.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: hindsight. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Incorrect: framing neutrality. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Correct: Easily recalled information can receive excessive weight."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-025",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain how behavioral factors affect analyst forecasts and recommend remedial actions for analyst biases",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Continuing to defend a forecast because substantial research time was already invested is:",
+    "choices": [
+      "escalation of commitment.",
+      "mean reversion.",
+      "price elasticity."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Past effort should not determine whether a forecast is revised.",
+    "incorrectChoiceExplanations": [
+      "Correct: Past effort should not determine whether a forecast is revised.",
+      "Incorrect: mean reversion. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Incorrect: price elasticity. does not apply the required LM12 modeling sequence, assumption, or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-026",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain how behavioral factors affect analyst forecasts and recommend remedial actions for analyst biases",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "The best remedy for overconfidence in a point forecast is to:",
+    "choices": [
+      "add more decimal places.",
+      "develop documented alternative scenarios and ranges.",
+      "exclude historical base rates."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Scenarios expose plausible errors and uncertainty.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: add more decimal places. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Correct: Scenarios expose plausible errors and uncertainty.",
+      "Incorrect: exclude historical base rates. does not apply the required LM12 modeling sequence, assumption, or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-027",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain how behavioral factors affect analyst forecasts and recommend remedial actions for analyst biases",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Management guidance should generally be treated as:",
+    "choices": [
+      "a guaranteed forecast input.",
+      "irrelevant in every case.",
+      "one evidence source to test against history, incentives, and independent information."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Guidance can inform a forecast but must be evaluated critically.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: a guaranteed forecast input. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Incorrect: irrelevant in every case. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Correct: Guidance can inform a forecast but must be evaluated critically."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 2"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative application within verified LM12 scope."
+  },
+  {
+    "id": "fsa-lm12-q-028",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain how behavioral factors affect analyst forecasts and recommend remedial actions for analyst biases",
+    "difficulty": "easy",
+    "estimatedSeconds": 105,
+    "stem": "An analyst deliberately searches for evidence that would invalidate the model. This is primarily a remedy for:",
+    "choices": [
+      "confirmation bias.",
+      "inflation.",
+      "buyer power."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Disconfirming evidence counters selective information processing.",
+    "incorrectChoiceExplanations": [
+      "Correct: Disconfirming evidence counters selective information processing.",
+      "Incorrect: inflation. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Incorrect: buyer power. does not apply the required LM12 modeling sequence, assumption, or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 2"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative application within verified LM12 scope."
+  },
+  {
+    "id": "fsa-lm12-q-029",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain how the competitive position of a company based on a Porter's five forces analysis affects prices and costs",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "High barriers to entry most directly support a forecast assumption of:",
+    "choices": [
+      "automatically falling market demand.",
+      "more durable incumbent pricing power, all else equal.",
+      "zero supplier power."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Entry barriers can protect incumbent economics but do not determine every force.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: automatically falling market demand. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Correct: Entry barriers can protect incumbent economics but do not determine every force.",
+      "Incorrect: zero supplier power. does not apply the required LM12 modeling sequence, assumption, or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-030",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain how the competitive position of a company based on a Porter's five forces analysis affects prices and costs",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A credible low-cost substitute becomes widely available. The most defensible forecast effect is:",
+    "choices": [
+      "guaranteed higher incumbent margins.",
+      "lower customer choice.",
+      "pressure on incumbent price, volume, or both."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Substitutes constrain pricing and demand.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: guaranteed higher incumbent margins. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Incorrect: lower customer choice. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Correct: Substitutes constrain pricing and demand."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-031",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain how the competitive position of a company based on a Porter's five forces analysis affects prices and costs",
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Supplier concentration rises while the company has few alternative inputs. Forecasts should most likely reflect:",
+    "choices": [
+      "greater input-cost pressure.",
+      "greater buyer power over the company.",
+      "lower working-capital needs by identity."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Powerful suppliers can capture value through price or terms.",
+    "incorrectChoiceExplanations": [
+      "Correct: Powerful suppliers can capture value through price or terms.",
+      "Incorrect: greater buyer power over the company. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Incorrect: lower working-capital needs by identity. does not apply the required LM12 modeling sequence, assumption, or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-032",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain how the competitive position of a company based on a Porter's five forces analysis affects prices and costs",
+    "difficulty": "medium",
+    "estimatedSeconds": 105,
+    "stem": "Large customers can switch suppliers easily. This most directly suggests:",
+    "choices": [
+      "supplier power must be zero.",
+      "buyer power may constrain selling prices and margins.",
+      "volume cannot grow."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Low switching costs strengthen customer bargaining power.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: supplier power must be zero. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Correct: Low switching costs strengthen customer bargaining power.",
+      "Incorrect: volume cannot grow. does not apply the required LM12 modeling sequence, assumption, or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-033",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain how the competitive position of a company based on a Porter's five forces analysis affects prices and costs",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "Intense rivalry with limited product differentiation most likely supports:",
+    "choices": [
+      "automatic revenue acceleration.",
+      "no advertising expense.",
+      "more conservative price and margin assumptions."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Rivalry can increase price and selling-cost pressure.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: automatic revenue acceleration. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Incorrect: no advertising expense. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Correct: Rivalry can increase price and selling-cost pressure."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-034",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain how the competitive position of a company based on a Porter's five forces analysis affects prices and costs",
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "The correct role of a five-forces assessment in a model is to:",
+    "choices": [
+      "justify directional and durability assumptions for prices, costs, volumes, and investment.",
+      "produce a universal numeric score that replaces forecasts.",
+      "calculate historical DSO."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The framework informs assumptions rather than supplying a mechanical formula.",
+    "incorrectChoiceExplanations": [
+      "Correct: The framework informs assumptions rather than supplying a mechanical formula.",
+      "Incorrect: produce a universal numeric score that replaces forecasts. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Incorrect: calculate historical DSO. does not apply the required LM12 modeling sequence, assumption, or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-035",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain how the competitive position of a company based on a Porter's five forces analysis affects prices and costs",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Industry demand grows rapidly, but entry is easy and rivalry is increasing. The analyst should:",
+    "choices": [
+      "assume margins must rise.",
+      "avoid equating industry growth automatically with company profitability.",
+      "ignore competitive supply."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Value capture depends on competitive structure, not growth alone.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: assume margins must rise. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Correct: Value capture depends on competitive structure, not growth alone.",
+      "Incorrect: ignore competitive supply. does not apply the required LM12 modeling sequence, assumption, or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 3"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative application within verified LM12 scope."
+  },
+  {
+    "id": "fsa-lm12-q-036",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain how to forecast industry and company sales and costs when they are subject to price inflation or deflation",
+    "difficulty": "hard",
+    "estimatedSeconds": 105,
+    "stem": "Real unit volume grows 3% and price inflation is 5%. Exact nominal revenue growth is:",
+    "choices": [
+      "8.00%.",
+      "2.00%.",
+      "8.15%."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "1.03 × 1.05 − 1 = 8.15%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 8.00%. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Incorrect: 2.00%. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Correct: 1.03 × 1.05 − 1 = 8.15%."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-037",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain how to forecast industry and company sales and costs when they are subject to price inflation or deflation",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Selling prices rise 4% while unit input costs rise 7%, with volume and mix unchanged. Gross margin is most likely under:",
+    "choices": [
+      "pressure.",
+      "guaranteed expansion.",
+      "no effect."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Costs rising faster than prices compress unit economics.",
+    "incorrectChoiceExplanations": [
+      "Correct: Costs rising faster than prices compress unit economics.",
+      "Incorrect: guaranteed expansion. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Incorrect: no effect. does not apply the required LM12 modeling sequence, assumption, or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-038",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain how to forecast industry and company sales and costs when they are subject to price inflation or deflation",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A company can pass through only half of 6% input-cost inflation. The immediate selling-price response assumed from pass-through is:",
+    "choices": [
+      "6%.",
+      "3%.",
+      "12%."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Half of 6% is 3%, before considering other price drivers.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: 6%. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Correct: Half of 6% is 3%, before considering other price drivers.",
+      "Incorrect: 12%. does not apply the required LM12 modeling sequence, assumption, or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-039",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain how to forecast industry and company sales and costs when they are subject to price inflation or deflation",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Deflation lowers price by 3% but volume rises 2%. Exact revenue growth is closest to:",
+    "choices": [
+      "−1.00%.",
+      "5.00%.",
+      "−1.06%."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "0.97 × 1.02 − 1 = −1.06%.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: −1.00%. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Incorrect: 5.00%. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Correct: 0.97 × 1.02 − 1 = −1.06%."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-040",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain how to forecast industry and company sales and costs when they are subject to price inflation or deflation",
+    "difficulty": "easy",
+    "estimatedSeconds": 105,
+    "stem": "Fixed costs are unchanged while revenue rises from inflation-driven prices. All else equal, operating margin may:",
+    "choices": [
+      "increase because fixed costs are spread over more nominal revenue.",
+      "fall by identity.",
+      "equal the inflation rate."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Cost structure affects how inflation reaches profit.",
+    "incorrectChoiceExplanations": [
+      "Correct: Cost structure affects how inflation reaches profit.",
+      "Incorrect: fall by identity. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Incorrect: equal the inflation rate. does not apply the required LM12 modeling sequence, assumption, or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-041",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain how to forecast industry and company sales and costs when they are subject to price inflation or deflation",
+    "difficulty": "hard",
+    "estimatedSeconds": 60,
+    "stem": "When forecasting an inflation-sensitive business, the analyst should model:",
+    "choices": [
+      "only general CPI.",
+      "price, volume, input costs, pass-through timing, and elasticity separately where material.",
+      "only historical net income."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Separate drivers prevent unjustified one-factor forecasts.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: only general CPI. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Correct: Separate drivers prevent unjustified one-factor forecasts.",
+      "Incorrect: only historical net income. does not apply the required LM12 modeling sequence, assumption, or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-042",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain how to forecast industry and company sales and costs when they are subject to price inflation or deflation",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A top-down sales forecast most commonly starts with:",
+    "choices": [
+      "individual customer orders only.",
+      "ending retained earnings.",
+      "industry or macro growth and then estimates company share."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Top-down analysis narrows from aggregate demand to the company.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: individual customer orders only. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Incorrect: ending retained earnings. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Correct: Top-down analysis narrows from aggregate demand to the company."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-043",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain how to forecast industry and company sales and costs when they are subject to price inflation or deflation",
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "A bottom-up sales forecast most commonly builds from:",
+    "choices": [
+      "units, locations, customers, capacity, and prices.",
+      "GDP alone.",
+      "a terminal multiple."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Bottom-up forecasts aggregate operational drivers.",
+    "incorrectChoiceExplanations": [
+      "Correct: Bottom-up forecasts aggregate operational drivers.",
+      "Incorrect: GDP alone. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Incorrect: a terminal multiple. does not apply the required LM12 modeling sequence, assumption, or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 4"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative application within verified LM12 scope."
+  },
+  {
+    "id": "fsa-lm12-q-044",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain how to forecast industry and company sales and costs when they are subject to price inflation or deflation",
+    "difficulty": "medium",
+    "estimatedSeconds": 105,
+    "stem": "Input-cost inflation reaches inventory before COGS because inventory turns slowly. The model should:",
+    "choices": [
+      "ignore inventory accounting.",
+      "reflect the timing lag rather than assuming immediate full expense recognition.",
+      "record all inflation as financing cost."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Inventory holding periods affect when costs enter earnings.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: ignore inventory accounting. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Correct: Inventory holding periods affect when costs enter earnings.",
+      "Incorrect: record all inflation as financing cost. does not apply the required LM12 modeling sequence, assumption, or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 4"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative application within verified LM12 scope."
+  },
+  {
+    "id": "fsa-lm12-q-045",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain considerations in the choice of an explicit forecast horizon and an analyst's choices in developing projections beyond the short-term forecast horizon",
+    "difficulty": "medium",
+    "estimatedSeconds": 60,
+    "stem": "The explicit forecast horizon should generally be long enough for:",
+    "choices": [
+      "every company to reach zero growth.",
+      "all uncertainty to disappear.",
+      "material competitive, investment, and operating changes to be reflected and conditions to approach a sustainable state."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The horizon depends on economics, not a universal fixed number.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: every company to reach zero growth. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Incorrect: all uncertainty to disappear. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Correct: The horizon depends on economics, not a universal fixed number."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 5"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-046",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain considerations in the choice of an explicit forecast horizon and an analyst's choices in developing projections beyond the short-term forecast horizon",
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A cyclical company is at a peak in the last explicit year. Using that year as the long-run base most likely:",
+    "choices": [
+      "overstates sustainable conditions unless normalized.",
+      "guarantees a conservative valuation.",
+      "eliminates cyclicality."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "A terminal-year forecast should not preserve a temporary peak.",
+    "incorrectChoiceExplanations": [
+      "Correct: A terminal-year forecast should not preserve a temporary peak.",
+      "Incorrect: guarantees a conservative valuation. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Incorrect: eliminates cyclicality. does not apply the required LM12 modeling sequence, assumption, or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 5"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-047",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain considerations in the choice of an explicit forecast horizon and an analyst's choices in developing projections beyond the short-term forecast horizon",
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "A company building a major plant likely needs a horizon that:",
+    "choices": [
+      "ends before construction begins.",
+      "captures construction, ramp-up, and movement toward normalized utilization.",
+      "equals one year by rule."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The explicit period should capture material investment consequences.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: ends before construction begins. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Correct: The explicit period should capture material investment consequences.",
+      "Incorrect: equals one year by rule. does not apply the required LM12 modeling sequence, assumption, or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 5"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-048",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain considerations in the choice of an explicit forecast horizon and an analyst's choices in developing projections beyond the short-term forecast horizon",
+    "difficulty": "medium",
+    "estimatedSeconds": 105,
+    "stem": "Beyond the detailed forecast horizon, assumptions should generally:",
+    "choices": [
+      "continue exceptional short-term growth forever.",
+      "ignore competitive forces.",
+      "converge toward economically sustainable growth, margins, and reinvestment."
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Long-run projections must be internally consistent and sustainable.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: continue exceptional short-term growth forever. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Incorrect: ignore competitive forces. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Correct: Long-run projections must be internally consistent and sustainable."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 5"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-049",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain considerations in the choice of an explicit forecast horizon and an analyst's choices in developing projections beyond the short-term forecast horizon",
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "LM12 discusses terminal-year conditions primarily to ensure that:",
+    "choices": [
+      "long-term projection inputs are normalized and consistent.",
+      "students reproduce a terminal-value formula.",
+      "iterative debt solvers are used."
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Full terminal-value formula ownership lies elsewhere.",
+    "incorrectChoiceExplanations": [
+      "Correct: Full terminal-value formula ownership lies elsewhere.",
+      "Incorrect: students reproduce a terminal-value formula. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Incorrect: iterative debt solvers are used. does not apply the required LM12 modeling sequence, assumption, or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 5"
+    ]
+  },
+  {
+    "id": "fsa-lm12-q-050",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "officialLearningOutcome": "explain considerations in the choice of an explicit forecast horizon and an analyst's choices in developing projections beyond the short-term forecast horizon",
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Scenario analysis differs from a one-variable sensitivity because a scenario typically:",
+    "choices": [
+      "changes no assumptions.",
+      "changes a coherent set of related assumptions.",
+      "guarantees a probability-weighted answer."
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Scenarios describe internally consistent states; sensitivity can isolate one driver.",
+    "incorrectChoiceExplanations": [
+      "Incorrect: changes no assumptions. does not apply the required LM12 modeling sequence, assumption, or interpretation.",
+      "Correct: Scenarios describe internally consistent states; sensitivity can isolate one driver.",
+      "Incorrect: guarantees a probability-weighted answer. does not apply the required LM12 modeling sequence, assumption, or interpretation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "financial statement modeling",
+      "LOS 5"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative application within verified LM12 scope."
+  }
+]

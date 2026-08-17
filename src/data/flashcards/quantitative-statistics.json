@@ -120,7 +120,7 @@
     "id": "fc05-10",
     "lessonId": "quant-statistics-05",
     "front": "Geometric mean?",
-    "back": "[Î (1+Ri)]^(1/n)âˆ’1; compound growth rate.",
+    "back": "[Î (1+Ri)]^(1/n)−1; compound growth rate.",
     "tags": [
       "geometric-mean"
     ],
@@ -250,7 +250,7 @@
     "id": "fc05-20",
     "lessonId": "quant-statistics-05",
     "front": "Population variance?",
-    "back": "Î£(xiâˆ’Î¼)Â²/N.",
+    "back": "Σ(xi−μ)²/N.",
     "tags": [
       "variance",
       "population"
@@ -264,7 +264,7 @@
     "id": "fc05-21",
     "lessonId": "quant-statistics-05",
     "front": "Sample variance?",
-    "back": "Î£(xiâˆ’xÌ„)Â²/(nâˆ’1).",
+    "back": "Σ(xi−x̄)²/(n−1).",
     "tags": [
       "variance",
       "sample"
@@ -277,7 +277,7 @@
   {
     "id": "fc05-22",
     "lessonId": "quant-statistics-05",
-    "front": "Why nâˆ’1??",
+    "front": "Why n−1??",
     "back": "Estimating the mean consumes one degree of freedom.",
     "tags": [
       "variance",
@@ -345,7 +345,7 @@
     "id": "fc05-27",
     "lessonId": "quant-statistics-05",
     "front": "Sharpe ratio?",
-    "back": "(Portfolio returnâˆ’risk-free return)/portfolio standard deviation.",
+    "back": "(Portfolio return−risk-free return)/portfolio standard deviation.",
     "tags": [
       "sharpe"
     ],

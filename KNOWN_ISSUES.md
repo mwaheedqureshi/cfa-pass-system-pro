@@ -8,12 +8,12 @@ None. KI-C01 was resolved by the v1.6.6 source, mathematical, assessment, tool, 
 
 Economics v1.7.9 has certified all 8 of 8 official modules together (ECO-LM1, The Firm and Market Structures; ECO-LM2, Understanding Business Cycles; ECO-LM3, Fiscal Policy; ECO-LM4, Monetary Policy; ECO-LM5, Introduction to Geopolitics; ECO-LM6, International Trade; ECO-LM7, Capital Flows and the FX Market; ECO-LM8, Exchange Rate Calculations) and is now **VERIFIED AND CONTENT-FROZEN**, mirroring the v1.6.6 Quantitative certification. See `docs/ECONOMICS_VERIFICATION_SUMMARY.md` for the full release-level certification record.
 
-Financial Statement Analysis v1.8.0 mapped all 12 official 2027 modules (FSA-LM1 through FSA-LM12) directly against the official curriculum source. FSA-LM1 (Introduction to Financial Statement Analysis) is now produced and content-verified as of v1.8.1 — the first of 12 official FSA modules. FSA-LM2 through FSA-LM12 remain mapping-only. See `docs/FSA_2027_TARGET_MANIFEST.md`, `.local-research/fsa-verification/official-module-map.json`, and `.local-research/fsa-verification/FSA-LM1/MODULE_VERIFICATION_SUMMARY.md`.
+Financial Statement Analysis is **VERIFIED AND CONTENT-FROZEN** as of v1.8.12 across all 12 official modules and 53 LOS. Final inventory: 475 official plus 120 supplementary questions and flashcards, 110 formulas/metrics, and 21 tools.
 
 ## High
 
 - **KI-H01 — Resolved.** Quantitative verification completed in v1.6.6. The topic is content-frozen.
-- **KI-H02 — Visible encoding corruption exists in legacy text.** Mojibake appears in some source and documentation strings. Correct it only in an explicitly scoped engineering release because bulk replacement can damage mathematical symbols.
+- **KI-H02 — Resolved in v1.8.12.** A project-wide audit traced mojibake to UTF-8 text decoded through a Windows code page and re-saved in source/data. The root assets and generators were repaired (335 markers across 19 unique files), and `validate-encoding` now gates published text.
 - **KI-H03 — Resolved.** Economics-wide verification completed in v1.7.9. The topic is content-frozen.
 
 ## Medium

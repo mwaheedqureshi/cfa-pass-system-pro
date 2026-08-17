@@ -3,11 +3,11 @@
 
 
 
-# CFA PASS SYSTEM ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Professional Edition
+# CFA PASS SYSTEM — Professional Edition
 
 An independent, offline-first CFA Level I study platform built with React, TypeScript, Vite, and Tailwind CSS. It provides a scalable content engine for Markdown lessons, original practice questions, formula references, flashcards, search, and local progress tracking.
 
-> CFA PASS SYSTEM is not affiliated with or endorsed by CFA Institute. CFAÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â® is a registered trademark owned by CFA Institute. Curriculum outcome references are clearly separated from independently written explanations and questions.
+> CFA PASS SYSTEM is not affiliated with or endorsed by CFA Institute. CFA® is a registered trademark owned by CFA Institute. Curriculum outcome references are clearly separated from independently written explanations and questions.
 
 ## Current content status
 
@@ -15,7 +15,7 @@ The application models all ten Level I topic groups. Quantitative Methods v1.6.6
 
 Economics v1.7.9 is verified and content-frozen across all 8 official 2027 modules (ECO-LM1 through ECO-LM8) presented through 8 study lessons, mirroring the Quantitative certification. Its public banks contain 325 official and 85 supplementary questions, 325 official and 85 supplementary flashcards, and 42 official formulas, plus 14 registered interactive tools, 8 chapter exams, and a 60-question comprehensive assessment balanced across all 8 modules.
 
-Financial Statement Analysis is mapped across all 12 official modules; FSA-LM1 through FSA-LM11 are produced and verified as of v1.8.11. Together they contain 435 official and 110 supplementary questions and flashcards, 104 formulas/metrics, and 19 registered interactive tools. FSA-LM12 remains mapping-only. FSA completion is 11/12 (91.7%).
+Financial Statement Analysis v1.8.12 is verified and content-frozen across all 12 official 2027 modules and all 53 LOS. Its public banks contain 475 official and 120 supplementary questions, matching flashcards, 110 formulas/metrics, 21 tools, and 12 chapter exams. This completes FSA only; other Level I topics remain pending.
 
 The original plain-HTML application is preserved under `legacy/html-prototype/`.
 
@@ -129,7 +129,7 @@ Do not place untrusted HTML in Markdown. Rendering does not use `dangerouslySetI
 
 Each question has `id`, `lessonId`, `topicId`, either `officialLearningOutcome` or `scopeStatement`, `difficulty`, `estimatedSeconds`, `stem`, exactly three `choices`, `correctChoiceIndex`, `explanation`, three `incorrectChoiceExplanations`, `relatedFormulaIds`, and `tags`.
 
-Modules 9ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“10 use independently authored `scopeStatement` curriculum mappings because authorized official outcome wording was unavailable. These statements are not official CFA Institute Learning Outcomes.
+Modules 9–10 use independently authored `scopeStatement` curriculum mappings because authorized official outcome wording was unavailable. These statements are not official CFA Institute Learning Outcomes.
 
 ### Formula schema
 

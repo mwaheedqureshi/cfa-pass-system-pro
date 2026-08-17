@@ -22,6 +22,15 @@ import economicsQuestions08 from '../data/questions/economics-08-exchange-rate-c
 import fsaQuestions01 from '../data/questions/fsa-01-introduction-to-financial-statement-analysis.json';
 import fsaQuestions02 from '../data/questions/fsa-02-analyzing-income-statements.json';
 import fsaQuestions03 from '../data/questions/fsa-03-analyzing-balance-sheets.json';
+import fsaQuestions04 from '../data/questions/fsa-04-analyzing-statements-of-cash-flows-i.json';
+import fsaQuestions05 from '../data/questions/fsa-05-analyzing-statements-of-cash-flows-ii.json';
+import fsaQuestions06 from '../data/questions/fsa-06-analysis-of-inventories.json';
+import fsaQuestions07 from '../data/questions/fsa-07-analysis-of-long-term-assets.json';
+import fsaQuestions08 from '../data/questions/fsa-08-topics-in-long-term-liabilities-and-equity.json';
+import fsaQuestions09 from '../data/questions/fsa-09-analysis-of-income-taxes.json';
+import fsaQuestions10 from '../data/questions/fsa-10-financial-reporting-quality.json';
+import fsaQuestions11 from '../data/questions/fsa-11-financial-analysis-techniques.json';
+import fsaQuestions12 from '../data/questions/fsa-12-introduction-to-financial-statement-modeling.json';
 import {ComprehensiveAssessment} from '../components/practice/ComprehensiveAssessment';
 import {EconomicsComprehensiveAssessment} from '../components/practice/EconomicsComprehensiveAssessment';
 import {ChapterExam} from '../components/practice/ChapterExam';
@@ -31,7 +40,7 @@ import type {Question} from '../data/types';
 
 const quantitative=[...returnsQuestions,...benchmarkQuestions,...tvmQuestions,...statisticsQuestions,...probabilityQuestions,...distributionQuestions,...samplingQuestions,...hypothesisQuestions,...regressionQuestions,...simulationQuestions,...dataAiQuestions] as unknown as Question[];
 const economics=[...economicsQuestions,...economicsQuestions02,...economicsQuestions03,...economicsQuestions04,...economicsQuestions05,...economicsQuestions06,...economicsQuestions07,...economicsQuestions08] as Question[];
-const fsa=[...fsaQuestions01,...fsaQuestions02,...fsaQuestions03] as unknown as Question[];
+const fsa=[...fsaQuestions01,...fsaQuestions02,...fsaQuestions03,...fsaQuestions04,...fsaQuestions05,...fsaQuestions06,...fsaQuestions07,...fsaQuestions08,...fsaQuestions09,...fsaQuestions10,...fsaQuestions11,...fsaQuestions12] as unknown as Question[];
 const questions=[...quantitative,...economics,...fsa] as Question[];
 
 export function PracticePage(){

@@ -1,0 +1,116 @@
+[
+  {
+    "id": "sales-growth-projection-fsa-12",
+    "name": "Sales growth projection",
+    "expression": "Sales_t = Sales_(t−1) × (1 + growth_t)",
+    "meaning": "Projects sales from a documented growth assumption.",
+    "variables": {
+      "Model inputs": "Forecast values defined using documented timing and balance conventions."
+    },
+    "intuition": "Projects sales from a documented growth assumption.",
+    "workedExample": "Apply the relationship to a fictional company using explicit timing and balance conventions.",
+    "commonMistake": "Treating a modeling convention as a universal identity or failing to link the resulting statements.",
+    "relatedLessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "relatedLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "tags": [
+      "LM12",
+      "forecasting",
+      "model linkage"
+    ]
+  },
+  {
+    "id": "price-volume-revenue-fsa-12",
+    "name": "Price-volume revenue projection",
+    "expression": "Revenue_t = Price_t × Volume_t; exact growth = (1 + ΔPrice)(1 + ΔVolume) − 1",
+    "meaning": "Separates nominal revenue into price and volume drivers.",
+    "variables": {
+      "Model inputs": "Forecast values defined using documented timing and balance conventions."
+    },
+    "intuition": "Separates nominal revenue into price and volume drivers.",
+    "workedExample": "Apply the relationship to a fictional company using explicit timing and balance conventions.",
+    "commonMistake": "Treating a modeling convention as a universal identity or failing to link the resulting statements.",
+    "relatedLessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "relatedLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "tags": [
+      "LM12",
+      "forecasting",
+      "model linkage"
+    ]
+  },
+  {
+    "id": "percent-sales-projection-fsa-12",
+    "name": "Percent-of-sales line-item projection",
+    "expression": "Projected line item = Projected sales × Assumed common-size ratio",
+    "meaning": "Converts a justified sales relationship into a forecast statement line.",
+    "variables": {
+      "Model inputs": "Forecast values defined using documented timing and balance conventions."
+    },
+    "intuition": "Converts a justified sales relationship into a forecast statement line.",
+    "workedExample": "Apply the relationship to a fictional company using explicit timing and balance conventions.",
+    "commonMistake": "Treating a modeling convention as a universal identity or failing to link the resulting statements.",
+    "relatedLessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "relatedLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "tags": [
+      "LM12",
+      "forecasting",
+      "model linkage"
+    ]
+  },
+  {
+    "id": "net-ppe-roll-forward-fsa-12",
+    "name": "Net PP&E roll-forward",
+    "expression": "Ending net PP&E = Beginning net PP&E + Capex − D&A − Disposals/impairment",
+    "meaning": "Links investment and noncash expense to the projected asset balance.",
+    "variables": {
+      "Model inputs": "Forecast values defined using documented timing and balance conventions."
+    },
+    "intuition": "Links investment and noncash expense to the projected asset balance.",
+    "workedExample": "Apply the relationship to a fictional company using explicit timing and balance conventions.",
+    "commonMistake": "Treating a modeling convention as a universal identity or failing to link the resulting statements.",
+    "relatedLessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "relatedLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "tags": [
+      "LM12",
+      "forecasting",
+      "model linkage"
+    ]
+  },
+  {
+    "id": "retained-earnings-roll-forward-fsa-12",
+    "name": "Retained earnings roll-forward",
+    "expression": "Ending retained earnings = Beginning retained earnings + Net income − Dividends",
+    "meaning": "Links forecast earnings and distributions to equity.",
+    "variables": {
+      "Model inputs": "Forecast values defined using documented timing and balance conventions."
+    },
+    "intuition": "Links forecast earnings and distributions to equity.",
+    "workedExample": "Apply the relationship to a fictional company using explicit timing and balance conventions.",
+    "commonMistake": "Treating a modeling convention as a universal identity or failing to link the resulting statements.",
+    "relatedLessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "relatedLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "tags": [
+      "LM12",
+      "forecasting",
+      "model linkage"
+    ]
+  },
+  {
+    "id": "cash-roll-forward-fsa-12",
+    "name": "Cash roll-forward and model balance",
+    "expression": "Ending cash = Beginning cash + CFO + CFI + CFF",
+    "meaning": "Links the projected cash-flow statement to closing cash and the balance-sheet check.",
+    "variables": {
+      "Model inputs": "Forecast values defined using documented timing and balance conventions."
+    },
+    "intuition": "Links the projected cash-flow statement to closing cash and the balance-sheet check.",
+    "workedExample": "Apply the relationship to a fictional company using explicit timing and balance conventions.",
+    "commonMistake": "Treating a modeling convention as a universal identity or failing to link the resulting statements.",
+    "relatedLessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "relatedLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "tags": [
+      "LM12",
+      "forecasting",
+      "model linkage"
+    ]
+  }
+]

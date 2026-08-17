@@ -297,7 +297,7 @@
     "id": "fc08-22",
     "lessonId": "quant-sampling-08",
     "front": "Standard error of xÌ„",
-    "back": "Ïƒ/âˆšn, estimated by s/âˆšn.",
+    "back": "σ/√n, estimated by s/√n.",
     "tags": [
       "sampling-estimation"
     ],
@@ -395,7 +395,7 @@
     "id": "fc08-29",
     "lessonId": "quant-sampling-08",
     "front": "Confidence interval form",
-    "back": "Estimate Â± critical value Ã— standard error.",
+    "back": "Estimate ± critical value × standard error.",
     "tags": [
       "sampling-estimation"
     ],
@@ -423,7 +423,7 @@
     "id": "fc08-31",
     "lessonId": "quant-sampling-08",
     "front": "Known Ïƒ mean interval",
-    "back": "xÌ„ Â± z*Ïƒ/âˆšn.",
+    "back": "xÌ„ ± z*σ/√n.",
     "tags": [
       "sampling-estimation"
     ],
@@ -437,7 +437,7 @@
     "id": "fc08-32",
     "lessonId": "quant-sampling-08",
     "front": "Unknown Ïƒ mean interval",
-    "back": "xÌ„ Â± t*s/âˆšn.",
+    "back": "xÌ„ ± t*s/√n.",
     "tags": [
       "sampling-estimation"
     ],
@@ -451,7 +451,7 @@
     "id": "fc08-33",
     "lessonId": "quant-sampling-08",
     "front": "One-sample t degrees of freedom (confidence intervals)",
-    "back": "nâˆ’1.",
+    "back": "n−1.",
     "tags": [
       "sampling-estimation"
     ],

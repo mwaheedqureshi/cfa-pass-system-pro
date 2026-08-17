@@ -1,6 +1,6 @@
 # Financial Statement Analysis release plan
 
-Mapping is complete in v1.8.0, covering all 12 official 2027 FSA modules. Future releases remain subject to separate authorization and follow the same one-module-per-release discipline already used for Economics (v1.7.1 through v1.7.8), followed by a final topic-wide certification and content-freeze release (mirroring Economics v1.7.9).
+FSA is **VERIFIED AND CONTENT-FROZEN** as of v1.8.12. All 12 official modules and 53 LOS passed the required aggregate certification in the final production release.
 
 Each future production release must include: a complete original lesson (verified LOS, worked examples independently recalculated, original exhibits — never reproductions of the official source's own tables), formulas/ratios verified against the official source (never forced to a target count), interactive tools where officially justified, questions, flashcards, a chapter exam, search/progress integration, substantive private verification, and tests — following `docs/CONTENT_PIPELINE.md` and `DEVELOPMENT_STANDARDS.md`.
 
@@ -17,7 +17,7 @@ Each future production release must include: a complete original lesson (verifie
 - v1.8.9: FSA-LM9 — Analysis of Income Taxes. **Complete.** Delivered all 4 LOS, 14 original examples, 8 original exhibits, 8 audited formulas/metrics, 2 tested tools, and 30 official + 10 supplementary questions/flashcards with 14/13/13 answer balance.
 - v1.8.10: FSA-LM10 — Financial Reporting Quality. **Complete.** Delivered all 8 LOS, 16 original examples, 10 original exhibits, 1 LM10-owned metric, 2 tested tools, and 35 official + 10 supplementary questions/flashcards with 15/15/15 answer balance.
 - v1.8.11: FSA-LM11 — Financial Analysis Techniques. **Complete.** Delivered all 6 LOS, 18 original examples, 12 original exhibits, 20 audited LM11-owned formulas/metrics, 2 tested tools, and 55 official + 10 supplementary questions/flashcards with 22/22/21 answer balance.
-- v1.8.12: FSA-LM12 — Introduction to Financial Statement Modeling. Completes all 12 of 12 official FSA modules.
-- v1.8.13: FSA Full Verification and Content Freeze. Certify all 12 FSA modules together (fresh recursive library rescan, cross-module terminology and accounting-treatment consistency review, full asset/tool/chapter-exam audits, an FSA comprehensive assessment, mock-coverage consolidation, and a dedicated `validate-fsa-verification` release gate) and mark the topic **VERIFIED AND CONTENT-FROZEN**, mirroring the v1.6.6 Quantitative and v1.7.9 Economics certifications.
+- v1.8.12: FSA-LM12 — Introduction to Financial Statement Modeling. **Complete and aggregate-certified.** Delivered all 5 LOS, 15 examples, 12 original exhibits, 6 LM12-owned formulas, 2 tested tools, and 40 official + 10 supplementary questions/flashcards; repaired project-wide mojibake; certified all 12 FSA modules and 53 LOS; marked FSA content-frozen.
+- v1.8.13: Superseded. The aggregate certification originally planned here was explicitly required and completed in v1.8.12.
 
 Module order within this plan follows official module number. A future release may reorder later, unproduced modules if a scoping reason arises, but must update this document and `CURRICULUM_MASTER.md` explicitly rather than silently deviating.

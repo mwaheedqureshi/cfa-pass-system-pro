@@ -120,7 +120,7 @@
     "id": "fc04-10",
     "lessonId": "quant-tvm-04",
     "front": "EAR formula?",
-    "back": "(1 + stated rate/m)^m âˆ’ 1.",
+    "back": "(1 + stated rate/m)^m − 1.",
     "tags": [
       "rates"
     ],
@@ -159,7 +159,7 @@
     "id": "fc04-13",
     "lessonId": "quant-tvm-04",
     "front": "Continuous-compounding PV?",
-    "back": "PV = FV e^(âˆ’rN).",
+    "back": "PV = FV e^(−rN).",
     "tags": [
       "continuous"
     ],
@@ -211,7 +211,7 @@
     "id": "fc04-17",
     "lessonId": "quant-tvm-04",
     "front": "PV ordinary annuity formula?",
-    "back": "PMT[1âˆ’(1+r)^âˆ’N]/r.",
+    "back": "PMT[1−(1+r)^−N]/r.",
     "tags": [
       "annuity"
     ],
@@ -224,7 +224,7 @@
     "id": "fc04-18",
     "lessonId": "quant-tvm-04",
     "front": "FV ordinary annuity formula?",
-    "back": "PMT[(1+r)^Nâˆ’1]/r.",
+    "back": "PMT[(1+r)^N−1]/r.",
     "tags": [
       "annuity"
     ],
@@ -263,7 +263,7 @@
     "id": "fc04-21",
     "lessonId": "quant-tvm-04",
     "front": "Growing perpetuity PV?",
-    "back": "CF1/(râˆ’g), requiring r greater than g.",
+    "back": "CF1/(r−g), requiring r greater than g.",
     "tags": [
       "perpetuity"
     ],
@@ -328,7 +328,7 @@
     "id": "fc04-33",
     "lessonId": "quant-tvm-04",
     "front": "Inflate a real future target formula?",
-    "back": "Nominal target = real target Ã— (1+inflation)^N.",
+    "back": "Nominal target = real target × (1+inflation)^N.",
     "tags": [
       "inflation"
     ],

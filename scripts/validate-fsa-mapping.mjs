@@ -4,7 +4,7 @@ const map=await read(`${root}/official-module-map.json`),expected=12;if(map.offi
 const unique=(xs,label)=>{if(new Set(xs).size!==xs.length)fail(`${label} contains duplicates`)};unique(map.modules.map(x=>x.officialModuleId),'Module IDs');unique(map.modules.map(x=>x.officialModuleNumber),'Module numbers');
 try{await access(map.sourceFile)}catch{fail('Official 2027 FSA source does not exist')}
 const manifest=await readFile('docs/FSA_2027_TARGET_MANIFEST.md','utf8');
-const producedModules=new Set(['FSA-LM1','FSA-LM2','FSA-LM3','FSA-LM4','FSA-LM5','FSA-LM6','FSA-LM7','FSA-LM8','FSA-LM9','FSA-LM10','FSA-LM11']);
+const producedModules=new Set(['FSA-LM1','FSA-LM2','FSA-LM3','FSA-LM4','FSA-LM5','FSA-LM6','FSA-LM7','FSA-LM8','FSA-LM9','FSA-LM10','FSA-LM11','FSA-LM12']);
 for(const m of map.modules){
  for(const key of ['officialModuleId','officialModuleNumber','officialModuleTitle','officialPdfStartPage','officialPdfEndPage','printedStartPage','printedEndPage','futureStudyLessonId','futureRoute','questionTarget','flashcardTarget','formulaTarget','exhibitTarget'])if(m[key]===undefined||m[key]===null||m[key]==='')fail(`${m.officialModuleId}: missing ${key}`);
  if(!m.officialLearningOutcomes?.length)fail(`${m.officialModuleId}: missing outcomes`);
@@ -22,7 +22,7 @@ const declaredVerified=new Set(status.fullyVerifiedModules??[]);
 if(declaredVerified.size!==producedModules.size||[...producedModules].some(id=>!declaredVerified.has(id)))fail('FSA fullyVerifiedModules must exactly match the modules with verified production content for this release');
 if(status.contentGenerated!==(producedModules.size>0))fail('FSA contentGenerated flag must reflect whether any module has verified production content');
 for(const m of map.modules){const expectedModuleStatus=producedModules.has(m.officialModuleId)?'content_verified':'mapping_verified';if(status.moduleStatuses?.[m.officialModuleId]!==expectedModuleStatus)fail(`${m.officialModuleId}: verification-status module status must be '${expectedModuleStatus}'`)}
-if(!['mapping_verified','production_in_progress'].includes(status.status))fail('FSA overall status must be mapping_verified or production_in_progress');
+if(status.status!=='verified_and_content_frozen')fail('FSA overall status must be verified_and_content_frozen after aggregate certification');
 // unproduced modules must not have public lesson content yet
 const lessonManifest=await readFile('src/content/lessonManifest.ts','utf8');
 for(const m of map.modules){

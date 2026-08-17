@@ -264,7 +264,7 @@
       "97%"
     ],
     "correctChoiceIndex": 2,
-    "explanation": "The complement is 1âˆ’0.03=0.97.",
+    "explanation": "The complement is 1−0.03=0.97.",
     "incorrectChoiceExplanations": [
       "This repeats default probability.",
       "Probabilities cannot exceed 100%.",
@@ -288,14 +288,14 @@
     "officialLearningOutcome": "Explain and calculate unconditional, conditional, joint, and total probabilities.",
     "difficulty": "easy",
     "estimatedSeconds": 45,
-    "stem": "P(A)=0.4, P(B)=0.3, and P(Aâˆ©B)=0.1. P(AâˆªB) is:",
+    "stem": "P(A)=0.4, P(B)=0.3, and P(A∩B)=0.1. P(A∪B) is:",
     "choices": [
       "0.6",
       "0.7",
       "0.8"
     ],
     "correctChoiceIndex": 0,
-    "explanation": "0.4+0.3âˆ’0.1=0.6.",
+    "explanation": "0.4+0.3−0.1=0.6.",
     "incorrectChoiceExplanations": [
       "Correct.",
       "0.7 double-counts overlap.",
@@ -319,7 +319,7 @@
     "officialLearningOutcome": "Explain and calculate unconditional, conditional, joint, and total probabilities.",
     "difficulty": "easy",
     "estimatedSeconds": 45,
-    "stem": "If A and B are mutually exclusive with probabilities 0.2 and 0.5, P(AâˆªB) is:",
+    "stem": "If A and B are mutually exclusive with probabilities 0.2 and 0.5, P(A∪B) is:",
     "choices": [
       "0.1",
       "0.7",
@@ -350,14 +350,14 @@
     "officialLearningOutcome": "Explain and calculate unconditional, conditional, joint, and total probabilities.",
     "difficulty": "easy",
     "estimatedSeconds": 45,
-    "stem": "P(B)=0.5 and P(A|B)=0.2. P(Aâˆ©B) equals:",
+    "stem": "P(B)=0.5 and P(A|B)=0.2. P(A∩B) equals:",
     "choices": [
       "0.70",
       "0.25",
       "0.10"
     ],
     "correctChoiceIndex": 2,
-    "explanation": "Multiply along the branch: 0.5Ã—0.2=0.10.",
+    "explanation": "Multiply along the branch: 0.5×0.2=0.10.",
     "incorrectChoiceExplanations": [
       "0.70 adds probabilities.",
       "0.25 squares P(B).",
@@ -381,7 +381,7 @@
     "officialLearningOutcome": "Explain and calculate unconditional, conditional, joint, and total probabilities.",
     "difficulty": "easy",
     "estimatedSeconds": 45,
-    "stem": "P(Aâˆ©B)=0.12 and P(B)=0.30. P(A|B) equals:",
+    "stem": "P(A∩B)=0.12 and P(B)=0.30. P(A|B) equals:",
     "choices": [
       "0.40",
       "0.18",
@@ -416,7 +416,7 @@
     "choices": [
       "P(A)",
       "P(B)",
-      "P(AâˆªB)"
+      "P(A∪B)"
     ],
     "correctChoiceIndex": 1,
     "explanation": "Conditioning restricts the sample space to B.",
@@ -451,7 +451,7 @@
       "0.30"
     ],
     "correctChoiceIndex": 2,
-    "explanation": "Independence permits 0.6Ã—0.5=0.30.",
+    "explanation": "Independence permits 0.6×0.5=0.30.",
     "incorrectChoiceExplanations": [
       "0.10 is the difference.",
       "Probabilities cannot exceed one.",
@@ -692,14 +692,14 @@
     "officialLearningOutcome": "Apply probability trees, Bayes formula, odds, expected value, and random-variable variance.",
     "difficulty": "easy",
     "estimatedSeconds": 45,
-    "stem": "Returns 10% and âˆ’4% have probabilities 0.6 and 0.4. Expected return is:",
+    "stem": "Returns 10% and −4% have probabilities 0.6 and 0.4. Expected return is:",
     "choices": [
       "2.4%",
       "4.4%",
       "6.0%"
     ],
     "correctChoiceIndex": 1,
-    "explanation": "0.6(10%)+0.4(âˆ’4%)=4.4%.",
+    "explanation": "0.6(10%)+0.4(−4%)=4.4%.",
     "incorrectChoiceExplanations": [
       "2.4% miscalculates the negative contribution.",
       "Correct.",
@@ -723,14 +723,14 @@
     "officialLearningOutcome": "Apply probability trees, Bayes formula, odds, expected value, and random-variable variance.",
     "difficulty": "easy",
     "estimatedSeconds": 45,
-    "stem": "Payoffs 100, 0, âˆ’50 have probabilities 0.3, 0.5, 0.2. Expected payoff is:",
+    "stem": "Payoffs 100, 0, −50 have probabilities 0.3, 0.5, 0.2. Expected payoff is:",
     "choices": [
       "10",
       "30",
       "20"
     ],
     "correctChoiceIndex": 2,
-    "explanation": "0.3(100)+0.5(0)+0.2(âˆ’50)=20.",
+    "explanation": "0.3(100)+0.5(0)+0.2(−50)=20.",
     "incorrectChoiceExplanations": [
       "10 subtracts too much.",
       "30 omits the loss state.",
@@ -817,7 +817,7 @@
     "officialLearningOutcome": "Apply probability trees, Bayes formula, odds, expected value, and random-variable variance.",
     "difficulty": "hard",
     "estimatedSeconds": 90,
-    "stem": "For returns 10% (.6) and âˆ’4% (.4), variance is:",
+    "stem": "For returns 10% (.6) and −4% (.4), variance is:",
     "choices": [
       "0.068600",
       "0.044000",
@@ -855,7 +855,7 @@
       "8.40%"
     ],
     "correctChoiceIndex": 0,
-    "explanation": "âˆš0.004704=0.06859, or 6.86%.",
+    "explanation": "√0.004704=0.06859, or 6.86%.",
     "incorrectChoiceExplanations": [
       "Correct.",
       "This treats variance as a percentage directly.",
@@ -918,7 +918,7 @@
       "0.50"
     ],
     "correctChoiceIndex": 2,
-    "explanation": "0.006/(0.10Ã—0.12)=0.50.",
+    "explanation": "0.006/(0.10×0.12)=0.50.",
     "incorrectChoiceExplanations": [
       "0.05 divides by only one standard deviation incorrectly.",
       "0.72 multiplies inconsistent terms.",
@@ -944,12 +944,12 @@
     "estimatedSeconds": 45,
     "stem": "Correlation must lie between:",
     "choices": [
-      "âˆ’1 and +1",
+      "−1 and +1",
       "0 and +1",
-      "âˆ’100 and +100"
+      "−100 and +100"
     ],
     "correctChoiceIndex": 0,
-    "explanation": "Correlation is standardized to the closed interval [âˆ’1,1].",
+    "explanation": "Correlation is standardized to the closed interval [−1,1].",
     "incorrectChoiceExplanations": [
       "Correct.",
       "Negative correlation is possible.",

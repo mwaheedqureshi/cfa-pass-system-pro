@@ -11,7 +11,7 @@ export const officialFsaModules:OfficialFsaModule[]=[
  {id:'FSA-LM9',order:9,title:'Analysis of Income Taxes',studyLessonId:'fsa-09-analysis-of-income-taxes',status:'verified'},
  {id:'FSA-LM10',order:10,title:'Financial Reporting Quality',studyLessonId:'fsa-10-financial-reporting-quality',status:'verified'},
  {id:'FSA-LM11',order:11,title:'Financial Analysis Techniques',studyLessonId:'fsa-11-financial-analysis-techniques',status:'verified'},
- {id:'FSA-LM12',order:12,title:'Introduction to Financial Statement Modeling',studyLessonId:null,status:'pending'}
+ {id:'FSA-LM12',order:12,title:'Introduction to Financial Statement Modeling',studyLessonId:'fsa-12-introduction-to-financial-statement-modeling',status:'verified'}
 ];
 export const officialFsaModuleCount=officialFsaModules.length;
 export const verifiedOfficialFsaModules=officialFsaModules.filter(m=>m.status==='verified');

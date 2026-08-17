@@ -9,7 +9,7 @@
     },
     "intuition": "The long-run proportion of ones equals p.",
     "workedExample": "With p=0.30, E(X)=0.30.",
-    "commonMistake": "Using 1âˆ’p as the mean.",
+    "commonMistake": "Using 1−p as the mean.",
     "relatedLessonId": "quant-probability-06",
     "relatedLearningOutcome": "Distinguish and apply common discrete and continuous probability distributions.",
     "tags": [
@@ -24,14 +24,14 @@
   {
     "id": "bernoulli-variance-07",
     "name": "Bernoulli variance",
-    "expression": "Var(X) = p(1âˆ’p)",
+    "expression": "Var(X) = p(1−p)",
     "meaning": "Dispersion of a 0/1 trial.",
     "variables": {
       "p": "success probability"
     },
     "intuition": "Uncertainty is zero at p=0 or 1 and greatest at p=0.5.",
     "workedExample": "p=0.4 gives variance 0.24.",
-    "commonMistake": "Using pÂ².",
+    "commonMistake": "Using p².",
     "relatedLessonId": "quant-probability-06",
     "relatedLearningOutcome": "Distinguish and apply common discrete and continuous probability distributions.",
     "tags": [
@@ -46,7 +46,7 @@
   {
     "id": "binomial-probability-07",
     "name": "Binomial probability",
-    "expression": "P(X=x) = C(n,x)p^x(1âˆ’p)^(nâˆ’x)",
+    "expression": "P(X=x) = C(n,x)p^x(1−p)^(n−x)",
     "meaning": "Probability of exactly x successes.",
     "variables": {
       "n": "number of trials",
@@ -94,7 +94,7 @@
   {
     "id": "binomial-variance-07",
     "name": "Binomial variance",
-    "expression": "Var(X) = np(1âˆ’p)",
+    "expression": "Var(X) = np(1−p)",
     "meaning": "Variance of a binomial count.",
     "variables": {
       "n": "number of trials",
@@ -125,7 +125,7 @@
     },
     "intuition": "Symmetry centers the distribution at the midpoint.",
     "workedExample": "Uniform 2 to 8 has mean 5.",
-    "commonMistake": "Using (bâˆ’a)/2.",
+    "commonMistake": "Using (b−a)/2.",
     "relatedLessonId": "quant-probability-06",
     "relatedLearningOutcome": "Distinguish and apply common discrete and continuous probability distributions.",
     "tags": [
@@ -140,7 +140,7 @@
   {
     "id": "continuous-uniform-variance-07",
     "name": "Continuous uniform variance",
-    "expression": "Var(X) = (bâˆ’a)^2/12",
+    "expression": "Var(X) = (b−a)^2/12",
     "meaning": "Dispersion of a continuous uniform variable.",
     "variables": {
       "a": "lower bound",
@@ -163,7 +163,7 @@
   {
     "id": "z-score-07",
     "name": "Z-score",
-    "expression": "z = (xâˆ’Î¼)/Ïƒ",
+    "expression": "z = (x−μ)/σ",
     "meaning": "Signed standardized distance from the mean.",
     "variables": {
       "x": "observation",
@@ -212,7 +212,7 @@
   {
     "id": "normal-probability-07",
     "name": "Normal interval probability",
-    "expression": "P(aâ‰¤Xâ‰¤b) = Î¦((bâˆ’Î¼)/Ïƒ) âˆ’ Î¦((aâˆ’Î¼)/Ïƒ)",
+    "expression": "P(a≤X≤b) = Φ((b−μ)/σ) − Φ((a−μ)/σ)",
     "meaning": "Normal probability between two bounds.",
     "variables": {
       "Î¦": "standard normal CDF",
@@ -222,7 +222,7 @@
       "Ïƒ": "standard deviation"
     },
     "intuition": "Standardize each bound and subtract cumulative areas.",
-    "workedExample": "For z bounds âˆ’1 and 1, probability is about .6827.",
+    "workedExample": "For z bounds −1 and 1, probability is about .6827.",
     "commonMistake": "Adding the two CDF values.",
     "relatedLessonId": "quant-probability-06",
     "relatedLearningOutcome": "Standardize normal variables and interpret normal and lognormal probabilities.",
@@ -246,7 +246,7 @@
       "exp": "exponential function"
     },
     "intuition": "Exponentiation maps every real Y to a positive X.",
-    "workedExample": "Y=.08 gives X=e^.08â‰ˆ1.0833.",
+    "workedExample": "Y=.08 gives X=e^.08≈1.0833.",
     "commonMistake": "Claiming X is symmetric.",
     "relatedLessonId": "quant-probability-06",
     "relatedLearningOutcome": "Standardize normal variables and interpret normal and lognormal probabilities.",
@@ -262,7 +262,7 @@
   {
     "id": "student-t-statistic-07",
     "name": "One-sample Student's t statistic",
-    "expression": "t = (xÌ„âˆ’Î¼0)/(s/âˆšn)",
+    "expression": "t = (x̄−μ0)/(s/√n)",
     "meaning": "Standardized sample-mean difference when Ïƒ is unknown.",
     "variables": {
       "xÌ„": "sample mean",
@@ -272,7 +272,7 @@
     },
     "intuition": "Measures the mean gap in estimated standard-error units.",
     "workedExample": "A gap of 4 and SE of 2 gives t=2.",
-    "commonMistake": "Using n rather than âˆšn.",
+    "commonMistake": "Using n rather than √n.",
     "relatedLessonId": "quant-sampling-08",
     "relatedLearningOutcome": "explain the central limit theorem and the application of confidence intervals and sampling methodologies",
     "tags": [
@@ -290,7 +290,7 @@
   {
     "id": "standard-error-08",
     "name": "Standard error of the sample mean",
-    "expression": "SE(xÌ„) = Ïƒ/âˆšn, estimated by s/âˆšn",
+    "expression": "SE(xÌ„) = σ/√n, estimated by s/√n",
     "meaning": "Sampling standard deviation of the sample mean.",
     "variables": {
       "Ïƒ": "population standard deviation",
@@ -314,7 +314,7 @@
   {
     "id": "z-confidence-interval-08",
     "name": "Confidence interval with known variance",
-    "expression": "xÌ„ Â± z*Ïƒ/âˆšn",
+    "expression": "xÌ„ ± z*σ/√n",
     "meaning": "Mean interval when population standard deviation is known.",
     "variables": {
       "xÌ„": "sample mean",
@@ -339,11 +339,11 @@
   {
     "id": "t-confidence-interval-08",
     "name": "Confidence interval with unknown variance",
-    "expression": "xÌ„ Â± t* s/âˆšn",
+    "expression": "xÌ„ ± t* s/√n",
     "meaning": "Mean interval using estimated population spread.",
     "variables": {
       "xÌ„": "sample mean",
-      "t*": "t critical value with nâˆ’1 df",
+      "t*": "t critical value with n−1 df",
       "s": "sample standard deviation",
       "n": "sample size"
     },
@@ -364,14 +364,14 @@
   {
     "id": "margin-of-error-08",
     "name": "Margin of error",
-    "expression": "ME = critical value Ã— SE",
+    "expression": "ME = critical value × SE",
     "meaning": "Half-width of a symmetric confidence interval.",
     "variables": {
       "critical value": "z* or t*",
       "SE": "standard error"
     },
     "intuition": "Coverage cutoff multiplied by sampling spread determines interval reach.",
-    "workedExample": "1.96Ã—2=3.92.",
+    "workedExample": "1.96×2=3.92.",
     "commonMistake": "Calling the full interval width the margin.",
     "relatedLessonId": "quant-sampling-08",
     "relatedLearningOutcome": "Calculate and interpret confidence intervals for a population mean using Z or Student's t.",
@@ -387,7 +387,7 @@
   {
     "id": "degrees-freedom-08",
     "name": "One-sample t degrees of freedom (confidence intervals)",
-    "expression": "df = nâˆ’1",
+    "expression": "df = n−1",
     "meaning": "Degrees of freedom for a one-sample mean using sample variance.",
     "variables": {
       "df": "degrees of freedom",

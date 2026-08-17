@@ -1,0 +1,9 @@
+import {readdir,readFile,writeFile} from 'node:fs/promises';import {extname,join} from 'node:path';
+const roots=['src','public/content','scripts','docs'];const rootFiles=['README.md','PROJECT_MASTER.md','PROJECT_STATUS.md','CURRICULUM_MASTER.md','ROADMAP.md','KNOWN_ISSUES.md','RELEASE_CHECKLIST.md'];const extensions=new Set(['.ts','.tsx','.js','.mjs','.json','.md']);
+async function walk(dir){const out=[];for(const entry of await readdir(dir,{withFileTypes:true})){const path=join(dir,entry.name);if(entry.isDirectory())out.push(...await walk(path));else if(extensions.has(extname(path)))out.push(path)}return out}
+const decoder=new TextDecoder('windows-1252'),utf8=new TextDecoder('utf-8',{fatal:true}),inverse=new Map();for(let byte=0;byte<256;byte++)inverse.set(decoder.decode(Uint8Array.of(byte)),byte);
+const suspicious=/[\u00c3\u00c2\u00e2]|\ufffd/g;function score(s){return(s.match(suspicious)??[]).length}
+function onePass(s){const bytes=[];for(const ch of s){const byte=inverse.get(ch);if(byte===undefined)return s;bytes.push(byte)}try{return utf8.decode(Uint8Array.from(bytes))}catch{return s}}
+function repairSegment(segment){let current=segment;for(let i=0;i<6;i++){const next=onePass(current);if(next===current||score(next)>score(current))break;current=next;if(score(current)===0)break}return current}
+function repair(text){return text.split(/(\s+)/).map(part=>score(part)?repairSegment(part):part).join('')}
+const files=[...(await Promise.all(roots.map(walk))).flat(),...rootFiles];let changedFiles=0,removedMarkers=0;for(const file of files){const before=await readFile(file,'utf8'),beforeScore=score(before),after=repair(before),afterScore=score(after);if(after!==before){await writeFile(file,after,'utf8');changedFiles++;removedMarkers+=beforeScore-afterScore;console.log(`${file}: ${beforeScore} -> ${afterScore}`)}}console.log(JSON.stringify({changedFiles,removedMojibakeMarkers:removedMarkers}));

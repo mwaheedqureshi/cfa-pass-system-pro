@@ -1,0 +1,622 @@
+[
+  {
+    "id": "fsa-lm12-fc-001",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Sales-based model starting point",
+    "back": "Forecast price and volume or sales growth, then derive operating line items and linked statement balances.",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-002",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Sales growth equation",
+    "back": "Sales_t = Sales_(t−1) × (1 + growth_t).",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-003",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Price-volume identity",
+    "back": "Revenue = price × volume.",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-004",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Exact price-volume growth",
+    "back": "(1 + price change)(1 + volume change) − 1.",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-005",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Percent-of-sales forecast",
+    "back": "Projected line item = projected sales × justified common-size assumption.",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-006",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Operating forecast sequence",
+    "back": "Revenue → costs → EBIT → financing → pretax income → tax → net income.",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-007",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Financing-cost convention",
+    "back": "State whether beginning, ending, or average debt is used; transparent beginning debt can avoid circularity.",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-008",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Tax forecast convention",
+    "back": "Apply an expected effective rate to pretax income only when that rate is economically justified.",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-009",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "DSO to receivables",
+    "back": "Projected receivables = DSO × projected revenue ÷ days in period.",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-010",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Inventory days to inventory",
+    "back": "Projected inventory = inventory days × projected COGS ÷ days in period.",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-011",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Payable days to payables",
+    "back": "Projected payables = payable days × projected COGS ÷ days in period.",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-012",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "PP&E roll-forward",
+    "back": "Ending net PP&E = beginning net PP&E + capex − D&A − disposals/impairment.",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-013",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Retained earnings roll-forward",
+    "back": "Ending retained earnings = beginning retained earnings + net income − dividends.",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-014",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Cash roll-forward",
+    "back": "Ending cash = beginning cash + CFO + CFI + CFF.",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-015",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Balance check",
+    "back": "Projected assets must equal projected liabilities plus equity within disclosed rounding tolerance.",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-016",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Stock versus flow input",
+    "back": "Revenue and expenses cover a period; assets, liabilities, and equity are point-in-time balances.",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-017",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Beginning-balance convention",
+    "back": "Uses a known balance and prevents a forecast output from feeding back into its own input.",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative reinforcement within verified LM12 scope."
+  },
+  {
+    "id": "fsa-lm12-fc-018",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Average-balance convention",
+    "back": "Can better align a period flow with capital employed, but may require a sequencing approximation.",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative reinforcement within verified LM12 scope."
+  },
+  {
+    "id": "fsa-lm12-fc-019",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Historical analysis versus model construction",
+    "back": "LM11 derives and interprets historical ratios; LM12 converts assumptions into linked projected statements.",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative reinforcement within verified LM12 scope."
+  },
+  {
+    "id": "fsa-lm12-fc-020",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Model documentation",
+    "back": "Record sources, timing, normalization, conventions, scenarios, and checks.",
+    "officialLearningOutcome": "demonstrate the development of a sales-based pro forma company model",
+    "tags": [
+      "financial statement modeling",
+      "LOS 1"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative reinforcement within verified LM12 scope."
+  },
+  {
+    "id": "fsa-lm12-fc-021",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Overconfidence",
+    "back": "Excessive certainty or an unjustifiably narrow forecast range.",
+    "officialLearningOutcome": "explain how behavioral factors affect analyst forecasts and recommend remedial actions for analyst biases",
+    "tags": [
+      "financial statement modeling",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-022",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Illusion of knowledge",
+    "back": "Believing more information necessarily produces a more accurate forecast.",
+    "officialLearningOutcome": "explain how behavioral factors affect analyst forecasts and recommend remedial actions for analyst biases",
+    "tags": [
+      "financial statement modeling",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-023",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Confirmation bias",
+    "back": "Seeking supporting evidence and discounting contradictory evidence.",
+    "officialLearningOutcome": "explain how behavioral factors affect analyst forecasts and recommend remedial actions for analyst biases",
+    "tags": [
+      "financial statement modeling",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-024",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Availability bias",
+    "back": "Overweighting information that is vivid or easy to recall.",
+    "officialLearningOutcome": "explain how behavioral factors affect analyst forecasts and recommend remedial actions for analyst biases",
+    "tags": [
+      "financial statement modeling",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-025",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Representativeness",
+    "back": "Judging from superficial similarity to a small or memorable sample.",
+    "officialLearningOutcome": "explain how behavioral factors affect analyst forecasts and recommend remedial actions for analyst biases",
+    "tags": [
+      "financial statement modeling",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-026",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Base-rate neglect",
+    "back": "Ignoring relevant reference-class frequencies.",
+    "officialLearningOutcome": "explain how behavioral factors affect analyst forecasts and recommend remedial actions for analyst biases",
+    "tags": [
+      "financial statement modeling",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-027",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Escalation of commitment",
+    "back": "Maintaining a forecast because of past effort rather than current evidence.",
+    "officialLearningOutcome": "explain how behavioral factors affect analyst forecasts and recommend remedial actions for analyst biases",
+    "tags": [
+      "financial statement modeling",
+      "LOS 2"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative reinforcement within verified LM12 scope."
+  },
+  {
+    "id": "fsa-lm12-fc-028",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Scenario remedy",
+    "back": "Document multiple plausible assumption sets, ranges, and disconfirming evidence.",
+    "officialLearningOutcome": "explain how behavioral factors affect analyst forecasts and recommend remedial actions for analyst biases",
+    "tags": [
+      "financial statement modeling",
+      "LOS 2"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative reinforcement within verified LM12 scope."
+  },
+  {
+    "id": "fsa-lm12-fc-029",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Threat of entry",
+    "back": "Entry barriers affect how durable incumbent prices and margins may be.",
+    "officialLearningOutcome": "explain how the competitive position of a company based on a Porter's five forces analysis affects prices and costs",
+    "tags": [
+      "financial statement modeling",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-030",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Threat of substitutes",
+    "back": "Alternatives constrain price, volume, and customer retention.",
+    "officialLearningOutcome": "explain how the competitive position of a company based on a Porter's five forces analysis affects prices and costs",
+    "tags": [
+      "financial statement modeling",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-031",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Supplier power",
+    "back": "Powerful suppliers can raise input costs or tighten terms.",
+    "officialLearningOutcome": "explain how the competitive position of a company based on a Porter's five forces analysis affects prices and costs",
+    "tags": [
+      "financial statement modeling",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-032",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Buyer power",
+    "back": "Powerful customers can pressure prices, terms, and service costs.",
+    "officialLearningOutcome": "explain how the competitive position of a company based on a Porter's five forces analysis affects prices and costs",
+    "tags": [
+      "financial statement modeling",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-033",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Industry rivalry",
+    "back": "Competition can affect price, volume, advertising, capacity, and margin.",
+    "officialLearningOutcome": "explain how the competitive position of a company based on a Porter's five forces analysis affects prices and costs",
+    "tags": [
+      "financial statement modeling",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-034",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Five forces in forecasts",
+    "back": "Translate qualitative structure into explicit, reviewable price, cost, volume, and investment assumptions.",
+    "officialLearningOutcome": "explain how the competitive position of a company based on a Porter's five forces analysis affects prices and costs",
+    "tags": [
+      "financial statement modeling",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-035",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Growth versus value capture",
+    "back": "Fast industry growth does not guarantee company profitability when competition captures the economics.",
+    "officialLearningOutcome": "explain how the competitive position of a company based on a Porter's five forces analysis affects prices and costs",
+    "tags": [
+      "financial statement modeling",
+      "LOS 3"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative reinforcement within verified LM12 scope."
+  },
+  {
+    "id": "fsa-lm12-fc-036",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Nominal revenue growth",
+    "back": "Combine real volume and price change; do not confuse nominal sales with real activity.",
+    "officialLearningOutcome": "explain how to forecast industry and company sales and costs when they are subject to price inflation or deflation",
+    "tags": [
+      "financial statement modeling",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-037",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Price-volume compounding",
+    "back": "Exact growth includes the cross-product: (1+p)(1+v)−1.",
+    "officialLearningOutcome": "explain how to forecast industry and company sales and costs when they are subject to price inflation or deflation",
+    "tags": [
+      "financial statement modeling",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-038",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Cost pass-through",
+    "back": "Model how much input inflation reaches selling prices and with what lag.",
+    "officialLearningOutcome": "explain how to forecast industry and company sales and costs when they are subject to price inflation or deflation",
+    "tags": [
+      "financial statement modeling",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-039",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Inflation timing",
+    "back": "Inventory turns, contracts, and repricing cycles can delay income-statement effects.",
+    "officialLearningOutcome": "explain how to forecast industry and company sales and costs when they are subject to price inflation or deflation",
+    "tags": [
+      "financial statement modeling",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-040",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Deflation and elasticity",
+    "back": "Lower prices may increase volume, but the demand response must be estimated.",
+    "officialLearningOutcome": "explain how to forecast industry and company sales and costs when they are subject to price inflation or deflation",
+    "tags": [
+      "financial statement modeling",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-041",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Fixed-cost effect",
+    "back": "With fixed costs unchanged, higher nominal revenue can increase operating leverage.",
+    "officialLearningOutcome": "explain how to forecast industry and company sales and costs when they are subject to price inflation or deflation",
+    "tags": [
+      "financial statement modeling",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-042",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Top-down forecast",
+    "back": "Begin with macro/industry demand, then estimate company share and pricing.",
+    "officialLearningOutcome": "explain how to forecast industry and company sales and costs when they are subject to price inflation or deflation",
+    "tags": [
+      "financial statement modeling",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-043",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Bottom-up forecast",
+    "back": "Aggregate operational drivers such as units, customers, capacity, locations, and prices.",
+    "officialLearningOutcome": "explain how to forecast industry and company sales and costs when they are subject to price inflation or deflation",
+    "tags": [
+      "financial statement modeling",
+      "LOS 4"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative reinforcement within verified LM12 scope."
+  },
+  {
+    "id": "fsa-lm12-fc-044",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Inflation modeling checklist",
+    "back": "Separate price, volume, input cost, pass-through, timing, elasticity, and mix.",
+    "officialLearningOutcome": "explain how to forecast industry and company sales and costs when they are subject to price inflation or deflation",
+    "tags": [
+      "financial statement modeling",
+      "LOS 4"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative reinforcement within verified LM12 scope."
+  },
+  {
+    "id": "fsa-lm12-fc-045",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Explicit horizon",
+    "back": "Detailed projection period long enough to capture material change and approach sustainable conditions.",
+    "officialLearningOutcome": "explain considerations in the choice of an explicit forecast horizon and an analyst's choices in developing projections beyond the short-term forecast horizon",
+    "tags": [
+      "financial statement modeling",
+      "LOS 5"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-046",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Cyclicality and normalization",
+    "back": "Do not use a temporary peak or trough as a stable long-run base.",
+    "officialLearningOutcome": "explain considerations in the choice of an explicit forecast horizon and an analyst's choices in developing projections beyond the short-term forecast horizon",
+    "tags": [
+      "financial statement modeling",
+      "LOS 5"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-047",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Investment-cycle horizon",
+    "back": "Capture construction, ramp-up, utilization, and mature economics of material projects.",
+    "officialLearningOutcome": "explain considerations in the choice of an explicit forecast horizon and an analyst's choices in developing projections beyond the short-term forecast horizon",
+    "tags": [
+      "financial statement modeling",
+      "LOS 5"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-048",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Beyond-horizon convergence",
+    "back": "Move growth, margins, and reinvestment toward economically sustainable levels.",
+    "officialLearningOutcome": "explain considerations in the choice of an explicit forecast horizon and an analyst's choices in developing projections beyond the short-term forecast horizon",
+    "tags": [
+      "financial statement modeling",
+      "LOS 5"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-049",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Terminal-year consistency",
+    "back": "The final explicit year should be internally consistent with the long-term assumptions it anchors.",
+    "officialLearningOutcome": "explain considerations in the choice of an explicit forecast horizon and an analyst's choices in developing projections beyond the short-term forecast horizon",
+    "tags": [
+      "financial statement modeling",
+      "LOS 5"
+    ]
+  },
+  {
+    "id": "fsa-lm12-fc-050",
+    "lessonId": "fsa-12-introduction-to-financial-statement-modeling",
+    "topicId": "financial-statement-analysis",
+    "front": "Scenario versus sensitivity",
+    "back": "A scenario changes a coherent assumption set; sensitivity often isolates one input.",
+    "officialLearningOutcome": "explain considerations in the choice of an explicit forecast horizon and an analyst's choices in developing projections beyond the short-term forecast horizon",
+    "tags": [
+      "financial statement modeling",
+      "LOS 5"
+    ],
+    "supplementary": true,
+    "supplementaryReason": "Additional integrative reinforcement within verified LM12 scope."
+  }
+]

@@ -243,7 +243,7 @@
     "id": "fc09-16",
     "lessonId": "quant-hypothesis-09",
     "front": "Known-variance mean statistic",
-    "back": "z=(xÌ„âˆ’Î¼0)/(Ïƒ/âˆšn).",
+    "back": "z=(x̄−μ0)/(σ/√n).",
     "tags": [
       "hypothesis-testing",
       "application"
@@ -258,7 +258,7 @@
     "id": "fc09-17",
     "lessonId": "quant-hypothesis-09",
     "front": "Unknown-variance mean statistic",
-    "back": "t=(xÌ„âˆ’Î¼0)/(s/âˆšn).",
+    "back": "t=(x̄−μ0)/(s/√n).",
     "tags": [
       "hypothesis-testing",
       "application"
@@ -273,7 +273,7 @@
     "id": "fc09-18",
     "lessonId": "quant-hypothesis-09",
     "front": "One-sample t degrees of freedom (hypothesis tests)",
-    "back": "nâˆ’1.",
+    "back": "n−1.",
     "tags": [
       "hypothesis-testing",
       "application"
@@ -348,7 +348,7 @@
     "id": "fc09-23",
     "lessonId": "quant-hypothesis-09",
     "front": "Power",
-    "back": "Probability of rejecting H0 at a specified false-null alternative; 1âˆ’Î².",
+    "back": "Probability of rejecting H0 at a specified false-null alternative; 1−β.",
     "tags": [
       "hypothesis-testing",
       "application"
@@ -468,7 +468,7 @@
     "id": "fc09-31",
     "lessonId": "quant-hypothesis-09",
     "front": "Upper-tail p-value",
-    "back": "1âˆ’CDF(test statistic).",
+    "back": "1−CDF(test statistic).",
     "tags": [
       "hypothesis-testing",
       "application"

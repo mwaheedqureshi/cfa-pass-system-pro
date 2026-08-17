@@ -33,8 +33,8 @@ Roadmap entries define release boundaries, not permission to implement later wor
 | v1.8.9 | FSA Module Production Sprint 9 | Complete: FSA-LM9 Analysis of Income Taxes — 30 official + 10 supplementary questions/flashcards, 8 formulas, 8 original exhibits, 2 tools |
 | v1.8.10 | FSA Module Production Sprint 10 | Complete: FSA-LM10 Financial Reporting Quality — 35 official + 10 supplementary questions/flashcards, 1 metric, 10 original exhibits, 2 tools |
 | v1.8.11 | FSA Module Production Sprint 11 | Complete: FSA-LM11 Financial Analysis Techniques — 55 official + 10 supplementary questions/flashcards, 20 formulas, 12 original exhibits, 2 tools |
-| v1.8.12 | FSA Module Production Sprint 12 | FSA-LM12 Introduction to Financial Statement Modeling — completes all 12 of 12 official FSA modules |
-| v1.8.13 | FSA Full Verification and Content Freeze | Certify all 12 FSA modules together and mark the topic content-frozen, mirroring the v1.6.6 Quantitative and v1.7.9 Economics certifications |
+| v1.8.12 | FSA Module Production Sprint 12 and Full Certification | Complete: FSA-LM12 produced with 40 official + 10 supplementary questions/flashcards, 6 formulas, 12 exhibits, and 2 tools; all 12 FSA modules and 53 LOS aggregate-certified; encoding audit completed; FSA verified and content-frozen |
+| v1.8.13 | FSA Full Verification and Content Freeze | Superseded: the explicitly required aggregate certification was completed within v1.8.12 |
 | v2.0 | Economics | Superseded — Economics was completed and certified across v1.7.0-v1.7.9 rather than as a single v2.0 milestone; row retained for historical sequencing only |
 | v3.0 | Financial Statement Analysis | Superseded — FSA is planned to complete across v1.8.0-v1.8.13 rather than as a single v3.0 milestone, mirroring the Economics sequencing; row retained for historical sequencing only |
 | v4.0 | Corporate Issuers | Complete the Corporate Issuers topic |

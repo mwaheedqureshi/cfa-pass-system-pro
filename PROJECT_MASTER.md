@@ -12,14 +12,9 @@ Build a reliable, premium-quality study system in deliberate, verifiable release
 
 ## Release state
 
-- **Current release:** v1.8.11 — FSA Module Production Sprint 11 (FSA-LM11 Financial Analysis Techniques)
-- **Current status:** FSA-LM1 through FSA-LM11 are produced and content-verified. FSA-LM11 delivers all six official LOS with 18 original examples, 12 original exhibits, 65 questions and flashcards (55 official-target/10 supplementary), 20 audited LM11-owned formulas/metrics, 2 tested tools, and complete application integration. FSA completion is 11 of 12 (91.7%); LM12 remains mapping-only.
-- **Next release:** FSA Module Production Sprint 12 — FSA-LM12
-
-- **Current version:** v1.8.11 — FSA Module Production Sprint 11
-- **Current sprint:** FSA-LM11 produced and verified.
-- **Next sprint:** FSA-LM12 production; not begun in v1.8.11.
-- **Long-term roadmap:** See `ROADMAP.md`.
+- **Current release:** v1.8.12 — FSA Module Production Sprint 12 and aggregate certification
+- **Current status:** Financial Statement Analysis is verified and content-frozen across all 12 official modules and all 53 LOS. The final FSA inventory is 595 questions and flashcards (475 official/120 supplementary), 110 formulas/metrics, 21 tools, and 12 chapter exams. This completes FSA only; the remaining Level I topics are still pending.
+- **Next release:** Requires separate authorization; do not infer Corporate Issuers production from FSA completion.
 
 ## Current repository statistics
 

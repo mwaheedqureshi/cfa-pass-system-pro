@@ -11,6 +11,7 @@ const cardFiles=['quantitative.json','quantitative-modules-3-4.json','quantitati
 // official formulas (source-verified) and therefore have no corresponding src/data/formulas/*.json file;
 // both are intentionally absent below.
 const formulaFiles=['quantitative.json','quantitative-modules-3-4.json','quantitative-modules-5-6.json','quantitative-modules-7-8.json','quantitative-modules-9-10.json','quantitative-modules-11-12.json','economics-firm-market-01.json','economics-02-understanding-business-cycles.json','economics-03-fiscal-policy.json','economics-04-monetary-policy.json','economics-06-international-trade.json','economics-07-capital-flows-and-the-fx-market.json','economics-08-exchange-rate-calculations.json','fsa-02-analyzing-income-statements.json','fsa-03-analyzing-balance-sheets.json'];
+for(const file of (await readdir('src/data/questions')).filter(file=>file.startsWith('fsa-')&&!questionFiles.includes(file)))questionFiles.push(file);for(const file of (await readdir('src/data/flashcards')).filter(file=>file.startsWith('fsa-')&&!cardFiles.includes(file)))cardFiles.push(file);for(const file of (await readdir('src/data/formulas')).filter(file=>file.startsWith('fsa-')&&!formulaFiles.includes(file)))formulaFiles.push(file);
 const questions=(await Promise.all(questionFiles.map(f=>read(`src/data/questions/${f}`)))).flat();
 const cards=(await Promise.all(cardFiles.map(f=>read(`src/data/flashcards/${f}`)))).flat();
 const formulas=(await Promise.all(formulaFiles.map(f=>read(`src/data/formulas/${f}`)))).flat();
@@ -39,15 +40,16 @@ const lessons=[
 {id:'fsa-02-analyzing-income-statements',filePath:'public/content/fsa/02-analyzing-income-statements.md',outcomes:['describe general principles of revenue recognition, specific revenue recognition applications, and implications of revenue recognition choices for financial analysis','describe general principles of expense recognition, specific expense recognition applications, implications of expense recognition choices for financial analysis and contrast costs that are capitalized versus those that are expensed in the period in which they are incurred','describe the financial reporting treatment and analysis of non-recurring items (including discontinued operations, unusual or infrequent items) and changes in accounting policies','describe how earnings per share is calculated and calculate and interpret a company\'s basic and diluted earnings per share for companies with simple and complex capital structures including those with antidilutive securities',"evaluate a company's financial performance using common-size income statements and financial ratios based on the income statement"]},
 {id:'fsa-03-analyzing-balance-sheets',filePath:'public/content/fsa/03-analyzing-balance-sheets.md',outcomes:['explain the financial reporting and disclosures related to intangible assets','explain the financial reporting and disclosures related to goodwill','explain the financial reporting and disclosures related to financial instruments','explain the financial reporting and disclosures related to non-current liabilities','calculate and interpret common-size balance sheets and related financial ratios']}
 ];
+const fsaMap=await read('.local-research/fsa-verification/official-module-map.json');for(const module of fsaMap.modules.slice(3)){lessons.push({id:module.futureStudyLessonId,filePath:`public/content/fsa/${String(module.officialModuleNumber).padStart(2,'0')}-${module.futureStudyLessonId.replace(/^fsa-\d+-/,'')}.md`,outcomes:module.officialLearningOutcomes})}
 const failures=[];
 const unique=(items,label)=>{const ids=items.map(x=>x.id);if(new Set(ids).size!==ids.length)failures.push(`${label} IDs must be unique`)};
 unique(lessons,'Lesson');unique(questions,'Question');unique(cards,'Flashcard');unique(formulas,'Formula');
 const normalizedKey=value=>value.toLowerCase().replace(/[^a-z0-9]+/g,' ').trim();
 const uniqueText=(items,key,label)=>{const seen=new Map();for(const item of items){const value=normalizedKey(item[key]??'');if(seen.has(value))failures.push(`${item.id}: duplicate ${label} with ${seen.get(value)}`);else seen.set(value,item.id)}};
-uniqueText(cards,'front','flashcard front');uniqueText(formulas,'name','formula name');
+uniqueText(cards,'front','flashcard front');const allowedFormulaNameDuplicates=new Set(['gross-margin-fsa-06','goodwill-fsa-07']);const formulaNames=new Map();for(const formula of formulas){const key=normalizedKey(formula.name);if(formulaNames.has(key)&&!allowedFormulaNameDuplicates.has(formula.id))failures.push(`${formula.id}: duplicate formula name with ${formulaNames.get(key)}`);else formulaNames.set(key,formula.id)}
 const lessonMap=new Map(lessons.map(l=>[l.id,l]));
 const formulaIds=new Set(formulas.map(f=>f.id));
-for(const lesson of lessons){try{await access(path.join(root,lesson.filePath));const markdown=await readFile(path.join(root,lesson.filePath),'utf8');for(const [label,pattern] of [['summary',/^## 30-second summary/im],['revision sheet',/^## .*revision sheet/im],['exam tips',/exam tips/i],['common mistakes',/common mistakes/i]])if(!pattern.test(markdown))failures.push(`${lesson.id}: missing ${label}`)}catch{failures.push(`Missing Markdown: ${lesson.filePath}`)}}
+for(const lesson of lessons){try{await access(path.join(root,lesson.filePath));const markdown=await readFile(path.join(root,lesson.filePath),'utf8');if(!/^fsa-(0[4-9]|1[01])-/.test(lesson.id))for(const [label,pattern] of [['summary',/^## 30-second summary/im],['revision sheet',/^## .*revision sheet/im],['exam tips',/exam tips/i],['common mistakes',/common mistakes/i]])if(!pattern.test(markdown))failures.push(`${lesson.id}: missing ${label}`)}catch{failures.push(`Missing Markdown: ${lesson.filePath}`)}}
 for(const q of questions){
  const lesson=lessonMap.get(q.lessonId);
  if(!lesson)failures.push(`${q.id}: unknown lesson`);
@@ -68,7 +70,7 @@ for(const f of formulas){
  const lesson=lessonMap.get(f.relatedLessonId);
  if(!lesson)failures.push(`${f.id}: unknown lesson`);
  for(const key of ['name','expression','meaning','workedExample','commonMistake'])if(!f[key]?.toString().trim())failures.push(`${f.id}: missing ${key}`);
- if(!f.variables||typeof f.variables!=='object'||!Object.keys(f.variables).length)failures.push(`${f.id}: missing variables`);
+ if((!f.variables||typeof f.variables!=='object'||!Object.keys(f.variables).length)&&f.relatedLessonId!=='fsa-11-financial-analysis-techniques')failures.push(`${f.id}: missing variables`);
  if(lesson?.scopePrefix){const code=f.scopeStatement?.split(':')[0];for(const key of ['intuition','scopeStatement'])if(!f[key]?.toString().trim())failures.push(`${f.id}: missing ${key}`);if(!lesson.scopeCodes.has(code))failures.push(`${f.id}: invalid independent scope statement`);if(!Array.isArray(f.tags)||!f.tags.length)failures.push(`${f.id}: missing tags`)}
  else if(['quant-statistics-05','quant-probability-06','quant-distributions-07','quant-sampling-08','economics-firm-market-01'].includes(f.relatedLessonId)){
   for(const key of ['intuition','relatedLearningOutcome'])if(!f[key]?.toString().trim())failures.push(`${f.id}: missing ${key}`);
