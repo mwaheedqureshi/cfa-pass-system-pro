@@ -1,0 +1,977 @@
+[
+  {
+    "id": "ci-lm6-fc-001",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "calculate and interpret the weighted-average cost of capital for a company",
+    "supplementary": false,
+    "front": "WACC purpose",
+    "back": "Blends required returns on financing sources using capital weights.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-002",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "calculate and interpret the weighted-average cost of capital for a company",
+    "supplementary": false,
+    "front": "Debt component",
+    "back": "Weight of debt × pretax debt cost × (1 − tax rate), when interest is deductible.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-003",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "calculate and interpret the weighted-average cost of capital for a company",
+    "supplementary": false,
+    "front": "After-tax debt cost",
+    "back": "r_d(1 − t).",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-004",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "calculate and interpret the weighted-average cost of capital for a company",
+    "supplementary": false,
+    "front": "Equity component",
+    "back": "Weight of equity × equity investors’ required return.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-005",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "calculate and interpret the weighted-average cost of capital for a company",
+    "supplementary": false,
+    "front": "Preferred component",
+    "back": "Add preferred weight × preferred component cost when present.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-006",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "calculate and interpret the weighted-average cost of capital for a company",
+    "supplementary": false,
+    "front": "Weights sum",
+    "back": "Capital-source weights must sum to 100%.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-007",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "calculate and interpret the weighted-average cost of capital for a company",
+    "supplementary": false,
+    "front": "Market weights",
+    "back": "Reflect current prices and investor opportunity costs.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-008",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "calculate and interpret the weighted-average cost of capital for a company",
+    "supplementary": false,
+    "front": "Target weights",
+    "back": "Management’s intended mix; commonly described with book values.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-009",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "calculate and interpret the weighted-average cost of capital for a company",
+    "supplementary": false,
+    "front": "D/E conversion",
+    "back": "Debt weight = (D/E)/(1 + D/E).",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-010",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "calculate and interpret the weighted-average cost of capital for a company",
+    "supplementary": false,
+    "front": "Cost of debt",
+    "back": "Debt investors’ required return, not a bond-pricing formula.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-011",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "calculate and interpret the weighted-average cost of capital for a company",
+    "supplementary": false,
+    "front": "Cost of equity",
+    "back": "Equity investors’ required return; derivation is outside this LM.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-012",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "calculate and interpret the weighted-average cost of capital for a company",
+    "supplementary": false,
+    "front": "Tax deductibility",
+    "back": "Apply (1 − t) only when interest is deductible.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-013",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "calculate and interpret the weighted-average cost of capital for a company",
+    "supplementary": false,
+    "front": "Unlevered WACC",
+    "back": "Equals equity cost because debt weight is zero.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-014",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "calculate and interpret the weighted-average cost of capital for a company",
+    "supplementary": true,
+    "front": "WACC interpretation",
+    "back": "Required return for the issuer’s capital providers at the stated mix.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-015",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "calculate and interpret the weighted-average cost of capital for a company",
+    "supplementary": true,
+    "front": "Current versus target mix",
+    "back": "Choose weights consistently with the analytical purpose.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-016",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "calculate and interpret the weighted-average cost of capital for a company",
+    "supplementary": true,
+    "front": "WACC contribution",
+    "back": "Each source contribution equals weight times applicable component cost.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-017",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": false,
+    "front": "Capital intensity",
+    "back": "More long-lived assets generally require more long-term financing.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-018",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": false,
+    "front": "Business life cycle",
+    "back": "Financing capacity and type evolve from startup through maturity and decline.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-019",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": false,
+    "front": "Startup capital",
+    "back": "Usually equity; leases or convertible debt may be available.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-020",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": false,
+    "front": "Mature issuer debt capacity",
+    "back": "Stable cash flows and assets generally support more debt.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-021",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": false,
+    "front": "Operating leverage",
+    "back": "Fixed costs ÷ total costs in the 2027 LM6 source.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-022",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": false,
+    "front": "Operating leverage effect",
+    "back": "More fixed cost magnifies profit response to revenue.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-023",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": false,
+    "front": "Interest coverage",
+    "back": "Profit before interest and taxes ÷ interest expense; canonical FSA reuse.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-024",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": false,
+    "front": "Financial leverage",
+    "back": "Contractual debt claims amplify equity outcomes and default exposure.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-025",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": false,
+    "front": "Assets/equity warning",
+    "back": "The FSA financial-leverage ratio is not operating leverage or D/E.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-026",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": false,
+    "front": "Collateral",
+    "back": "Liquid, fungible assets support borrowing capacity.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-027",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": false,
+    "front": "Sales risk",
+    "back": "Unstable revenue increases investor required returns.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-028",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": false,
+    "front": "Profitability risk",
+    "back": "High operating leverage increases profit volatility.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-029",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": false,
+    "front": "External factor",
+    "back": "Capital-market and economic conditions affect availability and cost.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-030",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": false,
+    "front": "Issuer factor",
+    "back": "Sales stability, margins, leverage, coverage, and collateral.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-031",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": true,
+    "front": "Duration matching",
+    "back": "Align financing term with asset or investment life.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-032",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": true,
+    "front": "Debt capacity",
+    "back": "Ability to add debt while meeting promised payments.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-033",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": true,
+    "front": "Credit spread direction",
+    "back": "Greater default risk generally widens spreads.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-034",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": true,
+    "front": "Existing leverage",
+    "back": "More committed claims reduce incremental borrowing capacity.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-035",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain the Modigliani–Miller propositions regarding capital structure",
+    "supplementary": false,
+    "front": "MM assumptions",
+    "back": "Homogeneous expectations, perfect markets, risk-free borrowing/lending, and fixed investment policy.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-036",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain the Modigliani–Miller propositions regarding capital structure",
+    "supplementary": false,
+    "front": "Proposition I no tax",
+    "back": "V_L = V_U; financing mix does not change value.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-037",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain the Modigliani–Miller propositions regarding capital structure",
+    "supplementary": false,
+    "front": "No-tax WACC",
+    "back": "Constant across leverage levels.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-038",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain the Modigliani–Miller propositions regarding capital structure",
+    "supplementary": false,
+    "front": "Homemade leverage",
+    "back": "Investors replicate preferred leverage personally.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-039",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain the Modigliani–Miller propositions regarding capital structure",
+    "supplementary": false,
+    "front": "Proposition II no tax",
+    "back": "r_e = r_0 + (r_0 − r_d)D/E.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-040",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain the Modigliani–Miller propositions regarding capital structure",
+    "supplementary": false,
+    "front": "No-tax equity slope",
+    "back": "r_0 − r_d.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-041",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain the Modigliani–Miller propositions regarding capital structure",
+    "supplementary": false,
+    "front": "No-tax leverage effect",
+    "back": "Higher r_e exactly offsets cheaper debt.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-042",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain the Modigliani–Miller propositions regarding capital structure",
+    "supplementary": false,
+    "front": "Proposition I tax",
+    "back": "V_L = V_U + tD.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-043",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain the Modigliani–Miller propositions regarding capital structure",
+    "supplementary": false,
+    "front": "Debt tax shield",
+    "back": "Present value equals tD under source assumptions.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-044",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain the Modigliani–Miller propositions regarding capital structure",
+    "supplementary": false,
+    "front": "Tax-rate effect",
+    "back": "Higher t increases the value benefit from debt.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-045",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain the Modigliani–Miller propositions regarding capital structure",
+    "supplementary": false,
+    "front": "Proposition II tax",
+    "back": "r_e = r_0 + (r_0 − r_d)(1 − t)D/E.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-046",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain the Modigliani–Miller propositions regarding capital structure",
+    "supplementary": false,
+    "front": "Tax equity slope",
+    "back": "Reduced by (1 − t) versus no tax.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-047",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain the Modigliani–Miller propositions regarding capital structure",
+    "supplementary": false,
+    "front": "Tax WACC",
+    "back": "Declines as debt rises if distress costs are absent.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-048",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain the Modigliani–Miller propositions regarding capital structure",
+    "supplementary": false,
+    "front": "Tax firm value",
+    "back": "Rises with debt through the tax shield.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-049",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain the Modigliani–Miller propositions regarding capital structure",
+    "supplementary": true,
+    "front": "Extreme tax result",
+    "back": "100% debt appears optimal only because offsetting costs are omitted.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-050",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain the Modigliani–Miller propositions regarding capital structure",
+    "supplementary": true,
+    "front": "Bankruptcy assumption",
+    "back": "Possible but costless in the frictionless model.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-051",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain the Modigliani–Miller propositions regarding capital structure",
+    "supplementary": true,
+    "front": "Cash-flow primacy",
+    "back": "Operating cash flows, not financing labels, primarily drive value.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-052",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "describe optimal and target capital structures",
+    "supplementary": false,
+    "front": "Static trade-off theory",
+    "back": "Balances tax-shield benefits with expected distress and other debt costs.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-053",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "describe optimal and target capital structures",
+    "supplementary": false,
+    "front": "Optimal debt",
+    "back": "Debt level at maximum firm value and minimum WACC.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-054",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "describe optimal and target capital structures",
+    "supplementary": false,
+    "front": "Financial distress",
+    "back": "Difficulty meeting obligations; expected costs reduce firm value.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-055",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "describe optimal and target capital structures",
+    "supplementary": false,
+    "front": "Target capital structure",
+    "back": "Management’s intended debt/equity financing mix.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-056",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "describe optimal and target capital structures",
+    "supplementary": false,
+    "front": "Target expression",
+    "back": "Book weights, leverage limit, or minimum credit rating.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-057",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "describe optimal and target capital structures",
+    "supplementary": false,
+    "front": "Pecking order",
+    "back": "Internal funds, then debt, then public equity.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-058",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "describe optimal and target capital structures",
+    "supplementary": false,
+    "front": "Pecking-order basis",
+    "back": "Asymmetric information and issuance signaling.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-059",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "describe optimal and target capital structures",
+    "supplementary": false,
+    "front": "Free cash flow hypothesis",
+    "back": "Debt commitments can limit managerial overinvestment.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-060",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "describe optimal and target capital structures",
+    "supplementary": false,
+    "front": "Debt agency cost",
+    "back": "Leverage can intensify shareholder–debtholder conflicts.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-061",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "describe optimal and target capital structures",
+    "supplementary": false,
+    "front": "Equity issuance signal",
+    "back": "Managers may avoid issuing apparently underpriced shares.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-062",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "describe optimal and target capital structures",
+    "supplementary": false,
+    "front": "Peer evidence",
+    "back": "Comparable structures can inform, but not dictate, a target.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-063",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "describe optimal and target capital structures",
+    "supplementary": true,
+    "front": "Financial flexibility",
+    "back": "Reserve borrowing capacity for opportunities and shocks.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-064",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "describe optimal and target capital structures",
+    "supplementary": true,
+    "front": "Book versus market perspective",
+    "back": "Management capital invested differs from investor market value.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm6-fc-065",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "describe optimal and target capital structures",
+    "supplementary": true,
+    "front": "Target review",
+    "back": "Business risk, life cycle, markets, strategy, ratings, and taxes all matter.",
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 4"
+    ]
+  }
+]

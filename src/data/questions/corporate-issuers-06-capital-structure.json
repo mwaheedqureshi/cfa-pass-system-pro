@@ -1,0 +1,2074 @@
+[
+  {
+    "id": "ci-lm6-q-001",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "calculate and interpret the weighted-average cost of capital for a company",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "WACC combines component costs using",
+    "choices": [
+      "capital-value weights",
+      "equal weights in every case",
+      "revenue weights"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "WACC weights each financing source by its capital proportion.",
+    "incorrectChoiceExplanations": [
+      "Correct: WACC weights each financing source by its capital proportion.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "wacc-ci-06",
+      "after-tax-cost-of-debt-ci-06"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-002",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "calculate and interpret the weighted-average cost of capital for a company",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "If interest is deductible, after-tax debt cost equals",
+    "choices": [
+      "r_d(1 − t)",
+      "r_d(1 + t)",
+      "r_d/t"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The tax deduction reduces debt cost by the tax shield.",
+    "incorrectChoiceExplanations": [
+      "Correct: The tax deduction reduces debt cost by the tax shield.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "wacc-ci-06",
+      "after-tax-cost-of-debt-ci-06"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-003",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "calculate and interpret the weighted-average cost of capital for a company",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "Debt weight 40%, pretax debt cost 5%, tax 25%, equity weight 60%, equity cost 10% gives WACC",
+    "choices": [
+      "7.50%",
+      "8.00%",
+      "8.50%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "0.40(5%)(0.75)+0.60(10%)=7.50%.",
+    "incorrectChoiceExplanations": [
+      "Correct: 0.40(5%)(0.75)+0.60(10%)=7.50%.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "wacc-ci-06",
+      "after-tax-cost-of-debt-ci-06"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-004",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "calculate and interpret the weighted-average cost of capital for a company",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "Preferred stock in WACC is included as",
+    "choices": [
+      "its weight times its component cost",
+      "part of debt automatically",
+      "a tax-deductible equity cost"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "A distinct preferred source adds its weighted after-tax cost where applicable.",
+    "incorrectChoiceExplanations": [
+      "Correct: A distinct preferred source adds its weighted after-tax cost where applicable.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "wacc-ci-06",
+      "after-tax-cost-of-debt-ci-06"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-005",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "calculate and interpret the weighted-average cost of capital for a company",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "The preferred WACC contribution at 10% weight and 8% cost is",
+    "choices": [
+      "0.80%",
+      "8.00%",
+      "1.80%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "0.10 × 0.08 = 0.008, or 0.80%.",
+    "incorrectChoiceExplanations": [
+      "Correct: 0.10 × 0.08 = 0.008, or 0.80%.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "wacc-ci-06",
+      "after-tax-cost-of-debt-ci-06"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-006",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "calculate and interpret the weighted-average cost of capital for a company",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Market weights are commonly preferred because they reflect",
+    "choices": [
+      "current investor opportunity costs",
+      "historical issuance proceeds",
+      "accounting depreciation"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Current market prices align with current required returns.",
+    "incorrectChoiceExplanations": [
+      "Correct: Current market prices align with current required returns.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "wacc-ci-06",
+      "after-tax-cost-of-debt-ci-06"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-007",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "calculate and interpret the weighted-average cost of capital for a company",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Management target weights may commonly be stated using",
+    "choices": [
+      "book values",
+      "sales values",
+      "tax values"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The source notes management targets are typically book-value based.",
+    "incorrectChoiceExplanations": [
+      "Correct: The source notes management targets are typically book-value based.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "wacc-ci-06",
+      "after-tax-cost-of-debt-ci-06"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-008",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "calculate and interpret the weighted-average cost of capital for a company",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "A D/E ratio of 0.50 implies a debt capital weight of",
+    "choices": [
+      "33.33%",
+      "50.00%",
+      "66.67%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "D/(D+E)=(D/E)/(1+D/E)=0.5/1.5.",
+    "incorrectChoiceExplanations": [
+      "Correct: D/(D+E)=(D/E)/(1+D/E)=0.5/1.5.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "wacc-ci-06",
+      "after-tax-cost-of-debt-ci-06"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-009",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "calculate and interpret the weighted-average cost of capital for a company",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "A company has debt 20 and equity 80. Its debt weight is",
+    "choices": [
+      "20%",
+      "25%",
+      "80%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Debt weight is 20/(20+80).",
+    "incorrectChoiceExplanations": [
+      "Correct: Debt weight is 20/(20+80).",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "wacc-ci-06",
+      "after-tax-cost-of-debt-ci-06"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-010",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "calculate and interpret the weighted-average cost of capital for a company",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "If interest is not deductible, a tax-rate change directly",
+    "choices": [
+      "does not change the debt component adjustment",
+      "lowers pretax debt cost mechanically",
+      "eliminates equity cost"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "No tax multiplier applies when interest has no deduction.",
+    "incorrectChoiceExplanations": [
+      "Correct: No tax multiplier applies when interest has no deduction.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "wacc-ci-06",
+      "after-tax-cost-of-debt-ci-06"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-011",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "calculate and interpret the weighted-average cost of capital for a company",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "The cost of debt is best interpreted here as",
+    "choices": [
+      "debt investors’ required return",
+      "a bond’s accounting carrying value",
+      "the amount of principal outstanding"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Component cost is the return debt investors require.",
+    "incorrectChoiceExplanations": [
+      "Correct: Component cost is the return debt investors require.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "wacc-ci-06",
+      "after-tax-cost-of-debt-ci-06"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-012",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "calculate and interpret the weighted-average cost of capital for a company",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "The cost of equity is",
+    "choices": [
+      "equity investors’ required return",
+      "the dividend amount only",
+      "always set by management"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Markets determine investors’ required return.",
+    "incorrectChoiceExplanations": [
+      "Correct: Markets determine investors’ required return.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "wacc-ci-06",
+      "after-tax-cost-of-debt-ci-06"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-013",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "calculate and interpret the weighted-average cost of capital for a company",
+    "supplementary": false,
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "When the deductible tax rate rises, all else equal, WACC generally",
+    "choices": [
+      "falls",
+      "rises",
+      "is unchanged"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "A larger tax shield lowers after-tax debt cost.",
+    "incorrectChoiceExplanations": [
+      "Correct: A larger tax shield lowers after-tax debt cost.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "wacc-ci-06",
+      "after-tax-cost-of-debt-ci-06"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-014",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "calculate and interpret the weighted-average cost of capital for a company",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "WACC should be minimized subject to",
+    "choices": [
+      "risk, financing, and operating realities",
+      "choosing the lowest stated coupon only",
+      "maximizing book equity"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Component costs and weights adjust with risk and leverage.",
+    "incorrectChoiceExplanations": [
+      "Correct: Component costs and weights adjust with risk and leverage.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "wacc-ci-06",
+      "after-tax-cost-of-debt-ci-06"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-015",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "calculate and interpret the weighted-average cost of capital for a company",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "An unlevered company’s WACC equals its",
+    "choices": [
+      "cost of equity",
+      "after-tax cost of debt",
+      "interest coverage"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "With no debt weight, only equity contributes.",
+    "incorrectChoiceExplanations": [
+      "Correct: With no debt weight, only equity contributes.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "wacc-ci-06",
+      "after-tax-cost-of-debt-ci-06"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-016",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "calculate and interpret the weighted-average cost of capital for a company",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Using book weights when market values differ materially may",
+    "choices": [
+      "misstate current WACC",
+      "guarantee a conservative WACC",
+      "remove the tax shield"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Historical values may not represent current opportunity costs.",
+    "incorrectChoiceExplanations": [
+      "Correct: Historical values may not represent current opportunity costs.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "wacc-ci-06",
+      "after-tax-cost-of-debt-ci-06"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-017",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "A capital-intensive business generally needs",
+    "choices": [
+      "more long-term financing",
+      "no external financing",
+      "only retained earnings"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Asset intensity affects total financing needs.",
+    "incorrectChoiceExplanations": [
+      "Correct: Asset intensity affects total financing needs.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-leverage-ci-06",
+      "ebit-interest-coverage-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-018",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "Startup financing is most likely dominated by",
+    "choices": [
+      "equity, leases, and sometimes convertible debt",
+      "unsecured public debt",
+      "mature secured refinancing only"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Early firms lack stable cash flow and collateral history.",
+    "incorrectChoiceExplanations": [
+      "Correct: Early firms lack stable cash flow and collateral history.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-leverage-ci-06",
+      "ebit-interest-coverage-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-019",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "Mature stable issuers generally have",
+    "choices": [
+      "greater debt capacity",
+      "no debt capacity",
+      "only venture equity"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Predictable cash flow supports contractual payments.",
+    "incorrectChoiceExplanations": [
+      "Correct: Predictable cash flow supports contractual payments.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-leverage-ci-06",
+      "ebit-interest-coverage-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-020",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "Higher operating leverage means",
+    "choices": [
+      "a larger fixed-cost proportion",
+      "a larger equity weight necessarily",
+      "lower profit sensitivity"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Fixed costs make operating profit more sensitive to revenue.",
+    "incorrectChoiceExplanations": [
+      "Correct: Fixed costs make operating profit more sensitive to revenue.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-leverage-ci-06",
+      "ebit-interest-coverage-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-021",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "Fixed costs 30 and total costs 75 imply operating leverage of",
+    "choices": [
+      "40%",
+      "25%",
+      "60%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "30/75=40%.",
+    "incorrectChoiceExplanations": [
+      "Correct: 30/75=40%.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-leverage-ci-06",
+      "ebit-interest-coverage-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-022",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Lower interest coverage generally signals",
+    "choices": [
+      "greater debt capacity",
+      "reduced debt capacity",
+      "lower operating leverage automatically"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Less coverage leaves less room for added debt service.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: Less coverage leaves less room for added debt service.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-leverage-ci-06",
+      "ebit-interest-coverage-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-023",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Interest coverage is canonically",
+    "choices": [
+      "assets ÷ equity",
+      "profit before interest and taxes ÷ interest expense",
+      "debt ÷ equity"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "It compares operating profit with required interest.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: It compares operating profit with required interest.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-leverage-ci-06",
+      "ebit-interest-coverage-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-024",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Fungible, liquid collateral tends to",
+    "choices": [
+      "eliminate default risk",
+      "support greater debt capacity",
+      "raise operating leverage"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Saleable collateral protects lenders.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: Saleable collateral protects lenders.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-leverage-ci-06",
+      "ebit-interest-coverage-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-025",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "More volatile revenue generally causes investors to require",
+    "choices": [
+      "lower returns",
+      "higher returns",
+      "unchanged returns by definition"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Cash-flow uncertainty raises financing risk.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: Cash-flow uncertainty raises financing risk.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-leverage-ci-06",
+      "ebit-interest-coverage-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-026",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "A higher fixed-cost share causes profit to",
+    "choices": [
+      "become independent of sales",
+      "respond more strongly to sales changes",
+      "equal cash flow"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Operating leverage magnifies sales effects.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: Operating leverage magnifies sales effects.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-leverage-ci-06",
+      "ebit-interest-coverage-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-027",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Financial leverage arises from",
+    "choices": [
+      "fixed operating costs only",
+      "contractual financing obligations",
+      "inventory turnover"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Debt interest and principal create priority claims.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: Debt interest and principal create priority claims.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-leverage-ci-06",
+      "ebit-interest-coverage-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-028",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Operating leverage differs from FSA financial leverage because it measures",
+    "choices": [
+      "assets relative to equity",
+      "fixed costs relative to total costs",
+      "debt relative to equity"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The source’s operating measure concerns cost structure.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: The source’s operating measure concerns cost structure.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-leverage-ci-06",
+      "ebit-interest-coverage-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-029",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": false,
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "A recession usually makes debt financing",
+    "choices": [
+      "cheaper for every issuer",
+      "more costly and less available",
+      "unaffected by credit spreads"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Base rates and spreads respond to conditions and default risk.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: Base rates and spreads respond to conditions and default risk.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-leverage-ci-06",
+      "ebit-interest-coverage-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-030",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": false,
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "A firm with stable subscriptions may obtain lower financing costs because of",
+    "choices": [
+      "higher fixed costs alone",
+      "predictable cash flow",
+      "lower market equity necessarily"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Revenue stability supports repayment confidence.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: Revenue stability supports repayment confidence.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-leverage-ci-06",
+      "ebit-interest-coverage-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-031",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Asset-liability duration matching aims to",
+    "choices": [
+      "maximize short-term refinancing",
+      "align financing horizon with investment life",
+      "remove all liquidity"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Matching reduces rollover mismatch.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: Matching reduces rollover mismatch.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-leverage-ci-06",
+      "ebit-interest-coverage-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-032",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "High existing indebtedness usually means",
+    "choices": [
+      "more automatic borrowing room",
+      "less incremental debt capacity",
+      "lower equity risk"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Existing claims constrain additional debt service.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: Existing claims constrain additional debt service.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-leverage-ci-06",
+      "ebit-interest-coverage-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-033",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Which factor is external to the issuer?",
+    "choices": [
+      "operating leverage",
+      "capital-market conditions",
+      "asset collateral quality"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Market and economic conditions are external.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: Market and economic conditions are external.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-leverage-ci-06",
+      "ebit-interest-coverage-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-034",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain factors affecting capital structure and the weighted-average cost of capital",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Which is issuer-specific?",
+    "choices": [
+      "sovereign base rates",
+      "sales stability",
+      "economy-wide regulation"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Issuer revenue characteristics affect required returns.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: Issuer revenue characteristics affect required returns.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-leverage-ci-06",
+      "ebit-interest-coverage-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-035",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain the Modigliani–Miller propositions regarding capital structure",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "MM Proposition I without taxes states",
+    "choices": [
+      "V_L = V_U + tD",
+      "V_L = V_U",
+      "r_e = r_d"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Capital structure does not change firm value under its assumptions.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: Capital structure does not change firm value under its assumptions.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "mm-proposition-i-no-tax-ci-06",
+      "mm-proposition-ii-no-tax-ci-06",
+      "mm-proposition-i-tax-ci-06",
+      "mm-proposition-ii-tax-ci-06"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-036",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain the Modigliani–Miller propositions regarding capital structure",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "Under MM without taxes, WACC with more debt",
+    "choices": [
+      "always falls",
+      "remains unchanged",
+      "always rises"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Higher equity cost exactly offsets cheaper debt.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: Higher equity cost exactly offsets cheaper debt.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "mm-proposition-i-no-tax-ci-06",
+      "mm-proposition-ii-no-tax-ci-06",
+      "mm-proposition-i-tax-ci-06",
+      "mm-proposition-ii-tax-ci-06"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-037",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain the Modigliani–Miller propositions regarding capital structure",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "MM Proposition II without taxes gives",
+    "choices": [
+      "r_e = r_0 − r_dD/E",
+      "r_e = r_0 + (r_0 − r_d)D/E",
+      "V_L = V_U + tD"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Levered equity cost rises linearly with D/E.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: Levered equity cost rises linearly with D/E.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "mm-proposition-i-no-tax-ci-06",
+      "mm-proposition-ii-no-tax-ci-06",
+      "mm-proposition-i-tax-ci-06",
+      "mm-proposition-ii-tax-ci-06"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-038",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain the Modigliani–Miller propositions regarding capital structure",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "If r0=10%, rd=5%, and D/E=0.6 without taxes, re is",
+    "choices": [
+      "8%",
+      "13%",
+      "15%"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "10%+(10%−5%)0.6=13%.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: 10%+(10%−5%)0.6=13%.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "mm-proposition-i-no-tax-ci-06",
+      "mm-proposition-ii-no-tax-ci-06",
+      "mm-proposition-i-tax-ci-06",
+      "mm-proposition-ii-tax-ci-06"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-039",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain the Modigliani–Miller propositions regarding capital structure",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "MM assumes perfect capital markets including",
+    "choices": [
+      "guaranteed profits",
+      "no transaction costs",
+      "mandatory debt"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The restrictive assumptions remove market frictions.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: The restrictive assumptions remove market frictions.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "mm-proposition-i-no-tax-ci-06",
+      "mm-proposition-ii-no-tax-ci-06",
+      "mm-proposition-i-tax-ci-06",
+      "mm-proposition-ii-tax-ci-06"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-040",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain the Modigliani–Miller propositions regarding capital structure",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Homogeneous expectations mean investors agree on",
+    "choices": [
+      "every desired capital structure",
+      "expected project cash flows",
+      "all tax rates"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Investors share expectations about cash flows.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: Investors share expectations about cash flows.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "mm-proposition-i-no-tax-ci-06",
+      "mm-proposition-ii-no-tax-ci-06",
+      "mm-proposition-i-tax-ci-06",
+      "mm-proposition-ii-tax-ci-06"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-041",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain the Modigliani–Miller propositions regarding capital structure",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Homemade leverage supports irrelevance because investors can",
+    "choices": [
+      "change issuer taxes",
+      "borrow or lend personally",
+      "eliminate operating risk"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Personal leverage can replicate financing mixes.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: Personal leverage can replicate financing mixes.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "mm-proposition-i-no-tax-ci-06",
+      "mm-proposition-ii-no-tax-ci-06",
+      "mm-proposition-i-tax-ci-06",
+      "mm-proposition-ii-tax-ci-06"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-042",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain the Modigliani–Miller propositions regarding capital structure",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "MM Proposition I with corporate taxes states",
+    "choices": [
+      "V_L = V_U",
+      "V_L = V_U + tD",
+      "V_L = D − E"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The levered firm gains the present value of the debt tax shield.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: The levered firm gains the present value of the debt tax shield.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "mm-proposition-i-no-tax-ci-06",
+      "mm-proposition-ii-no-tax-ci-06",
+      "mm-proposition-i-tax-ci-06",
+      "mm-proposition-ii-tax-ci-06"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-043",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain the Modigliani–Miller propositions regarding capital structure",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "At tax 25% and debt 40, the MM tax shield value is",
+    "choices": [
+      "30",
+      "10",
+      "50"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "tD=0.25×40=10.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: tD=0.25×40=10.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship."
+    ],
+    "relatedFormulaIds": [
+      "mm-proposition-i-no-tax-ci-06",
+      "mm-proposition-ii-no-tax-ci-06",
+      "mm-proposition-i-tax-ci-06",
+      "mm-proposition-ii-tax-ci-06"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-044",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain the Modigliani–Miller propositions regarding capital structure",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "MM Proposition II with taxes gives",
+    "choices": [
+      "r_e = r_0 + r_dD/E",
+      "r_e = r_0(1 − t)",
+      "r_e = r_0 + (r_0 − r_d)(1 − t)D/E"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The tax term slows the rise in levered equity cost.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: The tax term slows the rise in levered equity cost."
+    ],
+    "relatedFormulaIds": [
+      "mm-proposition-i-no-tax-ci-06",
+      "mm-proposition-ii-no-tax-ci-06",
+      "mm-proposition-i-tax-ci-06",
+      "mm-proposition-ii-tax-ci-06"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-045",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain the Modigliani–Miller propositions regarding capital structure",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "With taxes and no distress costs, increasing debt causes WACC to",
+    "choices": [
+      "remain fixed",
+      "increase",
+      "decrease"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The interest tax shield makes debt value enhancing.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: The interest tax shield makes debt value enhancing."
+    ],
+    "relatedFormulaIds": [
+      "mm-proposition-i-no-tax-ci-06",
+      "mm-proposition-ii-no-tax-ci-06",
+      "mm-proposition-i-tax-ci-06",
+      "mm-proposition-ii-tax-ci-06"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-046",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain the Modigliani–Miller propositions regarding capital structure",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Under tax MM, levered equity cost still",
+    "choices": [
+      "falls below debt cost",
+      "remains equal to r0",
+      "rises with leverage, but more slowly"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The (1−t) term reduces, but does not reverse, the slope.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: The (1−t) term reduces, but does not reverse, the slope."
+    ],
+    "relatedFormulaIds": [
+      "mm-proposition-i-no-tax-ci-06",
+      "mm-proposition-ii-no-tax-ci-06",
+      "mm-proposition-i-tax-ci-06",
+      "mm-proposition-ii-tax-ci-06"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-047",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain the Modigliani–Miller propositions regarding capital structure",
+    "supplementary": false,
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Without taxes, firm value is driven primarily by",
+    "choices": [
+      "the debt percentage",
+      "the number of shares",
+      "future operating cash flows"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Financing alone does not alter the asset cash-flow stream.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: Financing alone does not alter the asset cash-flow stream."
+    ],
+    "relatedFormulaIds": [
+      "mm-proposition-i-no-tax-ci-06",
+      "mm-proposition-ii-no-tax-ci-06",
+      "mm-proposition-i-tax-ci-06",
+      "mm-proposition-ii-tax-ci-06"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-048",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain the Modigliani–Miller propositions regarding capital structure",
+    "supplementary": false,
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "MM’s unrealistic 100% debt implication arises when considering",
+    "choices": [
+      "no taxes",
+      "operating leverage only",
+      "tax benefits without distress costs"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Absent offsetting costs, every added unit of debt adds tax-shield value.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: Absent offsetting costs, every added unit of debt adds tax-shield value."
+    ],
+    "relatedFormulaIds": [
+      "mm-proposition-i-no-tax-ci-06",
+      "mm-proposition-ii-no-tax-ci-06",
+      "mm-proposition-i-tax-ci-06",
+      "mm-proposition-ii-tax-ci-06"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-049",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain the Modigliani–Miller propositions regarding capital structure",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Bankruptcy may occur in no-tax MM but is assumed to have",
+    "choices": [
+      "infinite cost",
+      "a tax benefit",
+      "zero cost"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The model assumes away bankruptcy costs, not possibility.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: The model assumes away bankruptcy costs, not possibility."
+    ],
+    "relatedFormulaIds": [
+      "mm-proposition-i-no-tax-ci-06",
+      "mm-proposition-ii-no-tax-ci-06",
+      "mm-proposition-i-tax-ci-06",
+      "mm-proposition-ii-tax-ci-06"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-050",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain the Modigliani–Miller propositions regarding capital structure",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "If leverage raises re exactly enough to offset cheap debt, the result is",
+    "choices": [
+      "a higher firm value",
+      "a lower asset return",
+      "constant WACC"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "This is Proposition II without taxes.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: This is Proposition II without taxes."
+    ],
+    "relatedFormulaIds": [
+      "mm-proposition-i-no-tax-ci-06",
+      "mm-proposition-ii-no-tax-ci-06",
+      "mm-proposition-i-tax-ci-06",
+      "mm-proposition-ii-tax-ci-06"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-051",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "explain the Modigliani–Miller propositions regarding capital structure",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "With t=0, MM Proposition II with taxes",
+    "choices": [
+      "sets re to zero",
+      "sets VL above VU",
+      "reduces to the no-tax equation"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The tax adjustment becomes one.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: The tax adjustment becomes one."
+    ],
+    "relatedFormulaIds": [
+      "mm-proposition-i-no-tax-ci-06",
+      "mm-proposition-ii-no-tax-ci-06",
+      "mm-proposition-i-tax-ci-06",
+      "mm-proposition-ii-tax-ci-06"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-052",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "describe optimal and target capital structures",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "Static trade-off theory balances",
+    "choices": [
+      "book value against market value only",
+      "operating costs against sales",
+      "debt tax benefits against expected distress costs"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Optimal debt occurs where marginal benefits and costs balance.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: Optimal debt occurs where marginal benefits and costs balance."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-053",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "describe optimal and target capital structures",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "At debt beyond the optimum, added distress costs may",
+    "choices": [
+      "be zero by definition",
+      "raise tax shields without limit",
+      "exceed added tax benefits"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Firm value declines after expected costs dominate.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: Firm value declines after expected costs dominate."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-054",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "describe optimal and target capital structures",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "Target capital structure is",
+    "choices": [
+      "the current market mix necessarily",
+      "always 100% debt",
+      "management’s intended financing mix"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Targets guide funding over time and can differ from current weights.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: Targets guide funding over time and can differ from current weights."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-055",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "describe optimal and target capital structures",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "A target may be expressed indirectly through",
+    "choices": [
+      "a fixed stock price",
+      "inventory days",
+      "a maximum debt/EBITDA or minimum rating"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Management often uses leverage or rating constraints.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: Management often uses leverage or rating constraints."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-056",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "describe optimal and target capital structures",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "Pecking order financing generally prefers",
+    "choices": [
+      "equity, then debt, then internal funds",
+      "debt only",
+      "internal funds, then debt, then equity"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Lower-information-content sources are preferred first.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: Lower-information-content sources are preferred first."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-057",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "describe optimal and target capital structures",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "The pecking order follows from",
+    "choices": [
+      "perfect information",
+      "MM no-tax irrelevance alone",
+      "asymmetric information and signaling"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Managers consider what issuance signals to investors.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: Managers consider what issuance signals to investors."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-058",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "describe optimal and target capital structures",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "The free cash flow hypothesis suggests debt can",
+    "choices": [
+      "eliminate all agency conflicts",
+      "increase unused cash",
+      "discipline discretionary managerial spending"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Debt commitments reduce cash available for wasteful investment.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: Debt commitments reduce cash available for wasteful investment."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-059",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "describe optimal and target capital structures",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Debt can also create agency costs through",
+    "choices": [
+      "eliminating default",
+      "removing covenants",
+      "conflicts between debtholders and shareholders"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Risk shifting and claim conflicts may increase.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: Risk shifting and claim conflicts may increase."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-060",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "describe optimal and target capital structures",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Management may avoid new equity when shares seem underpriced because issuance may",
+    "choices": [
+      "increase the tax shield",
+      "reduce information asymmetry completely",
+      "dilute value and send an adverse signal"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Market interpretation and issuance cost matter.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: Market interpretation and issuance cost matter."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-061",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "describe optimal and target capital structures",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "A practical target commonly reflects",
+    "choices": [
+      "MM taxes alone",
+      "last year’s debt amount only",
+      "peers, ratings, business risk, flexibility, and strategy"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Real targets combine quantitative and qualitative constraints.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: Real targets combine quantitative and qualitative constraints."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-062",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "describe optimal and target capital structures",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Book-value targets can be useful to management because they reflect",
+    "choices": [
+      "current shareholder opportunity cost only",
+      "daily market volatility",
+      "capital invested by the company"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Management focuses on funding invested in operations.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: Management focuses on funding invested in operations."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-063",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "describe optimal and target capital structures",
+    "supplementary": true,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "For current WACC analysis absent a stated target, the baseline is often",
+    "choices": [
+      "arbitrary equal weights",
+      "historic par values only",
+      "current market-value weights"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Market weights represent the current financing mix.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: Market weights represent the current financing mix."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-064",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "describe optimal and target capital structures",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Financial flexibility is valuable because it preserves",
+    "choices": [
+      "a guaranteed low WACC",
+      "constant market prices",
+      "capacity to fund opportunities or shocks"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Unused capacity supports future financing needs.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: Unused capacity supports future financing needs."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm6-q-065",
+    "lessonId": "corporate-issuers-06-capital-structure",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM6",
+    "officialLearningOutcome": "describe optimal and target capital structures",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "The optimal structure is the mix that generally",
+    "choices": [
+      "maximizes debt regardless of distress",
+      "maximizes accounting equity",
+      "maximizes firm value and minimizes WACC"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Value reflects the net effect of financing benefits and costs.",
+    "incorrectChoiceExplanations": [
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "This alternative conflicts with the verified WACC, leverage, MM, or target-capital-structure relationship.",
+      "Correct: Value reflects the net effect of financing benefits and costs."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM6",
+      "LOS 4"
+    ]
+  }
+]
