@@ -1,0 +1,1832 @@
+[
+  {
+    "id": "ci-lm5-q-001",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of capital investments",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "Replacing a worn production line needed to continue current output is a",
+    "choices": [
+      "going-concern project",
+      "new-line-of-business project",
+      "regulatory project"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Going-concern projects maintain existing operations.",
+    "incorrectChoiceExplanations": [
+      "Correct: Going-concern projects maintain existing operations.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-002",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of capital investments",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "Installing mandated emissions controls is a",
+    "choices": [
+      "growth project",
+      "regulatory/compliance project",
+      "discretionary maintenance project"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Compliance projects are required by law or regulation.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: Compliance projects are required by law or regulation.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-003",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of capital investments",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "Adding stores in an issuer’s current market is most likely",
+    "choices": [
+      "a fundamental option",
+      "a regulatory project",
+      "expansion of the existing business"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Increasing scale within the existing scope is expansion.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: Increasing scale within the existing scope is expansion."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-004",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of capital investments",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "Buying a business in an unrelated industry is generally classified as",
+    "choices": [
+      "a new line of business or other project",
+      "going-concern maintenance",
+      "regulatory compliance"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "It changes the issuer’s business scope and usually has greater uncertainty.",
+    "incorrectChoiceExplanations": [
+      "Correct: It changes the issuer’s business scope and usually has greater uncertainty.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-005",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of capital investments",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "Which project category generally has the lowest discretion?",
+    "choices": [
+      "Expansion",
+      "Regulatory/compliance",
+      "New line of business"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Compliance spending is imposed by rules or standards.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: Compliance spending is imposed by rules or standards.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-006",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of capital investments",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Routine equipment replacement primarily seeks to",
+    "choices": [
+      "enter an unrelated market",
+      "create a pricing option",
+      "maintain the issuer as a going concern"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Replacement supports continuity or efficiency of current operations.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: Replacement supports continuity or efficiency of current operations."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-007",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of capital investments",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Research and development within a core business is commonly a",
+    "choices": [
+      "growth investment",
+      "regulatory project",
+      "liquidity source"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "R&D intended to expand a core business is a growth investment.",
+    "incorrectChoiceExplanations": [
+      "Correct: R&D intended to expand a core business is a growth investment.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-008",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of capital investments",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Compared with going-concern projects, new-line-of-business projects usually have",
+    "choices": [
+      "lower uncertainty by definition",
+      "greater risk and uncertainty",
+      "no strategic implications"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "A move beyond existing scope has less familiar cash flows and risks.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: A move beyond existing scope has less familiar cash flows and risks.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-009",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of capital investments",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "An efficiency upgrade in an existing plant is best classified as",
+    "choices": [
+      "a new business line",
+      "a fundamental option",
+      "going-concern maintenance"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Efficiency projects help maintain and improve current operations.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: Efficiency projects help maintain and improve current operations."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-010",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of capital investments",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "A project required to satisfy workplace safety rules is",
+    "choices": [
+      "regulatory/compliance",
+      "expansion",
+      "other discretionary investment"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The requirement, rather than its profitability alone, drives the project.",
+    "incorrectChoiceExplanations": [
+      "Correct: The requirement, rather than its profitability alone, drives the project.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-011",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of capital investments",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Capital investment primarily converts current resources into",
+    "choices": [
+      "short-term trade credit",
+      "long-term assets or capabilities",
+      "dividend income"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Capital projects commit resources for longer-term operating benefits.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: Capital projects commit resources for longer-term operating benefits.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-012",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of capital investments",
+    "supplementary": false,
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "An acquisition that expands the issuer’s core geographic reach is most likely",
+    "choices": [
+      "regulatory compliance",
+      "going-concern replacement",
+      "expansion of the existing business"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Geographic growth within the core business expands current scope.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: Geographic growth within the core business expands current scope."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-013",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of capital investments",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Project classification is useful because categories differ most directly in",
+    "choices": [
+      "risk, return, and managerial discretion",
+      "the arithmetic definition of NPV",
+      "the legal form of the issuer"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Categories frame risk, expected return, and whether investment is optional.",
+    "incorrectChoiceExplanations": [
+      "Correct: Categories frame risk, expected return, and whether investment is optional.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-014",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of capital investments",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "A low-risk replacement and a speculative new venture should not automatically use",
+    "choices": [
+      "after-tax cash flows",
+      "identical risk assumptions",
+      "incremental analysis"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Different project risk calls for risk-consistent assumptions.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: Different project risk calls for risk-consistent assumptions.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-015",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of capital investments",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "A mandatory project can still require analysis mainly to",
+    "choices": [
+      "decide whether law applies",
+      "guarantee a positive NPV",
+      "choose the most value-conscious way to comply"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Analysis can compare compliant designs even when abstaining is not feasible.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: Analysis can compare compliant designs even when abstaining is not feasible."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-016",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "For cash flows of −100 now and 115 in one year at 10%, NPV is closest to",
+    "choices": [
+      "4.55",
+      "15.00",
+      "−4.55"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "NPV = −100 + 115/1.10 = 4.55.",
+    "incorrectChoiceExplanations": [
+      "Correct: NPV = −100 + 115/1.10 = 4.55.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [
+      "net-present-value-ci-05",
+      "internal-rate-of-return-ci-05",
+      "return-on-invested-capital-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-017",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "A project with NPV of 3 million should generally be",
+    "choices": [
+      "rejected because NPV is not a rate",
+      "accepted because it adds estimated shareholder wealth",
+      "accepted only if IRR is zero"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "A positive NPV indicates expected value creation.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: A positive NPV indicates expected value creation.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [
+      "net-present-value-ci-05",
+      "internal-rate-of-return-ci-05",
+      "return-on-invested-capital-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-018",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "IRR is the discount rate that makes project NPV",
+    "choices": [
+      "equal to initial cost",
+      "as large as possible",
+      "equal to zero"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "IRR solves the project cash-flow equation at NPV = 0.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: IRR solves the project cash-flow equation at NPV = 0."
+    ],
+    "relatedFormulaIds": [
+      "net-present-value-ci-05",
+      "internal-rate-of-return-ci-05",
+      "return-on-invested-capital-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-019",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "If project IRR is 12% and the required return is 9%, the IRR rule says",
+    "choices": [
+      "accept",
+      "reject",
+      "remain indifferent"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "IRR above the hurdle rate satisfies the acceptance rule.",
+    "incorrectChoiceExplanations": [
+      "Correct: IRR above the hurdle rate satisfies the acceptance rule.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [
+      "net-present-value-ci-05",
+      "internal-rate-of-return-ci-05",
+      "return-on-invested-capital-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-020",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "For mutually exclusive projects with conflicting rankings, the theoretically preferred criterion is",
+    "choices": [
+      "higher IRR",
+      "higher NPV",
+      "higher accounting profit"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "NPV measures the estimated currency increase in shareholder wealth.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: NPV measures the estimated currency increase in shareholder wealth.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [
+      "net-present-value-ci-05",
+      "internal-rate-of-return-ci-05",
+      "return-on-invested-capital-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-021",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "NPV differs from IRR because NPV reports",
+    "choices": [
+      "an annual accounting margin",
+      "company-wide historical return",
+      "value added in currency units"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "NPV is a currency amount; IRR is a project rate of return.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: NPV is a currency amount; IRR is a project rate of return."
+    ],
+    "relatedFormulaIds": [
+      "net-present-value-ci-05",
+      "internal-rate-of-return-ci-05",
+      "return-on-invested-capital-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-022",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "A project costs 50 now and pays 60 in one year. Its IRR is",
+    "choices": [
+      "20%",
+      "10%",
+      "16.7%"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "0 = −50 + 60/(1+IRR), so IRR = 20%.",
+    "incorrectChoiceExplanations": [
+      "Correct: 0 = −50 + 60/(1+IRR), so IRR = 20%.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [
+      "net-present-value-ci-05",
+      "internal-rate-of-return-ci-05",
+      "return-on-invested-capital-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-023",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "With all else unchanged, increasing the required return generally",
+    "choices": [
+      "increases NPV",
+      "reduces NPV",
+      "leaves NPV unchanged"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "A higher discount rate lowers present values of later inflows.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: A higher discount rate lowers present values of later inflows.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [
+      "net-present-value-ci-05",
+      "internal-rate-of-return-ci-05",
+      "return-on-invested-capital-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-024",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "The time-zero project outlay is usually entered with a",
+    "choices": [
+      "positive sign",
+      "zero sign",
+      "negative sign"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Cash-flow signs reflect the issuer’s perspective: investment is an outflow.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: Cash-flow signs reflect the issuer’s perspective: investment is an outflow."
+    ],
+    "relatedFormulaIds": [
+      "net-present-value-ci-05",
+      "internal-rate-of-return-ci-05",
+      "return-on-invested-capital-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-025",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "NPV should discount nominal cash flows using a",
+    "choices": [
+      "nominal required return",
+      "real required return only",
+      "company ROIC"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Cash-flow and discount-rate inflation conventions must be consistent.",
+    "incorrectChoiceExplanations": [
+      "Correct: Cash-flow and discount-rate inflation conventions must be consistent.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [
+      "net-present-value-ci-05",
+      "internal-rate-of-return-ci-05",
+      "return-on-invested-capital-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-026",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "ROIC is most useful to an external analyst because it",
+    "choices": [
+      "reveals every project IRR",
+      "uses company-wide reported information",
+      "is forward-looking project NPV"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "ROIC can be estimated from aggregated financial statements.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: ROIC can be estimated from aggregated financial statements.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [
+      "net-present-value-ci-05",
+      "internal-rate-of-return-ci-05",
+      "return-on-invested-capital-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-027",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation",
+    "supplementary": false,
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "A positive-NPV project can lower current ROIC when its expected return is",
+    "choices": [
+      "below the hurdle rate only",
+      "equal to zero",
+      "above the hurdle rate but below existing ROIC"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Value creation and a decline in an average historical ratio can coexist.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: Value creation and a decline in an average historical ratio can coexist."
+    ],
+    "relatedFormulaIds": [
+      "net-present-value-ci-05",
+      "internal-rate-of-return-ci-05",
+      "return-on-invested-capital-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-028",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Two independent positive-NPV projects should generally be",
+    "choices": [
+      "both accepted if unconstrained",
+      "ranked by IRR and only one accepted",
+      "rejected if their IRRs differ"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Independent projects do not force an either-or choice.",
+    "incorrectChoiceExplanations": [
+      "Correct: Independent projects do not force an either-or choice.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [
+      "net-present-value-ci-05",
+      "internal-rate-of-return-ci-05",
+      "return-on-invested-capital-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-029",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Irregularly timed cash flows require NPV analysis to",
+    "choices": [
+      "round every flow to year-end",
+      "use the actual timing exponents",
+      "ignore interim outflows"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Discounting must reflect when each cash flow occurs.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: Discounting must reflect when each cash flow occurs.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [
+      "net-present-value-ci-05",
+      "internal-rate-of-return-ci-05",
+      "return-on-invested-capital-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-030",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "A conventional project has an initial outflow followed by",
+    "choices": [
+      "only accounting earnings",
+      "a required second outflow",
+      "future inflows without later sign reversals"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The conventional pattern generally produces a unique economically meaningful IRR.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: The conventional pattern generally produces a unique economically meaningful IRR."
+    ],
+    "relatedFormulaIds": [
+      "net-present-value-ci-05",
+      "internal-rate-of-return-ci-05",
+      "return-on-invested-capital-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-031",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe principles of capital allocation and common capital allocation pitfalls",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "Capital allocation analysis should use",
+    "choices": [
+      "after-tax cash flows",
+      "pretax accounting income",
+      "financing cash flows only"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Tax effects, including deductible non-cash charges, affect value.",
+    "incorrectChoiceExplanations": [
+      "Correct: Tax effects, including deductible non-cash charges, affect value.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-032",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe principles of capital allocation and common capital allocation pitfalls",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "A market study completed last month is normally",
+    "choices": [
+      "an opportunity cost to include",
+      "a sunk cost to exclude",
+      "a future incremental outflow"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Past spending cannot be changed by today’s decision.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: Past spending cannot be changed by today’s decision.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-033",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe principles of capital allocation and common capital allocation pitfalls",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "Lost sales of an existing product caused by a new project are",
+    "choices": [
+      "a sunk cost",
+      "irrelevant accounting data",
+      "a negative incremental effect to include"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Cannibalization changes firm cash flows with versus without the project.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: Cannibalization changes firm cash flows with versus without the project."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-034",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe principles of capital allocation and common capital allocation pitfalls",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "A cost saving created elsewhere in the firm by a project is",
+    "choices": [
+      "a positive incremental cash flow",
+      "a financing flow",
+      "a sunk benefit"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Broad incremental analysis includes project spillovers.",
+    "incorrectChoiceExplanations": [
+      "Correct: Broad incremental analysis includes project spillovers.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-035",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe principles of capital allocation and common capital allocation pitfalls",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "Delaying otherwise identical inflows generally",
+    "choices": [
+      "raises NPV and IRR",
+      "reduces both NPV and IRR",
+      "changes neither measure"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Later cash flows have lower present value and lower implied return.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: Later cash flows have lower present value and lower implied return.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-036",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe principles of capital allocation and common capital allocation pitfalls",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Using a lower required return because a project uses retained earnings is",
+    "choices": [
+      "correct because retained earnings are free",
+      "required by the NPV rule",
+      "a capital allocation error"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Internal funds still carry shareholders’ opportunity cost.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: Internal funds still carry shareholders’ opportunity cost."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-037",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe principles of capital allocation and common capital allocation pitfalls",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Nominal cash flows discounted at a real rate create",
+    "choices": [
+      "an inconsistent inflation treatment",
+      "a conservative NPV automatically",
+      "a valid ROIC estimate"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Nominal and real conventions must be matched.",
+    "incorrectChoiceExplanations": [
+      "Correct: Nominal and real conventions must be matched.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-038",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe principles of capital allocation and common capital allocation pitfalls",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Systematically optimistic forecasts most directly cause",
+    "choices": [
+      "understated sunk costs only",
+      "overstated expected project value",
+      "a guaranteed higher IRR after launch"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Forecast bias can make poor projects appear attractive.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: Forecast bias can make poor projects appear attractive.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-039",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe principles of capital allocation and common capital allocation pitfalls",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Pet-project bias occurs when",
+    "choices": [
+      "all projects share one hurdle rate",
+      "cash flows are after tax",
+      "influence substitutes for objective project merit"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Favored sponsors can distort prioritization and monitoring.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: Favored sponsors can distort prioritization and monitoring."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-040",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe principles of capital allocation and common capital allocation pitfalls",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Post-audit of investment results can improve allocation by",
+    "choices": [
+      "testing assumptions and accountability",
+      "changing sunk costs into incremental costs",
+      "guaranteeing future forecasts"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Comparing forecasts with outcomes supports learning and discipline.",
+    "incorrectChoiceExplanations": [
+      "Correct: Comparing forecasts with outcomes supports learning and discipline.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-041",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe principles of capital allocation and common capital allocation pitfalls",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Depreciation matters to project cash flow when it",
+    "choices": [
+      "is itself a cash outflow",
+      "changes taxes through a permitted deduction",
+      "determines IRR directly without taxes"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Non-cash depreciation affects cash through its tax impact.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: Non-cash depreciation affects cash through its tax impact.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-042",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe principles of capital allocation and common capital allocation pitfalls",
+    "supplementary": false,
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "A sound forecast should focus on the project’s",
+    "choices": [
+      "allocated accounting overhead regardless of change",
+      "reported revenue alone",
+      "incremental cash flows relative to no project"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The decision compares firm cash flows with and without the investment.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: The decision compares firm cash flows with and without the investment."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-043",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe principles of capital allocation and common capital allocation pitfalls",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Capital rationing is not a production rule in this LM; source-supported prioritization instead emphasizes",
+    "choices": [
+      "strategy, constraints, and relative value",
+      "a mandatory profitability-index formula",
+      "always selecting the highest IRR"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The module discusses planning and prioritization without teaching a capital-rationing formula.",
+    "incorrectChoiceExplanations": [
+      "Correct: The module discusses planning and prioritization without teaching a capital-rationing formula.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-044",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe principles of capital allocation and common capital allocation pitfalls",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Short-term earnings pressure can lead management to",
+    "choices": [
+      "eliminate forecasting bias",
+      "underinvest in valuable long-term projects",
+      "increase every project NPV"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Myopic focus may sacrifice value-creating investment.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: Myopic focus may sacrifice value-creating investment.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-045",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe principles of capital allocation and common capital allocation pitfalls",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Ignoring interactions with current operations violates the principle to",
+    "choices": [
+      "use after-tax cash flows",
+      "match nominal inputs",
+      "examine incremental effects broadly"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Project effects include positive and negative spillovers across the firm.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: Project effects include positive and negative spillovers across the firm."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-046",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of real options relevant to capital investments",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "The right, but not obligation, to postpone investment is a",
+    "choices": [
+      "timing option",
+      "sizing option",
+      "pricing option"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "A timing option permits delay while information improves.",
+    "incorrectChoiceExplanations": [
+      "Correct: A timing option permits delay while information improves.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [
+      "net-present-value-ci-05"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-047",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of real options relevant to capital investments",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "The ability to discontinue a disappointing project is an",
+    "choices": [
+      "expansion option",
+      "abandonment option",
+      "fundamental option"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Abandonment is a sizing option that limits downside.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: Abandonment is a sizing option that limits downside.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [
+      "net-present-value-ci-05"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-048",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of real options relevant to capital investments",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "The ability to invest more after strong results is a",
+    "choices": [
+      "timing option only",
+      "compliance option",
+      "growth or expansion option"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Expansion is the favorable-side sizing option.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: Expansion is the favorable-side sizing option."
+    ],
+    "relatedFormulaIds": [
+      "net-present-value-ci-05"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-049",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of real options relevant to capital investments",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "Raising price when demand exceeds fixed capacity is a",
+    "choices": [
+      "price-setting flexibility option",
+      "fundamental option",
+      "abandonment option"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Pricing flexibility responds operationally to realized demand.",
+    "incorrectChoiceExplanations": [
+      "Correct: Pricing flexibility responds operationally to realized demand.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [
+      "net-present-value-ci-05"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-050",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of real options relevant to capital investments",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 90,
+    "stem": "Adding shifts when demand is strong is a",
+    "choices": [
+      "timing option",
+      "production flexibility option",
+      "regulatory option"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Operational flexibility can change output without a new facility.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: Operational flexibility can change output without a new facility.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [
+      "net-present-value-ci-05"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-051",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of real options relevant to capital investments",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "A mine whose investment value depends on commodity prices embeds a",
+    "choices": [
+      "sunk-cost option",
+      "liquidity option",
+      "fundamental option"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Its value depends on an external underlying factor.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: Its value depends on an external underlying factor."
+    ],
+    "relatedFormulaIds": [
+      "net-present-value-ci-05"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-052",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of real options relevant to capital investments",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Project NPV with a separately valued option equals",
+    "choices": [
+      "base NPV − option cost + option value",
+      "base NPV + option cost − option value",
+      "option value − all project cash flows"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The option adds net value after its incremental cost.",
+    "incorrectChoiceExplanations": [
+      "Correct: The option adds net value after its incremental cost.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [
+      "net-present-value-ci-05"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-053",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of real options relevant to capital investments",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "If base NPV is 6, option cost is 2, and option value is 5, adjusted NPV is",
+    "choices": [
+      "3",
+      "9",
+      "13"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "6 − 2 + 5 = 9.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: 6 − 2 + 5 = 9.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [
+      "net-present-value-ci-05"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-054",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of real options relevant to capital investments",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "A positive base NPV plus an available value-enhancing option means base NPV is generally",
+    "choices": [
+      "an upper bound",
+      "unrelated to project value",
+      "a minimum estimate of project value"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Unmodeled favorable flexibility can only add value if rationally exercised.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: Unmodeled favorable flexibility can only add value if rationally exercised."
+    ],
+    "relatedFormulaIds": [
+      "net-present-value-ci-05"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-055",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of real options relevant to capital investments",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Real options should be exercised when doing so is",
+    "choices": [
+      "value enhancing",
+      "required by the original plan",
+      "able to increase accounting revenue"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The right is exercised only when the action adds value.",
+    "incorrectChoiceExplanations": [
+      "Correct: The right is exercised only when the action adds value.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [
+      "net-present-value-ci-05"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-056",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of real options relevant to capital investments",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 90,
+    "stem": "Decision trees are useful for real options because they model",
+    "choices": [
+      "only a single certain cash flow",
+      "sequential choices and contingent outcomes",
+      "WACC derivation"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "They link future states, probabilities, timing, and managerial decisions.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: They link future states, probabilities, timing, and managerial decisions.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [
+      "net-present-value-ci-05"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-057",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of real options relevant to capital investments",
+    "supplementary": false,
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Advanced option-pricing mathematics is",
+    "choices": [
+      "the only valid real-option method",
+      "identical to the IRR calculation",
+      "an optional advanced approach, not required LM5 production"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The source mentions advanced methods but teaches conceptual and NPV approaches.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: The source mentions advanced methods but teaches conceptual and NPV approaches."
+    ],
+    "relatedFormulaIds": [
+      "net-present-value-ci-05"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-058",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of real options relevant to capital investments",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Waiting for a permit before committing full capital most directly creates a",
+    "choices": [
+      "timing option",
+      "production flexibility option",
+      "price-setting option"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Delay allows investment after information arrives.",
+    "incorrectChoiceExplanations": [
+      "Correct: Delay allows investment after information arrives.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [
+      "net-present-value-ci-05"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-059",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of real options relevant to capital investments",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Selling reusable equipment after weak demand demonstrates",
+    "choices": [
+      "expansion value",
+      "abandonment value",
+      "a higher hurdle rate"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Recoverable value can make exit preferable to continued operation.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: Recoverable value can make exit preferable to continued operation.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle."
+    ],
+    "relatedFormulaIds": [
+      "net-present-value-ci-05"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm5-q-060",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of real options relevant to capital investments",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 90,
+    "stem": "Real-option value is greatest when management",
+    "choices": [
+      "commits irrevocably before uncertainty resolves",
+      "ignores future information",
+      "retains flexibility and acts conditionally"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Flexibility has value because action can respond to future states.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "This choice conflicts with the verified LM5 classification, cash-flow rule, decision criterion, or real-option principle.",
+      "Correct: Flexibility has value because action can respond to future states."
+    ],
+    "relatedFormulaIds": [
+      "net-present-value-ci-05"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 4"
+    ]
+  }
+]

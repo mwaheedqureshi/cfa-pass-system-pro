@@ -39,6 +39,7 @@ Roadmap entries define release boundaries, not permission to implement later wor
 | v1.9.2 | Corporate Issuers Module Production Sprint 2 | Complete: CI-LM2 Investors and Other Stakeholders produced and verified — 35 official + 10 supplementary questions and flashcards, 0 formulas, 10 exhibits, and 2 tools |
 | v1.9.3 | Corporate Issuers Module Production Sprint 3 | Complete: CI-LM3 Corporate Governance: Conflicts, Mechanisms, Risks, and Benefits — 35 official + 10 supplementary questions and flashcards, 0 formulas, 10 exhibits, and 2 tools |
 | v1.9.4 | Corporate Issuers Module Production Sprint 4 | Complete: CI-LM4 Working Capital and Liquidity — 45 official + 10 supplementary questions and flashcards, 1 formula, 12 exhibits, and 2 tools |
+| v1.9.5 | Corporate Issuers Module Production Sprint 5 | Complete: CI-LM5 Capital Investments and Capital Allocation — 48 official + 12 supplementary questions and flashcards, 2 formulas, 12 exhibits, and 2 tools |
 | v1.9.5–v1.9.7 | Corporate Issuers Module Production Sprints 5–7 | Planned; each module requires separate authorization and verification |
 | v1.9.8 | Corporate Issuers Full Verification and Content Freeze | Planned aggregate certification after all 7 modules are produced |
 | v2.0 | Economics | Superseded — Economics was completed and certified across v1.7.0-v1.7.9 rather than as a single v2.0 milestone; row retained for historical sequencing only |

@@ -43,7 +43,7 @@ Future Economics changes are limited to verified defects, official curriculum ch
 
 ## Corporate Issuers
 
-Corporate Issuers is **PARTIALLY PRODUCED** as of v1.9.4: 4 of 7 official modules (57.14%). CI-LM1 through CI-LM3 remain verified. CI-LM4, **Working Capital and Liquidity**, is verified against the official 2027 source (PDF pp. 105–142; printed pp. 97–134) across all 3 LOS. LM4 contains 45 official-target plus 10 supplementary questions and flashcards, 15 original worked examples, 12 original synthesis exhibits, 1 new operating-cycle formula, and 2 registered tools. Six provisional mocks were reviewed; 3 were accepted and 3 rejected. CI-LM5 through CI-LM7 remain pending.
+Corporate Issuers is **PARTIALLY PRODUCED** as of v1.9.5: 5 of 7 official modules (71.43%). CI-LM1 through CI-LM4 remain verified. CI-LM5, **Capital Investments and Capital Allocation**, is verified against the official 2027 source (PDF pp. 143–180; printed pp. 135–172) across all 4 LOS. LM5 contains 48 official-target plus 12 supplementary questions and flashcards, 18 original worked examples, 12 original synthesis exhibits, 2 new production formulas (NPV and IRR), canonical reuse of FSA ROIC and Quant discounting, and 2 registered tools. Seven provisional mocks were reviewed and accepted. CI-LM6 and CI-LM7 remain pending.
 
 | Module | Stable lesson ID | Status |
 |---|---|---|
@@ -51,7 +51,8 @@ Corporate Issuers is **PARTIALLY PRODUCED** as of v1.9.4: 4 of 7 official module
 | CI-LM2 Investors and Other Stakeholders | `corporate-issuers-02-investors-and-other-stakeholders` | Verified |
 | CI-LM3 Corporate Governance: Conflicts, Mechanisms, Risks, and Benefits | `corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits` | Verified |
 | CI-LM4 Working Capital and Liquidity | `corporate-issuers-04-working-capital-and-liquidity` | Verified |
-| CI-LM5–CI-LM7 | Reserved in the target manifest | Pending |
+| CI-LM5 Capital Investments and Capital Allocation | `corporate-issuers-05-capital-investments-and-capital-allocation` | Verified v1.9.5 |
+| CI-LM6–CI-LM7 | Reserved in the target manifest | Pending |
 
 ## Financial Statement Analysis
 

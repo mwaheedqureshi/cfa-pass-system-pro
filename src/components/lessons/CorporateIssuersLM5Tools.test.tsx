@@ -1,0 +1,2 @@
+import{describe,expect,it}from'vitest';import{npv,solveIrr}from'./NPVIRRComparisonTool';import{adjustedProjectNpv}from'./RealOptionDecisionExplorer';
+describe('CI-LM5 tools',()=>{it('calculates NPV with time-zero sign convention',()=>expect(npv([-100,60,60],0.10)).toBeCloseTo(4.1322,4));it('solves a conventional IRR deterministically',()=>expect(solveIrr([-50,60])).toBeCloseTo(0.20,6));it('returns null when no bracketed IRR exists',()=>expect(solveIrr([10,5,2])).toBeNull());it('adds net real-option value',()=>expect(adjustedProjectNpv(-2,1,5)).toBe(2))});

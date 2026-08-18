@@ -1,0 +1,902 @@
+[
+  {
+    "id": "ci-lm5-fc-001",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of capital investments",
+    "supplementary": false,
+    "front": "Replacing a worn production line needed to continue current output is a",
+    "back": "going-concern project. Going-concern projects maintain existing operations.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-002",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of capital investments",
+    "supplementary": false,
+    "front": "Installing mandated emissions controls is a",
+    "back": "regulatory/compliance project. Compliance projects are required by law or regulation.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-003",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of capital investments",
+    "supplementary": false,
+    "front": "Adding stores in an issuer’s current market is most likely",
+    "back": "expansion of the existing business. Increasing scale within the existing scope is expansion.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-004",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of capital investments",
+    "supplementary": false,
+    "front": "Buying a business in an unrelated industry is generally classified as",
+    "back": "a new line of business or other project. It changes the issuer’s business scope and usually has greater uncertainty.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-005",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of capital investments",
+    "supplementary": false,
+    "front": "Which project category generally has the lowest discretion — key idea",
+    "back": "Regulatory/compliance. Compliance spending is imposed by rules or standards.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-006",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of capital investments",
+    "supplementary": false,
+    "front": "Routine equipment replacement primarily seeks to",
+    "back": "maintain the issuer as a going concern. Replacement supports continuity or efficiency of current operations.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-007",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of capital investments",
+    "supplementary": false,
+    "front": "Research and development within a core business is commonly a",
+    "back": "growth investment. R&D intended to expand a core business is a growth investment.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-008",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of capital investments",
+    "supplementary": false,
+    "front": "Compared with going-concern projects, new-line-of-business projects usually have",
+    "back": "greater risk and uncertainty. A move beyond existing scope has less familiar cash flows and risks.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-009",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of capital investments",
+    "supplementary": false,
+    "front": "An efficiency upgrade in an existing plant is best classified as",
+    "back": "going-concern maintenance. Efficiency projects help maintain and improve current operations.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-010",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of capital investments",
+    "supplementary": false,
+    "front": "A project required to satisfy workplace safety rules is",
+    "back": "regulatory/compliance. The requirement, rather than its profitability alone, drives the project.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-011",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of capital investments",
+    "supplementary": false,
+    "front": "Capital investment primarily converts current resources into",
+    "back": "long-term assets or capabilities. Capital projects commit resources for longer-term operating benefits.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-012",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of capital investments",
+    "supplementary": false,
+    "front": "An acquisition that expands the issuer’s core geographic reach is most likely",
+    "back": "expansion of the existing business. Geographic growth within the core business expands current scope.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-013",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of capital investments",
+    "supplementary": true,
+    "front": "Project classification is useful because categories differ most directly in",
+    "back": "risk, return, and managerial discretion. Categories frame risk, expected return, and whether investment is optional.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-014",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of capital investments",
+    "supplementary": true,
+    "front": "A low-risk replacement and a speculative new venture should not automatically use",
+    "back": "identical risk assumptions. Different project risk calls for risk-consistent assumptions.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-015",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of capital investments",
+    "supplementary": true,
+    "front": "A mandatory project can still require analysis mainly to",
+    "back": "choose the most value-conscious way to comply. Analysis can compare compliant designs even when abstaining is not feasible.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-016",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation",
+    "supplementary": false,
+    "front": "For cash flows of −100 now and 115 in one year at 10%, NPV is closest to",
+    "back": "4.55. NPV = −100 + 115/1.10 = 4.55.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-017",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation",
+    "supplementary": false,
+    "front": "A project with NPV of 3 million should generally be",
+    "back": "accepted because it adds estimated shareholder wealth. A positive NPV indicates expected value creation.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-018",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation",
+    "supplementary": false,
+    "front": "IRR is the discount rate that makes project NPV",
+    "back": "equal to zero. IRR solves the project cash-flow equation at NPV = 0.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-019",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation",
+    "supplementary": false,
+    "front": "If project IRR is 12% and the required return is 9%, the IRR rule says",
+    "back": "accept. IRR above the hurdle rate satisfies the acceptance rule.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-020",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation",
+    "supplementary": false,
+    "front": "For mutually exclusive projects with conflicting rankings, the theoretically preferred criterion is",
+    "back": "higher NPV. NPV measures the estimated currency increase in shareholder wealth.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-021",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation",
+    "supplementary": false,
+    "front": "NPV differs from IRR because NPV reports",
+    "back": "value added in currency units. NPV is a currency amount; IRR is a project rate of return.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-022",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation",
+    "supplementary": false,
+    "front": "A project costs 50 now and pays 60 in one year. Its IRR is",
+    "back": "20%. 0 = −50 + 60/(1+IRR), so IRR = 20%.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-023",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation",
+    "supplementary": false,
+    "front": "With all else unchanged, increasing the required return generally",
+    "back": "reduces NPV. A higher discount rate lowers present values of later inflows.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-024",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation",
+    "supplementary": false,
+    "front": "The time-zero project outlay is usually entered with a",
+    "back": "negative sign. Cash-flow signs reflect the issuer’s perspective: investment is an outflow.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-025",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation",
+    "supplementary": false,
+    "front": "NPV should discount nominal cash flows using a",
+    "back": "nominal required return. Cash-flow and discount-rate inflation conventions must be consistent.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-026",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation",
+    "supplementary": false,
+    "front": "ROIC is most useful to an external analyst because it",
+    "back": "uses company-wide reported information. ROIC can be estimated from aggregated financial statements.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-027",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation",
+    "supplementary": false,
+    "front": "A positive-NPV project can lower current ROIC when its expected return is",
+    "back": "above the hurdle rate but below existing ROIC. Value creation and a decline in an average historical ratio can coexist.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-028",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation",
+    "supplementary": true,
+    "front": "Two independent positive-NPV projects should generally be",
+    "back": "both accepted if unconstrained. Independent projects do not force an either-or choice.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-029",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation",
+    "supplementary": true,
+    "front": "Irregularly timed cash flows require NPV analysis to",
+    "back": "use the actual timing exponents. Discounting must reflect when each cash flow occurs.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-030",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation",
+    "supplementary": true,
+    "front": "A conventional project has an initial outflow followed by",
+    "back": "future inflows without later sign reversals. The conventional pattern generally produces a unique economically meaningful IRR.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-031",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe principles of capital allocation and common capital allocation pitfalls",
+    "supplementary": false,
+    "front": "Capital allocation analysis should use",
+    "back": "after-tax cash flows. Tax effects, including deductible non-cash charges, affect value.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-032",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe principles of capital allocation and common capital allocation pitfalls",
+    "supplementary": false,
+    "front": "A market study completed last month is normally",
+    "back": "a sunk cost to exclude. Past spending cannot be changed by today’s decision.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-033",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe principles of capital allocation and common capital allocation pitfalls",
+    "supplementary": false,
+    "front": "Lost sales of an existing product caused by a new project are",
+    "back": "a negative incremental effect to include. Cannibalization changes firm cash flows with versus without the project.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-034",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe principles of capital allocation and common capital allocation pitfalls",
+    "supplementary": false,
+    "front": "A cost saving created elsewhere in the firm by a project is",
+    "back": "a positive incremental cash flow. Broad incremental analysis includes project spillovers.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-035",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe principles of capital allocation and common capital allocation pitfalls",
+    "supplementary": false,
+    "front": "Delaying otherwise identical inflows generally",
+    "back": "reduces both NPV and IRR. Later cash flows have lower present value and lower implied return.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-036",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe principles of capital allocation and common capital allocation pitfalls",
+    "supplementary": false,
+    "front": "Using a lower required return because a project uses retained earnings is",
+    "back": "a capital allocation error. Internal funds still carry shareholders’ opportunity cost.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-037",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe principles of capital allocation and common capital allocation pitfalls",
+    "supplementary": false,
+    "front": "Nominal cash flows discounted at a real rate create",
+    "back": "an inconsistent inflation treatment. Nominal and real conventions must be matched.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-038",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe principles of capital allocation and common capital allocation pitfalls",
+    "supplementary": false,
+    "front": "Systematically optimistic forecasts most directly cause",
+    "back": "overstated expected project value. Forecast bias can make poor projects appear attractive.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-039",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe principles of capital allocation and common capital allocation pitfalls",
+    "supplementary": false,
+    "front": "Pet-project bias occurs when",
+    "back": "influence substitutes for objective project merit. Favored sponsors can distort prioritization and monitoring.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-040",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe principles of capital allocation and common capital allocation pitfalls",
+    "supplementary": false,
+    "front": "Post-audit of investment results can improve allocation by",
+    "back": "testing assumptions and accountability. Comparing forecasts with outcomes supports learning and discipline.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-041",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe principles of capital allocation and common capital allocation pitfalls",
+    "supplementary": false,
+    "front": "Depreciation matters to project cash flow when it",
+    "back": "changes taxes through a permitted deduction. Non-cash depreciation affects cash through its tax impact.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-042",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe principles of capital allocation and common capital allocation pitfalls",
+    "supplementary": false,
+    "front": "A sound forecast should focus on the project’s",
+    "back": "incremental cash flows relative to no project. The decision compares firm cash flows with and without the investment.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-043",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe principles of capital allocation and common capital allocation pitfalls",
+    "supplementary": true,
+    "front": "Capital rationing is not a production rule in this LM; source-supported prioritization instead emphasizes",
+    "back": "strategy, constraints, and relative value. The module discusses planning and prioritization without teaching a capital-rationing formula.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-044",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe principles of capital allocation and common capital allocation pitfalls",
+    "supplementary": true,
+    "front": "Short-term earnings pressure can lead management to",
+    "back": "underinvest in valuable long-term projects. Myopic focus may sacrifice value-creating investment.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-045",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe principles of capital allocation and common capital allocation pitfalls",
+    "supplementary": true,
+    "front": "Ignoring interactions with current operations violates the principle to",
+    "back": "examine incremental effects broadly. Project effects include positive and negative spillovers across the firm.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-046",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of real options relevant to capital investments",
+    "supplementary": false,
+    "front": "The right, but not obligation, to postpone investment is a",
+    "back": "timing option. A timing option permits delay while information improves.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-047",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of real options relevant to capital investments",
+    "supplementary": false,
+    "front": "The ability to discontinue a disappointing project is an",
+    "back": "abandonment option. Abandonment is a sizing option that limits downside.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-048",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of real options relevant to capital investments",
+    "supplementary": false,
+    "front": "The ability to invest more after strong results is a",
+    "back": "growth or expansion option. Expansion is the favorable-side sizing option.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-049",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of real options relevant to capital investments",
+    "supplementary": false,
+    "front": "Raising price when demand exceeds fixed capacity is a",
+    "back": "price-setting flexibility option. Pricing flexibility responds operationally to realized demand.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-050",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of real options relevant to capital investments",
+    "supplementary": false,
+    "front": "Adding shifts when demand is strong is a",
+    "back": "production flexibility option. Operational flexibility can change output without a new facility.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-051",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of real options relevant to capital investments",
+    "supplementary": false,
+    "front": "A mine whose investment value depends on commodity prices embeds a",
+    "back": "fundamental option. Its value depends on an external underlying factor.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-052",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of real options relevant to capital investments",
+    "supplementary": false,
+    "front": "Project NPV with a separately valued option equals",
+    "back": "base NPV − option cost + option value. The option adds net value after its incremental cost.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-053",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of real options relevant to capital investments",
+    "supplementary": false,
+    "front": "If base NPV is 6, option cost is 2, and option value is 5, adjusted NPV is",
+    "back": "9. 6 − 2 + 5 = 9.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-054",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of real options relevant to capital investments",
+    "supplementary": false,
+    "front": "A positive base NPV plus an available value-enhancing option means base NPV is generally",
+    "back": "a minimum estimate of project value. Unmodeled favorable flexibility can only add value if rationally exercised.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-055",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of real options relevant to capital investments",
+    "supplementary": false,
+    "front": "Real options should be exercised when doing so is",
+    "back": "value enhancing. The right is exercised only when the action adds value.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-056",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of real options relevant to capital investments",
+    "supplementary": false,
+    "front": "Decision trees are useful for real options because they model",
+    "back": "sequential choices and contingent outcomes. They link future states, probabilities, timing, and managerial decisions.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-057",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of real options relevant to capital investments",
+    "supplementary": false,
+    "front": "Advanced option-pricing mathematics is",
+    "back": "an optional advanced approach, not required LM5 production. The source mentions advanced methods but teaches conceptual and NPV approaches.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-058",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of real options relevant to capital investments",
+    "supplementary": true,
+    "front": "Waiting for a permit before committing full capital most directly creates a",
+    "back": "timing option. Delay allows investment after information arrives.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-059",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of real options relevant to capital investments",
+    "supplementary": true,
+    "front": "Selling reusable equipment after weak demand demonstrates",
+    "back": "abandonment value. Recoverable value can make exit preferable to continued operation.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 4"
+    ]
+  },
+  {
+    "id": "ci-lm5-fc-060",
+    "lessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM5",
+    "officialLearningOutcome": "describe types of real options relevant to capital investments",
+    "supplementary": true,
+    "front": "Real-option value is greatest when management",
+    "back": "retains flexibility and acts conditionally. Flexibility has value because action can respond to future states.",
+    "tags": [
+      "corporate issuers",
+      "LM5",
+      "LOS 4"
+    ]
+  }
+]

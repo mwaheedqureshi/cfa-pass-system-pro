@@ -1,0 +1,28 @@
+[
+  {
+    "id": "net-present-value-ci-05",
+    "name": "Net present value (NPV)",
+    "expression": "NPV = Σ[t=0 to T] CFₜ / (1 + r)ᵗ",
+    "meaning": "The present value of all project after-tax cash flows, including the usually negative time-zero investment.",
+    "variables": {"CFₜ":"after-tax project cash flow at time t","r":"required return for a similarly risky investment","T":"final cash-flow time"},
+    "intuition": "NPV translates every project cash flow to time zero using canonical Quant discounting; positive NPV is the estimated increase in shareholder wealth.",
+    "workedExample": "A project costs 100 today and pays 60 in each of two years. At 10%, NPV = −100 + 60/1.10 + 60/1.10² = 4.13, so accept.",
+    "commonMistake": "Treating the initial outlay as positive, mixing nominal cash flows with a real rate, or omitting incremental after-tax effects.",
+    "relatedLessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "relatedLearningOutcome": "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation",
+    "tags": ["corporate issuers","LM5","NPV","capital allocation"]
+  },
+  {
+    "id": "internal-rate-of-return-ci-05",
+    "name": "Internal rate of return (IRR)",
+    "expression": "0 = Σ[t=0 to T] CFₜ / (1 + IRR)ᵗ",
+    "meaning": "The discount rate that makes a project’s NPV equal to zero.",
+    "variables": {"CFₜ":"after-tax project cash flow at time t","IRR":"project internal rate of return","T":"final cash-flow time"},
+    "intuition": "IRR reports a project return percentage. Accept when IRR exceeds the required return, but prefer NPV when mutually exclusive projects conflict.",
+    "workedExample": "A project costs 50 today and pays 60 in one year. Solving 0 = −50 + 60/(1 + IRR) gives IRR = 20%.",
+    "commonMistake": "Selecting the higher IRR over the higher NPV for mutually exclusive projects or assuming every unconventional cash-flow pattern has one useful IRR.",
+    "relatedLessonId": "corporate-issuers-05-capital-investments-and-capital-allocation",
+    "relatedLearningOutcome": "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation",
+    "tags": ["corporate issuers","LM5","IRR","capital allocation"]
+  }
+]
