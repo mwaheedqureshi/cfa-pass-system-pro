@@ -1,0 +1,1307 @@
+[
+  {
+    "id": "ci-lm2-q-001",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "compare the financial claims and motivations of lenders and shareholders",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "An issuer has weak cash flow but remains solvent. Which payment is contractually promised?",
+    "choices": [
+      "Interest on outstanding debt",
+      "A common dividend",
+      "A share repurchase"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Debt requires promised interest and principal payments; common dividends and repurchases are discretionary.",
+    "incorrectChoiceExplanations": [
+      "Correct: Debt requires promised interest and principal payments; common dividends and repurchases are discretionary.",
+      "This choice does not fit the scenario as well as interest on outstanding debt.",
+      "This choice does not fit the scenario as well as interest on outstanding debt."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-002",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "compare the financial claims and motivations of lenders and shareholders",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "After all creditor claims are satisfied in liquidation, remaining assets belong primarily to:",
+    "choices": [
+      "employees as fixed claimants",
+      "shareholders as residual claimants",
+      "customers as senior lenders"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Equity is the residual claim after higher-priority creditor claims.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as shareholders as residual claimants.",
+      "Correct: Equity is the residual claim after higher-priority creditor claims.",
+      "This choice does not fit the scenario as well as shareholders as residual claimants."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-003",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "compare the financial claims and motivations of lenders and shareholders",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Which investor normally has the greater upside when an issuer performs far above expectations?",
+    "choices": [
+      "A fixed-rate lender",
+      "A trade creditor with fixed terms",
+      "A common shareholder"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Shareholders participate in residual growth; a lender’s contractual upside is generally capped.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as a common shareholder.",
+      "This choice does not fit the scenario as well as a common shareholder.",
+      "Correct: Shareholders participate in residual growth; a lender’s contractual upside is generally capped."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-004",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "compare the financial claims and motivations of lenders and shareholders",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A lender prefers a low-risk project while shareholders favor a riskier positive-upside project. The difference most directly reflects:",
+    "choices": [
+      "different payoff structures and claim priority",
+      "different legal identities",
+      "public versus private ownership"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Lenders have senior fixed claims, while shareholders hold junior residual claims and may favor upside volatility.",
+    "incorrectChoiceExplanations": [
+      "Correct: Lenders have senior fixed claims, while shareholders hold junior residual claims and may favor upside volatility.",
+      "This choice does not fit the scenario as well as different payoff structures and claim priority.",
+      "This choice does not fit the scenario as well as different payoff structures and claim priority."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-005",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "compare the financial claims and motivations of lenders and shareholders",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Which source of financing has no contractual maturity date?",
+    "choices": [
+      "A term loan",
+      "Common equity",
+      "A bond"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Common equity is permanent financing without promised repayment.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as common equity.",
+      "Correct: Common equity is permanent financing without promised repayment.",
+      "This choice does not fit the scenario as well as common equity."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-006",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "compare the financial claims and motivations of lenders and shareholders",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "An issuer misses a scheduled principal payment. This is most directly a failure to meet a:",
+    "choices": [
+      "discretionary equity distribution",
+      "customer residual claim",
+      "contractual debt claim"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Principal is a promised debt payment; equity distributions are not promised.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as contractual debt claim.",
+      "This choice does not fit the scenario as well as contractual debt claim.",
+      "Correct: Principal is a promised debt payment; equity distributions are not promised."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-007",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "compare the financial claims and motivations of lenders and shareholders",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Why are lenders generally more focused on downside protection than shareholders?",
+    "choices": [
+      "Their return is capped while losses can arise if promised payments fail",
+      "They receive all residual profits",
+      "They control every operating decision"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "A lender seeks promised payments and has limited upside, making default protection central.",
+    "incorrectChoiceExplanations": [
+      "Correct: A lender seeks promised payments and has limited upside, making default protection central.",
+      "This choice does not fit the scenario as well as their return is capped while losses can arise if promised payments fail.",
+      "This choice does not fit the scenario as well as their return is capped while losses can arise if promised payments fail."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-008",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "compare the financial claims and motivations of lenders and shareholders",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Which statement best compares liquidation priority?",
+    "choices": [
+      "Shareholders rank ahead of secured lenders",
+      "Lenders rank ahead of shareholders",
+      "Employees always rank last in every jurisdiction"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Debt claims have priority over equity; exact ordering among other claims varies.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as lenders rank ahead of shareholders.",
+      "Correct: Debt claims have priority over equity; exact ordering among other claims varies.",
+      "This choice does not fit the scenario as well as lenders rank ahead of shareholders."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-009",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "compare the financial claims and motivations of lenders and shareholders",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A profitable issuer retains all earnings. Which investor can still have a claim whose value rises without receiving a current payment?",
+    "choices": [
+      "A lender awaiting a missed coupon",
+      "A supplier with an overdue invoice",
+      "A shareholder"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Retained earnings can increase residual equity value even when no dividend is paid.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as a shareholder.",
+      "This choice does not fit the scenario as well as a shareholder.",
+      "Correct: Retained earnings can increase residual equity value even when no dividend is paid."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-010",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "compare the financial claims and motivations of lenders and shareholders",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Compared with shareholders, lenders are most likely motivated by:",
+    "choices": [
+      "timely promised payments and preservation of principal",
+      "unlimited participation in issuer growth",
+      "maximizing dividend growth"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Lender motivation centers on contractual cash flows and principal recovery.",
+    "incorrectChoiceExplanations": [
+      "Correct: Lender motivation centers on contractual cash flows and principal recovery.",
+      "This choice does not fit the scenario as well as timely promised payments and preservation of principal.",
+      "This choice does not fit the scenario as well as timely promised payments and preservation of principal."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-011",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "compare the financial claims and motivations of lenders and shareholders",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Why may shareholders tolerate more performance volatility than creditors?",
+    "choices": [
+      "Shareholders are paid before creditors",
+      "Shareholders capture residual upside after fixed claims",
+      "Creditors receive voting control from every loan"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Residual upside can compensate equity holders for junior priority and greater risk.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as shareholders capture residual upside after fixed claims.",
+      "Correct: Residual upside can compensate equity holders for junior priority and greater risk.",
+      "This choice does not fit the scenario as well as shareholders capture residual upside after fixed claims."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-012",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "compare the financial claims and motivations of lenders and shareholders",
+    "supplementary": false,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "An issuer financed with debt and equity must pay:",
+    "choices": [
+      "dividends whenever it earns profit",
+      "both interest and dividends every period",
+      "contractual interest when due, but not necessarily dividends"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Interest is promised under debt contracts; common dividends remain discretionary.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as contractual interest when due, but not necessarily dividends.",
+      "This choice does not fit the scenario as well as contractual interest when due, but not necessarily dividends.",
+      "Correct: Interest is promised under debt contracts; common dividends remain discretionary."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-013",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "compare the financial claims and motivations of lenders and shareholders",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Which feature best distinguishes debt from equity from the issuer’s perspective?",
+    "choices": [
+      "Debt has promised payments and finite maturity; equity is permanent residual financing",
+      "Equity always costs less than debt",
+      "Debt provides unlimited upside to investors"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The contractual-versus-residual distinction drives their differing risk and return profiles.",
+    "incorrectChoiceExplanations": [
+      "Correct: The contractual-versus-residual distinction drives their differing risk and return profiles.",
+      "This choice does not fit the scenario as well as debt has promised payments and finite maturity; equity is permanent residual financing.",
+      "This choice does not fit the scenario as well as debt has promised payments and finite maturity; equity is permanent residual financing."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-014",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "compare the financial claims and motivations of lenders and shareholders",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A shareholder’s strongest economic motivation is generally:",
+    "choices": [
+      "avoiding all business risk",
+      "growth in residual value and distributions",
+      "receiving principal on a fixed maturity date"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Shareholders seek appreciation and distributions from residual performance.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as growth in residual value and distributions.",
+      "Correct: Shareholders seek appreciation and distributions from residual performance.",
+      "This choice does not fit the scenario as well as growth in residual value and distributions."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-015",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "compare the financial claims and motivations of lenders and shareholders",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "When company value falls but remains above total debt claims, the decline is borne first by:",
+    "choices": [
+      "lenders through a reduced promised coupon",
+      "customers through mandatory capital contributions",
+      "shareholders through lower residual value"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Equity provides the loss-absorbing residual layer before debt claims are impaired.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as shareholders through lower residual value.",
+      "This choice does not fit the scenario as well as shareholders through lower residual value.",
+      "Correct: Equity provides the loss-absorbing residual layer before debt claims are impaired."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-016",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe a company’s stakeholder groups and compare their interests",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Which group is a stakeholder of a corporate issuer?",
+    "choices": [
+      "Employees",
+      "Only controlling shareholders",
+      "Only capital providers"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Stakeholders include employees and parties affected by or able to affect the issuer, not only investors.",
+    "incorrectChoiceExplanations": [
+      "Correct: Stakeholders include employees and parties affected by or able to affect the issuer, not only investors.",
+      "This choice does not fit the scenario as well as employees.",
+      "This choice does not fit the scenario as well as employees."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-017",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe a company’s stakeholder groups and compare their interests",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Employees most commonly seek:",
+    "choices": [
+      "maximum creditor priority",
+      "compensation, development, stability, and safe working conditions",
+      "continuous share-price liquidity"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Employees’ interests center on employment-related benefits and conditions.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as compensation, development, stability, and safe working conditions.",
+      "Correct: Employees’ interests center on employment-related benefits and conditions.",
+      "This choice does not fit the scenario as well as compensation, development, stability, and safe working conditions."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-018",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe a company’s stakeholder groups and compare their interests",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Customers are most directly interested in:",
+    "choices": [
+      "the issuer paying the highest possible dividend",
+      "senior liquidation priority",
+      "reliable, safe products at fair value"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Customers value product quality, safety, availability, and price.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as reliable, safe products at fair value.",
+      "This choice does not fit the scenario as well as reliable, safe products at fair value.",
+      "Correct: Customers value product quality, safety, availability, and price."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-019",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe a company’s stakeholder groups and compare their interests",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A supplier granting 60-day terms is especially concerned with the issuer’s:",
+    "choices": [
+      "ability and willingness to pay on time",
+      "common dividend policy only",
+      "exchange listing status only"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Suppliers depend on payment reliability and a durable commercial relationship.",
+    "incorrectChoiceExplanations": [
+      "Correct: Suppliers depend on payment reliability and a durable commercial relationship.",
+      "This choice does not fit the scenario as well as ability and willingness to pay on time.",
+      "This choice does not fit the scenario as well as ability and willingness to pay on time."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-020",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe a company’s stakeholder groups and compare their interests",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Government stakeholders are most likely concerned with:",
+    "choices": [
+      "residual dividends",
+      "taxes, legal compliance, employment, and broader economic effects",
+      "private voting agreements only"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Governments and regulators focus on compliance, taxes, policy objectives, and economic impact.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as taxes, legal compliance, employment, and broader economic effects.",
+      "Correct: Governments and regulators focus on compliance, taxes, policy objectives, and economic impact.",
+      "This choice does not fit the scenario as well as taxes, legal compliance, employment, and broader economic effects."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-021",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe a company’s stakeholder groups and compare their interests",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A factory closure protects creditor recovery but eliminates local jobs. This illustrates:",
+    "choices": [
+      "a guaranteed governance failure",
+      "a change in legal form",
+      "a trade-off among stakeholder interests"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Issuer decisions can benefit one group while imposing costs on another.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as a trade-off among stakeholder interests.",
+      "This choice does not fit the scenario as well as a trade-off among stakeholder interests.",
+      "Correct: Issuer decisions can benefit one group while imposing costs on another."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-022",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe a company’s stakeholder groups and compare their interests",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Managers typically have which stakeholder interest?",
+    "choices": [
+      "Compensation, career prospects, authority, and issuer continuity",
+      "Fixed contractual interest",
+      "Customer product warranties"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Managers combine employment, reputation, compensation, and control interests.",
+    "incorrectChoiceExplanations": [
+      "Correct: Managers combine employment, reputation, compensation, and control interests.",
+      "This choice does not fit the scenario as well as compensation, career prospects, authority, and issuer continuity.",
+      "This choice does not fit the scenario as well as compensation, career prospects, authority, and issuer continuity."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-023",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe a company’s stakeholder groups and compare their interests",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A board of directors is best viewed in LM2 as a stakeholder group interested in:",
+    "choices": [
+      "receiving customer rebates",
+      "oversight, issuer continuity, and fulfilling its responsibilities",
+      "holding only secured debt"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The board oversees the issuer and has reputational and responsibility-related interests.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as oversight, issuer continuity, and fulfilling its responsibilities.",
+      "Correct: The board oversees the issuer and has reputational and responsibility-related interests.",
+      "This choice does not fit the scenario as well as oversight, issuer continuity, and fulfilling its responsibilities."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-024",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe a company’s stakeholder groups and compare their interests",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Why can stakeholder interests align?",
+    "choices": [
+      "Every stakeholder has the same contractual claim",
+      "Conflicts disappear when an issuer is public",
+      "Long-run issuer success can support returns, jobs, reliable supply, and tax revenue"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "A durable issuer can create shared benefits even though specific claims differ.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as long-run issuer success can support returns, jobs, reliable supply, and tax revenue.",
+      "This choice does not fit the scenario as well as long-run issuer success can support returns, jobs, reliable supply, and tax revenue.",
+      "Correct: A durable issuer can create shared benefits even though specific claims differ."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-025",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe a company’s stakeholder groups and compare their interests",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A customer demands lower prices while employees seek higher wages. Management faces:",
+    "choices": [
+      "competing claims on issuer resources",
+      "a debt maturity mismatch",
+      "an ownership-form conversion"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Both groups seek value from limited issuer resources, creating a decision trade-off.",
+    "incorrectChoiceExplanations": [
+      "Correct: Both groups seek value from limited issuer resources, creating a decision trade-off.",
+      "This choice does not fit the scenario as well as competing claims on issuer resources.",
+      "This choice does not fit the scenario as well as competing claims on issuer resources."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-026",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe a company’s stakeholder groups and compare their interests",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Which stakeholder is most exposed to dependence on one issuer as a dominant buyer?",
+    "choices": [
+      "A diversified public debtholder by definition",
+      "A specialized supplier",
+      "A regulator collecting industrywide data"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "A supplier with issuer-specific investment can face high switching costs and bargaining exposure.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as a specialized supplier.",
+      "Correct: A supplier with issuer-specific investment can face high switching costs and bargaining exposure.",
+      "This choice does not fit the scenario as well as a specialized supplier."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-027",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe a company’s stakeholder groups and compare their interests",
+    "supplementary": false,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Local communities are stakeholders primarily because they may experience:",
+    "choices": [
+      "contractual dividend rights",
+      "automatic board voting rights",
+      "employment, environmental, infrastructure, and social effects"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Communities can be materially affected without holding a financial security.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as employment, environmental, infrastructure, and social effects.",
+      "This choice does not fit the scenario as well as employment, environmental, infrastructure, and social effects.",
+      "Correct: Communities can be materially affected without holding a financial security."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-028",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe a company’s stakeholder groups and compare their interests",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Information asymmetry is often greatest for an outside public debtholder relative to:",
+    "choices": [
+      "management with internal operating information",
+      "another public debtholder",
+      "a retail customer reading the same disclosure"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Management usually holds more issuer-specific information than outside investors.",
+    "incorrectChoiceExplanations": [
+      "Correct: Management usually holds more issuer-specific information than outside investors.",
+      "This choice does not fit the scenario as well as management with internal operating information.",
+      "This choice does not fit the scenario as well as management with internal operating information."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-029",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe a company’s stakeholder groups and compare their interests",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Which approach best analyzes a stakeholder conflict?",
+    "choices": [
+      "Assume shareholders always prevail",
+      "Identify each claim, influence, exposure, time horizon, and effect on issuer value",
+      "Treat every interest as legally enforceable"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Stakeholder analysis distinguishes contractual rights from broader interests and evaluates business consequences.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as identify each claim, influence, exposure, time horizon, and effect on issuer value.",
+      "Correct: Stakeholder analysis distinguishes contractual rights from broader interests and evaluates business consequences.",
+      "This choice does not fit the scenario as well as identify each claim, influence, exposure, time horizon, and effect on issuer value."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-030",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe a company’s stakeholder groups and compare their interests",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A long-term supplier accepts temporary lower volumes to preserve a valuable relationship. This demonstrates:",
+    "choices": [
+      "suppliers are residual owners",
+      "trade credit is permanent equity",
+      "time horizon can affect stakeholder preferences"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Stakeholder preferences can change when longer-run relationship value is considered.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as time horizon can affect stakeholder preferences.",
+      "This choice does not fit the scenario as well as time horizon can affect stakeholder preferences.",
+      "Correct: Stakeholder preferences can change when longer-run relationship value is considered."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-031",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe environmental, social, and governance factors of corporate issuers considered by investors",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Flood exposure threatens a manufacturer’s plant. Investors would classify this primarily as:",
+    "choices": [
+      "an environmental physical risk",
+      "a social opportunity",
+      "a governance voting mechanism"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Extreme weather exposure is a physical environmental factor affecting operations and cash flows.",
+    "incorrectChoiceExplanations": [
+      "Correct: Extreme weather exposure is a physical environmental factor affecting operations and cash flows.",
+      "This choice does not fit the scenario as well as an environmental physical risk.",
+      "This choice does not fit the scenario as well as an environmental physical risk."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-032",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe environmental, social, and governance factors of corporate issuers considered by investors",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Investment in energy-efficient equipment lowers costs and emissions. This is most directly:",
+    "choices": [
+      "an Ethics standard",
+      "an environmental opportunity with operating benefits",
+      "a shareholder liquidation preference"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Resource efficiency can reduce cost and environmental exposure simultaneously.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as an environmental opportunity with operating benefits.",
+      "Correct: Resource efficiency can reduce cost and environmental exposure simultaneously.",
+      "This choice does not fit the scenario as well as an environmental opportunity with operating benefits."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-033",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe environmental, social, and governance factors of corporate issuers considered by investors",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "High employee turnover causes training costs and lost productivity. This is primarily a:",
+    "choices": [
+      "capital-structure formula",
+      "public-listing advantage",
+      "social factor with financial consequences"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Workforce management is a social factor that can affect costs and execution.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as social factor with financial consequences.",
+      "This choice does not fit the scenario as well as social factor with financial consequences.",
+      "Correct: Workforce management is a social factor that can affect costs and execution."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-034",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe environmental, social, and governance factors of corporate issuers considered by investors",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "An issuer’s board lacks relevant expertise and reliable controls. Investors most likely view this as:",
+    "choices": [
+      "a governance factor affecting oversight risk",
+      "an environmental physical risk",
+      "a customer pricing opportunity"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Board effectiveness and controls are governance considerations, without entering LM3 mechanism design.",
+    "incorrectChoiceExplanations": [
+      "Correct: Board effectiveness and controls are governance considerations, without entering LM3 mechanism design.",
+      "This choice does not fit the scenario as well as a governance factor affecting oversight risk.",
+      "This choice does not fit the scenario as well as a governance factor affecting oversight risk."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-035",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe environmental, social, and governance factors of corporate issuers considered by investors",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A carbon-intensive producer faces possible demand shifts and policy costs. This represents primarily:",
+    "choices": [
+      "employee residual upside",
+      "environmental transition risk",
+      "a guaranteed accounting loss"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Transition risk can arise as markets, technology, and policy move toward lower-carbon activity.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as environmental transition risk.",
+      "Correct: Transition risk can arise as markets, technology, and policy move toward lower-carbon activity.",
+      "This choice does not fit the scenario as well as environmental transition risk."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-036",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe environmental, social, and governance factors of corporate issuers considered by investors",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A company develops affordable products for an underserved customer segment. Investors may view this as:",
+    "choices": [
+      "a governance conflict by definition",
+      "an environmental liability only",
+      "a social opportunity linked to new demand"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Meeting underserved needs may expand markets while producing social effects.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as a social opportunity linked to new demand.",
+      "This choice does not fit the scenario as well as a social opportunity linked to new demand.",
+      "Correct: Meeting underserved needs may expand markets while producing social effects."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-037",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe environmental, social, and governance factors of corporate issuers considered by investors",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "What makes an ESG factor material to an investor?",
+    "choices": [
+      "It can reasonably affect the issuer’s risk, performance, or value",
+      "It receives media attention regardless of issuer exposure",
+      "It is morally preferred by every stakeholder"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Investor analysis focuses on financially relevant issuer effects rather than generic advocacy.",
+    "incorrectChoiceExplanations": [
+      "Correct: Investor analysis focuses on financially relevant issuer effects rather than generic advocacy.",
+      "This choice does not fit the scenario as well as it can reasonably affect the issuer’s risk, performance, or value.",
+      "This choice does not fit the scenario as well as it can reasonably affect the issuer’s risk, performance, or value."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-038",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe environmental, social, and governance factors of corporate issuers considered by investors",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A water-intensive facility operates in a drought-prone region. The best analysis links:",
+    "choices": [
+      "water use to dividend seniority",
+      "resource dependence to operating continuity and cost",
+      "the facility directly to an Ethics violation"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Location-specific water exposure can affect production, cost, and asset value.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as resource dependence to operating continuity and cost.",
+      "Correct: Location-specific water exposure can affect production, cost, and asset value.",
+      "This choice does not fit the scenario as well as resource dependence to operating continuity and cost."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-039",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe environmental, social, and governance factors of corporate issuers considered by investors",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A strong safety program reduces injuries and downtime. This is best classified as:",
+    "choices": [
+      "a debt claim",
+      "an ownership transition",
+      "a social factor that may reduce operating risk"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Worker safety can affect productivity, legal exposure, and reputation.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as a social factor that may reduce operating risk.",
+      "This choice does not fit the scenario as well as a social factor that may reduce operating risk.",
+      "Correct: Worker safety can affect productivity, legal exposure, and reputation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-040",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe environmental, social, and governance factors of corporate issuers considered by investors",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Which statement best avoids simplistic ESG reasoning?",
+    "choices": [
+      "The same factor can create risks or opportunities depending on issuer exposure and response",
+      "Every ESG investment increases value",
+      "Every environmental exposure makes an issuer uninvestable"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Materiality and issuer-specific effects determine the financial implication.",
+    "incorrectChoiceExplanations": [
+      "Correct: Materiality and issuer-specific effects determine the financial implication.",
+      "This choice does not fit the scenario as well as the same factor can create risks or opportunities depending on issuer exposure and response.",
+      "This choice does not fit the scenario as well as the same factor can create risks or opportunities depending on issuer exposure and response."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-041",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe environmental, social, and governance factors of corporate issuers considered by investors",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A supplier labor controversy disrupts components. For the issuer, this is most directly:",
+    "choices": [
+      "a direct shareholder distribution",
+      "an indirect social risk transmitted through the value chain",
+      "a public-to-private transaction"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Social exposure can reach an issuer through suppliers and operational dependencies.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as an indirect social risk transmitted through the value chain.",
+      "Correct: Social exposure can reach an issuer through suppliers and operational dependencies.",
+      "This choice does not fit the scenario as well as an indirect social risk transmitted through the value chain."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-042",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe environmental, social, and governance factors of corporate issuers considered by investors",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Customers prefer a lower-waste product and sales rise. This is:",
+    "choices": [
+      "a creditor priority claim",
+      "a governance mechanism",
+      "an environmental-related market opportunity"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Changing preferences can turn environmental product attributes into revenue opportunity.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as an environmental-related market opportunity.",
+      "This choice does not fit the scenario as well as an environmental-related market opportunity.",
+      "Correct: Changing preferences can turn environmental product attributes into revenue opportunity."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-043",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe environmental, social, and governance factors of corporate issuers considered by investors",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Investors examine data privacy at a digital issuer because failures may cause customer loss and penalties. This is primarily:",
+    "choices": [
+      "a social factor with business risk",
+      "a capital allocation formula",
+      "an environmental physical hazard"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Customer privacy and data treatment are social considerations with financial implications.",
+    "incorrectChoiceExplanations": [
+      "Correct: Customer privacy and data treatment are social considerations with financial implications.",
+      "This choice does not fit the scenario as well as a social factor with business risk.",
+      "This choice does not fit the scenario as well as a social factor with business risk."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-044",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe environmental, social, and governance factors of corporate issuers considered by investors",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Why should analysts consider governance factors in LM2?",
+    "choices": [
+      "To prescribe detailed board mechanisms from LM3",
+      "Oversight and control quality can affect issuer risk and expected performance",
+      "To apply professional-conduct standards to management"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "LM2 identifies financially relevant governance factors; detailed conflicts and mechanisms remain LM3.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as oversight and control quality can affect issuer risk and expected performance.",
+      "Correct: LM2 identifies financially relevant governance factors; detailed conflicts and mechanisms remain LM3.",
+      "This choice does not fit the scenario as well as oversight and control quality can affect issuer risk and expected performance."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm2-q-045",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe environmental, social, and governance factors of corporate issuers considered by investors",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "An ESG assessment is most decision-useful when it:",
+    "choices": [
+      "assigns a favorable label without evidence",
+      "assumes all industries have identical exposure",
+      "traces a specific factor through stakeholders and operations to financial consequences"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Explainable materiality requires an issuer-specific consequence chain.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as traces a specific factor through stakeholders and operations to financial consequences.",
+      "This choice does not fit the scenario as well as traces a specific factor through stakeholders and operations to financial consequences.",
+      "Correct: Explainable materiality requires an issuer-specific consequence chain."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 3"
+    ]
+  }
+]

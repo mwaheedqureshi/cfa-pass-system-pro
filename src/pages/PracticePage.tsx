@@ -32,6 +32,7 @@ import fsaQuestions10 from '../data/questions/fsa-10-financial-reporting-quality
 import fsaQuestions11 from '../data/questions/fsa-11-financial-analysis-techniques.json';
 import fsaQuestions12 from '../data/questions/fsa-12-introduction-to-financial-statement-modeling.json';
 import corporateIssuersQuestions01 from '../data/questions/corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership.json';
+import corporateIssuersQuestions02 from '../data/questions/corporate-issuers-02-investors-and-other-stakeholders.json';
 import {ComprehensiveAssessment} from '../components/practice/ComprehensiveAssessment';
 import {EconomicsComprehensiveAssessment} from '../components/practice/EconomicsComprehensiveAssessment';
 import {ChapterExam} from '../components/practice/ChapterExam';
@@ -42,7 +43,7 @@ import type {Question} from '../data/types';
 const quantitative=[...returnsQuestions,...benchmarkQuestions,...tvmQuestions,...statisticsQuestions,...probabilityQuestions,...distributionQuestions,...samplingQuestions,...hypothesisQuestions,...regressionQuestions,...simulationQuestions,...dataAiQuestions] as unknown as Question[];
 const economics=[...economicsQuestions,...economicsQuestions02,...economicsQuestions03,...economicsQuestions04,...economicsQuestions05,...economicsQuestions06,...economicsQuestions07,...economicsQuestions08] as Question[];
 const fsa=[...fsaQuestions01,...fsaQuestions02,...fsaQuestions03,...fsaQuestions04,...fsaQuestions05,...fsaQuestions06,...fsaQuestions07,...fsaQuestions08,...fsaQuestions09,...fsaQuestions10,...fsaQuestions11,...fsaQuestions12] as unknown as Question[];
-const corporateIssuers=[...corporateIssuersQuestions01] as unknown as Question[];
+const corporateIssuers=[...corporateIssuersQuestions01,...corporateIssuersQuestions02] as unknown as Question[];
 const questions=[...quantitative,...economics,...fsa,...corporateIssuers] as Question[];
 
 export function PracticePage(){

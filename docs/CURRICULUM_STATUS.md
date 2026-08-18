@@ -43,12 +43,13 @@ Future Economics changes are limited to verified defects, official curriculum ch
 
 ## Corporate Issuers
 
-Corporate Issuers is **PARTIALLY PRODUCED** as of v1.9.1: 1 of 7 official modules (14.29%). CI-LM1, **Organizational Forms, Corporate Issuer Features, and Ownership**, is content-verified against the official 2027 source (PDF pp. 11–44; printed pp. 3–36) across all 3 LOS. It contains 35 official-target plus 10 supplementary questions and flashcards, 12 original worked examples, 10 original synthesis exhibits, 0 formulas, and 2 registered interactive tools. Seven provisional mock candidates were reviewed in full; 4 were accepted and 3 rejected with item-level reasons. CI-LM2 through CI-LM7 remain pending and unpublished.
+Corporate Issuers is **PARTIALLY PRODUCED** as of v1.9.2: 2 of 7 official modules (28.57%). CI-LM1 remains verified. CI-LM2, **Investors and Other Stakeholders**, is content-verified against the official 2027 source (PDF pp. 45–74; printed pp. 37–66) across all 3 LOS. LM2 contains 35 official-target plus 10 supplementary questions and flashcards, 10 original worked examples, 10 original synthesis exhibits, 0 formulas, and 2 registered interactive tools. Four provisional LM2 mock candidates were reviewed in full; 2 were accepted and 2 extraction-corrupted items rejected. CI-LM3 through CI-LM7 remain pending and unpublished.
 
 | Module | Stable lesson ID | Status |
 |---|---|---|
 | CI-LM1 Organizational Forms, Corporate Issuer Features, and Ownership | `corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership` | Verified |
-| CI-LM2–CI-LM7 | Reserved in the target manifest | Pending |
+| CI-LM2 Investors and Other Stakeholders | `corporate-issuers-02-investors-and-other-stakeholders` | Verified |
+| CI-LM3–CI-LM7 | Reserved in the target manifest | Pending |
 
 ## Financial Statement Analysis
 

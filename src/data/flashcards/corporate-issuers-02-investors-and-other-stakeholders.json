@@ -1,0 +1,677 @@
+[
+  {
+    "id": "ci-lm2-fc-001",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "compare the financial claims and motivations of lenders and shareholders",
+    "supplementary": false,
+    "front": "What is a lender’s financial claim?",
+    "back": "A senior contractual claim to promised interest and principal.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-002",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "compare the financial claims and motivations of lenders and shareholders",
+    "supplementary": false,
+    "front": "What is a shareholder’s financial claim?",
+    "back": "A junior residual claim on cash flows and assets after other claims.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-003",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "compare the financial claims and motivations of lenders and shareholders",
+    "supplementary": false,
+    "front": "Why is debt finite financing?",
+    "back": "It has a maturity date and promised repayment.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-004",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "compare the financial claims and motivations of lenders and shareholders",
+    "supplementary": false,
+    "front": "Why is equity permanent financing?",
+    "back": "It has no promised maturity or repayment date.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-005",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "compare the financial claims and motivations of lenders and shareholders",
+    "supplementary": false,
+    "front": "Are common dividends mandatory?",
+    "back": "No; they are distributions declared at the issuer’s discretion.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-006",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "compare the financial claims and motivations of lenders and shareholders",
+    "supplementary": false,
+    "front": "Why do lenders emphasize downside protection?",
+    "back": "Their upside is capped while default can impair promised payments.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-007",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "compare the financial claims and motivations of lenders and shareholders",
+    "supplementary": false,
+    "front": "Why may shareholders favor more risk?",
+    "back": "They absorb residual downside but participate in uncapped residual upside.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-008",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "compare the financial claims and motivations of lenders and shareholders",
+    "supplementary": false,
+    "front": "Who has priority in liquidation: lenders or shareholders?",
+    "back": "Lenders.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-009",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "compare the financial claims and motivations of lenders and shareholders",
+    "supplementary": false,
+    "front": "What is principal preservation?",
+    "back": "A lender motivation to recover the amount advanced.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-010",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "compare the financial claims and motivations of lenders and shareholders",
+    "supplementary": false,
+    "front": "What is residual value?",
+    "back": "Value remaining for shareholders after senior claims.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-011",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "compare the financial claims and motivations of lenders and shareholders",
+    "supplementary": false,
+    "front": "Can retained earnings benefit shareholders?",
+    "back": "Yes; reinvestment can increase residual value without a current dividend.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-012",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "compare the financial claims and motivations of lenders and shareholders",
+    "supplementary": false,
+    "front": "What payment must debt-and-equity issuers make when due?",
+    "back": "Contractual interest, not necessarily dividends.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-013",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "compare the financial claims and motivations of lenders and shareholders",
+    "supplementary": true,
+    "front": "How does claim priority affect risk tolerance?",
+    "back": "Junior residual holders generally tolerate more risk than senior fixed claimants.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-014",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "compare the financial claims and motivations of lenders and shareholders",
+    "supplementary": true,
+    "front": "What caps a conventional lender’s return?",
+    "back": "The contractual interest and principal terms.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-015",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "compare the financial claims and motivations of lenders and shareholders",
+    "supplementary": true,
+    "front": "What absorbs issuer losses first?",
+    "back": "Equity residual value, before debt claims are impaired.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-016",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe a company’s stakeholder groups and compare their interests",
+    "supplementary": false,
+    "front": "Who are corporate stakeholders?",
+    "back": "Groups that affect or are affected by the issuer.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-017",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe a company’s stakeholder groups and compare their interests",
+    "supplementary": false,
+    "front": "Name the principal stakeholder groups.",
+    "back": "Shareholders, creditors, managers, employees, directors, customers, suppliers, governments, regulators, and affected communities.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-018",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe a company’s stakeholder groups and compare their interests",
+    "supplementary": false,
+    "front": "What do employees typically seek?",
+    "back": "Pay, development, stability, fair treatment, and safe conditions.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-019",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe a company’s stakeholder groups and compare their interests",
+    "supplementary": false,
+    "front": "What do customers typically seek?",
+    "back": "Reliable, safe products or services at fair value.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-020",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe a company’s stakeholder groups and compare their interests",
+    "supplementary": false,
+    "front": "What do suppliers typically seek?",
+    "back": "Timely payment and a durable commercial relationship.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-021",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe a company’s stakeholder groups and compare their interests",
+    "supplementary": false,
+    "front": "What do governments and regulators seek?",
+    "back": "Compliance, taxes, employment, stability, and policy outcomes.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-022",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe a company’s stakeholder groups and compare their interests",
+    "supplementary": false,
+    "front": "What do managers typically seek?",
+    "back": "Compensation, authority, career prospects, reputation, and issuer continuity.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-023",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe a company’s stakeholder groups and compare their interests",
+    "supplementary": false,
+    "front": "Why are communities stakeholders?",
+    "back": "Issuer activity can affect local employment, health, environment, and infrastructure.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-024",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe a company’s stakeholder groups and compare their interests",
+    "supplementary": false,
+    "front": "What creates a stakeholder trade-off?",
+    "back": "A decision benefits one group while consuming resources or imposing costs on another.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-025",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe a company’s stakeholder groups and compare their interests",
+    "supplementary": false,
+    "front": "Can stakeholder interests align?",
+    "back": "Yes; durable issuer success can support several groups simultaneously.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-026",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe a company’s stakeholder groups and compare their interests",
+    "supplementary": false,
+    "front": "What is stakeholder influence?",
+    "back": "A group’s ability to affect issuer decisions or outcomes.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-027",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe a company’s stakeholder groups and compare their interests",
+    "supplementary": false,
+    "front": "What is stakeholder exposure?",
+    "back": "The degree to which a group depends on or is affected by the issuer.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-028",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe a company’s stakeholder groups and compare their interests",
+    "supplementary": true,
+    "front": "Why does time horizon matter?",
+    "back": "Short-run costs may support longer-run relationship value or resilience.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-029",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe a company’s stakeholder groups and compare their interests",
+    "supplementary": true,
+    "front": "What is information asymmetry?",
+    "back": "A difference in information held by insiders and outside stakeholders.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-030",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe a company’s stakeholder groups and compare their interests",
+    "supplementary": true,
+    "front": "What five lenses clarify a stakeholder conflict?",
+    "back": "Claim, influence, exposure, time horizon, and issuer-value consequence.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-031",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe environmental, social, and governance factors of corporate issuers considered by investors",
+    "supplementary": false,
+    "front": "What does ESG stand for?",
+    "back": "Environmental, social, and governance.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-032",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe environmental, social, and governance factors of corporate issuers considered by investors",
+    "supplementary": false,
+    "front": "What is an environmental physical risk?",
+    "back": "Operational or asset exposure to physical environmental conditions such as floods or drought.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-033",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe environmental, social, and governance factors of corporate issuers considered by investors",
+    "supplementary": false,
+    "front": "What is environmental transition risk?",
+    "back": "Risk from changes in policy, technology, markets, or preferences during economic transition.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-034",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe environmental, social, and governance factors of corporate issuers considered by investors",
+    "supplementary": false,
+    "front": "What is an environmental opportunity?",
+    "back": "A product or process response that may lower costs, reduce exposure, or create demand.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-035",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe environmental, social, and governance factors of corporate issuers considered by investors",
+    "supplementary": false,
+    "front": "What are social factors?",
+    "back": "Issuer relationships and impacts involving workers, customers, suppliers, and communities.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-036",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe environmental, social, and governance factors of corporate issuers considered by investors",
+    "supplementary": false,
+    "front": "What are governance factors in LM2?",
+    "back": "Oversight, controls, transparency, and decision-quality factors relevant to issuer risk and performance.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-037",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe environmental, social, and governance factors of corporate issuers considered by investors",
+    "supplementary": false,
+    "front": "What makes an ESG factor material?",
+    "back": "A reasonable potential effect on issuer risk, performance, cash flows, or value.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-038",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe environmental, social, and governance factors of corporate issuers considered by investors",
+    "supplementary": false,
+    "front": "Can one ESG factor be both risk and opportunity?",
+    "back": "Yes; the outcome depends on exposure, response, industry, location, and time horizon.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-039",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe environmental, social, and governance factors of corporate issuers considered by investors",
+    "supplementary": false,
+    "front": "What is direct ESG exposure?",
+    "back": "A factor operating through the issuer’s own assets, workforce, products, or conduct.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-040",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe environmental, social, and governance factors of corporate issuers considered by investors",
+    "supplementary": false,
+    "front": "What is indirect ESG exposure?",
+    "back": "A factor transmitted through suppliers, customers, communities, policy, or markets.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-041",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe environmental, social, and governance factors of corporate issuers considered by investors",
+    "supplementary": false,
+    "front": "Why is workforce safety financially relevant?",
+    "back": "It can affect injuries, downtime, productivity, costs, and reputation.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-042",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe environmental, social, and governance factors of corporate issuers considered by investors",
+    "supplementary": true,
+    "front": "Why is resource efficiency financially relevant?",
+    "back": "It can reduce input costs and environmental exposure.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-043",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe environmental, social, and governance factors of corporate issuers considered by investors",
+    "supplementary": true,
+    "front": "Why is data privacy an investor consideration?",
+    "back": "Failures can cause customer loss, disruption, penalties, and reputational damage.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-044",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe environmental, social, and governance factors of corporate issuers considered by investors",
+    "supplementary": true,
+    "front": "What is an ESG consequence chain?",
+    "back": "Factor → stakeholder/operation exposure → business effect → financial consequence.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm2-fc-045",
+    "lessonId": "corporate-issuers-02-investors-and-other-stakeholders",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM2",
+    "officialLearningOutcome": "describe environmental, social, and governance factors of corporate issuers considered by investors",
+    "supplementary": true,
+    "front": "What should ESG analysis avoid?",
+    "back": "Generic advocacy, automatic good/bad labels, and conclusions without issuer-specific materiality.",
+    "tags": [
+      "corporate issuers",
+      "LM2",
+      "LOS 3"
+    ]
+  }
+]

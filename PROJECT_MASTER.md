@@ -12,28 +12,28 @@ Build a reliable, premium-quality study system in deliberate, verifiable release
 
 ## Release state
 
-- **Current release:** v1.9.1 — Corporate Issuers Module Production Sprint 1
-- **Current status:** Corporate Issuers LM1 is produced and content-verified. The topic is partially produced at 1 of 7 modules (14.29%); CI-LM2 through CI-LM7 remain pending. Financial Statement Analysis remains verified and content-frozen.
-- **Next release:** v1.9.2 Corporate Issuers LM2 requires separate authorization.
+- **Current release:** v1.9.2 — Corporate Issuers Module Production Sprint 2
+- **Current status:** Corporate Issuers LM1 and LM2 are produced and content-verified. The topic is partially produced at 2 of 7 modules (28.57%); CI-LM3 through CI-LM7 remain pending. Financial Statement Analysis remains verified and content-frozen.
+- **Next release:** v1.9.3 Corporate Issuers LM3 requires separate authorization.
 
 ## Current repository statistics
 
-Measured on 2026-08-18 for the v1.9.1 release candidate.
+Measured on 2026-08-18 for the v1.9.2 release candidate.
 
 | Measure | Current value |
 |---|---:|
-| Published lessons | 33 |
+| Published lessons | 34 |
 | Quantitative study lessons | 12 |
 | Economics lessons | 8 |
 | FSA study lessons | 12 (all verified and content-frozen) |
-| Corporate Issuers study lessons | 1 (6 remain mapped and pending) |
-| Questions | 1,605 total; 555 Quantitative; 410 Economics; 595 FSA; 45 Corporate Issuers (35 official / 10 supplementary) |
-| Flashcards | 1,605 total; 555 Quantitative; 410 Economics; 595 FSA; 45 Corporate Issuers (35 official / 10 supplementary) |
+| Corporate Issuers study lessons | 2 (5 remain mapped and pending) |
+| Questions | 1,650 total; 555 Quantitative; 410 Economics; 595 FSA; 90 Corporate Issuers (70 official / 20 supplementary) |
+| Flashcards | 1,650 total; 555 Quantitative; 410 Economics; 595 FSA; 90 Corporate Issuers (70 official / 20 supplementary) |
 | Formulas | 317 total; 165 Quantitative; 42 Economics; 110 FSA; 0 Corporate Issuers |
-| Registered interactive tools | 64 |
+| Registered interactive tools | 66 |
 | Comprehensive assessments | 2 (Quantitative 90-question; Economics 60-question) |
-| Automated tests | 554 |
-| Test files | 84 |
+| Automated tests | 559 |
+| Test files | 86 |
 | Initial JavaScript bundle | 315.35 kB |
 | Initial JavaScript gzip | 94.97 kB |
 | Documentation | Foundation set complete; curriculum and verification records remain iterative |
@@ -45,7 +45,7 @@ Measured on 2026-08-18 for the v1.9.1 release candidate.
 | Quantitative Methods | 12 | VERIFIED AND CONTENT-FROZEN |
 | Economics | 8 (8 of 8 official modules verified: ECO-LM1, ECO-LM2, ECO-LM3, ECO-LM4, ECO-LM5, ECO-LM6, ECO-LM7, ECO-LM8) | VERIFIED AND CONTENT-FROZEN |
 | Financial Statement Analysis | 12 | VERIFIED AND CONTENT-FROZEN |
-| Corporate Issuers | 1 (CI-LM1 verified; CI-LM2–CI-LM7 pending) | In progress (14.29%) |
+| Corporate Issuers | 2 (CI-LM1 and CI-LM2 verified; CI-LM3–CI-LM7 pending) | In progress (28.57%) |
 | Equity Investments | 0 | Planned |
 | Fixed Income | 0 | Planned |
 | Derivatives | 0 | Planned |
@@ -60,7 +60,7 @@ Measured on 2026-08-18 for the v1.9.1 release candidate.
 - The future progress migration and target manifest are designed but are not executed by v1.6.3.
 - Economics is VERIFIED AND CONTENT-FROZEN as of v1.7.9 across all 8 official 2027 modules, presented through 8 stable study lessons.
 - Financial Statement Analysis is verified and content-frozen across all 12 official 2027 modules as of v1.8.12.
-- Corporate Issuers is mapped across 7 official 2027 modules; CI-LM1 is produced and content-verified as of v1.9.1, while CI-LM2 through CI-LM7 remain pending.
+- Corporate Issuers is mapped across 7 official 2027 modules; CI-LM1 and CI-LM2 are produced and content-verified as of v1.9.2, while CI-LM3 through CI-LM7 remain pending.
 - Other topics remain intentionally unpublished.
 - Detailed status belongs in `docs/CURRICULUM_STATUS.md`.
 - Source alignment and mathematical verification are distinct gates. “Published” never means “fully verified” unless the verification column explicitly says so.
