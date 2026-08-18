@@ -1,0 +1,15 @@
+[
+  {
+    "id": "operating-cycle-ci-04",
+    "name": "Operating cycle",
+    "expression": "Operating cycle = Days of inventory on hand + Days sales outstanding",
+    "meaning": "Measures the time from acquiring inventory through collecting cash from its sale, before recognizing supplier financing.",
+    "variables": {"Days of inventory on hand":"Average time inventory is held","Days sales outstanding":"Average time receivables remain uncollected"},
+    "intuition": "The operating cycle follows inventory into a sale and then a receivable; unlike the cash conversion cycle, it does not subtract days payable outstanding.",
+    "workedExample": "Aster Retail has 38 inventory days and 27 receivable days. Its operating cycle is 38 + 27 = 65 days.",
+    "commonMistake": "Subtracting days payable outstanding and thereby calculating the cash conversion cycle instead.",
+    "relatedLessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "relatedLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "tags": ["corporate issuers","LM4","operating cycle","working capital"]
+  }
+]

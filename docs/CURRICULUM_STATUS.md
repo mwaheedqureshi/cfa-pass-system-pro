@@ -43,14 +43,15 @@ Future Economics changes are limited to verified defects, official curriculum ch
 
 ## Corporate Issuers
 
-Corporate Issuers is **PARTIALLY PRODUCED** as of v1.9.3: 3 of 7 official modules (42.86%). CI-LM1 and CI-LM2 remain verified. CI-LM3, **Corporate Governance: Conflicts, Mechanisms, Risks, and Benefits**, is verified against the official 2027 source (PDF pp. 75–104; printed pp. 67–96) across all 3 LOS. LM3 contains 35 official-target plus 10 supplementary questions and flashcards, 10 original worked examples, 10 original synthesis exhibits, 0 formulas, and 2 registered tools. Thirteen provisional mocks were reviewed; 8 were accepted and 5 rejected. CI-LM4 through CI-LM7 remain pending.
+Corporate Issuers is **PARTIALLY PRODUCED** as of v1.9.4: 4 of 7 official modules (57.14%). CI-LM1 through CI-LM3 remain verified. CI-LM4, **Working Capital and Liquidity**, is verified against the official 2027 source (PDF pp. 105–142; printed pp. 97–134) across all 3 LOS. LM4 contains 45 official-target plus 10 supplementary questions and flashcards, 15 original worked examples, 12 original synthesis exhibits, 1 new operating-cycle formula, and 2 registered tools. Six provisional mocks were reviewed; 3 were accepted and 3 rejected. CI-LM5 through CI-LM7 remain pending.
 
 | Module | Stable lesson ID | Status |
 |---|---|---|
 | CI-LM1 Organizational Forms, Corporate Issuer Features, and Ownership | `corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership` | Verified |
 | CI-LM2 Investors and Other Stakeholders | `corporate-issuers-02-investors-and-other-stakeholders` | Verified |
 | CI-LM3 Corporate Governance: Conflicts, Mechanisms, Risks, and Benefits | `corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits` | Verified |
-| CI-LM4–CI-LM7 | Reserved in the target manifest | Pending |
+| CI-LM4 Working Capital and Liquidity | `corporate-issuers-04-working-capital-and-liquidity` | Verified |
+| CI-LM5–CI-LM7 | Reserved in the target manifest | Pending |
 
 ## Financial Statement Analysis
 

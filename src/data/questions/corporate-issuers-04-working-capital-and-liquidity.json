@@ -1,0 +1,1729 @@
+[
+  {
+    "id": "ci-lm4-q-001",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "Operating cycle equals",
+    "choices": [
+      "DIO + DSO",
+      "DIO + DSO − DPO",
+      "DSO − DPO"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The operating cycle spans inventory acquisition through customer collection.",
+    "incorrectChoiceExplanations": [
+      "Correct: The operating cycle spans inventory acquisition through customer collection.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-cycle-ci-04",
+      "cash-conversion-cycle-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-002",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "Cash conversion cycle equals",
+    "choices": [
+      "DIO + DSO − DPO",
+      "DIO + DPO − DSO",
+      "DPO − DIO − DSO"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "CCC subtracts supplier financing from the operating cycle.",
+    "incorrectChoiceExplanations": [
+      "Correct: CCC subtracts supplier financing from the operating cycle.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-cycle-ci-04",
+      "cash-conversion-cycle-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-003",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "DIO 42, DSO 31, DPO 28 gives CCC of",
+    "choices": [
+      "45 days",
+      "73 days",
+      "101 days"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "42 + 31 − 28 = 45 days.",
+    "incorrectChoiceExplanations": [
+      "Correct: 42 + 31 − 28 = 45 days.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-cycle-ci-04",
+      "cash-conversion-cycle-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-004",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "DIO 35 and DSO 24 gives an operating cycle of",
+    "choices": [
+      "59 days",
+      "11 days",
+      "83 days"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Operating cycle = 35 + 24 = 59 days.",
+    "incorrectChoiceExplanations": [
+      "Correct: Operating cycle = 35 + 24 = 59 days.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-cycle-ci-04",
+      "cash-conversion-cycle-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-005",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "Which change shortens CCC?",
+    "choices": [
+      "Lower DSO",
+      "Lower DPO",
+      "Higher DIO"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Faster customer collection lowers DSO and CCC.",
+    "incorrectChoiceExplanations": [
+      "Correct: Faster customer collection lowers DSO and CCC.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-cycle-ci-04",
+      "cash-conversion-cycle-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-006",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "A negative CCC is possible when",
+    "choices": [
+      "DPO exceeds DIO + DSO",
+      "cash exceeds receivables",
+      "current assets exceed current liabilities"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Long supplier terms can exceed the operating cycle.",
+    "incorrectChoiceExplanations": [
+      "Correct: Long supplier terms can exceed the operating cycle.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-cycle-ci-04",
+      "cash-conversion-cycle-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-007",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Holding other inputs constant, higher DPO",
+    "choices": [
+      "shortens CCC",
+      "lengthens the operating cycle",
+      "raises DSO"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "DPO is subtracted in CCC and does not enter operating cycle.",
+    "incorrectChoiceExplanations": [
+      "Correct: DPO is subtracted in CCC and does not enter operating cycle.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-cycle-ci-04",
+      "cash-conversion-cycle-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-008",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Obsolete inventory most directly",
+    "choices": [
+      "raises DIO and lengthens CCC",
+      "raises DPO and shortens CCC",
+      "lowers DSO"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Slow inventory conversion increases DIO.",
+    "incorrectChoiceExplanations": [
+      "Correct: Slow inventory conversion increases DIO.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-cycle-ci-04",
+      "cash-conversion-cycle-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-009",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A prompt-payment customer discount is successful when it",
+    "choices": [
+      "reduces DSO",
+      "increases DPO",
+      "increases DIO"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Earlier collections reduce DSO.",
+    "incorrectChoiceExplanations": [
+      "Correct: Earlier collections reduce DSO.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-cycle-ci-04",
+      "cash-conversion-cycle-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-010",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Compared with a peer, a longer CCC generally indicates",
+    "choices": [
+      "cash is committed longer",
+      "greater cash holdings",
+      "faster supplier payment only"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "CCC measures time cash remains committed to operations.",
+    "incorrectChoiceExplanations": [
+      "Correct: CCC measures time cash remains committed to operations.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-cycle-ci-04",
+      "cash-conversion-cycle-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-011",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Two issuers should be compared cautiously because",
+    "choices": [
+      "business models and terms differ",
+      "CCC is always industry-neutral",
+      "cash balances determine CCC"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Operating models and bargaining terms shape cycle metrics.",
+    "incorrectChoiceExplanations": [
+      "Correct: Operating models and bargaining terms shape cycle metrics.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-cycle-ci-04",
+      "cash-conversion-cycle-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-012",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "If DIO falls 6 days and DPO falls 2 days, CCC",
+    "choices": [
+      "falls 4 days",
+      "falls 8 days",
+      "rises 4 days"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The effect is −6 − (−2) = −4 days.",
+    "incorrectChoiceExplanations": [
+      "Correct: The effect is −6 − (−2) = −4 days.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-cycle-ci-04",
+      "cash-conversion-cycle-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-013",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "An operating cycle excludes",
+    "choices": [
+      "the supplier-payment deferral",
+      "inventory holding time",
+      "receivable collection time"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Supplier financing distinguishes CCC from operating cycle.",
+    "incorrectChoiceExplanations": [
+      "Correct: Supplier financing distinguishes CCC from operating cycle.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-cycle-ci-04",
+      "cash-conversion-cycle-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-014",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A retailer with immediate customer cash collection has",
+    "choices": [
+      "very low DSO",
+      "very high DPO necessarily",
+      "no inventory days"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Cash sales reduce receivable days.",
+    "incorrectChoiceExplanations": [
+      "Correct: Cash sales reduce receivable days.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-cycle-ci-04",
+      "cash-conversion-cycle-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-015",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": false,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A longer operating cycle with unchanged DPO",
+    "choices": [
+      "lengthens CCC",
+      "shortens CCC",
+      "leaves CCC unchanged"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "CCC moves one-for-one with operating cycle when DPO is unchanged.",
+    "incorrectChoiceExplanations": [
+      "Correct: CCC moves one-for-one with operating cycle when DPO is unchanged.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-cycle-ci-04",
+      "cash-conversion-cycle-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-016",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": false,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Average inventory should be used in a days measure because it",
+    "choices": [
+      "matches a period flow with representative period investment",
+      "guarantees seasonality disappears",
+      "equals ending inventory"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Average balances better align stock and flow measures.",
+    "incorrectChoiceExplanations": [
+      "Correct: Average balances better align stock and flow measures.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-cycle-ci-04",
+      "cash-conversion-cycle-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-017",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A supplier-term extension from 30 to 45 days, all else equal",
+    "choices": [
+      "reduces CCC by 15 days",
+      "increases operating cycle by 15 days",
+      "raises DSO by 15 days"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Longer payment time increases DPO and lowers CCC.",
+    "incorrectChoiceExplanations": [
+      "Correct: Longer payment time increases DPO and lowers CCC.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-cycle-ci-04",
+      "cash-conversion-cycle-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-018",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Faster production with unchanged sales and terms most likely",
+    "choices": [
+      "reduces DIO",
+      "increases DSO",
+      "reduces DPO"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Less time in inventory lowers DIO.",
+    "incorrectChoiceExplanations": [
+      "Correct: Less time in inventory lowers DIO.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-cycle-ci-04",
+      "cash-conversion-cycle-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-019",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "CCC of 20 versus peer median 50 most directly suggests",
+    "choices": [
+      "faster net cash conversion",
+      "greater profitability for certain",
+      "higher current ratio"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "CCC supports cash-timing comparison, not a guaranteed profit conclusion.",
+    "incorrectChoiceExplanations": [
+      "Correct: CCC supports cash-timing comparison, not a guaranteed profit conclusion.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-cycle-ci-04",
+      "cash-conversion-cycle-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-020",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A company pays suppliers before selling inventory. The elapsed period until customer collection is captured by",
+    "choices": [
+      "cash ratio",
+      "CCC",
+      "current ratio"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "CCC measures from supplier payment to customer cash collection.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: CCC measures from supplier payment to customer cash collection.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "operating-cycle-ci-04",
+      "cash-conversion-cycle-fsa-11"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-021",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "The long-run primary liquidity source for most issuers is",
+    "choices": [
+      "bankruptcy protection",
+      "cash flow from operations",
+      "asset liquidation"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Recurring operations are the sustainable primary source.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: Recurring operations are the sustainable primary source.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "current-ratio-fsa-03",
+      "quick-ratio-fsa-03",
+      "cash-ratio-fsa-03"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-022",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "Which is usually a secondary liquidity source?",
+    "choices": [
+      "Routine customer collections",
+      "Selling assets under pressure",
+      "Normal inventory sales"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Asset sales used in stress are costly secondary sources.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: Asset sales used in stress are costly secondary sources.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "current-ratio-fsa-03",
+      "quick-ratio-fsa-03",
+      "cash-ratio-fsa-03"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-023",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "A liquidity drag is",
+    "choices": [
+      "an acceleration of cash outflows",
+      "a reduction or delay in cash inflows",
+      "a new committed credit line"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Drags weaken expected inflows.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: Drags weaken expected inflows.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "current-ratio-fsa-03",
+      "quick-ratio-fsa-03",
+      "cash-ratio-fsa-03"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-024",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "A liquidity pull is",
+    "choices": [
+      "obsolete inventory",
+      "an acceleration of cash outflows or interruption of credit",
+      "slower customer collections"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Pulls bring forward outflows or remove financing.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: Pulls bring forward outflows or remove financing.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "current-ratio-fsa-03",
+      "quick-ratio-fsa-03",
+      "cash-ratio-fsa-03"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-025",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "Uncollectible receivables are a",
+    "choices": [
+      "liquidity pull",
+      "liquidity drag",
+      "primary source"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "They reduce expected inflows.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: They reduce expected inflows.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "current-ratio-fsa-03",
+      "quick-ratio-fsa-03",
+      "cash-ratio-fsa-03"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-026",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "A supplier unexpectedly demands immediate payment, creating a",
+    "choices": [
+      "liquidity drag",
+      "liquidity pull",
+      "secondary source"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Accelerated outflow is a pull.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: Accelerated outflow is a pull.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "current-ratio-fsa-03",
+      "quick-ratio-fsa-03",
+      "cash-ratio-fsa-03"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-027",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Current ratio equals",
+    "choices": [
+      "quick assets ÷ daily expenditures",
+      "current assets ÷ current liabilities",
+      "cash ÷ sales"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "This is the canonical broad liquidity ratio.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: This is the canonical broad liquidity ratio.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "current-ratio-fsa-03",
+      "quick-ratio-fsa-03",
+      "cash-ratio-fsa-03"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-028",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "The verified quick-ratio numerator includes",
+    "choices": [
+      "cash and inventory only",
+      "cash, short-term marketable instruments, and receivables",
+      "all current assets"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The 2027 source excludes inventory and includes receivables.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: The 2027 source excludes inventory and includes receivables.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "current-ratio-fsa-03",
+      "quick-ratio-fsa-03",
+      "cash-ratio-fsa-03"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-029",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Cash ratio is stricter than quick ratio because it excludes",
+    "choices": [
+      "marketable instruments",
+      "receivables",
+      "current liabilities"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Cash ratio uses only cash and marketable instruments.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: Cash ratio uses only cash and marketable instruments.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "current-ratio-fsa-03",
+      "quick-ratio-fsa-03",
+      "cash-ratio-fsa-03"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-030",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A high current ratio may overstate liquidity when",
+    "choices": [
+      "cash is immediately available",
+      "inventory is obsolete",
+      "liabilities are long term"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Illiquid current assets can weaken real payment capacity.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: Illiquid current assets can weaken real payment capacity.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "current-ratio-fsa-03",
+      "quick-ratio-fsa-03",
+      "cash-ratio-fsa-03"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-031",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A committed bank line is best viewed as",
+    "choices": [
+      "cash flow from operations",
+      "a source of liquidity subject to terms",
+      "a liquidity drag"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Borrowing capacity can support liquidity but has conditions.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: Borrowing capacity can support liquidity but has conditions.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "current-ratio-fsa-03",
+      "quick-ratio-fsa-03",
+      "cash-ratio-fsa-03"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-032",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Filing for bankruptcy protection is classified as",
+    "choices": [
+      "routine primary liquidity",
+      "a costly secondary source/action",
+      "a liquidity ratio"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "It is a crisis response, not sustainable operating liquidity.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: It is a crisis response, not sustainable operating liquidity.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "current-ratio-fsa-03",
+      "quick-ratio-fsa-03",
+      "cash-ratio-fsa-03"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-033",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A loss of supplier credit is a",
+    "choices": [
+      "liquidity drag",
+      "liquidity pull",
+      "primary inflow"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Interrupted credit accelerates the need for cash.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: Interrupted credit accelerates the need for cash.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "current-ratio-fsa-03",
+      "quick-ratio-fsa-03",
+      "cash-ratio-fsa-03"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-034",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Liquidity comparison should consider",
+    "choices": [
+      "current ratio alone",
+      "asset quality, liability timing, and business model",
+      "cash holdings alone"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Multiple dimensions determine usable liquidity.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: Multiple dimensions determine usable liquidity.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "current-ratio-fsa-03",
+      "quick-ratio-fsa-03",
+      "cash-ratio-fsa-03"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-035",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": false,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Which event is most clearly a drag?",
+    "choices": [
+      "A lender cancels a credit line",
+      "Customers begin paying later",
+      "A supplier shortens terms"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Delayed collections reduce inflows.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: Delayed collections reduce inflows.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "current-ratio-fsa-03",
+      "quick-ratio-fsa-03",
+      "cash-ratio-fsa-03"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-036",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Which event is most clearly a pull?",
+    "choices": [
+      "inventory becomes obsolete",
+      "A debt maturity becomes due sooner",
+      "customers dispute invoices"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Earlier required payment accelerates outflows.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: Earlier required payment accelerates outflows.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "current-ratio-fsa-03",
+      "quick-ratio-fsa-03",
+      "cash-ratio-fsa-03"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-037",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Operating cash flow is superior as a recurring source because it",
+    "choices": [
+      "always has zero volatility",
+      "arises from the core business",
+      "requires asset liquidation"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Sustainable liquidity ultimately depends on operations.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: Sustainable liquidity ultimately depends on operations.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship."
+    ],
+    "relatedFormulaIds": [
+      "current-ratio-fsa-03",
+      "quick-ratio-fsa-03",
+      "cash-ratio-fsa-03"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-038",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Quick ratio may fall while current ratio is unchanged when",
+    "choices": [
+      "receivables convert to cash",
+      "a payable is repaid with cash proportionally",
+      "cash is used to buy inventory"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Substituting inventory for quick assets lowers the quick ratio.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: Substituting inventory for quick assets lowers the quick ratio."
+    ],
+    "relatedFormulaIds": [
+      "current-ratio-fsa-03",
+      "quick-ratio-fsa-03",
+      "cash-ratio-fsa-03"
+    ],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-039",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "describe issuers’ objectives and compare methods for managing working capital and liquidity",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "A conservative working-capital policy generally uses",
+    "choices": [
+      "minimal liquidity and maximum short-term funding",
+      "no inventory",
+      "more liquidity and more long-term financing"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "It emphasizes resilience at a potential profitability cost.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: It emphasizes resilience at a potential profitability cost."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-040",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "describe issuers’ objectives and compare methods for managing working capital and liquidity",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "An aggressive policy generally accepts",
+    "choices": [
+      "guaranteed higher profit",
+      "no external financing",
+      "higher refinancing and liquidity risk"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Lower buffers and more short-term funding raise risk.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: Lower buffers and more short-term funding raise risk."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-041",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "describe issuers’ objectives and compare methods for managing working capital and liquidity",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "Tightening customer credit standards tends to",
+    "choices": [
+      "increase DSO and sales certainly",
+      "increase inventory automatically",
+      "reduce receivables but may reduce sales"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Stricter credit trades lower receivables risk for possible lost sales.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: Stricter credit trades lower receivables risk for possible lost sales."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-042",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "describe issuers’ objectives and compare methods for managing working capital and liquidity",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "Loosening customer terms tends to",
+    "choices": [
+      "reduce DSO",
+      "eliminate bad debts",
+      "support sales but increase DSO and credit exposure"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "More generous credit can raise sales and receivables risk.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: More generous credit can raise sales and receivables risk."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-043",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "describe issuers’ objectives and compare methods for managing working capital and liquidity",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "Reducing safety stock too far risks",
+    "choices": [
+      "higher DIO by definition",
+      "lower supplier credit",
+      "stockouts and lost sales"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Lean inventory improves cash but can disrupt service.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: Lean inventory improves cash but can disrupt service."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-044",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "describe issuers’ objectives and compare methods for managing working capital and liquidity",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "Taking a supplier prompt-payment discount is attractive when",
+    "choices": [
+      "DPO must always be maximized",
+      "liquidity has no value",
+      "the discount benefit exceeds financing cost and liquidity impact"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The decision compares implicit return, funding, and resilience.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: The decision compares implicit return, funding, and resilience."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-045",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "describe issuers’ objectives and compare methods for managing working capital and liquidity",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Delaying supplier payment beyond agreed terms may",
+    "choices": [
+      "always increase profitability",
+      "reduce operating cycle",
+      "preserve cash but damage supplier relationships and credit"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "It may lower CCC while imposing operational costs.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: It may lower CCC while imposing operational costs."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-046",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "describe issuers’ objectives and compare methods for managing working capital and liquidity",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A moderate policy seeks",
+    "choices": [
+      "maximum cash regardless of cost",
+      "only short-term debt",
+      "a balance of liquidity, risk, and return"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "It occupies the middle of the policy spectrum.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: It occupies the middle of the policy spectrum."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-047",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "describe issuers’ objectives and compare methods for managing working capital and liquidity",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Excess cash can create a liquidity drag on performance through",
+    "choices": [
+      "higher DSO",
+      "lower DPO",
+      "low returns and opportunity cost"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Liquidity buffers can sacrifice return.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: Liquidity buffers can sacrifice return."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-048",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "describe issuers’ objectives and compare methods for managing working capital and liquidity",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A receivables-aging schedule helps management",
+    "choices": [
+      "calculate inventory turnover",
+      "set WACC",
+      "identify slow-paying customers and collection risk"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Aging directs credit and collection action.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: Aging directs credit and collection action."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-049",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "describe issuers’ objectives and compare methods for managing working capital and liquidity",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Inventory management should balance",
+    "choices": [
+      "DSO against DPO only",
+      "equity cost against debt cost",
+      "carrying cost against stockout risk"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Inventory policy trades liquidity and operating continuity.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: Inventory policy trades liquidity and operating continuity."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-050",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "describe issuers’ objectives and compare methods for managing working capital and liquidity",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Diversifying liquidity sources primarily",
+    "choices": [
+      "guarantees credit availability",
+      "eliminates covenants",
+      "reduces dependence on one funding channel"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Diversification improves resilience but not certainty.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: Diversification improves resilience but not certainty."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-051",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "describe issuers’ objectives and compare methods for managing working capital and liquidity",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Matching long-lived working-capital needs with longer funding tends to",
+    "choices": [
+      "maximize rollover risk",
+      "eliminate financing cost",
+      "reduce refinancing risk"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Maturity matching supports liquidity resilience.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: Maturity matching supports liquidity resilience."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-052",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "describe issuers’ objectives and compare methods for managing working capital and liquidity",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Factoring receivables may",
+    "choices": [
+      "increase DSO necessarily",
+      "create inventory",
+      "accelerate cash but impose fees and possible relationship effects"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "It exchanges future collections for earlier cash at a cost.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: It exchanges future collections for earlier cash at a cost."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-053",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "describe issuers’ objectives and compare methods for managing working capital and liquidity",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Centralizing cash management can",
+    "choices": [
+      "guarantee positive CCC",
+      "eliminate operating risk",
+      "improve visibility and reduce idle balances"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Consolidated information supports allocation.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: Consolidated information supports allocation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-054",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "describe issuers’ objectives and compare methods for managing working capital and liquidity",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A firm should not minimize CCC blindly because",
+    "choices": [
+      "CCC has no cash meaning",
+      "DPO is never relevant",
+      "service, supplier, and sales trade-offs matter"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Cycle improvement can destroy value if operational costs exceed benefits.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: Cycle improvement can destroy value if operational costs exceed benefits."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm4-q-055",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "describe issuers’ objectives and compare methods for managing working capital and liquidity",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Short-term funding is often cheaper but creates",
+    "choices": [
+      "permanent capital",
+      "no liquidity risk",
+      "rollover and interest-rate exposure"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Frequent refinancing increases vulnerability.",
+    "incorrectChoiceExplanations": [
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "This alternative does not follow the applicable cash-cycle or liquidity relationship.",
+      "Correct: Frequent refinancing increases vulnerability."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 3"
+    ]
+  }
+]

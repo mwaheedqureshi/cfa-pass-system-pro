@@ -1,0 +1,827 @@
+[
+  {
+    "id": "ci-lm4-fc-001",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": false,
+    "front": "Operating cycle",
+    "back": "DIO + DSO: time from acquiring inventory through collecting the customer receivable.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-002",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": false,
+    "front": "CCC",
+    "back": "Operating cycle − DPO: time from paying suppliers to collecting customers.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-003",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": false,
+    "front": "DIO direction",
+    "back": "Higher DIO lengthens both operating cycle and CCC.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-004",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": false,
+    "front": "DSO direction",
+    "back": "Higher DSO lengthens both operating cycle and CCC.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-005",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": false,
+    "front": "DPO direction",
+    "back": "Higher DPO shortens CCC but does not change operating cycle.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-006",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": false,
+    "front": "Negative CCC",
+    "back": "DPO exceeds DIO + DSO.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-007",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": false,
+    "front": "LM4 average-balance convention",
+    "back": "Use representative average inventory, receivables, and payables with period flows.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-008",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": false,
+    "front": "Prompt-payment discount",
+    "back": "May reduce DSO when it changes customer behavior.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-009",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": false,
+    "front": "Obsolete inventory",
+    "back": "Raises effective inventory days and creates a liquidity drag.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-010",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": false,
+    "front": "CCC comparison",
+    "back": "Compare trends and similar business models; shorter is not automatically better.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-011",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": false,
+    "front": "Inventory efficiency",
+    "back": "Faster conversion lowers DIO, other things equal.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-012",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": false,
+    "front": "Collection efficiency",
+    "back": "Faster customer payment lowers DSO.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-013",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": false,
+    "front": "Supplier financing",
+    "back": "Longer agreed terms raise DPO and lower CCC.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-014",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": false,
+    "front": "Operating-cycle boundary",
+    "back": "Excludes supplier payment timing.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-015",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": false,
+    "front": "CCC boundary",
+    "back": "Begins when suppliers are paid and ends when customer cash is collected.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-016",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": false,
+    "front": "Cycle trade-off",
+    "back": "Cash improvement must be weighed against service, sales, and supplier effects.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-017",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": true,
+    "front": "Seasonality caution",
+    "back": "Ending balances may misrepresent typical working-capital investment.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-018",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": true,
+    "front": "Cash-sale model",
+    "back": "Usually has minimal DSO.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-019",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": true,
+    "front": "Cycle deterioration",
+    "back": "Rising DIO or DSO, or falling DPO, lengthens CCC.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-020",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain the cash conversion cycle and compare issuers’ cash conversion cycles",
+    "supplementary": true,
+    "front": "Cycle improvement",
+    "back": "Falling DIO/DSO or rising DPO shortens CCC.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-021",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": false,
+    "front": "Liquidity",
+    "back": "Ability to meet obligations when due without unacceptable loss.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-022",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": false,
+    "front": "Primary source",
+    "back": "Cash flow from operations is the sustainable long-run source for most issuers.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-023",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": false,
+    "front": "Secondary source",
+    "back": "Costly crisis actions such as asset sales, contract renegotiation, equity issuance, or bankruptcy protection.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-024",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": false,
+    "front": "Liquidity drag",
+    "back": "Reduction or delay in cash inflows.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-025",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": false,
+    "front": "Liquidity pull",
+    "back": "Acceleration of cash outflows or interruption of credit.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-026",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": false,
+    "front": "Current ratio",
+    "back": "Current assets ÷ current liabilities.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-027",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": false,
+    "front": "Quick ratio",
+    "back": "(Cash + short-term marketable instruments + receivables) ÷ current liabilities.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-028",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": false,
+    "front": "Cash ratio",
+    "back": "(Cash + marketable instruments) ÷ current liabilities.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-029",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": false,
+    "front": "Liquidity-ratio limitation",
+    "back": "Reported quantity does not establish asset quality or timing.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-030",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": false,
+    "front": "Uncollectible receivable",
+    "back": "A drag because expected cash inflow declines.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-031",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": false,
+    "front": "Cancelled credit line",
+    "back": "A pull because credit availability is interrupted.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-032",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": false,
+    "front": "Supplier demands early payment",
+    "back": "A pull because cash outflow accelerates.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-033",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": false,
+    "front": "Obsolete stock",
+    "back": "A drag because conversion into cash is impaired.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-034",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": false,
+    "front": "Committed facility",
+    "back": "Liquidity support subject to capacity, covenants, and counterparty availability.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-035",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": false,
+    "front": "Liquidity comparison",
+    "back": "Assess ratios, cash flow, asset quality, liability timing, access, and business model.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-036",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": true,
+    "front": "Secondary-source warning",
+    "back": "Reliance indicates stress and can impose substantial cost.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-037",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": true,
+    "front": "Defensive interval application",
+    "back": "Quick assets ÷ daily cash expenditures; canonical FSA reuse.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-038",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "explain liquidity and compare issuers’ liquidity levels",
+    "supplementary": true,
+    "front": "Conservative policy",
+    "back": "Higher current-asset buffers and greater stable financing; lower risk, possible lower return.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-039",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "describe issuers’ objectives and compare methods for managing working capital and liquidity",
+    "supplementary": false,
+    "front": "Moderate policy",
+    "back": "Balances liquidity resilience with financing and carrying cost.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-040",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "describe issuers’ objectives and compare methods for managing working capital and liquidity",
+    "supplementary": false,
+    "front": "Aggressive policy",
+    "back": "Lower buffers and greater short-term financing; higher risk and potential return.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-041",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "describe issuers’ objectives and compare methods for managing working capital and liquidity",
+    "supplementary": false,
+    "front": "Credit standards",
+    "back": "Tighter standards reduce receivables exposure but may reduce sales.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-042",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "describe issuers’ objectives and compare methods for managing working capital and liquidity",
+    "supplementary": false,
+    "front": "Customer terms",
+    "back": "Longer terms may support sales while raising DSO and credit risk.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-043",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "describe issuers’ objectives and compare methods for managing working capital and liquidity",
+    "supplementary": false,
+    "front": "Safety stock",
+    "back": "Reduces stockout risk but increases carrying cost and cash commitment.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-044",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "describe issuers’ objectives and compare methods for managing working capital and liquidity",
+    "supplementary": false,
+    "front": "Supplier discount decision",
+    "back": "Compare discount return with financing cost and liquidity consequences.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-045",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "describe issuers’ objectives and compare methods for managing working capital and liquidity",
+    "supplementary": false,
+    "front": "Overdue supplier payment",
+    "back": "May conserve cash but harm relationships and future credit.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-046",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "describe issuers’ objectives and compare methods for managing working capital and liquidity",
+    "supplementary": false,
+    "front": "Funding maturity match",
+    "back": "Use stable funding for persistent working-capital needs to limit rollover risk.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-047",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "describe issuers’ objectives and compare methods for managing working capital and liquidity",
+    "supplementary": false,
+    "front": "Factoring",
+    "back": "Accelerates receivable cash at a fee and possibly transfers collection or credit risk.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-048",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "describe issuers’ objectives and compare methods for managing working capital and liquidity",
+    "supplementary": false,
+    "front": "Cash centralization",
+    "back": "Improves visibility and can reduce idle balances.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-049",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "describe issuers’ objectives and compare methods for managing working capital and liquidity",
+    "supplementary": false,
+    "front": "Source diversification",
+    "back": "Reduces reliance on a single liquidity channel.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-050",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "describe issuers’ objectives and compare methods for managing working capital and liquidity",
+    "supplementary": false,
+    "front": "Short-term funding trade-off",
+    "back": "Often cheaper but exposes the issuer to rollover and rate risk.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-051",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "describe issuers’ objectives and compare methods for managing working capital and liquidity",
+    "supplementary": false,
+    "front": "Profitability–liquidity trade-off",
+    "back": "More liquid assets improve resilience but can earn lower returns.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-052",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "describe issuers’ objectives and compare methods for managing working capital and liquidity",
+    "supplementary": false,
+    "front": "Receivables aging",
+    "back": "Shows overdue exposure and supports collection priorities.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-053",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "describe issuers’ objectives and compare methods for managing working capital and liquidity",
+    "supplementary": true,
+    "front": "Inventory policy",
+    "back": "Balance carrying and obsolescence costs with stockout and service risk.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-054",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "describe issuers’ objectives and compare methods for managing working capital and liquidity",
+    "supplementary": true,
+    "front": "Payables policy",
+    "back": "Use agreed supplier credit while protecting discounts and relationships.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm4-fc-055",
+    "lessonId": "corporate-issuers-04-working-capital-and-liquidity",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM4",
+    "officialLearningOutcome": "describe issuers’ objectives and compare methods for managing working capital and liquidity",
+    "supplementary": true,
+    "front": "Working capital objective",
+    "back": "Support operations and obligations while controlling risk and opportunity cost.",
+    "tags": [
+      "corporate issuers",
+      "LM4",
+      "LOS 3"
+    ]
+  }
+]
