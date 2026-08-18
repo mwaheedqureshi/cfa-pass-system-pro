@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "ci-lm1-q-001",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare the organizational forms of businesses",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A consultant starts a business alone and remains personally responsible for every business obligation. Which form best fits?",
+    "choices": [
+      "Sole proprietorship",
+      "Limited company",
+      "Limited partnership"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "A sole proprietor owns and operates the business directly and generally has unlimited personal liability.",
+    "incorrectChoiceExplanations": [
+      "Correct: A sole proprietor owns and operates the business directly and generally has unlimited personal liability.",
+      "This choice does not fit the scenario as well as sole proprietorship.",
+      "This choice does not fit the scenario as well as sole proprietorship."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "sole proprietorship",
+      "liability"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-002",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare the organizational forms of businesses",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Two architects jointly operate a practice and each may bind the firm in ordinary business. The arrangement is most consistent with a:",
+    "choices": [
+      "sole proprietorship",
+      "general partnership",
+      "public limited company"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "General partners share management authority and ordinarily have unlimited liability for partnership obligations.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as general partnership.",
+      "Correct: General partners share management authority and ordinarily have unlimited liability for partnership obligations.",
+      "This choice does not fit the scenario as well as general partnership."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "general partnership",
+      "control"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-003",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare the organizational forms of businesses",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "An investor contributes capital to a partnership but does not participate in operations and wants liability limited to the contribution. The investor is most likely a:",
+    "choices": [
+      "general partner",
+      "sole proprietor",
+      "limited partner"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "A limited partner supplies capital and normally gives up operational control in exchange for limited liability.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as limited partner.",
+      "This choice does not fit the scenario as well as limited partner.",
+      "Correct: A limited partner supplies capital and normally gives up operational control in exchange for limited liability."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "limited partnership",
+      "control"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-004",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare the organizational forms of businesses",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Which organizational form most clearly separates the legal identity of the business from its owners?",
+    "choices": [
+      "limited company",
+      "sole proprietorship",
+      "general partnership"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "A limited company is a distinct legal entity; proprietorships and general partnerships do not provide the same separation.",
+    "incorrectChoiceExplanations": [
+      "Correct: A limited company is a distinct legal entity; proprietorships and general partnerships do not provide the same separation.",
+      "This choice does not fit the scenario as well as limited company.",
+      "This choice does not fit the scenario as well as limited company."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "company",
+      "legal identity"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-005",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare the organizational forms of businesses",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A founder values complete control and minimal formation complexity but accepts exposure of personal assets. The most suitable form is a:",
+    "choices": [
+      "public company",
+      "sole proprietorship",
+      "limited partnership as a limited partner"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The control and simplicity point to a sole proprietorship, with unlimited liability as the central trade-off.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as sole proprietorship.",
+      "Correct: The control and simplicity point to a sole proprietorship, with unlimited liability as the central trade-off.",
+      "This choice does not fit the scenario as well as sole proprietorship."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "trade-offs",
+      "sole proprietorship"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-006",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare the organizational forms of businesses",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Why can a general partnership offer broader operating capacity than a sole proprietorship?",
+    "choices": [
+      "Every partner automatically has limited liability",
+      "It is a separate legal person in every jurisdiction",
+      "Partners can combine capital, skills, and management effort"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Multiple partners can pool resources and expertise, but general partners ordinarily retain unlimited liability.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as partners can combine capital, skills, and management effort.",
+      "This choice does not fit the scenario as well as partners can combine capital, skills, and management effort.",
+      "Correct: Multiple partners can pool resources and expertise, but general partners ordinarily retain unlimited liability."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "general partnership",
+      "resources"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-007",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare the organizational forms of businesses",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A limited partner begins directing routine operations. What curriculum-relevant concern is most important?",
+    "choices": [
+      "The partner may jeopardize the intended separation between limited liability and operational control",
+      "The partnership automatically becomes publicly listed",
+      "All general partners immediately gain limited liability"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Limited partnership status links limited partners’ liability protection to their non-management role; exact legal consequences remain jurisdiction-specific.",
+    "incorrectChoiceExplanations": [
+      "Correct: Limited partnership status links limited partners’ liability protection to their non-management role; exact legal consequences remain jurisdiction-specific.",
+      "This choice does not fit the scenario as well as the partner may jeopardize the intended separation between limited liability and operational control.",
+      "This choice does not fit the scenario as well as the partner may jeopardize the intended separation between limited liability and operational control."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "limited partnership",
+      "control"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-008",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare the organizational forms of businesses",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Which feature most directly supports continuity when an owner of a limited company sells shares?",
+    "choices": [
+      "Every shareholder manages daily operations",
+      "The company has a legal identity separate from individual owners",
+      "The company avoids all taxes"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Separate legal identity allows ownership interests to change without necessarily ending the enterprise.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as the company has a legal identity separate from individual owners.",
+      "Correct: Separate legal identity allows ownership interests to change without necessarily ending the enterprise.",
+      "This choice does not fit the scenario as well as the company has a legal identity separate from individual owners."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "continuity",
+      "company"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-009",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare the organizational forms of businesses",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Compared with a limited company, a sole proprietorship most likely has:",
+    "choices": [
+      "greater access to external equity markets",
+      "more transferable ownership interests",
+      "less separation between owner and business obligations"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The proprietor and business are not distinct in the same way as a company, limiting continuity and financing flexibility.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as less separation between owner and business obligations.",
+      "This choice does not fit the scenario as well as less separation between owner and business obligations.",
+      "Correct: The proprietor and business are not distinct in the same way as a company, limiting continuity and financing flexibility."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "sole proprietorship",
+      "comparison"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-010",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare the organizational forms of businesses",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Which statement best distinguishes a limited partner from a shareholder in a limited company?",
+    "choices": [
+      "Both may have limited liability, but the limited partner’s role is defined within a partnership arrangement",
+      "Only the limited partner can transfer an ownership interest",
+      "A shareholder must manage the company’s daily operations"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Both can have limited liability, but they hold interests in different organizational forms with different governance structures.",
+    "incorrectChoiceExplanations": [
+      "Correct: Both can have limited liability, but they hold interests in different organizational forms with different governance structures.",
+      "This choice does not fit the scenario as well as both may have limited liability, but the limited partner’s role is defined within a partnership arrangement.",
+      "This choice does not fit the scenario as well as both may have limited liability, but the limited partner’s role is defined within a partnership arrangement."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "limited partner",
+      "shareholder"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-011",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare the organizational forms of businesses",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Three founders want a jointly owned business in which every founder actively manages and accepts personal liability. Which form is most consistent?",
+    "choices": [
+      "limited partnership with all founders as limited partners",
+      "general partnership",
+      "limited company with passive shareholders"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Active co-management combined with personal liability is characteristic of a general partnership.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as general partnership.",
+      "Correct: Active co-management combined with personal liability is characteristic of a general partnership.",
+      "This choice does not fit the scenario as well as general partnership."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "general partnership",
+      "scenario"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-012",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare the organizational forms of businesses",
+    "supplementary": false,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Which disadvantage is shared most clearly by sole proprietorships and general partnerships?",
+    "choices": [
+      "They must list shares on an exchange",
+      "They necessarily face company-level and shareholder-level taxation",
+      "Owners may face unlimited liability for business obligations"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Unlimited owner liability is a central disadvantage; listing and double taxation are not defining features of these forms.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as owners may face unlimited liability for business obligations.",
+      "This choice does not fit the scenario as well as owners may face unlimited liability for business obligations.",
+      "Correct: Unlimited owner liability is a central disadvantage; listing and double taxation are not defining features of these forms."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "unlimited liability",
+      "comparison"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-013",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare the organizational forms of businesses",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A business form allows passive capital providers to limit liability while a different participant runs the business and bears unlimited liability. This describes a:",
+    "choices": [
+      "limited partnership",
+      "general partnership",
+      "sole proprietorship"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "A limited partnership divides roles between a managing general partner and passive limited partners.",
+    "incorrectChoiceExplanations": [
+      "Correct: A limited partnership divides roles between a managing general partner and passive limited partners.",
+      "This choice does not fit the scenario as well as limited partnership.",
+      "This choice does not fit the scenario as well as limited partnership."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "limited partnership",
+      "roles"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-014",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare the organizational forms of businesses",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Why may ownership transfer be harder in a partnership than in a company with standardized shares?",
+    "choices": [
+      "Partnerships cannot have more than one owner",
+      "Partnership interests often require consent or contractual arrangements rather than simple share transfer",
+      "Companies prohibit changes in ownership"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Company shares generally facilitate transferability; partnership agreements commonly constrain transfers.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as partnership interests often require consent or contractual arrangements rather than simple share transfer.",
+      "Correct: Company shares generally facilitate transferability; partnership agreements commonly constrain transfers.",
+      "This choice does not fit the scenario as well as partnership interests often require consent or contractual arrangements rather than simple share transfer."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "transferability",
+      "partnership"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-015",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare the organizational forms of businesses",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Which comparison is most accurate?",
+    "choices": [
+      "A sole proprietorship normally offers easier access to public equity than a company",
+      "A general partnership always separates ownership from management",
+      "A company usually offers stronger continuity and owner-liability protection than a sole proprietorship"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Separate legal identity and limited shareholder liability support company continuity and protection.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as a company usually offers stronger continuity and owner-liability protection than a sole proprietorship.",
+      "This choice does not fit the scenario as well as a company usually offers stronger continuity and owner-liability protection than a sole proprietorship.",
+      "Correct: Separate legal identity and limited shareholder liability support company continuity and protection."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "comparison",
+      "continuity"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-016",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "describe key features of corporate issuers",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Shareholders elect directors, while managers conduct daily operations. This arrangement illustrates:",
+    "choices": [
+      "separation of ownership and management",
+      "unlimited shareholder liability",
+      "absence of legal identity"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Corporate owners typically exercise control indirectly through voting and the board rather than managing daily operations.",
+    "incorrectChoiceExplanations": [
+      "Correct: Corporate owners typically exercise control indirectly through voting and the board rather than managing daily operations.",
+      "This choice does not fit the scenario as well as separation of ownership and management.",
+      "This choice does not fit the scenario as well as separation of ownership and management."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "owner-manager separation",
+      "board"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-017",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "describe key features of corporate issuers",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "What does limited shareholder liability normally mean?",
+    "choices": [
+      "The company cannot incur debt",
+      "A shareholder’s loss is generally limited to the amount invested",
+      "Shareholders are guaranteed a positive return"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Limited liability limits owner exposure; it does not remove business risk or guarantee returns.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as a shareholder’s loss is generally limited to the amount invested.",
+      "Correct: Limited liability limits owner exposure; it does not remove business risk or guarantee returns.",
+      "This choice does not fit the scenario as well as a shareholder’s loss is generally limited to the amount invested."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "limited liability",
+      "shareholder"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-018",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "describe key features of corporate issuers",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Which corporate feature most directly permits the company to enter contracts and own assets in its own name?",
+    "choices": [
+      "share-price transparency",
+      "owner management of every transaction",
+      "separate legal identity"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "A corporation’s separate legal identity allows it to hold assets, contract, sue, and be sued independently of shareholders.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as separate legal identity.",
+      "This choice does not fit the scenario as well as separate legal identity.",
+      "Correct: A corporation’s separate legal identity allows it to hold assets, contract, sue, and be sued independently of shareholders."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "legal identity",
+      "contracts"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-019",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "describe key features of corporate issuers",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A shareholder dies, but the company continues operating without re-forming the business. This most directly reflects:",
+    "choices": [
+      "continuity arising from separate legal identity",
+      "double taxation",
+      "limited disclosure"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Corporate existence need not depend on the identity or lifespan of any particular shareholder.",
+    "incorrectChoiceExplanations": [
+      "Correct: Corporate existence need not depend on the identity or lifespan of any particular shareholder.",
+      "This choice does not fit the scenario as well as continuity arising from separate legal identity.",
+      "This choice does not fit the scenario as well as continuity arising from separate legal identity."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "continuity",
+      "legal identity"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-020",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "describe key features of corporate issuers",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Why can a corporate issuer generally raise more external capital than a proprietorship?",
+    "choices": [
+      "Its owners must provide all financing personally",
+      "It can issue transferable debt and equity claims to a broader investor base",
+      "It is exempt from disclosure whenever it issues securities"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Corporate form supports scalable external financing through securities and limited, divisible ownership interests.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as it can issue transferable debt and equity claims to a broader investor base.",
+      "Correct: Corporate form supports scalable external financing through securities and limited, divisible ownership interests.",
+      "This choice does not fit the scenario as well as it can issue transferable debt and equity claims to a broader investor base."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "external financing",
+      "capital access"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-021",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "describe key features of corporate issuers",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Which statement about owner–manager separation is most accurate within LM1 scope?",
+    "choices": [
+      "It eliminates every conflict between owners and managers",
+      "It requires shareholders to approve routine operating purchases",
+      "It enables specialized management but makes owners rely on governance arrangements for indirect control"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Separation supports professional management; detailed conflicts and governance mechanisms belong to later modules.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as it enables specialized management but makes owners rely on governance arrangements for indirect control.",
+      "This choice does not fit the scenario as well as it enables specialized management but makes owners rely on governance arrangements for indirect control.",
+      "Correct: Separation supports professional management; detailed conflicts and governance mechanisms belong to later modules."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "owner-manager separation",
+      "control"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-022",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "describe key features of corporate issuers",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A company pays tax on profit and shareholders may also pay tax on distributed dividends. This is commonly called:",
+    "choices": [
+      "double taxation",
+      "pass-through taxation",
+      "tax exemption"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Some corporate systems tax income at both company and shareholder levels; the precise treatment is jurisdiction-specific.",
+    "incorrectChoiceExplanations": [
+      "Correct: Some corporate systems tax income at both company and shareholder levels; the precise treatment is jurisdiction-specific.",
+      "This choice does not fit the scenario as well as double taxation.",
+      "This choice does not fit the scenario as well as double taxation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "taxation",
+      "double taxation"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-023",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "describe key features of corporate issuers",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Which corporate characteristic most improves the divisibility of ownership?",
+    "choices": [
+      "Managers personally own every company asset",
+      "Ownership is represented by shares",
+      "Creditors elect all directors"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Shares divide ownership into standardized interests that can be issued and transferred.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as ownership is represented by shares.",
+      "Correct: Shares divide ownership into standardized interests that can be issued and transferred.",
+      "This choice does not fit the scenario as well as ownership is represented by shares."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "shares",
+      "ownership"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-024",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "describe key features of corporate issuers",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Why does limited liability help a corporate issuer attract external equity?",
+    "choices": [
+      "It guarantees investors voting control",
+      "It prevents the share price from declining",
+      "Investors can participate without generally exposing unrelated personal assets to company obligations"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Capped loss exposure makes participation feasible for a broad investor base, though invested capital remains at risk.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as investors can participate without generally exposing unrelated personal assets to company obligations.",
+      "This choice does not fit the scenario as well as investors can participate without generally exposing unrelated personal assets to company obligations.",
+      "Correct: Capped loss exposure makes participation feasible for a broad investor base, though invested capital remains at risk."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "limited liability",
+      "capital access"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-025",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "describe key features of corporate issuers",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Which party normally appoints executive management in a corporation?",
+    "choices": [
+      "the board of directors",
+      "each creditor independently",
+      "customers through purchase decisions"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Shareholders elect the board, and the board appoints and oversees executive management.",
+    "incorrectChoiceExplanations": [
+      "Correct: Shareholders elect the board, and the board appoints and oversees executive management.",
+      "This choice does not fit the scenario as well as the board of directors.",
+      "This choice does not fit the scenario as well as the board of directors."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "board",
+      "management"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-026",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "describe key features of corporate issuers",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A shareholder owns 2% of a company. Which statement is most accurate?",
+    "choices": [
+      "The shareholder may withdraw 2% of company cash at will",
+      "The shareholder owns an interest in the company but not a direct 2% title to each company asset",
+      "The shareholder is personally liable for 2% of every company debt"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The company owns its assets as a separate legal person; shareholders own shares, not direct slices of individual assets.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as the shareholder owns an interest in the company but not a direct 2% title to each company asset.",
+      "Correct: The company owns its assets as a separate legal person; shareholders own shares, not direct slices of individual assets.",
+      "This choice does not fit the scenario as well as the shareholder owns an interest in the company but not a direct 2% title to each company asset."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "legal identity",
+      "shareholder"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-027",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "describe key features of corporate issuers",
+    "supplementary": false,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Which feature most directly distinguishes company debt from shareholder obligations?",
+    "choices": [
+      "Every shareholder guarantees company debt",
+      "Debt automatically converts the company into a partnership",
+      "The company is a separate legal entity responsible for its own obligations"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Separate legal identity places corporate obligations at the entity level, subject to specific guarantees or law.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as the company is a separate legal entity responsible for its own obligations.",
+      "This choice does not fit the scenario as well as the company is a separate legal entity responsible for its own obligations.",
+      "Correct: Separate legal identity places corporate obligations at the entity level, subject to specific guarantees or law."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "legal identity",
+      "debt"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-028",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "describe key features of corporate issuers",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Why is corporate ownership generally easier to transfer than ownership of a sole proprietorship?",
+    "choices": [
+      "Shares can transfer an ownership interest without transferring each underlying business asset",
+      "Sole proprietorship interests trade continuously on exchanges",
+      "Companies have no restrictions on share transfers"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Shares provide a transferable ownership unit, although private-company restrictions may still apply.",
+    "incorrectChoiceExplanations": [
+      "Correct: Shares provide a transferable ownership unit, although private-company restrictions may still apply.",
+      "This choice does not fit the scenario as well as shares can transfer an ownership interest without transferring each underlying business asset.",
+      "This choice does not fit the scenario as well as shares can transfer an ownership interest without transferring each underlying business asset."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "transferability",
+      "shares"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-029",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "describe key features of corporate issuers",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A founder incorporates but continues as chief executive and controlling shareholder. Which statement is most accurate?",
+    "choices": [
+      "The company lacks separate legal identity until ownership disperses",
+      "Legal separation exists even though ownership and management remain concentrated in one person",
+      "The founder has unlimited liability merely because the founder manages"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Incorporation creates legal separation; actual owner–manager separation may be limited in a closely held company.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as legal separation exists even though ownership and management remain concentrated in one person.",
+      "Correct: Incorporation creates legal separation; actual owner–manager separation may be limited in a closely held company.",
+      "This choice does not fit the scenario as well as legal separation exists even though ownership and management remain concentrated in one person."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "closely held",
+      "legal identity"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-030",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "describe key features of corporate issuers",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Which statement stays within the supported taxation distinction?",
+    "choices": [
+      "Every corporation worldwide is taxed identically",
+      "A company can never face tax on distributed profit",
+      "Corporate and pass-through forms may produce different entity- and owner-level taxation, depending on jurisdiction"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The curriculum supports general comparison, not universal jurisdiction-specific tax claims.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as corporate and pass-through forms may produce different entity- and owner-level taxation, depending on jurisdiction.",
+      "This choice does not fit the scenario as well as corporate and pass-through forms may produce different entity- and owner-level taxation, depending on jurisdiction.",
+      "Correct: The curriculum supports general comparison, not universal jurisdiction-specific tax claims."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "taxation",
+      "scope"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-031",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare publicly and privately owned corporate issuers",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Which characteristic most commonly identifies a public company?",
+    "choices": [
+      "Its shares are listed and available for trading in a public market",
+      "A government owns all its shares",
+      "Its ownership can never change"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Exchange listing is the typical distinction, although legal definitions can vary by jurisdiction.",
+    "incorrectChoiceExplanations": [
+      "Correct: Exchange listing is the typical distinction, although legal definitions can vary by jurisdiction.",
+      "This choice does not fit the scenario as well as its shares are listed and available for trading in a public market.",
+      "This choice does not fit the scenario as well as its shares are listed and available for trading in a public market."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "public company",
+      "listing"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-032",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare publicly and privately owned corporate issuers",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Compared with a public company, a private company share issuance most likely involves:",
+    "choices": [
+      "more investors and continuous secondary trading",
+      "fewer investors with longer expected holding periods",
+      "greater public price transparency"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Private financings typically involve fewer qualified investors, smaller amounts, and longer holding periods.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as fewer investors with longer expected holding periods.",
+      "Correct: Private financings typically involve fewer qualified investors, smaller amounts, and longer holding periods.",
+      "This choice does not fit the scenario as well as fewer investors with longer expected holding periods."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "private company",
+      "financing"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-033",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare publicly and privately owned corporate issuers",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Which benefit of public ownership most directly supports external financing?",
+    "choices": [
+      "Freedom from all reporting requirements",
+      "Complete preservation of founder control",
+      "Access to a broad investor base and liquid capital markets"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Public markets can expand capital access, while disclosure and potential ownership dilution are trade-offs.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as access to a broad investor base and liquid capital markets.",
+      "This choice does not fit the scenario as well as access to a broad investor base and liquid capital markets.",
+      "Correct: Public markets can expand capital access, while disclosure and potential ownership dilution are trade-offs."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "public company",
+      "capital access"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-034",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare publicly and privately owned corporate issuers",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Which disadvantage is a private company investor most likely to face?",
+    "choices": [
+      "Lower liquidity and less observable market pricing",
+      "Mandatory continuous exchange trading",
+      "More extensive public disclosure than a listed issuer"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Private shares typically have limited trading and less price transparency.",
+    "incorrectChoiceExplanations": [
+      "Correct: Private shares typically have limited trading and less price transparency.",
+      "This choice does not fit the scenario as well as lower liquidity and less observable market pricing.",
+      "This choice does not fit the scenario as well as lower liquidity and less observable market pricing."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "private company",
+      "liquidity"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-035",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare publicly and privately owned corporate issuers",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A founder considers an initial public offering primarily to fund rapid expansion. The most relevant benefit is:",
+    "choices": [
+      "elimination of ownership dilution",
+      "access to larger pools of external equity capital",
+      "removal of disclosure obligations"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "An IPO broadens capital access but usually brings dilution and disclosure obligations.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as access to larger pools of external equity capital.",
+      "Correct: An IPO broadens capital access but usually brings dilution and disclosure obligations.",
+      "This choice does not fit the scenario as well as access to larger pools of external equity capital."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "IPO",
+      "capital access"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-036",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare publicly and privately owned corporate issuers",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "What is a likely ownership consequence when a private company issues shares to the public?",
+    "choices": [
+      "Existing owners automatically gain unlimited liability",
+      "The company ceases to have separate legal identity",
+      "Existing owners may experience dilution of percentage ownership and control"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "New issuance can reduce existing owners’ proportional interest and influence.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as existing owners may experience dilution of percentage ownership and control.",
+      "This choice does not fit the scenario as well as existing owners may experience dilution of percentage ownership and control.",
+      "Correct: New issuance can reduce existing owners’ proportional interest and influence."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "dilution",
+      "control"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-037",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare publicly and privately owned corporate issuers",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Why is price transparency generally greater for a publicly traded company?",
+    "choices": [
+      "Exchange trading produces observable transaction prices",
+      "Public companies set one permanent share price",
+      "Private investors publish every negotiated transaction"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Active public-market transactions provide repeated observable price information.",
+    "incorrectChoiceExplanations": [
+      "Correct: Active public-market transactions provide repeated observable price information.",
+      "This choice does not fit the scenario as well as exchange trading produces observable transaction prices.",
+      "This choice does not fit the scenario as well as exchange trading produces observable transaction prices."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "price transparency",
+      "public company"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-038",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare publicly and privately owned corporate issuers",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A public company is acquired by a small investor group and its shares cease exchange trading. This is a:",
+    "choices": [
+      "initial public offering",
+      "public-to-private transaction",
+      "limited partnership conversion by definition"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "A public-to-private transaction removes publicly traded shares from the exchange and concentrates ownership.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as public-to-private transaction.",
+      "Correct: A public-to-private transaction removes publicly traded shares from the exchange and concentrates ownership.",
+      "This choice does not fit the scenario as well as public-to-private transaction."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "public to private",
+      "transition"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-039",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare publicly and privately owned corporate issuers",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Which motivation most plausibly supports going private?",
+    "choices": [
+      "Obtaining continuous public price discovery",
+      "Increasing the number of dispersed shareholders",
+      "Reducing public reporting burdens and concentrating strategic control"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Going private can reduce disclosure costs and concentrate control, while sacrificing public liquidity and capital access.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as reducing public reporting burdens and concentrating strategic control.",
+      "This choice does not fit the scenario as well as reducing public reporting burdens and concentrating strategic control.",
+      "Correct: Going private can reduce disclosure costs and concentrate control, while sacrificing public liquidity and capital access."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "going private",
+      "control"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-040",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare publicly and privately owned corporate issuers",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A private issuer wants new capital but wishes to avoid public listing. Which source is most consistent?",
+    "choices": [
+      "private placement to a limited group of qualified investors",
+      "continuous sale to all exchange participants",
+      "mandatory government ownership"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Private placements raise capital from a restricted investor group without exchange listing.",
+    "incorrectChoiceExplanations": [
+      "Correct: Private placements raise capital from a restricted investor group without exchange listing.",
+      "This choice does not fit the scenario as well as private placement to a limited group of qualified investors.",
+      "This choice does not fit the scenario as well as private placement to a limited group of qualified investors."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "private placement",
+      "financing"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-041",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare publicly and privately owned corporate issuers",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Why might private-company investors demand a higher expected return, all else equal?",
+    "choices": [
+      "They receive guaranteed voting control",
+      "They bear greater illiquidity and information uncertainty",
+      "Their shares always have lower business risk"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Limited liquidity and disclosure can require compensation, although actual required returns depend on circumstances.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as they bear greater illiquidity and information uncertainty.",
+      "Correct: Limited liquidity and disclosure can require compensation, although actual required returns depend on circumstances.",
+      "This choice does not fit the scenario as well as they bear greater illiquidity and information uncertainty."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "private company",
+      "risk"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-042",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare publicly and privately owned corporate issuers",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Which statement about disclosure is most accurate?",
+    "choices": [
+      "Private companies never disclose information to any investor",
+      "Public listing eliminates registration requirements",
+      "Public companies generally face more extensive and recurring disclosure requirements than private companies"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Public capital access comes with greater registration, reporting, and transparency obligations.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as public companies generally face more extensive and recurring disclosure requirements than private companies.",
+      "This choice does not fit the scenario as well as public companies generally face more extensive and recurring disclosure requirements than private companies.",
+      "Correct: Public capital access comes with greater registration, reporting, and transparency obligations."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "disclosure",
+      "public company"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-043",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare publicly and privately owned corporate issuers",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A strategic corporate owner acquires a large block to secure a supply relationship. This owner differs from a portfolio investor mainly because it:",
+    "choices": [
+      "pursues operating or strategic benefits in addition to investment return",
+      "cannot vote its shares",
+      "must be a government entity"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Strategic owners seek business synergies or influence as well as financial return.",
+    "incorrectChoiceExplanations": [
+      "Correct: Strategic owners seek business synergies or influence as well as financial return.",
+      "This choice does not fit the scenario as well as pursues operating or strategic benefits in addition to investment return.",
+      "This choice does not fit the scenario as well as pursues operating or strategic benefits in addition to investment return."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate owner",
+      "strategic"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-044",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare publicly and privately owned corporate issuers",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Which trade-off best summarizes a move from private to public ownership?",
+    "choices": [
+      "Greater owner privacy with fewer investors",
+      "Greater liquidity and capital access in exchange for more disclosure and possible control dilution",
+      "Less observable pricing with no reporting duties"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Going public broadens capital and liquidity but increases public obligations and may disperse control.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as greater liquidity and capital access in exchange for more disclosure and possible control dilution.",
+      "Correct: Going public broadens capital and liquidity but increases public obligations and may disperse control.",
+      "This choice does not fit the scenario as well as greater liquidity and capital access in exchange for more disclosure and possible control dilution."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "transition",
+      "trade-off"
+    ]
+  },
+  {
+    "id": "ci-lm1-q-045",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare publicly and privately owned corporate issuers",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Which statement best avoids overstating the public/private distinction?",
+    "choices": [
+      "Every unlisted company is legally private under every jurisdiction",
+      "Every public company must have government ownership",
+      "Listing is the typical distinction, but some jurisdictions also consider shareholder count or other legal criteria"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The curriculum notes that listing is typical while precise legal definitions can vary.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as listing is the typical distinction, but some jurisdictions also consider shareholder count or other legal criteria.",
+      "This choice does not fit the scenario as well as listing is the typical distinction, but some jurisdictions also consider shareholder count or other legal criteria.",
+      "Correct: The curriculum notes that listing is typical while precise legal definitions can vary."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "public private",
+      "jurisdiction"
+    ]
+  }
+]

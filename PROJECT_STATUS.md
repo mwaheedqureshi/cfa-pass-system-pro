@@ -3,7 +3,7 @@
 
 ## Current Version
 
-**v1.6.2**
+**v1.9.1**
 
 ## Calculated Content Inventory
 
@@ -11,12 +11,14 @@
 |---|---:|
 | Quantitative Methods official modules | 11 of 11 represented |
 | Quantitative Methods study lessons | 12 of 12 |
-| Economics lessons | 1 of 8 |
-| Original questions | 540 |
-| Flashcards | 530 |
-| Formula and metric cards | 145 |
+| Economics lessons | 8 of 8 verified and frozen |
+| Financial Statement Analysis lessons | 12 of 12 verified and frozen |
+| Corporate Issuers lessons | 1 of 7 verified |
+| Original questions | 1,605 |
+| Flashcards | 1,605 |
+| Formula and metric cards | 317 |
 
-Quantitative Methods is complete. Modules 9–12 use authorized independently written scope statements because official outcome wording was unavailable.
+Quantitative Methods, Economics, and Financial Statement Analysis are verified and content-frozen. Corporate Issuers is in progress at 1 of 7 modules (14.29%); CI-LM2 through CI-LM7 remain pending.
 
 ## v1.6.0 Features
 

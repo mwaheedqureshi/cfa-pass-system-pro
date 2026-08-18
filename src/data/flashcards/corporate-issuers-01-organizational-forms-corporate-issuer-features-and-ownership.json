@@ -1,0 +1,677 @@
+[
+  {
+    "id": "ci-lm1-fc-001",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare the organizational forms of businesses",
+    "supplementary": false,
+    "front": "What defines a sole proprietorship?",
+    "back": "One owner operates a business without a separate company identity and generally bears unlimited liability.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-002",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare the organizational forms of businesses",
+    "supplementary": false,
+    "front": "What is the central liability feature of a general partnership?",
+    "back": "General partners ordinarily have unlimited liability for partnership obligations.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-003",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare the organizational forms of businesses",
+    "supplementary": false,
+    "front": "Who operates a limited partnership?",
+    "back": "The general partner; limited partners normally contribute capital without operational control.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-004",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare the organizational forms of businesses",
+    "supplementary": false,
+    "front": "What trade-off does a limited partner make?",
+    "back": "Limited liability in exchange for a passive, non-management role.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-005",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare the organizational forms of businesses",
+    "supplementary": false,
+    "front": "What is the main control advantage of a sole proprietorship?",
+    "back": "The owner directly controls business decisions.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-006",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare the organizational forms of businesses",
+    "supplementary": false,
+    "front": "What continuity weakness affects a sole proprietorship?",
+    "back": "The business is closely tied to the owner and does not have the same perpetual continuity as a company.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-007",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare the organizational forms of businesses",
+    "supplementary": false,
+    "front": "How can a partnership expand resources?",
+    "back": "Partners pool capital, skills, contacts, and management capacity.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-008",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare the organizational forms of businesses",
+    "supplementary": false,
+    "front": "Why can partnership interests be less transferable than company shares?",
+    "back": "Transfers often depend on the partnership agreement and other partners’ consent.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-009",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare the organizational forms of businesses",
+    "supplementary": false,
+    "front": "What distinguishes a company from proprietorships and partnerships?",
+    "back": "A company has a legal identity separate from its owners.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-010",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare the organizational forms of businesses",
+    "supplementary": false,
+    "front": "What liability do limited-company shareholders normally bear?",
+    "back": "Loss is generally limited to their invested capital.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-011",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare the organizational forms of businesses",
+    "supplementary": false,
+    "front": "Can a sole proprietor raise public equity?",
+    "back": "No; the owner must change organizational form before issuing company shares publicly.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-012",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare the organizational forms of businesses",
+    "supplementary": false,
+    "front": "What is the limited-partnership role split?",
+    "back": "The general partner manages and bears unlimited liability; limited partners are passive with limited liability.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-013",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare the organizational forms of businesses",
+    "supplementary": true,
+    "front": "Why is unlimited liability economically important?",
+    "back": "Business creditors may claim against owners’ personal assets, subject to applicable law.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-014",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare the organizational forms of businesses",
+    "supplementary": true,
+    "front": "What is the simplest organizational-form decision lens?",
+    "back": "Compare control, liability, continuity, transferability, financing access, and taxation.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-015",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare the organizational forms of businesses",
+    "supplementary": true,
+    "front": "What detail must be treated cautiously across jurisdictions?",
+    "back": "Specific formation, liability, and tax rules; the curriculum supports general structural comparisons.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-016",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "describe key features of corporate issuers",
+    "supplementary": false,
+    "front": "What is separate legal identity?",
+    "back": "The company can own assets, contract, incur obligations, sue, and be sued in its own name.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-017",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "describe key features of corporate issuers",
+    "supplementary": false,
+    "front": "What is owner–manager separation?",
+    "back": "Shareholders own the company while directors and appointed managers oversee and run it.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-018",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "describe key features of corporate issuers",
+    "supplementary": false,
+    "front": "How do shareholders exercise indirect control?",
+    "back": "Primarily by voting for directors and on specified major matters.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-019",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "describe key features of corporate issuers",
+    "supplementary": false,
+    "front": "Who appoints executive management?",
+    "back": "The board of directors.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-020",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "describe key features of corporate issuers",
+    "supplementary": false,
+    "front": "Why does a company usually have stronger continuity?",
+    "back": "Its existence is separate from changes in individual owners.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-021",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "describe key features of corporate issuers",
+    "supplementary": false,
+    "front": "What do shareholders own?",
+    "back": "Shares in the company—not direct fractional title to each company asset.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-022",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "describe key features of corporate issuers",
+    "supplementary": false,
+    "front": "How do shares support capital access?",
+    "back": "They divide ownership into transferable units that can be issued to external investors.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-023",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "describe key features of corporate issuers",
+    "supplementary": false,
+    "front": "Does limited liability eliminate investment risk?",
+    "back": "No; shareholders can still lose their entire investment.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-024",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "describe key features of corporate issuers",
+    "supplementary": false,
+    "front": "Why can limited liability broaden the investor base?",
+    "back": "Investors generally do not expose unrelated personal assets to company obligations.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-025",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "describe key features of corporate issuers",
+    "supplementary": false,
+    "front": "What is double taxation in general terms?",
+    "back": "Company profit may be taxed at the company level and distributions again at the shareholder level.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-026",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "describe key features of corporate issuers",
+    "supplementary": false,
+    "front": "Is owner–manager separation always complete?",
+    "back": "No; a founder can be both controlling shareholder and manager, especially in a closely held company.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-027",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "describe key features of corporate issuers",
+    "supplementary": false,
+    "front": "What remains true when a founder manages an incorporated company?",
+    "back": "The company still has separate legal identity.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-028",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "describe key features of corporate issuers",
+    "supplementary": true,
+    "front": "Why are corporate obligations generally distinct from shareholder obligations?",
+    "back": "The corporation is the contracting legal entity, absent guarantees or special legal circumstances.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-029",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "describe key features of corporate issuers",
+    "supplementary": true,
+    "front": "What transferability advantage do shares provide?",
+    "back": "Ownership can change without transferring each underlying company asset.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-030",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "describe key features of corporate issuers",
+    "supplementary": true,
+    "front": "What tax caveat belongs in LM1?",
+    "back": "Tax treatment varies by jurisdiction; compare general entity-level and pass-through structures without unsupported specifics.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-031",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare publicly and privately owned corporate issuers",
+    "supplementary": false,
+    "front": "What typically distinguishes a public from a private company?",
+    "back": "Whether its shares are listed for public trading, although legal definitions vary.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-032",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare publicly and privately owned corporate issuers",
+    "supplementary": false,
+    "front": "What is an IPO?",
+    "back": "A private company’s initial offering of shares to public investors and listing on a public market.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-033",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare publicly and privately owned corporate issuers",
+    "supplementary": false,
+    "front": "What is a public-to-private transaction?",
+    "back": "An acquisition or restructuring that ends public trading and concentrates ownership privately.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-034",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare publicly and privately owned corporate issuers",
+    "supplementary": false,
+    "front": "What liquidity advantage does public ownership offer?",
+    "back": "Investors can generally trade shares more readily in an organized secondary market.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-035",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare publicly and privately owned corporate issuers",
+    "supplementary": false,
+    "front": "Why is public-company price transparency higher?",
+    "back": "Public trading produces observable market prices.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-036",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare publicly and privately owned corporate issuers",
+    "supplementary": false,
+    "front": "How do private share issuances typically differ?",
+    "back": "They involve fewer investors, smaller amounts, and longer holding periods.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-037",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare publicly and privately owned corporate issuers",
+    "supplementary": false,
+    "front": "Who may be permitted to buy private offerings?",
+    "back": "Qualified, accredited, or sophisticated investors, depending on the jurisdiction.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-038",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare publicly and privately owned corporate issuers",
+    "supplementary": false,
+    "front": "What is a major public-ownership financing benefit?",
+    "back": "Access to a broader investor base and potentially larger capital pools.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-039",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare publicly and privately owned corporate issuers",
+    "supplementary": false,
+    "front": "What is a major public-ownership cost?",
+    "back": "Greater registration, recurring disclosure, compliance, and scrutiny.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-040",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare publicly and privately owned corporate issuers",
+    "supplementary": false,
+    "front": "How can going public affect founder control?",
+    "back": "New shares and dispersed ownership can dilute the founder’s percentage interest and influence.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-041",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare publicly and privately owned corporate issuers",
+    "supplementary": false,
+    "front": "Why might a company go private?",
+    "back": "To concentrate control, take a longer-term approach, or reduce public reporting burdens.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-042",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare publicly and privately owned corporate issuers",
+    "supplementary": true,
+    "front": "What does a private investor sacrifice relative to a public investor?",
+    "back": "Liquidity, frequent price discovery, and often access to extensive public information.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-043",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare publicly and privately owned corporate issuers",
+    "supplementary": true,
+    "front": "What is a strategic corporate owner?",
+    "back": "A company holding shares partly to obtain operating benefits, influence, or business synergies.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-044",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare publicly and privately owned corporate issuers",
+    "supplementary": true,
+    "front": "What is the core private-to-public trade-off?",
+    "back": "More capital access and liquidity versus more disclosure, scrutiny, and possible control dilution.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm1-fc-045",
+    "lessonId": "corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM1",
+    "officialLearningOutcome": "compare publicly and privately owned corporate issuers",
+    "supplementary": true,
+    "front": "Why avoid universal public/private legal claims?",
+    "back": "Jurisdictions may define public status using listing, shareholder count, or other criteria.",
+    "tags": [
+      "corporate issuers",
+      "LM1",
+      "LOS 3"
+    ]
+  }
+]

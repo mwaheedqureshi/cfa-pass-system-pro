@@ -41,6 +41,15 @@ All 8 official Economics modules — ECO-LM1 through ECO-LM8 — are content-ver
 
 Future Economics changes are limited to verified defects, official curriculum changes, mathematical corrections, accessibility fixes, and security or compatibility fixes.
 
+## Corporate Issuers
+
+Corporate Issuers is **PARTIALLY PRODUCED** as of v1.9.1: 1 of 7 official modules (14.29%). CI-LM1, **Organizational Forms, Corporate Issuer Features, and Ownership**, is content-verified against the official 2027 source (PDF pp. 11–44; printed pp. 3–36) across all 3 LOS. It contains 35 official-target plus 10 supplementary questions and flashcards, 12 original worked examples, 10 original synthesis exhibits, 0 formulas, and 2 registered interactive tools. Seven provisional mock candidates were reviewed in full; 4 were accepted and 3 rejected with item-level reasons. CI-LM2 through CI-LM7 remain pending and unpublished.
+
+| Module | Stable lesson ID | Status |
+|---|---|---|
+| CI-LM1 Organizational Forms, Corporate Issuer Features, and Ownership | `corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership` | Verified |
+| CI-LM2–CI-LM7 | Reserved in the target manifest | Pending |
+
 ## Financial Statement Analysis
 
 Financial Statement Analysis is **VERIFIED AND CONTENT-FROZEN** for the official CFA Level I 2027 structure as of v1.8.12. All 12 official modules and all 53 LOS passed aggregate lesson, assessment, formula, tool, search, chapter-exam, progress, and reachability certification. Final inventory: 475 official plus 120 supplementary questions and flashcards, 110 formulas/metrics, 21 tools, and 12 chapter exams. This status applies only to FSA, not the entire Level I platform.

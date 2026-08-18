@@ -12,27 +12,28 @@ Build a reliable, premium-quality study system in deliberate, verifiable release
 
 ## Release state
 
-- **Current release:** v1.8.12 — FSA Module Production Sprint 12 and aggregate certification
-- **Current status:** Financial Statement Analysis is verified and content-frozen across all 12 official modules and all 53 LOS. The final FSA inventory is 595 questions and flashcards (475 official/120 supplementary), 110 formulas/metrics, 21 tools, and 12 chapter exams. This completes FSA only; the remaining Level I topics are still pending.
-- **Next release:** Requires separate authorization; do not infer Corporate Issuers production from FSA completion.
+- **Current release:** v1.9.1 — Corporate Issuers Module Production Sprint 1
+- **Current status:** Corporate Issuers LM1 is produced and content-verified. The topic is partially produced at 1 of 7 modules (14.29%); CI-LM2 through CI-LM7 remain pending. Financial Statement Analysis remains verified and content-frozen.
+- **Next release:** v1.9.2 Corporate Issuers LM2 requires separate authorization.
 
 ## Current repository statistics
 
-Measured on 2026-08-12 after the v1.8.3 check suite.
+Measured on 2026-08-18 for the v1.9.1 release candidate.
 
 | Measure | Current value |
 |---|---:|
-| Published lessons | 23 |
+| Published lessons | 33 |
 | Quantitative study lessons | 12 |
 | Economics lessons | 8 |
-| FSA study lessons | 3 (9 remain planned; mapping-only) |
-| Questions | 1,120 total; 555 Quantitative; 410 Economics (325 official / 85 supplementary); 155 FSA (125 official / 30 supplementary) |
-| Flashcards | 1,120 total; 555 Quantitative; 410 Economics (325 official / 85 supplementary); 155 FSA (125 official / 30 supplementary) |
-| Formulas | 226 total; 165 Quantitative; 42 Economics; 19 FSA (0 in FSA-LM1, 10 in FSA-LM2, 9 in FSA-LM3) |
-| Registered interactive tools | 46 |
+| FSA study lessons | 12 (all verified and content-frozen) |
+| Corporate Issuers study lessons | 1 (6 remain mapped and pending) |
+| Questions | 1,605 total; 555 Quantitative; 410 Economics; 595 FSA; 45 Corporate Issuers (35 official / 10 supplementary) |
+| Flashcards | 1,605 total; 555 Quantitative; 410 Economics; 595 FSA; 45 Corporate Issuers (35 official / 10 supplementary) |
+| Formulas | 317 total; 165 Quantitative; 42 Economics; 110 FSA; 0 Corporate Issuers |
+| Registered interactive tools | 64 |
 | Comprehensive assessments | 2 (Quantitative 90-question; Economics 60-question) |
-| Automated tests | 472 |
-| Test files | 64 |
+| Automated tests | 554 |
+| Test files | 84 |
 | Initial JavaScript bundle | 315.35 kB |
 | Initial JavaScript gzip | 94.97 kB |
 | Documentation | Foundation set complete; curriculum and verification records remain iterative |
@@ -43,8 +44,8 @@ Measured on 2026-08-12 after the v1.8.3 check suite.
 |---|---:|---|
 | Quantitative Methods | 12 | VERIFIED AND CONTENT-FROZEN |
 | Economics | 8 (8 of 8 official modules verified: ECO-LM1, ECO-LM2, ECO-LM3, ECO-LM4, ECO-LM5, ECO-LM6, ECO-LM7, ECO-LM8) | VERIFIED AND CONTENT-FROZEN |
-| Financial Statement Analysis | 3 (3 of 12 official modules verified: FSA-LM1, FSA-LM2, FSA-LM3; 9 mapped, not yet produced) | In progress |
-| Corporate Issuers | 0 | Planned |
+| Financial Statement Analysis | 12 | VERIFIED AND CONTENT-FROZEN |
+| Corporate Issuers | 1 (CI-LM1 verified; CI-LM2–CI-LM7 pending) | In progress (14.29%) |
 | Equity Investments | 0 | Planned |
 | Fixed Income | 0 | Planned |
 | Derivatives | 0 | Planned |
@@ -58,7 +59,8 @@ Measured on 2026-08-12 after the v1.8.3 check suite.
 - v1.6.3 verifies the source-backed official map and classifies all current Quantitative learning assets; lesson/item remediation remains pending v1.6.4 and v1.6.5.
 - The future progress migration and target manifest are designed but are not executed by v1.6.3.
 - Economics is VERIFIED AND CONTENT-FROZEN as of v1.7.9 across all 8 official 2027 modules, presented through 8 stable study lessons.
-- Financial Statement Analysis is mapped across all 12 official 2027 modules as of v1.8.0; FSA-LM1 is produced and content-verified as of v1.8.1; FSA-LM2 is produced and content-verified as of v1.8.2; FSA-LM3 is produced and content-verified as of v1.8.3; FSA-LM4 through FSA-LM12 remain mapping-only.
+- Financial Statement Analysis is verified and content-frozen across all 12 official 2027 modules as of v1.8.12.
+- Corporate Issuers is mapped across 7 official 2027 modules; CI-LM1 is produced and content-verified as of v1.9.1, while CI-LM2 through CI-LM7 remain pending.
 - Other topics remain intentionally unpublished.
 - Detailed status belongs in `docs/CURRICULUM_STATUS.md`.
 - Source alignment and mathematical verification are distinct gates. “Published” never means “fully verified” unless the verification column explicitly says so.
