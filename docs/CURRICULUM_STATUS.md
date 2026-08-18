@@ -43,7 +43,7 @@ Future Economics changes are limited to verified defects, official curriculum ch
 
 ## Corporate Issuers
 
-Corporate Issuers is **CONTENT-COMPLETE, AGGREGATE CERTIFICATION PENDING** as of v1.9.7: 7 of 7 official modules (100%). CI-LM1 through CI-LM6 remain verified. CI-LM7, **Business Models**, is verified against the official 2027 source (PDF pp. 221–250; printed pp. 213–242) across both LOS. LM7 contains 35 official-target plus 10 supplementary questions and flashcards, 12 original worked examples, 10 original synthesis exhibits, zero new formulas, and one registered tool. All 12 provisional mocks were audited: 9 accepted and 3 rejected. All seven modules are produced; aggregate certification remains pending v1.9.8.
+Corporate Issuers is **VERIFIED AND CONTENT-FROZEN** as of v1.9.8: 7 of 7 official modules and 22 of 22 LOS (100%). CI-LM1 through CI-LM6 remain verified. CI-LM7, **Business Models**, is verified against the official 2027 source (PDF pp. 221–250; printed pp. 213–242) across both LOS. LM7 contains 35 official-target plus 10 supplementary questions and flashcards, 12 original worked examples, 10 original synthesis exhibits, zero new formulas, and one registered tool. All 12 provisional mocks were audited: 9 accepted and 3 rejected. Aggregate certification confirms 360 questions and flashcards (285 official/75 supplementary each), 10 formulas, 13 tools, and 46 accepted mocks from 77 audited candidates.
 
 | Module | Stable lesson ID | Status |
 |---|---|---|

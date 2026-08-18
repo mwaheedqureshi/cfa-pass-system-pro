@@ -17,7 +17,7 @@ Economics v1.7.9 is verified and content-frozen across all 8 official 2027 modul
 
 Financial Statement Analysis v1.8.12 is verified and content-frozen across all 12 official 2027 modules and all 53 LOS. Its public banks contain 475 official and 120 supplementary questions, matching flashcards, 110 formulas/metrics, 21 tools, and 12 chapter exams. This completes FSA only; other Level I topics remain pending.
 
-Corporate Issuers v1.9.7 is content-produced at 7 of 7 official modules (100%). CI-LM1–LM7 together contain 285 official-target and 75 supplementary questions, matching flashcards, 10 new production formulas, 76 original exhibits, 97 worked examples, and 13 interactive tools. All seven modules are produced; aggregate certification remains pending v1.9.8.
+Corporate Issuers v1.9.8 is verified and content-frozen across all 7 official modules and all 22 LOS (100%). CI-LM1–LM7 together contain 285 official-target and 75 supplementary questions, matching flashcards, 10 new production formulas, 76 original exhibits, 97 worked examples, and 13 interactive tools. Aggregate lesson, assessment, formula, tool, mock, route, search, progress, statistics, encoding, and ownership certification is complete.
 
 The original plain-HTML application is preserved under `legacy/html-prototype/`.
 

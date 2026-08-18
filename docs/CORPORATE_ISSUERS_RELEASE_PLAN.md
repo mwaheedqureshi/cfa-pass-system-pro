@@ -11,6 +11,6 @@ Corporate Issuers is delivered module by module so source verification, ownershi
 | v1.9.5 | CI-LM5 | Produced and verified |
 | v1.9.6 | CI-LM6 | Produced and verified |
 | v1.9.7 | CI-LM7 | Produced and verified |
-| v1.9.8 | Aggregate topic certification and content freeze | Pending all seven module gates |
+| v1.9.8 | Aggregate topic certification and content freeze | Complete |
 
-At v1.9.7 the topic is 7/7 complete (100%). All seven modules are produced and individually verified. Aggregate topic certification and content freeze remain exclusively in v1.9.8.
+At v1.9.8 the topic is aggregate-certified and content-frozen: 7/7 modules, 22/22 LOS, and 100% completion.

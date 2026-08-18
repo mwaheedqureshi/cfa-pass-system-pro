@@ -42,7 +42,7 @@ Roadmap entries define release boundaries, not permission to implement later wor
 | v1.9.5 | Corporate Issuers Module Production Sprint 5 | Complete: CI-LM5 Capital Investments and Capital Allocation — 48 official + 12 supplementary questions and flashcards, 2 formulas, 12 exhibits, and 2 tools |
 | v1.9.6 | Corporate Issuers Module Production Sprint 6 | Complete: CI-LM6 Capital Structure — 52 official + 13 supplementary questions and flashcards, 7 formulas, 12 exhibits, and 2 tools |
 | v1.9.7 | Corporate Issuers Module Production Sprint 7 | Complete: CI-LM7 Business Models — 35 official + 10 supplementary questions and flashcards, 0 formulas, 10 exhibits, and 1 tool |
-| v1.9.8 | Corporate Issuers Full Verification and Content Freeze | Planned aggregate certification after all 7 modules are produced |
+| v1.9.8 | Corporate Issuers Full Verification and Content Freeze | Complete: 7/7 modules and 22/22 LOS aggregate-certified; 360 questions, 360 flashcards, 10 formulas, 13 tools; topic frozen |
 | v2.0 | Economics | Superseded — Economics was completed and certified across v1.7.0-v1.7.9 rather than as a single v2.0 milestone; row retained for historical sequencing only |
 | v3.0 | Financial Statement Analysis | Superseded — FSA is planned to complete across v1.8.0-v1.8.13 rather than as a single v3.0 milestone, mirroring the Economics sequencing; row retained for historical sequencing only |
 | v4.0 | Corporate Issuers | Superseded — Corporate Issuers is being delivered across v1.9.1–v1.9.8; row retained for historical sequencing only |

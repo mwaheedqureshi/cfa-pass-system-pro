@@ -12,3 +12,4 @@ export const officialCorporateIssuersModuleCount=officialCorporateIssuersModules
 export const verifiedOfficialCorporateIssuersModules=officialCorporateIssuersModules.filter(module=>module.status==='verified');
 export const corporateIssuersLessonIds=officialCorporateIssuersModules.map(module=>module.studyLessonId).filter((id):id is string=>id!==null);
 export const officialCorporateIssuersModuleForLesson=(lessonId:string)=>officialCorporateIssuersModules.find(module=>module.studyLessonId===lessonId);
+export const corporateIssuersCertification={version:'1.9.8',status:'verified-and-content-frozen' as const,officialModuleCount:7,officialLosCount:22,completionPercent:100};
