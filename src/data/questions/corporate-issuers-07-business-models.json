@@ -1,0 +1,1307 @@
+[
+  {
+    "id": "ci-lm7-q-001",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "A business model most directly explains",
+    "choices": [
+      "how a firm creates and delivers value",
+      "the market value of its shares",
+      "its optimal debt ratio"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "It connects customers, offerings, channels, pricing, resources, and partners.",
+    "incorrectChoiceExplanations": [
+      "Correct: It connects customers, offerings, channels, pricing, resources, and partners.",
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "This choice conflicts with the verified LM7 business-model distinction."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-002",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "The “who” in a business model identifies",
+    "choices": [
+      "distribution channels",
+      "customers and customer segments",
+      "the pricing method"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The who identifies whom the issuer serves.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "Correct: The who identifies whom the issuer serves.",
+      "This choice conflicts with the verified LM7 business-model distinction."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-003",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "A value proposition describes",
+    "choices": [
+      "how securities are valued",
+      "how debt is financed",
+      "why customers choose the offering"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "It states the attributes that make customers prefer the offering.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "Correct: It states the attributes that make customers prefer the offering."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-004",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "The “where” component primarily concerns",
+    "choices": [
+      "channels used to reach customers",
+      "factory depreciation",
+      "capital structure"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Channels connect the offering with customers.",
+    "incorrectChoiceExplanations": [
+      "Correct: Channels connect the offering with customers.",
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "This choice conflicts with the verified LM7 business-model distinction."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-005",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "The “how much” component concerns",
+    "choices": [
+      "governance voting",
+      "pricing",
+      "bond duration"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Pricing specifies what customers pay.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "Correct: Pricing specifies what customers pay.",
+      "This choice conflicts with the verified LM7 business-model distinction."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-006",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "A value chain is best described as",
+    "choices": [
+      "the external production network only",
+      "a share-price model",
+      "internal systems and processes that create customer value"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The value chain describes how the firm creates value.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "Correct: The value chain describes how the firm creates value."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-007",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "A supply chain differs because it includes",
+    "choices": [
+      "the network inside and outside the firm that produces and delivers",
+      "only internal marketing processes",
+      "only customer pricing"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Supply chains can cross organizational boundaries.",
+    "incorrectChoiceExplanations": [
+      "Correct: Supply chains can cross organizational boundaries.",
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "This choice conflicts with the verified LM7 business-model distinction."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-008",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Customer segmentation groups buyers by",
+    "choices": [
+      "the issuer’s debt maturity",
+      "decision-useful shared attributes",
+      "accounting standards"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Segmentation supports product, channel, and pricing choices.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "Correct: Segmentation supports product, channel, and pricing choices.",
+      "This choice conflicts with the verified LM7 business-model distinction."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-009",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "An analyst should assess a business model by",
+    "choices": [
+      "accepting management labels without challenge",
+      "forecasting share price first",
+      "developing an independent understanding"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Independent analysis reveals prospects, dependencies, and risks.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "Correct: Independent analysis reveals prospects, dependencies, and risks."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-010",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Pricing power is strongest when",
+    "choices": [
+      "differentiation is meaningful and alternatives are limited",
+      "products are homogeneous with many competitors",
+      "customers can switch without cost"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Differentiation and limited alternatives support pricing power.",
+    "incorrectChoiceExplanations": [
+      "Correct: Differentiation and limited alternatives support pricing power.",
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "This choice conflicts with the verified LM7 business-model distinction."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-011",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "An asset-light operating model generally",
+    "choices": [
+      "requires maximum fixed manufacturing assets",
+      "relies less on owned physical assets",
+      "eliminates all operating risk"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Asset-light describes resource configuration, not absence of risk.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "Correct: Asset-light describes resource configuration, not absence of risk.",
+      "This choice conflicts with the verified LM7 business-model distinction."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-012",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Scalability means the firm can",
+    "choices": [
+      "increase leverage without limit",
+      "guarantee profits",
+      "grow output or users without proportional resource growth"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Scalability concerns how costs and capacity behave as activity expands.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "Correct: Scalability concerns how costs and capacity behave as activity expands."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-013",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Customer concentration creates risk because",
+    "choices": [
+      "loss of a major buyer can materially reduce activity",
+      "it always increases pricing power",
+      "it removes channel dependence"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Reliance on few buyers raises exposure to individual relationships.",
+    "incorrectChoiceExplanations": [
+      "Correct: Reliance on few buyers raises exposure to individual relationships.",
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "This choice conflicts with the verified LM7 business-model distinction."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-014",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Recurring revenue generally improves",
+    "choices": [
+      "the certainty of equity valuation",
+      "visibility and customer-lifetime continuity",
+      "the tax shield"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Recurring arrangements can make revenue more predictable but do not guarantee retention.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "Correct: Recurring arrangements can make revenue more predictable but do not guarantee retention.",
+      "This choice conflicts with the verified LM7 business-model distinction."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-015",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Unit economics are used to examine",
+    "choices": [
+      "the fair value of equity",
+      "optimal WACC",
+      "economics at the customer or transaction level"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "They test whether incremental activity creates attractive economics.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "Correct: They test whether incremental activity creates attractive economics."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-016",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "The economic balance sheet broadens analysis to",
+    "choices": [
+      "valuable relationships and capabilities not fully reported",
+      "only recognized accounting assets",
+      "only debt obligations"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Business-model analysis includes resources and relationships beyond reported statements.",
+    "incorrectChoiceExplanations": [
+      "Correct: Business-model analysis includes resources and relationships beyond reported statements.",
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "This choice conflicts with the verified LM7 business-model distinction."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-017",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A channel conflict can arise when",
+    "choices": [
+      "all customers pay the same price",
+      "direct and intermediary routes compete for the same customers",
+      "fixed costs decline"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Overlapping routes can create partner tension and inconsistent pricing.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "Correct: Overlapping routes can create partner tension and inconsistent pricing.",
+      "This choice conflicts with the verified LM7 business-model distinction."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-018",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A sound qualitative review links",
+    "choices": [
+      "share price to book value only",
+      "coupon rate to duration",
+      "strategy, operations, markets, partners, risks, and financial profile"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Business-model analysis integrates how the issuer actually works.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "Correct: Business-model analysis integrates how the issuer actually works."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-019",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A model with high fixed costs and low marginal costs may be",
+    "choices": [
+      "highly scalable after sufficient volume",
+      "automatically low risk",
+      "incapable of network effects"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Incremental growth can be inexpensive once fixed infrastructure exists.",
+    "incorrectChoiceExplanations": [
+      "Correct: Incremental growth can be inexpensive once fixed infrastructure exists.",
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "This choice conflicts with the verified LM7 business-model distinction."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-020",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A key-partner dependency is most concerning when",
+    "choices": [
+      "the supplier is one of many interchangeable vendors",
+      "the input is critical and switching alternatives are scarce",
+      "customers prepay monthly"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Critical scarce partners create operating vulnerability.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "Correct: Critical scarce partners create operating vulnerability.",
+      "This choice conflicts with the verified LM7 business-model distinction."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-021",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A value proposition is weak when",
+    "choices": [
+      "the firm clearly solves a costly customer problem",
+      "switching costs reinforce retention",
+      "customers see little meaningful difference from alternatives"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Weak differentiation limits willingness to choose or pay.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "Correct: Weak differentiation limits willingness to choose or pay."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-022",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A coherent model requires pricing to",
+    "choices": [
+      "fit the value proposition and delivery cost",
+      "maximize price regardless of customers",
+      "equal competitors in all cases"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Price must align with customer value and the economics of delivery.",
+    "incorrectChoiceExplanations": [
+      "Correct: Price must align with customer value and the economics of delivery.",
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "This choice conflicts with the verified LM7 business-model distinction."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-023",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Business-model risk analysis should test",
+    "choices": [
+      "only historical EPS growth",
+      "whether components reinforce or contradict each other",
+      "only the debt ratio"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Internal consistency is central to qualitative analysis.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "Correct: Internal consistency is central to qualitative analysis.",
+      "This choice conflicts with the verified LM7 business-model distinction."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-024",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "A subscription model earns revenue primarily through",
+    "choices": [
+      "one-time asset sales only",
+      "advertising impressions only",
+      "recurring access fees"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Subscriptions charge periodically for continued access.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "Correct: Subscriptions charge periodically for continued access."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-025",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "A transaction-fee model earns revenue when",
+    "choices": [
+      "a facilitated exchange occurs",
+      "a customer merely registers",
+      "the issuer issues debt"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Fees are tied to completed transactions.",
+    "incorrectChoiceExplanations": [
+      "Correct: Fees are tied to completed transactions.",
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "This choice conflicts with the verified LM7 business-model distinction."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-026",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "An advertising model primarily monetizes",
+    "choices": [
+      "owned factories",
+      "audience attention or access",
+      "license royalties paid out"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Advertisers pay to reach an audience.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "Correct: Advertisers pay to reach an audience.",
+      "This choice conflicts with the verified LM7 business-model distinction."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-027",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "A licensing model permits another party to use",
+    "choices": [
+      "the licensor’s capital structure",
+      "the customer’s balance sheet",
+      "intellectual property or a brand for compensation"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Licensing monetizes rights, often through royalties.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "Correct: Licensing monetizes rights, often through royalties."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-028",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "A franchise model combines",
+    "choices": [
+      "a proven format and brand with independently operated outlets",
+      "only contract manufacturing",
+      "free access funded by ads"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Franchisees operate under the franchisor’s system and brand.",
+    "incorrectChoiceExplanations": [
+      "Correct: Franchisees operate under the franchisor’s system and brand.",
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "This choice conflicts with the verified LM7 business-model distinction."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-029",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "A contract manufacturer primarily",
+    "choices": [
+      "licenses its brand to consumers",
+      "produces goods marketed by another firm",
+      "runs a two-sided marketplace"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "The customer owns the market-facing product or brand.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "Correct: The customer owns the market-facing product or brand.",
+      "This choice conflicts with the verified LM7 business-model distinction."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-030",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 75,
+    "stem": "Crowdsourcing relies on",
+    "choices": [
+      "only internal employees",
+      "mandatory bundled purchases",
+      "users contributing content, ideas, or work"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "User contribution is the defining mechanism.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "Correct: User contribution is the defining mechanism."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-031",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A platform model commonly creates value by",
+    "choices": [
+      "enabling interactions among participant groups",
+      "owning every inventory item",
+      "charging only annual licenses"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Platforms coordinate participants and may benefit from network effects.",
+    "incorrectChoiceExplanations": [
+      "Correct: Platforms coordinate participants and may benefit from network effects.",
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "This choice conflicts with the verified LM7 business-model distinction."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-032",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A marketplace typically monetizes",
+    "choices": [
+      "manufacturing all listed goods",
+      "matching buyers and sellers, often for a fee",
+      "issuing customer debt"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Marketplaces facilitate exchange.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "Correct: Marketplaces facilitate exchange.",
+      "This choice conflicts with the verified LM7 business-model distinction."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-033",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Freemium pricing uses",
+    "choices": [
+      "a single premium price for everyone",
+      "bidding by suppliers",
+      "a free basic tier and paid enhanced access"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Free entry supports adoption while premium features monetize some users.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "Correct: Free entry supports adoption while premium features monetize some users."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-034",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Penetration pricing deliberately uses",
+    "choices": [
+      "low initial prices to build scale or share",
+      "the highest sustainable prestige price",
+      "prices that change each minute only"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The firm sacrifices initial margin to accelerate adoption.",
+    "incorrectChoiceExplanations": [
+      "Correct: The firm sacrifices initial margin to accelerate adoption.",
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "This choice conflicts with the verified LM7 business-model distinction."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-035",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Premium pricing is most consistent with",
+    "choices": [
+      "a homogeneous commodity with no distinction",
+      "strong differentiation and perceived superior value",
+      "mandatory free access"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Customers pay more for valued attributes or positioning.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "Correct: Customers pay more for valued attributes or positioning.",
+      "This choice conflicts with the verified LM7 business-model distinction."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-036",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Tiered pricing varies price by",
+    "choices": [
+      "only time of day",
+      "only auction bids",
+      "volume, features, or service level"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Tiers segment willingness to pay or usage.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "Correct: Tiers segment willingness to pay or usage."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-037",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Dynamic pricing changes with",
+    "choices": [
+      "conditions such as demand, capacity, or time",
+      "a permanent royalty contract",
+      "the number of debt holders"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Dynamic prices respond to changing conditions.",
+    "incorrectChoiceExplanations": [
+      "Correct: Dynamic prices respond to changing conditions.",
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "This choice conflicts with the verified LM7 business-model distinction."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-038",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Bundling means",
+    "choices": [
+      "charging each user nothing",
+      "selling multiple products or services together",
+      "outsourcing all production"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "A bundle combines offerings in one package or required set.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "Correct: A bundle combines offerings in one package or required set.",
+      "This choice conflicts with the verified LM7 business-model distinction."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-039",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A razor-and-razorblade model pairs",
+    "choices": [
+      "free content with advertising only",
+      "royalties with franchising",
+      "a low-priced durable item with higher-margin consumables"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The installed base drives repeat consumable purchases.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "Correct: The installed base drives repeat consumable purchases."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-040",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": false,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "An add-on model earns margin from",
+    "choices": [
+      "optional features, customization, or extra content",
+      "only the base product",
+      "government grants"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The core purchase is supplemented by paid extras.",
+    "incorrectChoiceExplanations": [
+      "Correct: The core purchase is supplemented by paid extras.",
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "This choice conflicts with the verified LM7 business-model distinction."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-041",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "An auction model determines price through",
+    "choices": [
+      "fixed annual subscriptions",
+      "competitive bidding",
+      "cost-plus accounting only"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Bids establish the transaction price.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "Correct: Bids establish the transaction price.",
+      "This choice conflicts with the verified LM7 business-model distinction."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-042",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "An omnichannel strategy seeks to",
+    "choices": [
+      "eliminate all intermediaries",
+      "use only wholesalers",
+      "coordinate physical and digital customer routes"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Customers interact across integrated channels.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "Correct: Customers interact across integrated channels."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-043",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A direct-sales model is distinguished by",
+    "choices": [
+      "selling to customers without a traditional reseller chain",
+      "requiring a franchisee",
+      "monetizing only advertisements"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The producer controls the customer transaction directly.",
+    "incorrectChoiceExplanations": [
+      "Correct: The producer controls the customer transaction directly.",
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "This choice conflicts with the verified LM7 business-model distinction."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-044",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A reseller model creates value by",
+    "choices": [
+      "licensing its own patents exclusively",
+      "distributing or augmenting another producer’s offering",
+      "operating only a free platform"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Resellers connect upstream products to downstream customers.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "Correct: Resellers connect upstream products to downstream customers.",
+      "This choice conflicts with the verified LM7 business-model distinction."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-q-045",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A model combining subscriptions and transaction fees should be analyzed as",
+    "choices": [
+      "necessarily misclassified",
+      "a capital-structure strategy",
+      "a hybrid with multiple revenue mechanisms"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Real issuers often combine conventional mechanisms.",
+    "incorrectChoiceExplanations": [
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "This choice conflicts with the verified LM7 business-model distinction.",
+      "Correct: Real issuers often combine conventional mechanisms."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  }
+]

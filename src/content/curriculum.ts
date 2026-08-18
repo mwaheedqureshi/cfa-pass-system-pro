@@ -3,7 +3,7 @@ import type {Topic} from '../data/types';
 export const topics:Topic[]=[
 {id:'quantitative-methods',title:'Quantitative Methods',description:'Returns, financial mathematics, probability, inference, correlation, and regression.',lessonCount:12,status:'available'},
 {id:'economics',title:'Economics',description:'Microeconomics, macroeconomics, and international trade.',lessonCount:8,status:'available'},
-{id:'corporate-issuers',title:'Corporate Issuers',description:'Organizational forms, ownership, stakeholders, governance, capital allocation, financing, and business models.',lessonCount:6,status:'available'},
+{id:'corporate-issuers',title:'Corporate Issuers',description:'Organizational forms, ownership, stakeholders, governance, capital allocation, financing, and business models.',lessonCount:7,status:'available'},
 {id:'financial-statement-analysis',title:'Financial Statement Analysis',description:'Financial reporting and analytical techniques.',lessonCount:1,status:'available'},
 {id:'equity-investments',title:'Equity Investments',description:'Markets, industries, and equity valuation.',lessonCount:0,status:'pending'},
 {id:'fixed-income',title:'Fixed Income',description:'Bond features, valuation, and risk.',lessonCount:0,status:'pending'},

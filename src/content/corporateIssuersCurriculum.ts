@@ -6,7 +6,7 @@ export const officialCorporateIssuersModules:OfficialCorporateIssuersModule[]=[
  {id:'CI-LM4',order:4,title:'Working Capital and Liquidity',studyLessonId:'corporate-issuers-04-working-capital-and-liquidity',status:'verified'},
  {id:'CI-LM5',order:5,title:'Capital Investments and Capital Allocation',studyLessonId:'corporate-issuers-05-capital-investments-and-capital-allocation',status:'verified'},
  {id:'CI-LM6',order:6,title:'Capital Structure',studyLessonId:'corporate-issuers-06-capital-structure',status:'verified'},
- {id:'CI-LM7',order:7,title:'Business Models',studyLessonId:null,status:'pending'}
+ {id:'CI-LM7',order:7,title:'Business Models',studyLessonId:'corporate-issuers-07-business-models',status:'verified'}
 ];
 export const officialCorporateIssuersModuleCount=officialCorporateIssuersModules.length;
 export const verifiedOfficialCorporateIssuersModules=officialCorporateIssuersModules.filter(module=>module.status==='verified');

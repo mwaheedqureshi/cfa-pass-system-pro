@@ -10,6 +10,6 @@ The accepted v1.9 discovery establishes seven official modules and 22 LOS. The o
 | CI-LM4 Working Capital and Liquidity | `corporate-issuers-04-working-capital-and-liquidity` | v1.9.4 | Produced and verified |
 | CI-LM5 Capital Investments and Capital Allocation | `corporate-issuers-05-capital-investments-and-capital-allocation` | v1.9.5 | Produced and verified |
 | CI-LM6 Capital Structure | `corporate-issuers-06-capital-structure` | v1.9.6 | Produced and verified |
-| CI-LM7 | Reserved by `corporateIssuersCurriculum.ts` | v1.9.7 | Pending |
+| CI-LM7 Business Models | `corporate-issuers-07-business-models` | v1.9.7 | Produced and verified |
 
-LM1 is sourced from PDF pages 11–44, LM2 from 45–74, LM3 from 75–104, LM4 from 105–142, and LM5 from 143–180 (printed 135–172), ending immediately before LM6 on PDF page 181. Their LOS are stored verbatim in the curriculum registry and lesson manifest. No LM6–LM7 production asset is authorized by v1.9.6.
+LM1 is sourced from PDF pages 11–44, LM2 from 45–74, LM3 from 75–104, LM4 from 105–142, and LM5 from 143–180 (printed 135–172), ending immediately before LM6 on PDF page 181. Their LOS are stored verbatim in the curriculum registry and lesson manifest. LM6 spans PDF pp. 181–220 and LM7 spans pp. 221–250 (printed 213–242). All module assets are produced; aggregate certification remains pending v1.9.8.

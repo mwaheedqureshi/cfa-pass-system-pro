@@ -1,0 +1,677 @@
+[
+  {
+    "id": "ci-lm7-fc-001",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "front": "A business model most directly explains — key distinction",
+    "back": "how a firm creates and delivers value. It connects customers, offerings, channels, pricing, resources, and partners.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-002",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "front": "The “who” in a business model identifies — key distinction",
+    "back": "customers and customer segments. The who identifies whom the issuer serves.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-003",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "front": "A value proposition describes — key distinction",
+    "back": "why customers choose the offering. It states the attributes that make customers prefer the offering.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-004",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "front": "The “where” component primarily concerns — key distinction",
+    "back": "channels used to reach customers. Channels connect the offering with customers.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-005",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "front": "The “how much” component concerns — key distinction",
+    "back": "pricing. Pricing specifies what customers pay.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-006",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "front": "A value chain is best described as — key distinction",
+    "back": "internal systems and processes that create customer value. The value chain describes how the firm creates value.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-007",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "front": "A supply chain differs because it includes — key distinction",
+    "back": "the network inside and outside the firm that produces and delivers. Supply chains can cross organizational boundaries.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-008",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "front": "Customer segmentation groups buyers by — key distinction",
+    "back": "decision-useful shared attributes. Segmentation supports product, channel, and pricing choices.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-009",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "front": "An analyst should assess a business model by — key distinction",
+    "back": "developing an independent understanding. Independent analysis reveals prospects, dependencies, and risks.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-010",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "front": "Pricing power is strongest when — key distinction",
+    "back": "differentiation is meaningful and alternatives are limited. Differentiation and limited alternatives support pricing power.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-011",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "front": "An asset-light operating model generally — key distinction",
+    "back": "relies less on owned physical assets. Asset-light describes resource configuration, not absence of risk.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-012",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "front": "Scalability means the firm can — key distinction",
+    "back": "grow output or users without proportional resource growth. Scalability concerns how costs and capacity behave as activity expands.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-013",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "front": "Customer concentration creates risk because — key distinction",
+    "back": "loss of a major buyer can materially reduce activity. Reliance on few buyers raises exposure to individual relationships.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-014",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "front": "Recurring revenue generally improves — key distinction",
+    "back": "visibility and customer-lifetime continuity. Recurring arrangements can make revenue more predictable but do not guarantee retention.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-015",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "front": "Unit economics are used to examine — key distinction",
+    "back": "economics at the customer or transaction level. They test whether incremental activity creates attractive economics.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-016",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "front": "The economic balance sheet broadens analysis to — key distinction",
+    "back": "valuable relationships and capabilities not fully reported. Business-model analysis includes resources and relationships beyond reported statements.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-017",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "front": "A channel conflict can arise when — key distinction",
+    "back": "direct and intermediary routes compete for the same customers. Overlapping routes can create partner tension and inconsistent pricing.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-018",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": false,
+    "front": "A sound qualitative review links — key distinction",
+    "back": "strategy, operations, markets, partners, risks, and financial profile. Business-model analysis integrates how the issuer actually works.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-019",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": true,
+    "front": "A model with high fixed costs and low marginal costs may be — key distinction",
+    "back": "highly scalable after sufficient volume. Incremental growth can be inexpensive once fixed infrastructure exists.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-020",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": true,
+    "front": "A key-partner dependency is most concerning when — key distinction",
+    "back": "the input is critical and switching alternatives are scarce. Critical scarce partners create operating vulnerability.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-021",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": true,
+    "front": "A value proposition is weak when — key distinction",
+    "back": "customers see little meaningful difference from alternatives. Weak differentiation limits willingness to choose or pay.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-022",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": true,
+    "front": "A coherent model requires pricing to — key distinction",
+    "back": "fit the value proposition and delivery cost. Price must align with customer value and the economics of delivery.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-023",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe key features of business models",
+    "supplementary": true,
+    "front": "Business-model risk analysis should test — key distinction",
+    "back": "whether components reinforce or contradict each other. Internal consistency is central to qualitative analysis.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-024",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": false,
+    "front": "A subscription model earns revenue primarily through — key distinction",
+    "back": "recurring access fees. Subscriptions charge periodically for continued access.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-025",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": false,
+    "front": "A transaction-fee model earns revenue when — key distinction",
+    "back": "a facilitated exchange occurs. Fees are tied to completed transactions.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-026",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": false,
+    "front": "An advertising model primarily monetizes — key distinction",
+    "back": "audience attention or access. Advertisers pay to reach an audience.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-027",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": false,
+    "front": "A licensing model permits another party to use — key distinction",
+    "back": "intellectual property or a brand for compensation. Licensing monetizes rights, often through royalties.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-028",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": false,
+    "front": "A franchise model combines — key distinction",
+    "back": "a proven format and brand with independently operated outlets. Franchisees operate under the franchisor’s system and brand.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-029",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": false,
+    "front": "A contract manufacturer primarily — key distinction",
+    "back": "produces goods marketed by another firm. The customer owns the market-facing product or brand.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-030",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": false,
+    "front": "Crowdsourcing relies on — key distinction",
+    "back": "users contributing content, ideas, or work. User contribution is the defining mechanism.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-031",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": false,
+    "front": "A platform model commonly creates value by — key distinction",
+    "back": "enabling interactions among participant groups. Platforms coordinate participants and may benefit from network effects.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-032",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": false,
+    "front": "A marketplace typically monetizes — key distinction",
+    "back": "matching buyers and sellers, often for a fee. Marketplaces facilitate exchange.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-033",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": false,
+    "front": "Freemium pricing uses — key distinction",
+    "back": "a free basic tier and paid enhanced access. Free entry supports adoption while premium features monetize some users.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-034",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": false,
+    "front": "Penetration pricing deliberately uses — key distinction",
+    "back": "low initial prices to build scale or share. The firm sacrifices initial margin to accelerate adoption.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-035",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": false,
+    "front": "Premium pricing is most consistent with — key distinction",
+    "back": "strong differentiation and perceived superior value. Customers pay more for valued attributes or positioning.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-036",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": false,
+    "front": "Tiered pricing varies price by — key distinction",
+    "back": "volume, features, or service level. Tiers segment willingness to pay or usage.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-037",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": false,
+    "front": "Dynamic pricing changes with — key distinction",
+    "back": "conditions such as demand, capacity, or time. Dynamic prices respond to changing conditions.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-038",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": false,
+    "front": "Bundling means — key distinction",
+    "back": "selling multiple products or services together. A bundle combines offerings in one package or required set.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-039",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": false,
+    "front": "A razor-and-razorblade model pairs — key distinction",
+    "back": "a low-priced durable item with higher-margin consumables. The installed base drives repeat consumable purchases.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-040",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": false,
+    "front": "An add-on model earns margin from — key distinction",
+    "back": "optional features, customization, or extra content. The core purchase is supplemented by paid extras.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-041",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": true,
+    "front": "An auction model determines price through — key distinction",
+    "back": "competitive bidding. Bids establish the transaction price.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-042",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": true,
+    "front": "An omnichannel strategy seeks to — key distinction",
+    "back": "coordinate physical and digital customer routes. Customers interact across integrated channels.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-043",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": true,
+    "front": "A direct-sales model is distinguished by — key distinction",
+    "back": "selling to customers without a traditional reseller chain. The producer controls the customer transaction directly.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-044",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": true,
+    "front": "A reseller model creates value by — key distinction",
+    "back": "distributing or augmenting another producer’s offering. Resellers connect upstream products to downstream customers.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm7-fc-045",
+    "lessonId": "corporate-issuers-07-business-models",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM7",
+    "officialLearningOutcome": "describe various types of business models",
+    "supplementary": true,
+    "front": "A model combining subscriptions and transaction fees should be analyzed as — key distinction",
+    "back": "a hybrid with multiple revenue mechanisms. Real issuers often combine conventional mechanisms.",
+    "tags": [
+      "corporate issuers",
+      "LM7",
+      "LOS 2"
+    ]
+  }
+]

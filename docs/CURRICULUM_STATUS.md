@@ -43,7 +43,7 @@ Future Economics changes are limited to verified defects, official curriculum ch
 
 ## Corporate Issuers
 
-Corporate Issuers is **PARTIALLY PRODUCED** as of v1.9.6: 6 of 7 official modules (85.71%). CI-LM1 through CI-LM5 remain verified. CI-LM6, **Capital Structure**, is verified against the official 2027 source (PDF pp. 181–220; printed pp. 173–212) across all 4 LOS. LM6 contains 52 official-target plus 13 supplementary questions and flashcards, 20 original worked examples, 12 original synthesis exhibits, 7 new production formulas, canonical reuse of FSA ratios, and 2 registered tools. All 28 provisional mocks were audited: 13 accepted and 15 rejected. CI-LM7 remains pending.
+Corporate Issuers is **CONTENT-COMPLETE, AGGREGATE CERTIFICATION PENDING** as of v1.9.7: 7 of 7 official modules (100%). CI-LM1 through CI-LM6 remain verified. CI-LM7, **Business Models**, is verified against the official 2027 source (PDF pp. 221–250; printed pp. 213–242) across both LOS. LM7 contains 35 official-target plus 10 supplementary questions and flashcards, 12 original worked examples, 10 original synthesis exhibits, zero new formulas, and one registered tool. All 12 provisional mocks were audited: 9 accepted and 3 rejected. All seven modules are produced; aggregate certification remains pending v1.9.8.
 
 | Module | Stable lesson ID | Status |
 |---|---|---|
@@ -53,7 +53,7 @@ Corporate Issuers is **PARTIALLY PRODUCED** as of v1.9.6: 6 of 7 official module
 | CI-LM4 Working Capital and Liquidity | `corporate-issuers-04-working-capital-and-liquidity` | Verified |
 | CI-LM5 Capital Investments and Capital Allocation | `corporate-issuers-05-capital-investments-and-capital-allocation` | Verified v1.9.5 |
 | CI-LM6 Capital Structure | `corporate-issuers-06-capital-structure` | Verified v1.9.6 |
-| CI-LM7 | Reserved in the target manifest | Pending |
+| CI-LM7 Business Models | `corporate-issuers-07-business-models` | Verified v1.9.7 |
 
 ## Financial Statement Analysis
 

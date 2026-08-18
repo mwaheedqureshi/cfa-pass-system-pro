@@ -37,6 +37,7 @@ import corporateIssuersQuestions03 from '../data/questions/corporate-issuers-03-
 import corporateIssuersQuestions04 from '../data/questions/corporate-issuers-04-working-capital-and-liquidity.json';
 import corporateIssuersQuestions05 from '../data/questions/corporate-issuers-05-capital-investments-and-capital-allocation.json';
 import corporateIssuersQuestions06 from '../data/questions/corporate-issuers-06-capital-structure.json';
+import corporateIssuersQuestions07 from '../data/questions/corporate-issuers-07-business-models.json';
 import {ComprehensiveAssessment} from '../components/practice/ComprehensiveAssessment';
 import {EconomicsComprehensiveAssessment} from '../components/practice/EconomicsComprehensiveAssessment';
 import {ChapterExam} from '../components/practice/ChapterExam';
@@ -47,7 +48,7 @@ import type {Question} from '../data/types';
 const quantitative=[...returnsQuestions,...benchmarkQuestions,...tvmQuestions,...statisticsQuestions,...probabilityQuestions,...distributionQuestions,...samplingQuestions,...hypothesisQuestions,...regressionQuestions,...simulationQuestions,...dataAiQuestions] as unknown as Question[];
 const economics=[...economicsQuestions,...economicsQuestions02,...economicsQuestions03,...economicsQuestions04,...economicsQuestions05,...economicsQuestions06,...economicsQuestions07,...economicsQuestions08] as Question[];
 const fsa=[...fsaQuestions01,...fsaQuestions02,...fsaQuestions03,...fsaQuestions04,...fsaQuestions05,...fsaQuestions06,...fsaQuestions07,...fsaQuestions08,...fsaQuestions09,...fsaQuestions10,...fsaQuestions11,...fsaQuestions12] as unknown as Question[];
-const corporateIssuers=[...corporateIssuersQuestions01,...corporateIssuersQuestions02,...corporateIssuersQuestions03,...corporateIssuersQuestions04,...corporateIssuersQuestions05,...corporateIssuersQuestions06] as unknown as Question[];
+const corporateIssuers=[...corporateIssuersQuestions01,...corporateIssuersQuestions02,...corporateIssuersQuestions03,...corporateIssuersQuestions04,...corporateIssuersQuestions05,...corporateIssuersQuestions06,...corporateIssuersQuestions07] as unknown as Question[];
 const questions=[...quantitative,...economics,...fsa,...corporateIssuers] as Question[];
 
 export function PracticePage(){
