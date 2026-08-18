@@ -3,7 +3,7 @@
 
 ## Current Version
 
-**v1.9.2**
+**v1.9.3**
 
 ## Calculated Content Inventory
 
@@ -13,12 +13,12 @@
 | Quantitative Methods study lessons | 12 of 12 |
 | Economics lessons | 8 of 8 verified and frozen |
 | Financial Statement Analysis lessons | 12 of 12 verified and frozen |
-| Corporate Issuers lessons | 2 of 7 verified |
-| Original questions | 1,650 |
-| Flashcards | 1,650 |
+| Corporate Issuers lessons | 3 of 7 verified |
+| Original questions | 1,695 |
+| Flashcards | 1,695 |
 | Formula and metric cards | 317 |
 
-Quantitative Methods, Economics, and Financial Statement Analysis are verified and content-frozen. Corporate Issuers is in progress at 2 of 7 modules (28.57%); CI-LM3 through CI-LM7 remain pending.
+Quantitative Methods, Economics, and Financial Statement Analysis are verified and content-frozen. Corporate Issuers is in progress at 3 of 7 modules (42.86%); CI-LM4 through CI-LM7 remain pending.
 
 ## v1.6.0 Features
 

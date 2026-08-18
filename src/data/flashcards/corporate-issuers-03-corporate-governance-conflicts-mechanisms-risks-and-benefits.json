@@ -1,0 +1,677 @@
+[
+  {
+    "id": "ci-lm3-fc-001",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe the principal-agent relationship and conflicts that may arise between stakeholder groups",
+    "supplementary": false,
+    "front": "Principal–agent relationship",
+    "back": "A principal delegates a task or authority to an agent expected to act in the principal’s interest.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-002",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe the principal-agent relationship and conflicts that may arise between stakeholder groups",
+    "supplementary": false,
+    "front": "Principal–agent conflict",
+    "back": "The agent pursues personal interests instead of the principal’s interests.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-003",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe the principal-agent relationship and conflicts that may arise between stakeholder groups",
+    "supplementary": false,
+    "front": "Principal–principal conflict",
+    "back": "Owners with control pursue benefits at other owners’ expense.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-004",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe the principal-agent relationship and conflicts that may arise between stakeholder groups",
+    "supplementary": false,
+    "front": "Empire building",
+    "back": "Management expands issuer size for status or pay without creating commensurate value.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-005",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe the principal-agent relationship and conflicts that may arise between stakeholder groups",
+    "supplementary": false,
+    "front": "Entrenchment",
+    "back": "Managers make themselves costly or difficult to replace.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-006",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe the principal-agent relationship and conflicts that may arise between stakeholder groups",
+    "supplementary": false,
+    "front": "Self-dealing",
+    "back": "A decision maker uses an issuer transaction for private benefit.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-007",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe the principal-agent relationship and conflicts that may arise between stakeholder groups",
+    "supplementary": false,
+    "front": "Information asymmetry",
+    "back": "Insiders possess more issuer information than outside stakeholders.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-008",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe the principal-agent relationship and conflicts that may arise between stakeholder groups",
+    "supplementary": false,
+    "front": "Managerial risk aversion",
+    "back": "Managers reject owner-benefiting risk to protect undiversified careers or compensation.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-009",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe the principal-agent relationship and conflicts that may arise between stakeholder groups",
+    "supplementary": false,
+    "front": "Creditor–shareholder conflict",
+    "back": "Different senior fixed and junior residual payoffs produce different risk preferences.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-010",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe the principal-agent relationship and conflicts that may arise between stakeholder groups",
+    "supplementary": false,
+    "front": "Collective-action problem",
+    "back": "Dispersed owners underinvest in monitoring because benefits are shared.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-011",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe the principal-agent relationship and conflicts that may arise between stakeholder groups",
+    "supplementary": false,
+    "front": "Private benefits of control",
+    "back": "Advantages captured by controllers but not shared proportionally with other owners.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-012",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe the principal-agent relationship and conflicts that may arise between stakeholder groups",
+    "supplementary": false,
+    "front": "Short-termism",
+    "back": "Incentives encourage near-term metrics at long-run value’s expense.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-013",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe the principal-agent relationship and conflicts that may arise between stakeholder groups",
+    "supplementary": true,
+    "front": "Tunneling",
+    "back": "Transfer of company resources to a controller or related party.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-014",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe the principal-agent relationship and conflicts that may arise between stakeholder groups",
+    "supplementary": true,
+    "front": "Ownership concentration trade-off",
+    "back": "Stronger monitoring may come with greater minority-owner risk.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-015",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe the principal-agent relationship and conflicts that may arise between stakeholder groups",
+    "supplementary": true,
+    "front": "Conflict classification rule",
+    "back": "Identify who delegates to whom, who controls decisions, and whose value may be transferred.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-016",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks",
+    "supplementary": false,
+    "front": "Board of directors",
+    "back": "The governing body that guides strategy, appoints and oversees management, and monitors controls.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-017",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks",
+    "supplementary": false,
+    "front": "Independent director",
+    "back": "A non-executive director without a material relationship that compromises objective judgment.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-018",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks",
+    "supplementary": false,
+    "front": "Audit committee",
+    "back": "Oversees reporting, controls, risk-related assurance, and external-auditor matters.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-019",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks",
+    "supplementary": false,
+    "front": "Nominating/governance committee",
+    "back": "Leads director selection, board composition, and governance-policy review.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-020",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks",
+    "supplementary": false,
+    "front": "Compensation committee",
+    "back": "Designs and reviews executive and director remuneration.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-021",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks",
+    "supplementary": false,
+    "front": "One-share-one-vote",
+    "back": "Voting power is proportional to economic share ownership.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-022",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks",
+    "supplementary": false,
+    "front": "Dual-class structure",
+    "back": "Share classes carry unequal voting rights, separating control from economic ownership.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-023",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks",
+    "supplementary": false,
+    "front": "Cumulative voting",
+    "back": "Shareholders can concentrate votes, potentially improving minority representation.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-024",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks",
+    "supplementary": false,
+    "front": "Related-party disclosure",
+    "back": "Transparency about transactions involving insiders or connected parties.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-025",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks",
+    "supplementary": false,
+    "front": "Equity-linked pay",
+    "back": "Compensation intended to align managers with shareholder outcomes.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-026",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks",
+    "supplementary": false,
+    "front": "Long vesting",
+    "back": "Delayed access to awards that increases exposure to long-term consequences.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-027",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks",
+    "supplementary": false,
+    "front": "Creditor covenant",
+    "back": "A contractual restriction intended to protect creditor claims.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-028",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks",
+    "supplementary": true,
+    "front": "Shareholder activism",
+    "back": "Owners engage or campaign to influence governance or strategy.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-029",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks",
+    "supplementary": true,
+    "front": "Board diversity",
+    "back": "A mix of relevant expertise, backgrounds, and perspectives.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-030",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks",
+    "supplementary": true,
+    "front": "Mechanism evaluation",
+    "back": "Compare intended benefit, residual risk, cost, and issuer context.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-031",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe potential risks of poor corporate governance and stakeholder management and benefits of effective corporate governance and stakeholder management",
+    "supplementary": false,
+    "front": "Poor-governance risk",
+    "back": "Resource misuse, weak decisions, unreliable reporting, conflict, and loss of trust.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-032",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe potential risks of poor corporate governance and stakeholder management and benefits of effective corporate governance and stakeholder management",
+    "supplementary": false,
+    "front": "Effective-governance benefit",
+    "back": "Better oversight, accountability, resilience, and capital-provider confidence.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-033",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe potential risks of poor corporate governance and stakeholder management and benefits of effective corporate governance and stakeholder management",
+    "supplementary": false,
+    "front": "Governance and cost of debt",
+    "back": "Creditor protection may lower perceived default risk and required return.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-034",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe potential risks of poor corporate governance and stakeholder management and benefits of effective corporate governance and stakeholder management",
+    "supplementary": false,
+    "front": "Governance and information risk",
+    "back": "Transparent reporting and controls can reduce uncertainty for outsiders.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-035",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe potential risks of poor corporate governance and stakeholder management and benefits of effective corporate governance and stakeholder management",
+    "supplementary": false,
+    "front": "Succession risk",
+    "back": "Leadership disruption caused by inadequate preparation for management transition.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-036",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe potential risks of poor corporate governance and stakeholder management and benefits of effective corporate governance and stakeholder management",
+    "supplementary": false,
+    "front": "Control limitation",
+    "back": "Approvals and monitoring can add cost, complexity, or slower decisions.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-037",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe potential risks of poor corporate governance and stakeholder management and benefits of effective corporate governance and stakeholder management",
+    "supplementary": false,
+    "front": "Covenant limitation",
+    "back": "Creditor protection can restrict beneficial operating or investment flexibility.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-038",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe potential risks of poor corporate governance and stakeholder management and benefits of effective corporate governance and stakeholder management",
+    "supplementary": false,
+    "front": "Context dependence",
+    "back": "Effective structure varies with ownership, size, industry, law, and issuer risks.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-039",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe potential risks of poor corporate governance and stakeholder management and benefits of effective corporate governance and stakeholder management",
+    "supplementary": false,
+    "front": "Minority-owner risk",
+    "back": "Controllers may transfer value or provide unequal treatment.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-040",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe potential risks of poor corporate governance and stakeholder management and benefits of effective corporate governance and stakeholder management",
+    "supplementary": false,
+    "front": "Internal-control benefit",
+    "back": "Prevention or detection of error, fraud, and unreliable reporting.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-041",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe potential risks of poor corporate governance and stakeholder management and benefits of effective corporate governance and stakeholder management",
+    "supplementary": false,
+    "front": "Stakeholder-management benefit",
+    "back": "More durable relationships and lower disruption risk.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-042",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe potential risks of poor corporate governance and stakeholder management and benefits of effective corporate governance and stakeholder management",
+    "supplementary": true,
+    "front": "Governance checklist limitation",
+    "back": "Formal adoption does not prove that mechanisms operate effectively.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-043",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe potential risks of poor corporate governance and stakeholder management and benefits of effective corporate governance and stakeholder management",
+    "supplementary": true,
+    "front": "Board-independence limitation",
+    "back": "Independence without expertise, information, or challenge may be ineffective.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-044",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe potential risks of poor corporate governance and stakeholder management and benefits of effective corporate governance and stakeholder management",
+    "supplementary": true,
+    "front": "Governance outcome lens",
+    "back": "Judge how well material conflicts are managed and durable performance supported.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm3-fc-045",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe potential risks of poor corporate governance and stakeholder management and benefits of effective corporate governance and stakeholder management",
+    "supplementary": true,
+    "front": "Residual risk",
+    "back": "Risk remaining after a governance mechanism is applied.",
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 3"
+    ]
+  }
+]

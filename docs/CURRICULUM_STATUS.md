@@ -43,13 +43,14 @@ Future Economics changes are limited to verified defects, official curriculum ch
 
 ## Corporate Issuers
 
-Corporate Issuers is **PARTIALLY PRODUCED** as of v1.9.2: 2 of 7 official modules (28.57%). CI-LM1 remains verified. CI-LM2, **Investors and Other Stakeholders**, is content-verified against the official 2027 source (PDF pp. 45–74; printed pp. 37–66) across all 3 LOS. LM2 contains 35 official-target plus 10 supplementary questions and flashcards, 10 original worked examples, 10 original synthesis exhibits, 0 formulas, and 2 registered interactive tools. Four provisional LM2 mock candidates were reviewed in full; 2 were accepted and 2 extraction-corrupted items rejected. CI-LM3 through CI-LM7 remain pending and unpublished.
+Corporate Issuers is **PARTIALLY PRODUCED** as of v1.9.3: 3 of 7 official modules (42.86%). CI-LM1 and CI-LM2 remain verified. CI-LM3, **Corporate Governance: Conflicts, Mechanisms, Risks, and Benefits**, is verified against the official 2027 source (PDF pp. 75–104; printed pp. 67–96) across all 3 LOS. LM3 contains 35 official-target plus 10 supplementary questions and flashcards, 10 original worked examples, 10 original synthesis exhibits, 0 formulas, and 2 registered tools. Thirteen provisional mocks were reviewed; 8 were accepted and 5 rejected. CI-LM4 through CI-LM7 remain pending.
 
 | Module | Stable lesson ID | Status |
 |---|---|---|
 | CI-LM1 Organizational Forms, Corporate Issuer Features, and Ownership | `corporate-issuers-01-organizational-forms-corporate-issuer-features-and-ownership` | Verified |
 | CI-LM2 Investors and Other Stakeholders | `corporate-issuers-02-investors-and-other-stakeholders` | Verified |
-| CI-LM3–CI-LM7 | Reserved in the target manifest | Pending |
+| CI-LM3 Corporate Governance: Conflicts, Mechanisms, Risks, and Benefits | `corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits` | Verified |
+| CI-LM4–CI-LM7 | Reserved in the target manifest | Pending |
 
 ## Financial Statement Analysis
 

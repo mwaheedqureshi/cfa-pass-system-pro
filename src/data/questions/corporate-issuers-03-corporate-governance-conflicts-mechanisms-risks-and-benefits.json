@@ -1,0 +1,1307 @@
+[
+  {
+    "id": "ci-lm3-q-001",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe the principal-agent relationship and conflicts that may arise between stakeholder groups",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Managers reject a value-creating project because failure could threaten their jobs. This is most likely:",
+    "choices": [
+      "managerial risk aversion in a principal–agent conflict",
+      "a principal–principal conflict",
+      "creditor monitoring"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Managers as agents may protect their employment rather than maximize owner value.",
+    "incorrectChoiceExplanations": [
+      "Correct: Managers as agents may protect their employment rather than maximize owner value.",
+      "This choice does not fit the scenario as well as managerial risk aversion in a principal–agent conflict.",
+      "This choice does not fit the scenario as well as managerial risk aversion in a principal–agent conflict."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-002",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe the principal-agent relationship and conflicts that may arise between stakeholder groups",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A controlling owner directs the issuer to buy services from another company the owner controls at an excessive price. This is:",
+    "choices": [
+      "managerial entrenchment only",
+      "a principal–principal conflict harming minority shareholders",
+      "a customer–supplier conflict only"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "A controlling shareholder may extract private benefits at minority owners’ expense.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as a principal–principal conflict harming minority shareholders.",
+      "Correct: A controlling shareholder may extract private benefits at minority owners’ expense.",
+      "This choice does not fit the scenario as well as a principal–principal conflict harming minority shareholders."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-003",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe the principal-agent relationship and conflicts that may arise between stakeholder groups",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Management acquires an unprofitable company mainly to increase organizational size and executive status. This is:",
+    "choices": [
+      "creditor priority",
+      "minority voting protection",
+      "empire building"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Empire building is growth pursued for managerial benefit rather than owner value.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as empire building.",
+      "This choice does not fit the scenario as well as empire building.",
+      "Correct: Empire building is growth pursued for managerial benefit rather than owner value."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-004",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe the principal-agent relationship and conflicts that may arise between stakeholder groups",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A chief executive promotes projects requiring uniquely held expertise to make replacement difficult. This is:",
+    "choices": [
+      "entrenchment",
+      "tunneling",
+      "cumulative voting"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Entrenchment protects a manager’s position by raising the cost of replacement.",
+    "incorrectChoiceExplanations": [
+      "Correct: Entrenchment protects a manager’s position by raising the cost of replacement.",
+      "This choice does not fit the scenario as well as entrenchment.",
+      "This choice does not fit the scenario as well as entrenchment."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-005",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe the principal-agent relationship and conflicts that may arise between stakeholder groups",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Which relationship creates the classic corporate principal–agent conflict?",
+    "choices": [
+      "Customers purchase products from suppliers",
+      "Shareholders delegate operating authority to managers",
+      "Two minority shareholders trade shares"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Delegated authority and information asymmetry can let the agent pursue different interests.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as shareholders delegate operating authority to managers.",
+      "Correct: Delegated authority and information asymmetry can let the agent pursue different interests.",
+      "This choice does not fit the scenario as well as shareholders delegate operating authority to managers."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-006",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe the principal-agent relationship and conflicts that may arise between stakeholder groups",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Shareholders favor a high-risk project while lenders prefer stable cash flow. This conflict arises primarily from:",
+    "choices": [
+      "board independence",
+      "ownership transferability",
+      "different payoff structures and claim priority"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Debt has capped senior claims while equity has junior residual upside.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as different payoff structures and claim priority.",
+      "This choice does not fit the scenario as well as different payoff structures and claim priority.",
+      "Correct: Debt has capped senior claims while equity has junior residual upside."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-007",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe the principal-agent relationship and conflicts that may arise between stakeholder groups",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Why does information asymmetry intensify agency risk?",
+    "choices": [
+      "Managers know more about actions and prospects than outside owners",
+      "It gives every shareholder equal voting power",
+      "It eliminates monitoring costs"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Insiders can take actions that outsiders cannot observe or evaluate readily.",
+    "incorrectChoiceExplanations": [
+      "Correct: Insiders can take actions that outsiders cannot observe or evaluate readily.",
+      "This choice does not fit the scenario as well as managers know more about actions and prospects than outside owners.",
+      "This choice does not fit the scenario as well as managers know more about actions and prospects than outside owners."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-008",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe the principal-agent relationship and conflicts that may arise between stakeholder groups",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A manager sells a company asset to a relative below fair value. This is most directly:",
+    "choices": [
+      "empire building",
+      "self-dealing",
+      "shareholder activism"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Self-dealing uses corporate transactions for a decision maker’s private benefit.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as self-dealing.",
+      "Correct: Self-dealing uses corporate transactions for a decision maker’s private benefit.",
+      "This choice does not fit the scenario as well as self-dealing."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-009",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe the principal-agent relationship and conflicts that may arise between stakeholder groups",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A controlling shareholder uses superior voting rights despite holding limited economic ownership. The main concern is:",
+    "choices": [
+      "excess creditor seniority",
+      "too much board independence",
+      "separation of control from economic exposure"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Disproportionate control can enable decisions that transfer value from other owners.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as separation of control from economic exposure.",
+      "This choice does not fit the scenario as well as separation of control from economic exposure.",
+      "Correct: Disproportionate control can enable decisions that transfer value from other owners."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-010",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe the principal-agent relationship and conflicts that may arise between stakeholder groups",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Which situation best illustrates a stakeholder conflict rather than identical interests?",
+    "choices": [
+      "Closing a plant protects solvency but harms employees and a community",
+      "Training improves quality and retention",
+      "Reliable products support repeat sales"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The closure benefits some claims while imposing losses on other stakeholders.",
+    "incorrectChoiceExplanations": [
+      "Correct: The closure benefits some claims while imposing losses on other stakeholders.",
+      "This choice does not fit the scenario as well as closing a plant protects solvency but harms employees and a community.",
+      "This choice does not fit the scenario as well as closing a plant protects solvency but harms employees and a community."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-011",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe the principal-agent relationship and conflicts that may arise between stakeholder groups",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Managers defer necessary maintenance to meet a short-term bonus target. This is primarily:",
+    "choices": [
+      "principal–principal expropriation",
+      "incentive horizon misalignment",
+      "creditor voting control"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Short measurement horizons can reward actions that damage long-run issuer value.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as incentive horizon misalignment.",
+      "Correct: Short measurement horizons can reward actions that damage long-run issuer value.",
+      "This choice does not fit the scenario as well as incentive horizon misalignment."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-012",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe the principal-agent relationship and conflicts that may arise between stakeholder groups",
+    "supplementary": false,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A board approves excessive executive perks without performance justification. This most likely reflects:",
+    "choices": [
+      "strong minority protection",
+      "effective creditor governance",
+      "weak monitoring of agent benefits"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Poor monitoring permits private benefits at shareholder expense.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as weak monitoring of agent benefits.",
+      "This choice does not fit the scenario as well as weak monitoring of agent benefits.",
+      "Correct: Poor monitoring permits private benefits at shareholder expense."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-013",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe the principal-agent relationship and conflicts that may arise between stakeholder groups",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Why may dispersed shareholders struggle to monitor management?",
+    "choices": [
+      "Each investor bears monitoring cost but shares the benefit with all owners",
+      "They always possess inside information",
+      "They appoint managers directly every day"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Collective-action and free-rider problems weaken individual monitoring incentives.",
+    "incorrectChoiceExplanations": [
+      "Correct: Collective-action and free-rider problems weaken individual monitoring incentives.",
+      "This choice does not fit the scenario as well as each investor bears monitoring cost but shares the benefit with all owners.",
+      "This choice does not fit the scenario as well as each investor bears monitoring cost but shares the benefit with all owners."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-014",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe the principal-agent relationship and conflicts that may arise between stakeholder groups",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A blockholder pressures management to improve operations but may also pursue private benefits. This shows that concentrated ownership:",
+    "choices": [
+      "always eliminates agency costs",
+      "can improve monitoring while creating minority-owner risk",
+      "always reduces voting influence"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Concentration changes rather than universally removes governance risk.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as can improve monitoring while creating minority-owner risk.",
+      "Correct: Concentration changes rather than universally removes governance risk.",
+      "This choice does not fit the scenario as well as can improve monitoring while creating minority-owner risk."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-015",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe the principal-agent relationship and conflicts that may arise between stakeholder groups",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Which distinction is correct?",
+    "choices": [
+      "Both terms mean creditor default",
+      "Principal–principal conflicts require dispersed ownership",
+      "Principal–agent conflicts involve delegated authority; principal–principal conflicts occur among owners"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The identities and source of conflict differ between delegation and owner groups.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as principal–agent conflicts involve delegated authority; principal–principal conflicts occur among owners.",
+      "This choice does not fit the scenario as well as principal–agent conflicts involve delegated authority; principal–principal conflicts occur among owners.",
+      "Correct: The identities and source of conflict differ between delegation and owner groups."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 1"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-016",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "The board’s central governance role is to:",
+    "choices": [
+      "guide strategy and oversee management on behalf of the company and shareholders",
+      "implement every daily operating decision",
+      "guarantee investment returns"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "The board provides direction, monitoring, appointments, and accountability rather than daily management.",
+    "incorrectChoiceExplanations": [
+      "Correct: The board provides direction, monitoring, appointments, and accountability rather than daily management.",
+      "This choice does not fit the scenario as well as guide strategy and oversee management on behalf of the company and shareholders.",
+      "This choice does not fit the scenario as well as guide strategy and oversee management on behalf of the company and shareholders."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-017",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Which committee most commonly oversees financial reporting, internal controls, and external audit?",
+    "choices": [
+      "Nominating committee",
+      "Audit committee",
+      "Compensation committee"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Audit committees oversee reporting integrity, controls, and auditor matters.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as audit committee.",
+      "Correct: Audit committees oversee reporting integrity, controls, and auditor matters.",
+      "This choice does not fit the scenario as well as audit committee."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-018",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Which committee develops executive and director remuneration policies?",
+    "choices": [
+      "Audit committee",
+      "Creditor committee",
+      "Compensation or remuneration committee"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "The compensation committee designs and reviews pay arrangements and incentives.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as compensation or remuneration committee.",
+      "This choice does not fit the scenario as well as compensation or remuneration committee.",
+      "Correct: The compensation committee designs and reviews pay arrangements and incentives."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-019",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Which committee leads board-candidate selection and governance-policy review?",
+    "choices": [
+      "Nominating or governance committee",
+      "Audit committee",
+      "Operating committee"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Nominating/governance committees support board composition and governance practices.",
+    "incorrectChoiceExplanations": [
+      "Correct: Nominating/governance committees support board composition and governance practices.",
+      "This choice does not fit the scenario as well as nominating or governance committee.",
+      "This choice does not fit the scenario as well as nominating or governance committee."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-020",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Why are independent directors valuable?",
+    "choices": [
+      "They eliminate every conflict",
+      "They can provide objective monitoring and challenge management",
+      "They manage routine operations"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Independence can strengthen oversight, though expertise and information still matter.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as they can provide objective monitoring and challenge management.",
+      "Correct: Independence can strengthen oversight, though expertise and information still matter.",
+      "This choice does not fit the scenario as well as they can provide objective monitoring and challenge management."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-021",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A board has independence but lacks industry and financial expertise. The best conclusion is:",
+    "choices": [
+      "the board is universally optimal",
+      "management no longer needs monitoring",
+      "independence alone does not ensure effective oversight"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Board composition requires relevant competence as well as independence.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as independence alone does not ensure effective oversight.",
+      "This choice does not fit the scenario as well as independence alone does not ensure effective oversight.",
+      "Correct: Board composition requires relevant competence as well as independence."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-022",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Which shareholder right most directly supports board accountability?",
+    "choices": [
+      "Voting for directors",
+      "Receiving promised interest",
+      "Setting customer prices"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Director elections give shareholders a channel for governance influence.",
+    "incorrectChoiceExplanations": [
+      "Correct: Director elections give shareholders a channel for governance influence.",
+      "This choice does not fit the scenario as well as voting for directors.",
+      "This choice does not fit the scenario as well as voting for directors."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-023",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Cumulative voting may benefit minority shareholders because it:",
+    "choices": [
+      "guarantees control to management",
+      "can concentrate votes to improve minority board representation",
+      "eliminates share classes"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Concentrated votes can help a minority elect a representative.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as can concentrate votes to improve minority board representation.",
+      "Correct: Concentrated votes can help a minority elect a representative.",
+      "This choice does not fit the scenario as well as can concentrate votes to improve minority board representation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-024",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Why disclose related-party transactions?",
+    "choices": [
+      "To guarantee the transaction is beneficial",
+      "To replace board oversight",
+      "To expose potential conflicts and allow informed assessment"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Transparency makes possible conflicts visible but does not itself remove them.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as to expose potential conflicts and allow informed assessment.",
+      "This choice does not fit the scenario as well as to expose potential conflicts and allow informed assessment.",
+      "Correct: Transparency makes possible conflicts visible but does not itself remove them."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-025",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Performance-linked equity compensation is intended to:",
+    "choices": [
+      "align manager rewards with owner outcomes",
+      "eliminate business risk",
+      "give creditors residual claims"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Equity-linked pay can align incentives, although design and horizon create residual risks.",
+    "incorrectChoiceExplanations": [
+      "Correct: Equity-linked pay can align incentives, although design and horizon create residual risks.",
+      "This choice does not fit the scenario as well as align manager rewards with owner outcomes.",
+      "This choice does not fit the scenario as well as align manager rewards with owner outcomes."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-026",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A long vesting period in executive pay most directly addresses:",
+    "choices": [
+      "audit independence",
+      "short-term incentive horizons",
+      "creditor seniority"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Delayed vesting can make managers bear more long-term consequences.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as short-term incentive horizons.",
+      "Correct: Delayed vesting can make managers bear more long-term consequences.",
+      "This choice does not fit the scenario as well as short-term incentive horizons."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-027",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks",
+    "supplementary": false,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Strong creditor covenants are intended primarily to:",
+    "choices": [
+      "elect every director",
+      "guarantee dividends",
+      "limit actions that could weaken creditor protection"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Covenants constrain specified borrower actions but can reduce operating flexibility.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as limit actions that could weaken creditor protection.",
+      "This choice does not fit the scenario as well as limit actions that could weaken creditor protection.",
+      "Correct: Covenants constrain specified borrower actions but can reduce operating flexibility."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-028",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Shareholder activism can improve governance by:",
+    "choices": [
+      "pressuring boards and management for change",
+      "guaranteeing superior returns",
+      "replacing all internal controls"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Engagement may improve accountability but entails cost and may pursue differing agendas.",
+    "incorrectChoiceExplanations": [
+      "Correct: Engagement may improve accountability but entails cost and may pursue differing agendas.",
+      "This choice does not fit the scenario as well as pressuring boards and management for change.",
+      "This choice does not fit the scenario as well as pressuring boards and management for change."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-029",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A dual-class structure is best evaluated as:",
+    "choices": [
+      "universally poor governance",
+      "potentially supporting stable control while weakening outside voting influence",
+      "identical to one-share-one-vote"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Its benefits and risks depend on context, control, protections, and performance.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as potentially supporting stable control while weakening outside voting influence.",
+      "Correct: Its benefits and risks depend on context, control, protections, and performance.",
+      "This choice does not fit the scenario as well as potentially supporting stable control while weakening outside voting influence."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-030",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Which mechanism best reduces audit-related conflicts?",
+    "choices": [
+      "Managers setting their own audit scope",
+      "Eliminating financial reporting",
+      "An independent audit committee recommending the external auditor"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Independent oversight supports auditor objectivity and reporting integrity.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as an independent audit committee recommending the external auditor.",
+      "This choice does not fit the scenario as well as an independent audit committee recommending the external auditor.",
+      "Correct: Independent oversight supports auditor objectivity and reporting integrity."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 2"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-031",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe potential risks of poor corporate governance and stakeholder management and benefits of effective corporate governance and stakeholder management",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Weak governance most directly raises investor concern about:",
+    "choices": [
+      "misuse of resources and unreliable oversight",
+      "guaranteed lower taxes",
+      "automatic share dilution"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Poor controls and accountability can permit value-destroying decisions.",
+    "incorrectChoiceExplanations": [
+      "Correct: Poor controls and accountability can permit value-destroying decisions.",
+      "This choice does not fit the scenario as well as misuse of resources and unreliable oversight.",
+      "This choice does not fit the scenario as well as misuse of resources and unreliable oversight."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-032",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe potential risks of poor corporate governance and stakeholder management and benefits of effective corporate governance and stakeholder management",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Effective governance may reduce a company’s cost of debt because it can:",
+    "choices": [
+      "make debt residual",
+      "protect creditor rights and reduce perceived default risk",
+      "remove all operating volatility"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Creditor protections and oversight may reduce required return by lowering perceived risk.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as protect creditor rights and reduce perceived default risk.",
+      "Correct: Creditor protections and oversight may reduce required return by lowering perceived risk.",
+      "This choice does not fit the scenario as well as protect creditor rights and reduce perceived default risk."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-033",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe potential risks of poor corporate governance and stakeholder management and benefits of effective corporate governance and stakeholder management",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Which is a likely benefit of transparent reporting and controls?",
+    "choices": [
+      "Guaranteed earnings growth",
+      "Elimination of competition",
+      "Lower information risk and more credible decisions"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Reliable information can improve monitoring and capital-provider confidence.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as lower information risk and more credible decisions.",
+      "This choice does not fit the scenario as well as lower information risk and more credible decisions.",
+      "Correct: Reliable information can improve monitoring and capital-provider confidence."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-034",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe potential risks of poor corporate governance and stakeholder management and benefits of effective corporate governance and stakeholder management",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "A governance system adds many approvals and delays urgent decisions. This illustrates:",
+    "choices": [
+      "a governance mechanism can impose cost and reduce agility",
+      "all controls destroy value",
+      "board independence is unnecessary"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Governance benefits must be weighed against delay, complexity, and compliance cost.",
+    "incorrectChoiceExplanations": [
+      "Correct: Governance benefits must be weighed against delay, complexity, and compliance cost.",
+      "This choice does not fit the scenario as well as a governance mechanism can impose cost and reduce agility.",
+      "This choice does not fit the scenario as well as a governance mechanism can impose cost and reduce agility."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-035",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe potential risks of poor corporate governance and stakeholder management and benefits of effective corporate governance and stakeholder management",
+    "supplementary": false,
+    "difficulty": "easy",
+    "estimatedSeconds": 60,
+    "stem": "Why is no governance structure universally optimal?",
+    "choices": [
+      "Every company has identical conflicts",
+      "Issuer size, ownership, industry, law, and risks differ",
+      "Governance never affects value"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Mechanism effectiveness depends on context and residual trade-offs.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as issuer size, ownership, industry, law, and risks differ.",
+      "Correct: Mechanism effectiveness depends on context and residual trade-offs.",
+      "This choice does not fit the scenario as well as issuer size, ownership, industry, law, and risks differ."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-036",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe potential risks of poor corporate governance and stakeholder management and benefits of effective corporate governance and stakeholder management",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Poor succession planning creates which risk?",
+    "choices": [
+      "automatic creditor recovery",
+      "higher board diversity",
+      "leadership disruption and strategic discontinuity"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "A leadership gap can impair execution and confidence.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as leadership disruption and strategic discontinuity.",
+      "This choice does not fit the scenario as well as leadership disruption and strategic discontinuity.",
+      "Correct: A leadership gap can impair execution and confidence."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-037",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe potential risks of poor corporate governance and stakeholder management and benefits of effective corporate governance and stakeholder management",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Effective stakeholder management can support value by:",
+    "choices": [
+      "strengthening relationships, resilience, and operating continuity",
+      "guaranteeing agreement among all groups",
+      "eliminating contractual claims"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Managed relationships can reduce disruption without erasing conflict.",
+    "incorrectChoiceExplanations": [
+      "Correct: Managed relationships can reduce disruption without erasing conflict.",
+      "This choice does not fit the scenario as well as strengthening relationships, resilience, and operating continuity.",
+      "This choice does not fit the scenario as well as strengthening relationships, resilience, and operating continuity."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-038",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe potential risks of poor corporate governance and stakeholder management and benefits of effective corporate governance and stakeholder management",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Weak internal controls most directly increase the risk of:",
+    "choices": [
+      "excess shareholder voting",
+      "error, fraud, and unreliable reporting",
+      "lower product complexity"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Controls help prevent and detect reporting and operational failures.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as error, fraud, and unreliable reporting.",
+      "Correct: Controls help prevent and detect reporting and operational failures.",
+      "This choice does not fit the scenario as well as error, fraud, and unreliable reporting."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-039",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe potential risks of poor corporate governance and stakeholder management and benefits of effective corporate governance and stakeholder management",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Board diversity of relevant experience may benefit an issuer through:",
+    "choices": [
+      "automatic independence of every director",
+      "guaranteed consensus",
+      "broader perspectives and stronger challenge"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Relevant diversity can improve deliberation but does not guarantee outcomes.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as broader perspectives and stronger challenge.",
+      "This choice does not fit the scenario as well as broader perspectives and stronger challenge.",
+      "Correct: Relevant diversity can improve deliberation but does not guarantee outcomes."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-040",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe potential risks of poor corporate governance and stakeholder management and benefits of effective corporate governance and stakeholder management",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "A controlling owner faces no meaningful challenge from the board. The key residual risk is:",
+    "choices": [
+      "minority shareholder expropriation",
+      "too much creditor control",
+      "excess disclosure"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Unconstrained control may permit related-party benefits or unequal treatment.",
+    "incorrectChoiceExplanations": [
+      "Correct: Unconstrained control may permit related-party benefits or unequal treatment.",
+      "This choice does not fit the scenario as well as minority shareholder expropriation.",
+      "This choice does not fit the scenario as well as minority shareholder expropriation."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-041",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe potential risks of poor corporate governance and stakeholder management and benefits of effective corporate governance and stakeholder management",
+    "supplementary": false,
+    "difficulty": "medium",
+    "estimatedSeconds": 75,
+    "stem": "Good governance can improve access to capital when investors perceive:",
+    "choices": [
+      "no need for returns",
+      "lower agency and information risk",
+      "guaranteed liquidity"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Confidence in oversight and disclosure can reduce risk premiums and widen financing access.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as lower agency and information risk.",
+      "Correct: Confidence in oversight and disclosure can reduce risk premiums and widen financing access.",
+      "This choice does not fit the scenario as well as lower agency and information risk."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-042",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe potential risks of poor corporate governance and stakeholder management and benefits of effective corporate governance and stakeholder management",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "A strict covenant prevents a valuable investment. This is a limitation because:",
+    "choices": [
+      "covenants are equity distributions",
+      "the board loses legal identity",
+      "creditor protection can constrain beneficial flexibility"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Risk mitigation can carry opportunity costs.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as creditor protection can constrain beneficial flexibility.",
+      "This choice does not fit the scenario as well as creditor protection can constrain beneficial flexibility.",
+      "Correct: Risk mitigation can carry opportunity costs."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-043",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe potential risks of poor corporate governance and stakeholder management and benefits of effective corporate governance and stakeholder management",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Which finding is strongest evidence of governance weakness?",
+    "choices": [
+      "Repeated undisclosed related-party transactions",
+      "an independent audit committee",
+      "long-term incentive vesting"
+    ],
+    "correctChoiceIndex": 0,
+    "explanation": "Hidden conflicts indicate deficient transparency and oversight.",
+    "incorrectChoiceExplanations": [
+      "Correct: Hidden conflicts indicate deficient transparency and oversight.",
+      "This choice does not fit the scenario as well as repeated undisclosed related-party transactions.",
+      "This choice does not fit the scenario as well as repeated undisclosed related-party transactions."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-044",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe potential risks of poor corporate governance and stakeholder management and benefits of effective corporate governance and stakeholder management",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "Effective governance should be judged primarily by whether it:",
+    "choices": [
+      "uses the maximum number of committees",
+      "manages material conflicts and supports durable issuer performance",
+      "copies another issuer’s structure"
+    ],
+    "correctChoiceIndex": 1,
+    "explanation": "Outcomes and context matter more than a universal checklist.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as manages material conflicts and supports durable issuer performance.",
+      "Correct: Outcomes and context matter more than a universal checklist.",
+      "This choice does not fit the scenario as well as manages material conflicts and supports durable issuer performance."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 3"
+    ]
+  },
+  {
+    "id": "ci-lm3-q-045",
+    "lessonId": "corporate-issuers-03-corporate-governance-conflicts-mechanisms-risks-and-benefits",
+    "topicId": "corporate-issuers",
+    "officialModuleId": "CI-LM3",
+    "officialLearningOutcome": "describe potential risks of poor corporate governance and stakeholder management and benefits of effective corporate governance and stakeholder management",
+    "supplementary": true,
+    "difficulty": "hard",
+    "estimatedSeconds": 75,
+    "stem": "What is the best investor conclusion about a governance mechanism?",
+    "choices": [
+      "Assume adoption eliminates the targeted risk",
+      "Treat every mechanism as cosmetic",
+      "Assess intended benefit, residual risk, limitation, and issuer context"
+    ],
+    "correctChoiceIndex": 2,
+    "explanation": "Explainable evaluation recognizes both risk mitigation and remaining trade-offs.",
+    "incorrectChoiceExplanations": [
+      "This choice does not fit the scenario as well as assess intended benefit, residual risk, limitation, and issuer context.",
+      "This choice does not fit the scenario as well as assess intended benefit, residual risk, limitation, and issuer context.",
+      "Correct: Explainable evaluation recognizes both risk mitigation and remaining trade-offs."
+    ],
+    "relatedFormulaIds": [],
+    "tags": [
+      "corporate issuers",
+      "LM3",
+      "LOS 3"
+    ]
+  }
+]
